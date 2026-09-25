@@ -1,0 +1,25 @@
+id: ch-sr-734-71-stromvv
+title: "Stromversorgungsverordnung (StromVV)"
+title_en: "Electricity Supply Ordinance"
+short_title: StromVV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 734.71"
+date: 2008-03-14
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. Januar 2026 geprüft (via LexFind). Enthält u. a. Ausführungsbestimmungen zu den lokalen Elektrizitätsgemeinschaften."
+languages: [de, fr, it]
+topics: [grid, tariffs, market, self_consumption, storage]
+summary_de: "Die Verordnung führt das Stromversorgungsgesetz aus, insbesondere zu Netznutzung, anrechenbaren Kosten, Tarifen und Messwesen. Seit 2026 enthält sie auch Ausführungsbestimmungen zu den lokalen Elektrizitätsgemeinschaften."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2008/226/de"
+alternate_urls:
+  - label: "LexFind"
+    url: "https://www.lexfind.ch/tolv/259021/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg]
+added: 2026-09-25
+last_checked: 2026-09-25

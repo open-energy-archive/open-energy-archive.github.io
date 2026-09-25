@@ -1,0 +1,21 @@
+id: ch-vse-bd-leg-2025
+title: "Branchenempfehlung Lokale Elektrizitätsgemeinschaften (LEG) – BD LEG – CH 2025 V2"
+title_en: "Industry Recommendation on Local Electricity Communities (LEG)"
+doc_type: industry_standard
+jurisdiction: CH
+issuer: "Verband Schweizerischer Elektrizitätsunternehmen VSE"
+reference: "BD LEG – CH 2025 V2"
+date: 2025-06-27
+status: non_binding
+status_note: "Branchenempfehlung, rechtlich nicht verbindlich. Auf die seit 1.1.2026 geltenden Regeln von StromVG/StromVV abgestimmt. Die verlinkte Kopie wird von Swissolar bereitgestellt."
+languages: [de]
+topics: [self_consumption, grid, tariffs, storage]
+summary_de: "Die Empfehlung beschreibt den technischen und administrativen Rahmen für lokale Elektrizitätsgemeinschaften, die lokal erzeugten Strom über das Verteilnetz zu einem reduzierten Netznutzungstarif austauschen. Sie behandelt Gründung, Messung, Abrechnung, Speicher und Vergütung."
+source_url: "https://www.swissolar.ch/01_wissen/wirtschaftlichkeit/zev/20241120-be-leg.pdf"
+rights:
+  status: copyrighted
+  basis: "© VSE, alle Rechte vorbehalten – nur Metadaten und Link."
+  mirror_allowed: false
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-09-25
+last_checked: 2026-09-25

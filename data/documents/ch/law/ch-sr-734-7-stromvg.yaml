@@ -1,0 +1,25 @@
+id: ch-sr-734-7-stromvg
+title: "Bundesgesetz über die Stromversorgung (Stromversorgungsgesetz, StromVG)"
+title_en: "Federal Act on Electricity Supply (Electricity Supply Act)"
+short_title: StromVG
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "SR 734.7"
+date: 2007-03-23
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. April 2026 geprüft. Durch den Mantelerlass (AS 2024 679) geändert: Hauptteil seit 1.1.2025, lokale Elektrizitätsgemeinschaften (Art. 17d/17e) seit 1.1.2026, weitere Bestimmungen seit 1.4.2026."
+languages: [de, fr, it]
+topics: [grid, market, tariffs, supply_security, self_consumption]
+summary_de: "Das Gesetz regelt die Stromversorgung in der Schweiz, darunter Netzzugang, Netznutzung, Grundversorgung und die teilweise Marktöffnung. Seit dem Mantelerlass regelt es auch die lokalen Elektrizitätsgemeinschaften und weitere Vorgaben zu Tarifen und Messwesen."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2007/418/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.4.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260401/de/pdf-a/fedlex-data-admin-ch-eli-cc-2007-418-20260401-de-pdf-a-1.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-as-2024-679-mantelerlass, ch-sr-734-71-stromvv]
+added: 2026-09-25
+last_checked: 2026-09-25

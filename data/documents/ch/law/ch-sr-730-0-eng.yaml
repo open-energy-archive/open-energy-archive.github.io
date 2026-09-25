@@ -1,0 +1,25 @@
+id: ch-sr-730-0-eng
+title: "Energiegesetz (EnG)"
+title_en: "Energy Act"
+short_title: EnG
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "SR 730.0"
+date: 2016-09-30
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. Januar 2026 geprüft. Durch den Mantelerlass (AS 2024 679) geändert, in Kraft seit 1.1.2025. Art. 2 enthält die Ausbau-Richtwerte für erneuerbare Energien (ohne Wasserkraft: 35 000 GWh bis 2035, 45 000 GWh bis 2050)."
+languages: [de, fr, it]
+topics: [renewables, energy_efficiency, subsidies, self_consumption, supply_security]
+summary_de: "Das Energiegesetz soll eine ausreichende, sichere, wirtschaftliche und umweltverträgliche Energieversorgung sichern und den Umstieg auf erneuerbare Energien voranbringen. Es enthält Richtwerte für den Ausbau, Regeln zu Eigenverbrauch und Förderung sowie Vorgaben zur Energieeffizienz."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2017/762/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.1.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/762/20260101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2017-762-20260101-de-pdf-a-3.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-as-2024-679-mantelerlass, ch-sr-730-01-env, ch-sr-730-03-enfv]
+added: 2026-09-25
+last_checked: 2026-09-25

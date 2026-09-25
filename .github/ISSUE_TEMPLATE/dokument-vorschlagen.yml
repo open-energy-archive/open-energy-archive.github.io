@@ -1,0 +1,25 @@
+name: Dokument vorschlagen
+description: Ein Dokument für das Archiv vorschlagen
+labels: [vorschlag]
+body:
+  - type: input
+    id: url
+    attributes: { label: Link zur Quelle, placeholder: "https://…" }
+    validations: { required: true }
+  - type: input
+    id: title
+    attributes: { label: Titel des Dokuments }
+    validations: { required: true }
+  - type: dropdown
+    id: jurisdiction
+    attributes: { label: Rechtsraum, options: [Schweiz, Deutschland, Österreich, Liechtenstein, EU, International, Andere] }
+    validations: { required: true }
+  - type: dropdown
+    id: type
+    attributes: { label: Art des Dokuments, options: [Gesetz / Verordnung, Gerichtsentscheid, Behördenentscheid, Weisung / Leitfaden, Bericht / Studie, Vertrag / Mustervertrag, Branchendokument, Anderes] }
+  - type: textarea
+    id: why
+    attributes: { label: Warum ist das Dokument relevant?, description: "1–2 Sätze genügen." }
+  - type: dropdown
+    id: rights
+    attributes: { label: Darf das Dokument weiterverbreitet werden?, options: ["Amtliches Werk", "Offene Lizenz", "Ich bin Rechteinhaber/in und gebe es frei", "Weiss nicht"] }

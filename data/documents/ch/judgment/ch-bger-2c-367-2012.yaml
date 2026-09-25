@@ -1,0 +1,19 @@
+id: ch-bger-2c-367-2012
+title: "Urteil des Bundesgerichts 2C_367/2012 vom 20. November 2012 (swissgrid ag gegen ElCom) – Tarife Netzebene 1 und Systemdienstleistungen"
+title_en: "Federal Supreme Court 2C_367/2012 – tariffs for grid level 1 and ancillary services"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "2C_367/2012"
+date: 2012-11-20
+status: final
+languages: [de]
+topics: [grid, tariffs, supply_security]
+summary_de: "Das Bundesgericht bestätigte die vorsorgliche Senkung des Tarifs für Systemdienstleistungen durch die ElCom von 0,90 auf 0,77 Rp./kWh. Der Entscheid betrifft die Tarifierung auf der Übertragungsnetzebene."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F20-11-2012-2C_367-2012&lang=de&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+added: 2026-09-25
+last_checked: 2026-09-25

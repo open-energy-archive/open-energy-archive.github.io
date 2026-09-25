@@ -1,0 +1,33 @@
+# Vorlage für einen neuen Eintrag.
+# Speichern unter: data/documents/<rechtsraum>/<typ>/<id>.yaml  (z. B. data/documents/ch/decision/ch-elcom-211-00506.yaml)
+# Erlaubte Werte für doc_type, jurisdiction, status, topics, languages, rights.status: taxonomy/taxonomy.yaml
+
+id: ch-beispiel-kurzname            # = Dateiname ohne .yaml, nie mehr ändern
+title: "Originaltitel des Dokuments"
+title_en: "English title (optional)"
+short_title: Kurzform               # optional, z. B. StromVG
+doc_type: decision
+jurisdiction: CH
+# subdivision: CH-ZH                # optional: Kanton / Bundesland
+issuer: "Herausgebende Behörde oder Organisation"
+reference: "Geschäfts-Nr., SR-Nr., Aktenzeichen …"
+date: 2026-01-31
+# date_precision: month             # nur wenn der Tag unbekannt ist
+status: final
+status_note: "Optional: Stand, Inkrafttreten, Rechtsmittel, Besonderheiten."
+languages: [de]
+topics: [grid, tariffs]
+summary_de: "1–3 neutrale Sätze in eigenen Worten: Worum geht es, was wird geregelt oder entschieden?"
+source_url: "https://…"
+# alternate_urls:
+#   - label: "PDF"
+#     url: "https://…"
+rights:
+  status: official_work             # official_work | open_license | permission | unclear | copyrighted
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+# file: files/ch/ch-beispiel-kurzname.pdf   # nur wenn gespiegelt
+# related: [ch-sr-734-7-stromvg]
+added: 2026-09-25
+last_checked: 2026-09-25
+# contributors: [github-benutzername]

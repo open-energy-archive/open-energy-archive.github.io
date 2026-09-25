@@ -1,0 +1,12 @@
+name: Rechte / Entfernung
+description: Als Rechteinhaber die Entfernung eines Dokuments verlangen
+labels: [rechte]
+body:
+  - type: input
+    id: doc
+    attributes: { label: Betroffenes Dokument (ID oder Link) }
+    validations: { required: true }
+  - type: textarea
+    id: reason
+    attributes: { label: Begründung, description: "Welche Rechte werden verletzt? Wir entfernen gespiegelte Dateien bei begründeter Anfrage umgehend." }
+    validations: { required: true }

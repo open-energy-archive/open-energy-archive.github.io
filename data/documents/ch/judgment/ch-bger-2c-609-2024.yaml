@@ -1,0 +1,21 @@
+id: ch-bger-2c-609-2024
+title: "Urteil des Bundesgerichts 2C_609/2024 vom 3. Dezember 2025 (UVEK gegen Energie Wasser Bern) – Überprüfung der Elektrizitätstarife 2009 und 2010"
+title_en: "Federal Supreme Court 2C_609/2024 – review of electricity tariffs 2009 and 2010"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "2C_609/2024"
+date: 2025-12-03
+status: final
+status_note: "Zur amtlichen Publikation vorgesehen (nicht abschliessend geprüft)."
+languages: [de]
+topics: [tariffs, market, grid]
+summary_de: "Das Bundesgericht entschied, dass Gewinnablieferungen an das Gemeinwesen über den regulierten Gewinn hinaus nicht dem Energietarif, sondern den Abgaben und Leistungen an Gemeinwesen im Netztarif zuzuordnen sind. Abgaben auf der Energie sind nur zulässig, wenn sie direkt mit der Energieproduktion zusammenhängen."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F03-12-2025-2C_609-2024&lang=de&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-elcom-weisung-7-2025]
+added: 2026-09-25
+last_checked: 2026-09-25

@@ -1,0 +1,21 @@
+id: ch-bfe-energieperspektiven-2050plus
+title: "Energieperspektiven 2050+ – Zusammenfassung der wichtigsten Ergebnisse"
+title_en: "Energy Perspectives 2050+ – Summary of Main Results"
+doc_type: report
+jurisdiction: CH
+issuer: "Bundesamt für Energie (BFE); Autoren: Prognos AG, TEP Energy GmbH, Infras AG, Ecoplan AG"
+reference: "BFE pubdb 10320"
+date: 2020-11-01
+date_precision: month
+status: non_binding
+status_note: "Szenariostudie, nicht verbindlich."
+languages: [de]
+topics: [renewables, supply_security, energy_efficiency]
+summary_de: "Der Bericht zeigt in Szenarien, wie die Schweiz bis 2050 mit Elektrifizierung, mehr Effizienz und vorhandenen Technologien klimaneutral werden kann. Er beziffert die nötigen Mehrinvestitionen auf rund 109 Mrd. Franken, denen Einsparungen bei den Energiekosten gegenüberstehen."
+source_url: "https://pubdb.bfe.admin.ch/de/publication/download/10320"
+rights:
+  status: unclear
+  basis: "Im Auftrag des BFE von Dritten verfasst; Weiterverbreitung nicht ausdrücklich geregelt – nur Verlinkung, bis geklärt."
+  mirror_allowed: false
+added: 2026-09-25
+last_checked: 2026-09-25

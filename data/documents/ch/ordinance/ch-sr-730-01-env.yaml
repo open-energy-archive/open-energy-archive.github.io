@@ -1,0 +1,25 @@
+id: ch-sr-730-01-env
+title: "Energieverordnung (EnV)"
+title_en: "Energy Ordinance"
+short_title: EnV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 730.01"
+date: 2017-11-01
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. Januar 2026 geprüft. Änderungen zur Umsetzung des Mantelerlasses seit 1.1.2025 (Herkunftsnachweise, Eigenverbrauch/ZEV, Abnahme und Vergütung)."
+languages: [de, fr, it]
+topics: [renewables, self_consumption, tariffs, energy_efficiency]
+summary_de: "Die Verordnung führt das Energiegesetz aus, unter anderem zu Herkunftsnachweisen, Stromkennzeichnung und Netzzuschlag. Sie regelt auch Abnahme und Vergütung durch die Netzbetreiber sowie den Eigenverbrauch und den Zusammenschluss zum Eigenverbrauch (Art. 14–18)."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2017/763/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.1.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2017-763-20260101-de-pdf-a-3.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-09-25
+last_checked: 2026-09-25

@@ -1,0 +1,69 @@
+# Kontrolliertes Vokabular des Archivs.
+# Neue Werte nur per Pull Request mit Begründung (siehe GOVERNANCE.md).
+
+doc_types:
+  law:               { de: "Gesetz",                    en: "Law" }
+  ordinance:         { de: "Verordnung",                en: "Ordinance" }
+  eu_legislation:    { de: "EU-Rechtsakt",              en: "EU legislation" }
+  treaty:            { de: "Staatsvertrag",             en: "Treaty" }
+  judgment:          { de: "Gerichtsentscheid",         en: "Court decision" }
+  decision:          { de: "Behördenentscheid",         en: "Regulatory decision" }
+  guideline:         { de: "Weisung / Leitfaden",       en: "Guidance" }
+  report:            { de: "Bericht / Studie",          en: "Report / study" }
+  contract_template: { de: "Mustervertrag",             en: "Contract template" }
+  contract:          { de: "Vertrag (veröffentlicht)",  en: "Contract (published)" }
+  industry_standard: { de: "Branchendokument",          en: "Industry document" }
+  technical_standard: { de: "Technische Norm",          en: "Technical standard" }
+  article:           { de: "Fachartikel",               en: "Article" }
+  parliamentary:     { de: "Parlamentsmaterialien",     en: "Parliamentary materials" }
+
+jurisdictions:
+  CH: { de: "Schweiz",       en: "Switzerland" }
+  DE: { de: "Deutschland",   en: "Germany" }
+  AT: { de: "Österreich",    en: "Austria" }
+  LI: { de: "Liechtenstein", en: "Liechtenstein" }
+  EU: { de: "Europäische Union", en: "European Union" }
+  INT: { de: "International", en: "International" }
+
+topics:
+  grid:              { de: "Netz & Netzanschluss",      en: "Grid & connection" }
+  market:            { de: "Strommarkt",                en: "Electricity market" }
+  tariffs:           { de: "Tarife & Entgelte",         en: "Tariffs & charges" }
+  renewables:        { de: "Erneuerbare Energien",      en: "Renewables" }
+  solar:             { de: "Photovoltaik",              en: "Solar PV" }
+  wind:              { de: "Windenergie",               en: "Wind" }
+  hydro:             { de: "Wasserkraft",               en: "Hydropower" }
+  storage:           { de: "Speicher",                  en: "Storage" }
+  self_consumption:  { de: "Eigenverbrauch, ZEV & LEG", en: "Self-consumption & communities" }
+  subsidies:         { de: "Förderung",                 en: "Subsidies" }
+  supply_security:   { de: "Versorgungssicherheit",     en: "Security of supply" }
+  permitting:        { de: "Bewilligung & Raumplanung", en: "Permitting & planning" }
+  energy_efficiency: { de: "Energieeffizienz",          en: "Energy efficiency" }
+  heat:              { de: "Wärme",                     en: "Heat" }
+  mobility:          { de: "E-Mobilität",               en: "E-mobility" }
+  hydrogen:          { de: "Wasserstoff",               en: "Hydrogen" }
+  cross_border:      { de: "Grenzüberschreitend",       en: "Cross-border" }
+  ppa:               { de: "Stromabnahmeverträge (PPA)", en: "PPAs" }
+
+statuses:
+  in_force:     { de: "In Kraft",           en: "In force" }
+  repealed:     { de: "Aufgehoben",         en: "Repealed" }
+  superseded:   { de: "Ersetzt",            en: "Superseded" }
+  draft:        { de: "Entwurf",            en: "Draft" }
+  final:        { de: "Rechtskräftig / abgeschlossen", en: "Final" }
+  pending:      { de: "Hängig / angefochten", en: "Pending / appealed" }
+  non_binding:  { de: "Nicht verbindlich",  en: "Non-binding" }
+
+rights:
+  official_work: { de: "Amtliches Werk (frei)",        en: "Official work (free)" }
+  open_license:  { de: "Offene Lizenz",                en: "Open licence" }
+  permission:    { de: "Freigabe durch Rechteinhaber", en: "Released by rights holder" }
+  copyrighted:   { de: "Urheberrechtlich geschützt – nur Link", en: "Copyrighted – link only" }
+  unclear:       { de: "Ungeklärt – nur Link",         en: "Unclear – link only" }
+
+languages:
+  de: Deutsch
+  fr: Französisch
+  it: Italienisch
+  rm: Rätoromanisch
+  en: Englisch

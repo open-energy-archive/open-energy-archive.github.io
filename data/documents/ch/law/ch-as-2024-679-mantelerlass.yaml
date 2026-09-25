@@ -1,0 +1,27 @@
+id: ch-as-2024-679-mantelerlass
+title: "Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien (Mantelerlass)"
+title_en: "Federal Act on a Secure Electricity Supply from Renewable Energy"
+short_title: Mantelerlass
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "AS 2024 679 (Referendumsvorlage BBl 2023 2301)"
+date: 2023-09-29
+status: in_force
+status_note: "In der Volksabstimmung vom 9.6.2024 angenommen. Grossteil in Kraft seit 1.1.2025; Messwesen, Netztarife, Flexibilität und lokale Elektrizitätsgemeinschaften seit 1.1.2026. Ändert EnG, StromVG, Raumplanungs- und Waldgesetz (Änderungserlass; massgebend sind die konsolidierten Fassungen)."
+languages: [de, fr, it]
+topics: [renewables, supply_security, self_consumption, grid, tariffs, permitting, storage]
+summary_de: "Das Gesetz ändert Energiegesetz, Stromversorgungsgesetz, Raumplanungsgesetz und Waldgesetz, um den Ausbau der erneuerbaren Stromproduktion und die Versorgungssicherheit zu stärken. Unter anderem führt es die lokalen Elektrizitätsgemeinschaften ein und legt verbindliche Ausbau-Richtwerte fest."
+source_url: "https://www.fedlex.admin.ch/eli/oc/2024/679/de"
+alternate_urls:
+  - label: "PDF (AS 2024 679)"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2024/679/de/pdf-a/fedlex-data-admin-ch-eli-oc-2024-679-de-pdf-a.pdf"
+  - label: "Referendumsvorlage BBl 2023 2301"
+    url: "https://www.fedlex.admin.ch/eli/fga/2023/2301/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-734-7-stromvg]
+added: 2026-09-25
+last_checked: 2026-09-25

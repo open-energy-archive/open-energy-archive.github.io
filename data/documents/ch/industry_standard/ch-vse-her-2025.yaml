@@ -1,0 +1,21 @@
+id: ch-vse-her-2025
+title: "Handbuch Umsetzung der Eigenverbrauchsregelung – HER – CH 2025"
+title_en: "Handbook on Implementing the Self-Consumption Rules"
+doc_type: industry_standard
+jurisdiction: CH
+issuer: "Verband Schweizerischer Elektrizitätsunternehmen VSE"
+reference: "HER – CH 2025"
+date: 2025-02-10
+status: non_binding
+status_note: "Branchendokument zu ZEV und vZEV. Die verlinkte Kopie wird von Swissolar bereitgestellt."
+languages: [de]
+topics: [self_consumption, solar, tariffs]
+summary_de: "Das Handbuch beschreibt, wie Netzbetreiber und Produzenten die Eigenverbrauchsregelungen einschliesslich Zusammenschluss zum Eigenverbrauch (ZEV) und virtuellem ZEV umsetzen. Es behandelt Messung, Abrechnung und Abläufe zwischen den Beteiligten."
+source_url: "https://www.swissolar.ch/01_wissen/wirtschaftlichkeit/zev/handbuch-eigenverbrauchsregelung-her-2025.pdf"
+rights:
+  status: copyrighted
+  basis: "© VSE – nur Metadaten und Link."
+  mirror_allowed: false
+related: [ch-sr-730-01-env, ch-bfe-leitfaden-eigenverbrauch-v3]
+added: 2026-09-25
+last_checked: 2026-09-25

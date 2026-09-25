@@ -1,0 +1,12 @@
+name: Fehler melden
+description: Falsche Angabe, veraltete Fassung oder toter Link
+labels: [korrektur]
+body:
+  - type: input
+    id: doc
+    attributes: { label: Betroffenes Dokument (ID oder Link) }
+    validations: { required: true }
+  - type: textarea
+    id: problem
+    attributes: { label: Was ist falsch?, description: "Mit Quelle für die korrekte Angabe, wenn möglich." }
+    validations: { required: true }

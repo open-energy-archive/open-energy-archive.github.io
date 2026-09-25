@@ -1,0 +1,21 @@
+id: ch-elcom-weisung-5-2025
+title: "Weisung 5/2025 der ElCom – Transparente und vergleichbare Rechnungsstellung"
+title_en: "ElCom Directive 5/2025 – Transparent and comparable billing"
+doc_type: guideline
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "Weisung 5/2025"
+date: 2025-05-06
+status: in_force
+status_note: "Ersetzt die Weisung von 2014 zum gleichen Thema. Gilt grösstenteils ab Tarifjahr 2025, Regeln zu Messentgelten ab 2026."
+languages: [de]
+topics: [tariffs, grid, market]
+summary_de: "Die Weisung setzt die Vorgaben des revidierten StromVG zur Rechnungsstellung um und verlangt, dass Netznutzung, Energie, Abgaben und weitere Positionen einzeln ausgewiesen werden. Sie regelt auch Angaben zu dynamischen Tarifen und den Datenzugang über intelligente Messsysteme."
+source_url: "https://www.elcom.admin.ch/dam/elcom/de/dokumente/Weisungen/5-2025-transparente-vergleichbare-rechnungsstellung.pdf.download.pdf/5-2025%20-%20Transparente%20und%20vergleichbare%20Rechnungsstellung.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg]
+added: 2026-09-25
+last_checked: 2026-09-25

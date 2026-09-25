@@ -1,0 +1,22 @@
+id: ch-bfe-leitfaden-eigenverbrauch-v3
+title: "Leitfaden Eigenverbrauch (Version 3.0)"
+title_en: "Self-Consumption Guide (version 3.0)"
+doc_type: guideline
+jurisdiction: CH
+issuer: "EnergieSchweiz / Bundesamt für Energie (BFE)"
+reference: "BFE pubdb 9329"
+date: 2023-05-01
+date_precision: month
+status: non_binding
+status_note: "Stand Mai 2023, vor Inkrafttreten des Mantelerlasses. vZEV und LEG (seit 2025/2026) sind möglicherweise nicht abgedeckt. Prüfen, ob eine neuere Fassung existiert."
+languages: [de]
+topics: [self_consumption, solar, tariffs]
+summary_de: "Der Leitfaden erklärt, wie Eigentümer und Mieter einen Zusammenschluss zum Eigenverbrauch (ZEV) gründen und betreiben können. Er behandelt Rechtsgrundlagen, Mieterschutz, Preismodelle und technische Anforderungen und enthält Vorlagen und Rechenbeispiele."
+source_url: "https://pubdb.bfe.admin.ch/de/publication/download/9329"
+rights:
+  status: unclear
+  basis: "Behördenpublikation; Weiterverbreitung nicht ausdrücklich geregelt – nur Verlinkung, bis geklärt."
+  mirror_allowed: false
+related: [ch-sr-730-01-env]
+added: 2026-09-25
+last_checked: 2026-09-25

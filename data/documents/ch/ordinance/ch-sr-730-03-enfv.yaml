@@ -1,0 +1,25 @@
+id: ch-sr-730-03-enfv
+title: "Verordnung über die Förderung der Produktion von Elektrizität aus erneuerbaren Energien (Energieförderungsverordnung, EnFV)"
+title_en: "Ordinance on the Promotion of Electricity Production from Renewable Energy"
+short_title: EnFV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)"
+reference: "SR 730.03"
+date: 2017-11-01
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft."
+languages: [de, fr, it]
+topics: [subsidies, renewables, solar, wind, hydro]
+summary_de: "Die Verordnung regelt die Förderinstrumente für Strom aus erneuerbaren Energien, darunter Einspeisevergütung, gleitende Marktprämie, Einmalvergütung, Investitions- und Projektierungsbeiträge. Sie legt Voraussetzungen, Ansätze und Verfahren fest."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2017/766/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.7.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/766/20260701/de/pdf-a/fedlex-data-admin-ch-eli-cc-2017-766-20260701-de-pdf-a-1.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-09-25
+last_checked: 2026-09-25

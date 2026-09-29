@@ -95,3 +95,16 @@ pre { background: var(--surface); border: 1px solid var(--line); padding: 12px; 
   .filters { grid-template-columns: 1fr 1fr; } .filters label:first-child { grid-column: 1 / -1; }
   .card-meta .date { margin-left: 0; width: 100%; }
 }
+
+.content-body { max-width: 76ch; margin-top: 32px; border-top: 1px solid var(--line); padding-top: 8px; }
+.content-body h2 { font-family: var(--serif); font-size: 1.5rem; margin-top: 40px; }
+.content-body h3 { font-size: 1.1rem; margin-top: 28px; } .content-body h4 { font-size: 1rem; margin: 20px 0 6px; }
+.content-body hr { border: 0; border-top: 1px solid var(--line); margin: 36px 0; }
+.content-body li.sub { margin-left: 1.4em; list-style: none; }
+.explain { background: var(--bg); border-left: 3px solid var(--accent); border-radius: 0 8px 8px 0; padding: 4px 14px; margin: 14px 0; font-size: .93rem; color: var(--muted); }
+.explain p { margin: 8px 0; }
+.table-wrap { overflow-x: auto; margin: 12px 0; }
+table { border-collapse: collapse; width: 100%; font-size: .92rem; }
+th, td { text-align: left; vertical-align: top; padding: 8px 10px; border-bottom: 1px solid var(--line); }
+th { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
+.prose a, .content-body a { overflow-wrap: anywhere; }

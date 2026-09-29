@@ -1,6 +1,6 @@
 {
   "name": "open-energy-archive",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "description": "Offenes Archiv für Dokumente zu Elektrizität und Energie",
   "type": "module",
@@ -9,11 +9,13 @@
     "validate": "node scripts/validate.mjs",
     "build": "node scripts/validate.mjs && node scripts/build-site.mjs && pagefind --site dist",
     "check-links": "node scripts/check-links.mjs",
-    "serve": "npx http-server dist -p 8080 -c-1"
+    "serve": "npx http-server dist -p 8080 -c-1",
+    "docx": "node scripts/build-docx.mjs"
   },
   "devDependencies": {
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
+    "docx": "^9.8.1",
     "js-yaml": "^4.1.0",
     "pagefind": "^1.5.2"
   }

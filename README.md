@@ -9,7 +9,7 @@ Gesetze, Verordnungen, Gerichts- und Behördenentscheide, Leitfäden, Studien un
 
 | Phase | Raum | Status |
 |---|---|---|
-| 1 | Schweiz | 🟢 im Aufbau (16 Dokumente) |
+| 1 | Schweiz | 🟢 im Aufbau (18 Einträge, davon 1 eigener Mustervertrag) |
 | 2 | Deutschland, Österreich, Liechtenstein | ⚪ geplant |
 | 3 | EU und englischsprachiger Raum | ⚪ geplant |
 | 4 | Weltweit | ⚪ geplant |

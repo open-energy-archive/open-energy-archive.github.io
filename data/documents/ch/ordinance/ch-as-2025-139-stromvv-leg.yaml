@@ -1,0 +1,25 @@
+id: ch-as-2025-139-stromvv-leg
+title: "Stromversorgungsverordnung (StromVV), Änderung vom 19. Februar 2025 – u. a. lokale Elektrizitätsgemeinschaften (Art. 19e–19h)"
+title_en: "Amendment of the Electricity Supply Ordinance of 19 February 2025 – incl. local electricity communities"
+short_title: AS 2025 139
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "AS 2025 139"
+date: 2025-02-19
+status: in_force
+status_note: "In Kraft seit 1.1.2026. Änderungserlass; massgebend ist die konsolidierte StromVV. Enthält die Ausführungsbestimmungen zur LEG: Mindestgrösse 5 % der Anschlussleistung, max. 36 kV, schriftliche Vereinbarung, Meldefristen, Verteilschlüssel, Netztarif-Abschlag 40 % bzw. 20 %."
+languages: [de, fr, it]
+topics: [self_consumption, grid, tariffs, storage]
+summary_de: "Die Änderung setzt den Mantelerlass in der Stromversorgungsverordnung um. Für lokale Elektrizitätsgemeinschaften regelt sie Mindestgrösse, Netzebenen, Inhalt der Vereinbarung, Meldungen an den Netzbetreiber, den viertelstündlichen Verteilschlüssel und den Abschlag auf den Netznutzungstarif."
+source_url: "https://www.fedlex.admin.ch/eli/oc/2025/139/de"
+alternate_urls:
+  - label: "PDF (AS 2025 139)"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2025/139/de/pdf-a/fedlex-data-admin-ch-eli-oc-2025-139-de-pdf-a.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-71-stromvv, ch-oea-muster-leg-verein]
+added: 2026-09-29
+last_checked: 2026-09-29

@@ -46,6 +46,9 @@ for (const { file, doc } of docs) {
     err('mirror_allowed: true ist nur bei official_work, open_license oder permission erlaubt');
   if (doc.file && !doc.rights?.mirror_allowed) err('Datei gespiegelt, obwohl mirror_allowed nicht true ist');
   if (doc.file && !fs.existsSync(path.join(ROOT, doc.file))) err(`Datei ${doc.file} existiert nicht`);
+  if (doc.content && !fs.existsSync(path.join(ROOT, doc.content))) err(`Volltext ${doc.content} existiert nicht`);
+  if (doc.content && doc.rights?.status !== 'open_license') err('content ist nur für eigene, offen lizenzierte Inhalte vorgesehen');
+  for (const x of doc.downloads || []) if (!fs.existsSync(path.join(ROOT, x.path))) err(`Download ${x.path} existiert nicht`);
   if (doc.rights?.status === 'open_license' && !doc.rights.license) err('rights.license (SPDX) fehlt');
   if (doc.rights?.status === 'permission' && !doc.rights.permission_ref) err('rights.permission_ref fehlt');
   if (doc.doc_type === 'technical_standard' && doc.file) err('Technische Normen (DIN, VDE, IEC …) dürfen nicht gespiegelt werden');

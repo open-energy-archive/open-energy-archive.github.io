@@ -1,0 +1,29 @@
+id: ch-oea-muster-leg-verein
+title: "Mustervertrag Lokale Elektrizitätsgemeinschaft (LEG) als Verein – Statuten, Reglement Energie und Abrechnung, Beitrittserklärung"
+title_en: "Model agreement for a Local Electricity Community (LEG) organised as an association"
+short_title: Muster LEG-Verein
+doc_type: contract_template
+jurisdiction: CH
+issuer: "Open Energy Archive"
+reference: "OEA-CH-LEG-VEREIN v1.0"
+version: "1.0"
+date: 2026-09-29
+status: non_binding
+status_note: "Muster, keine Rechtsberatung. Abgestimmt auf Art. 17d/17e StromVG (Fassung 1.4.2026) und Art. 19e–19h StromVV (AS 2025 139, in Kraft seit 1.1.2026). Vor Verwendung anpassen und mit dem Verteilnetzbetreiber abstimmen."
+languages: [de]
+topics: [self_consumption, solar, storage, tariffs, grid]
+summary_de: "Vollständiges Vertragsmuster für eine lokale Elektrizitätsgemeinschaft in der Rechtsform des Vereins nach Art. 60 ff. ZGB. Es umfasst Statuten, ein Reglement zu Verteilschlüssel, internem Strompreis, Netzabschlag, Verwaltungskosten und Abrechnung sowie eine Beitrittserklärung und deckt die fünf Pflichtinhalte von Art. 19f Abs. 1 StromVV ab."
+source_url: "https://github.com/open-energy-archive/open-energy-archive/blob/main/content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.md"
+content: content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.md
+downloads:
+  - label: "Word-Vorlage (.docx)"
+    path: content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.docx
+rights:
+  status: open_license
+  license: CC-BY-4.0
+  basis: "Eigenes Werk des Projekts"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-as-2025-139-stromvv-leg, ch-vse-bd-leg-2025, ch-as-2024-679-mantelerlass]
+added: 2026-09-29
+last_checked: 2026-09-29
+contributors: [bernhard-weber]

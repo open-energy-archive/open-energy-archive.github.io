@@ -2,10 +2,11 @@
 
 ## Phase 1 – Schweiz (jetzt)
 - [x] Struktur, Schema, Website mit Suche
-- [x] Erste 16 Dokumente (Bund, ElCom, Bundesgericht, BFE, VSE)
+- [x] Erste 18 Dokumente (Bund, ElCom, Bundesgericht, BFE, VSE)
 - [ ] 100 Dokumente: alle Bundeserlasse im Bereich SR 73x, ElCom-Weisungen, wichtigste BGer-/BVGer-Entscheide
 - [ ] Kantonale Energiegesetze (26 Kantone)
-- [ ] Eigene Musterverträge (CC BY 4.0): ZEV, LEG, PPA
+- [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
+- [ ] Weitere Musterverträge: ZEV, vZEV, PPA, LEG als Teilnahmevertrag mit Betreiberin
 - [ ] Französische und italienische Metadaten
 
 ## Phase 2 – DACH

@@ -2,6 +2,14 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.2.0] – 2026-09-29
+
+### Neu
+- Erster eigener Mustervertrag (CC BY 4.0): Lokale Elektrizitätsgemeinschaft (LEG) als Verein – Statuten, Reglement Energie und Abrechnung, Beitrittserklärung (Markdown und Word)
+- Archiv-Eintrag AS 2025 139 (StromVV-Änderung mit den LEG-Bestimmungen)
+- Eigene Inhalte werden auf der Website als Volltext angezeigt und durchsucht (`content`, `downloads` im Schema)
+- `npm run docx` erzeugt Word-Vorlagen aus den Markdown-Mustern
+
 ## [0.1.0] – 2026-09-25
 
 ### Neu

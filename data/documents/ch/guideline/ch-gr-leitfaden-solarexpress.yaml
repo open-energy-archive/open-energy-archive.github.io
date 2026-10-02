@@ -1,0 +1,24 @@
+id: ch-gr-leitfaden-solarexpress
+title: "Leitfaden Bewilligungsverfahren für Photovoltaik-Grossanlagen nach Art. 71a EnG (Solarexpress), Kanton Graubünden"
+title_en: "Graubünden guide to the permitting procedure for large PV plants under Art. 71a EnG (solar express)"
+doc_type: guideline
+jurisdiction: CH
+subdivision: CH-GR
+issuer: "Kanton Graubünden, Amt für Raumentwicklung"
+date: 2025-01-01
+date_precision: year
+status: non_binding
+status_note: "Der Leitfaden berücksichtigt die Verlängerung des Solarexpress durch das Parlament (März 2025, in Kraft 1.1.2026). Genaues Ausgabedatum und Fassung nicht geprüft."
+status_note_en: "The guide takes account of Parliament's extension of the solar express (March 2025, in force 1 January 2026). Exact publication date and version not checked."
+languages: [de]
+topics: [solar, permitting]
+summary_de: "Der Leitfaden erläutert das kantonale Baubewilligungsverfahren für alpine Photovoltaik-Grossanlagen nach Art. 71a EnG in Graubünden: die Voraussetzungen der Privilegierung, die befristete Anwendbarkeit, die Fristen für Einspeisung und Inbetriebnahme, die erforderlichen Unterlagen und den Ablauf mit den beteiligten Behörden."
+summary_en: "The guide explains the cantonal building permit procedure for large alpine PV plants under Art. 71a EnG in Graubünden: the conditions for the privileged treatment, its limited period of application, the deadlines for feed-in and commissioning, the required documents and the process with the authorities involved."
+source_url: "https://www.gr.ch/DE/institutionen/verwaltung/dvs/are/BAB/Leitfaden%20Solarexpress_de.pdf"
+rights:
+  status: unclear
+  basis: "Kantonaler Leitfaden; Einordnung als amtliches Werk nicht geprüft"
+  mirror_allowed: false
+related: [ch-as-2022-543-solarexpress, ch-gr-beg]
+added: 2026-10-02
+last_checked: 2026-10-02

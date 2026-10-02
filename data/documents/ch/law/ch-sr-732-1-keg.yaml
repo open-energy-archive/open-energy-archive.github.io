@@ -1,0 +1,24 @@
+id: ch-sr-732-1-keg
+title: "Kernenergiegesetz (KEG)"
+title_en: "Nuclear Energy Act"
+short_title: KEG
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "SR 732.1"
+date: 2003-03-21
+status: in_force
+status_note: "In Kraft seit 1.2.2005. Seit 1.1.2018 (Energiestrategie 2050) dürfen keine Rahmenbewilligungen für neue Kernkraftwerke mehr erteilt werden. Eine Lockerung dieses Verbots als indirekter Gegenvorschlag zur Volksinitiative «Jederzeit Strom für alle (Blackout stoppen)» ist politisch hängig; Stand nicht im Detail geprüft."
+status_note_en: "In force since 1 February 2005. Since 1 January 2018 (Energy Strategy 2050) no general licences for new nuclear power plants may be granted. Relaxing this ban as an indirect counter-proposal to the popular initiative 'Electricity for all at all times (Stop the blackout)' is politically pending; status not checked in detail."
+languages: [de, fr, it]
+topics: [supply_security, permitting]
+summary_de: "Das Kernenergiegesetz regelt die friedliche Nutzung der Kernenergie: die Bewilligungen für Bau, Betrieb und Stilllegung von Kernanlagen, die nukleare Sicherheit und Aufsicht, die Entsorgung radioaktiver Abfälle einschliesslich geologischer Tiefenlager sowie den Stilllegungs- und den Entsorgungsfonds."
+summary_en: "The Nuclear Energy Act governs the peaceful use of nuclear energy: licences for the construction, operation and decommissioning of nuclear installations, nuclear safety and supervision, disposal of radioactive waste including deep geological repositories, and the decommissioning and waste disposal funds."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2004/723/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

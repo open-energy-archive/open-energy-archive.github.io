@@ -1,21 +1,57 @@
-# About us
+# About OEA
 
-The **Open Energy Archive (OEA)** is an initiative by Bernhard Weber, lawyer in Zurich ([bwlaw.ch](https://www.bwlaw.ch/)). What the archive is, what it contains and the rules it follows are described on [About OEA](../about/oea/).
+The **Open Energy Archive (OEA)** collects documents on electricity and energy that are publicly available but scattered across the websites of authorities, courts, regulators and associations. It makes them findable in one place, describes them consistently and records how current they are.
 
-## Who is behind it
+## Purpose
 
-Bernhard Weber started the archive from a simple observation: anyone who wants to share a solar installation with neighbours, connect a battery or negotiate a power purchase agreement spends a lot of time just finding the relevant laws, decisions and guidance. The OEA is meant to shorten that search.
+The expansion of renewable energy often stalls not on technology but on procedures, contracts and missing knowledge. The OEA aims to make the legal and practical basics easily accessible to everyone – professionals as well as municipalities, cooperatives, businesses and individuals.
 
-The initiator is a lawyer but not an energy-law specialist. Entries are researched carefully and linked to the official source; for expert review – especially of the model contracts and the summaries of decisions – the project is looking for [reviewers](../contribute/) in Switzerland, Germany and Austria.
+## What the archive contains
 
-## Independence
+- Laws and ordinances at federal, cantonal and state level
+- Decisions of courts and regulators (e.g. ElCom, Federal Network Agency, E-Control)
+- Directives, guidance and studies by authorities
+- Parliamentary materials on ongoing reforms
+- Industry documents (as references only, where protected by copyright)
+- Model contracts drafted by the project itself
 
-The archive is non-commercial, is not funded by any company or association and carries no advertising. Contributors disclose professional ties that could be relevant to how documents are selected or described. The rules are set out in the [governance document](https://github.com/open-energy-archive/open-energy-archive.github.io/blob/main/GOVERNANCE.md).
+## Coverage
 
-## Get involved
+The archive started with **Switzerland**, including the cantonal energy acts. Since October 2026 **Germany** and **Austria** have been added, together with first decisions of the **Court of Justice of the European Union**. Liechtenstein, further EU legislation and the English-speaking world will follow. The [list of all documents](../documents/), filterable by jurisdiction, shows the current state.
 
-The OEA relies on tips: missing documents, outdated versions, better sources. How to contribute – even without knowing Git – is explained under [Contribute](../contribute/).
+## How an entry is made
 
-## Contact
+Every document is an entry with consistent metadata: title, issuer, date, status, topics, a short summary in the project's own words, a note on the version checked and the link to the official source. Every entry states its rights status. A copy of the document is stored only where this is clearly permitted, for example for official works; otherwise the entry is a reference.
 
-Questions, suggestions and removal requests: [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive.github.io/issues) or via [bwlaw.ch](https://www.bwlaw.ch/).
+Where the status could not be fully checked, the entry says so. The project's own model contracts carry the note "Not reviewed by an expert" until a specialist has reviewed them.
+
+## Principles
+
+- **Primary sources first.** Every entry links to the official or original source.
+- **Factual.** Summaries describe the content without evaluating it.
+- **Legally sound.** Copies are stored only where permitted. Everything else is a reference.
+- **Traceable.** Every change is documented on GitHub.
+- **Open.** Metadata under CC0, code under MIT, everything public.
+
+## Languages {#languages}
+
+Titles appear in the original language, with an English title below. The English summaries and notes are translations of the German entries by the project. Where they differ, the German version and, above all, the official source prevail. Model contracts are currently available in German only.
+
+## Licences {#licences}
+
+- Metadata (incl. JSON/CSV): CC0 1.0, free to use without conditions
+- Own editorial content: CC BY 4.0
+- Code: MIT
+- Third-party documents: their own legal status, noted in each entry
+
+## Open data
+
+All metadata can be downloaded as [JSON](../../data/documents.json) and [CSV](../../data/documents.csv) and may be reused without conditions.
+
+## Not legal advice
+
+The archive does not replace legal advice. Status and entry-into-force information is checked carefully but may become outdated. The official source is authoritative.
+
+## Further development
+
+Plans include more countries, the full text of official documents in the search index, an open API and access for AI assistants. The [roadmap](https://github.com/open-energy-archive/open-energy-archive.github.io/blob/main/docs/roadmap.md) shows the current state.

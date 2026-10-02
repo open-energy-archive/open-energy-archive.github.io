@@ -1,0 +1,26 @@
+id: ch-elcom-236-01364
+title: "Verfügung der ElCom vom 5. März 2024 in Sachen Verteilnetzbetreiberin gegen Swissgrid AG – Verjährung des Anspruchs auf Vergütung notwendiger Netzverstärkungskosten"
+title_en: "ElCom decision of 5 March 2024 – limitation of claims for reimbursement of necessary grid reinforcement costs"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "236-01364"
+date: 2024-03-05
+status: final
+status_note: "Rechtskräftig gemäss Übersicht der ElCom. Die ElCom stützt sich auf ihre frühere Praxis, insbesondere die Verfügung 236-01184 vom 5.5.2020."
+status_note_en: "Final according to ElCom's overview. ElCom relies on its earlier practice, in particular decision 236-01184 of 5 May 2020."
+languages: [de]
+topics: [grid, renewables, tariffs]
+summary_de: "Eine Verteilnetzbetreiberin verlangte 2022 von Swissgrid die Vergütung von Netzverstärkungskosten für eine Kapazitätserhöhung aus dem Jahr 2012. Die ElCom hielt fest, dass Vergütungsansprüche für notwendige Netzverstärkungen nach Art. 22 Abs. 3 und 4 StromVV mangels eigener Regelung analog zum Subventionsgesetz nach fünf Jahren verjähren. Da Swissgrid die Verjährungseinrede erhoben hatte, wies sie das Gesuch ab, ohne die übrigen Voraussetzungen zu prüfen."
+summary_en: "In 2022 a distribution system operator asked Swissgrid to reimburse grid reinforcement costs for a capacity increase carried out in 2012. ElCom held that, absent a specific rule, claims for reimbursement of necessary reinforcements under Art. 22(3) and (4) StromVV become time-barred after five years by analogy with the Subsidies Act. As Swissgrid had raised the limitation defence, ElCom rejected the application without examining the other requirements."
+source_url: "https://www.elcom.admin.ch/dam/de/sd-web/OhA1l8a2rFK4/236-01364_20240305_VE_Verj%C3%A4hrung%20NV.pdf"
+alternate_urls:
+  - label: "Übersicht der ElCom-Verfügungen zu Netzverstärkungen"
+    url: "https://www.elcom.admin.ch/elcom/en/home/documentation/decisions/network-reinforcements.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-71-stromvv, ch-sr-734-7-stromvg]
+added: 2026-10-02
+last_checked: 2026-10-02

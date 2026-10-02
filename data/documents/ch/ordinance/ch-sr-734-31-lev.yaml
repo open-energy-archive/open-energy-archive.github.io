@@ -1,0 +1,24 @@
+id: ch-sr-734-31-lev
+title: "Verordnung über elektrische Leitungen (Leitungsverordnung, LeV)"
+title_en: "Ordinance on Electrical Lines"
+short_title: LeV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 734.31"
+date: 1994-03-30
+status: in_force
+status_note: "In Kraft seit 1.5.1994. Mit der Strategie Stromnetze (2019) um Bestimmungen zur Übertragungstechnologie ergänzt, 2021 bei Art. 11b und 11e präzisiert. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "In force since 1 May 1994. Supplemented with the Strategy Electricity Networks (2019) by provisions on transmission technology and clarified in 2021 (Art. 11b and 11e). Current version not checked in detail."
+languages: [de, fr, it]
+topics: [grid, permitting]
+summary_de: "Die Leitungsverordnung regelt Erstellung, Betrieb und Instandhaltung elektrischer Schwach- und Starkstromleitungen, als Freileitungen wie als Kabel. Sie enthält technische Vorgaben zu Abständen, Kreuzungen und Parallelführungen mit anderen Anlagen sowie Regeln, wann Leitungen unter 220 kV als Erdkabel statt als Freileitung zu bauen sind (Mehrkostenfaktor)."
+summary_en: "The Ordinance on Electrical Lines governs the construction, operation and maintenance of low-current and high-current lines, both overhead and underground. It sets technical requirements for clearances, crossings and parallel routing with other installations and rules on when lines below 220 kV must be built as underground cables rather than overhead lines (additional cost factor)."
+source_url: "https://www.fedlex.admin.ch/eli/cc/1994/1233_1233_1233/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-0-eleg, ch-sr-734-2-stv, ch-sr-734-25-vpea]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -3,7 +3,9 @@
 ## Phase 1 – Schweiz (jetzt)
 - [x] Struktur, Schema, Website mit Suche
 - [x] 90 Einträge (Bund, ElCom, Bundesgericht, Bundesverwaltungsgericht, BFE, VSE, 25 Kantone)
-- [ ] 100 Dokumente: alle Bundeserlasse im Bereich SR 73x, ElCom-Weisungen, wichtigste BGer-/BVGer-Entscheide
+- [x] Weitere Bundeserlasse: LeV, StV, VPeA, EnEV, KEG, Solarexpress (AS 2022 543); ElCom 236-01364 (Netzverstärkung, Verjährung); Leitfaden Solarexpress GR (98 Einträge)
+- [ ] 100 Dokumente und mehr: übrige Bundeserlasse SR 73x (GebV-En, KEV, NEV, SchwV), ElCom-Weisungen, weitere ElCom-Verfügungen (u. a. 236-01184, 212-00409), wichtigste BGer-/BVGer-Entscheide
+- [ ] EnG und StromVG: Fassung seit 1.4.2026 (Beschleunigungserlass) im Detail prüfen; Kantone UR, VD, TG nachführen
 - [x] Kantonale Energiegesetze: alle Kantone mit eigenem Energiegesetz (25; OW regelt Energie im Baugesetz)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
 - [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-Muster prüfen lassen

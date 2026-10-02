@@ -1,0 +1,24 @@
+id: ch-sr-730-02-enev
+title: "Verordnung über die Anforderungen an die Energieeffizienz serienmässig hergestellter Anlagen, Fahrzeuge und Geräte (Energieeffizienzverordnung, EnEV)"
+title_en: "Energy Efficiency Ordinance"
+short_title: EnEV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 730.02"
+date: 2017-11-01
+status: in_force
+status_note: "In Kraft seit 1.1.2018 als Teil des ersten Massnahmenpakets der Energiestrategie 2050. Die Anhänge werden regelmässig an das EU-Ökodesign- und Energielabelrecht angepasst; aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "In force since 1 January 2018 as part of the first package of the Energy Strategy 2050. The annexes are regularly aligned with EU ecodesign and energy labelling law; current version not checked in detail."
+languages: [de, fr, it]
+topics: [energy_efficiency, mobility]
+summary_de: "Die Verordnung legt fest, welche Anforderungen an die Energieeffizienz serienmässig hergestellte Geräte, Anlagen und Fahrzeuge erfüllen müssen, damit sie in der Schweiz in Verkehr gebracht werden dürfen, und regelt die Energieetikette sowie Angaben zum Energieverbrauch, etwa bei Haushaltgeräten, Leuchtmitteln, Elektromotoren und Personenwagen."
+summary_en: "The ordinance sets the energy efficiency requirements that mass-produced appliances, installations and vehicles must meet to be placed on the Swiss market and governs the energy label and energy consumption information, for example for household appliances, lamps, electric motors and passenger cars."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2017/765/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -2,6 +2,16 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.11.0] – 2026-10-02
+
+### Neu
+- Kombinierbare Filter (Facetten): Jede Auswahlliste zeigt nur noch Werte, die zusammen mit den übrigen gesetzten Filtern und dem Suchtext Treffer ergeben, jeweils mit aktueller Anzahl; Werte ohne Treffer werden ausgeblendet, der gewählte Wert bleibt sichtbar
+- Schweiz: Leitungsverordnung (LeV), Starkstromverordnung (StV), VPeA, Energieeffizienzverordnung (EnEV), Kernenergiegesetz (KEG), Solarexpress (AS 2022 543, Art. 71a EnG), ElCom-Verfügung 236-01364 (Verjährung von Netzverstärkungsvergütungen), Leitfaden Solarexpress des Kantons Graubünden
+
+### Geändert
+- «Über OEA» ist neu die Hauptseite (`/ueber/`, `/en/about/`) und erscheint so in der Navigation; «Über uns» ist die Unterseite (`/ueber/uns/`, `/en/about/us/`). Die bisherige Adresse `/ueber/oea/` leitet weiter
+- BVGE 2015/38 (A-2850/2014) und BVGer A-348/2019: unzuverlässige weblaw-Links durch entscheidsuche.ch ersetzt
+
 ## [0.10.1] – 2026-10-02
 
 ### Geändert

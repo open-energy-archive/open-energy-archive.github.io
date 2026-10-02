@@ -31,22 +31,47 @@
     else if (clearForeign && sel && sel.dataset.jur && sel.dataset.jur !== jur) level.value = '';
   }
 
+  // Prüft einen Eintrag gegen alle Filter ausser `skip` (für die Zählung pro Filter)
+  const FACETS = ['jur', 'level', 'type', 'topic', 'rights'];
+  const valuesOf = (li, k) => k === 'topic' ? li.dataset.topics.split(' ') : [li.dataset[k]];
+  function matches(li, f, words, skip) {
+    for (const k of FACETS) if (k !== skip && f[k] && !valuesOf(li, k).includes(f[k])) return false;
+    return !words.length || words.every((w) => li.dataset.text.includes(w));
+  }
+
+  // Facetten: Jede Auswahlliste zeigt nur Werte, die mit den übrigen gesetzten Filtern
+  // noch Treffer ergeben, samt aktueller Anzahl. Der gewählte Wert bleibt immer sichtbar.
+  function updateFacets(f, words) {
+    for (const k of FACETS) {
+      const counts = {};
+      for (const li of items) if (matches(li, f, words, k)) for (const v of valuesOf(li, k)) counts[v] = (counts[v] || 0) + 1;
+      const sel = form.elements[k];
+      for (const o of sel.options) {
+        if (!o.value) continue;
+        const n = counts[o.value] || 0;
+        o.textContent = `${o.dataset.label} (${n})`;
+        const show = n > 0 || o.value === sel.value;
+        o.hidden = !show; o.disabled = !show;
+      }
+      for (const g of sel.querySelectorAll('optgroup')) {
+        if (k === 'level' && f.jur && g.dataset.jur !== f.jur) { g.hidden = true; continue; }
+        g.hidden = ![...g.querySelectorAll('option')].some((o) => !o.hidden);
+      }
+    }
+  }
+
   function apply() {
     syncLevel();
     const per = +perSel.value;
     const f = Object.fromEntries(new FormData(form));
-    const q = (f.q || '').trim().toLowerCase();
+    const words = (f.q || '').trim().toLowerCase().split(/\s+/).filter(Boolean);
     let n = 0;
     for (const li of items) {
-      const ok = (!f.jur || li.dataset.jur === f.jur)
-        && (!f.level || li.dataset.level === f.level)
-        && (!f.type || li.dataset.type === f.type)
-        && (!f.topic || li.dataset.topics.split(' ').includes(f.topic))
-        && (!f.rights || li.dataset.rights === f.rights)
-        && (!q || q.split(/\s+/).every((w) => li.dataset.text.includes(w)));
+      const ok = matches(li, f, words);
       li.dataset.match = ok ? '1' : '';
       if (ok) n++;
     }
+    updateFacets(f, words);
     // Seitenweise Anzeige
     const pages = Math.max(1, Math.ceil(n / per));
     if (page > pages) page = pages;

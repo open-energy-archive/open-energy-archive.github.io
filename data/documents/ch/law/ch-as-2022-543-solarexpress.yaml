@@ -1,0 +1,24 @@
+id: ch-as-2022-543-solarexpress
+title: "AS 2022 543 – Energiegesetz, Änderung vom 30. September 2022 (dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter), «Solarexpress» (Art. 71a EnG)"
+title_en: "AS 2022 543 – Energy Act, amendment of 30 September 2022 (urgent measures for a secure winter electricity supply), 'solar express' (Art. 71a EnG)"
+short_title: Solarexpress
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "AS 2022 543"
+date: 2022-09-30
+status: in_force
+status_note: "Dringlich erklärt und seit 1.10.2022 in Kraft. Mit der Änderung vom 21.3.2025 hat das Parlament den Solarexpress verlängert und Art. 71a Abs. 1, 4 und 6 EnG angepasst (in Kraft seit 1.1.2026), u. a. bei den Fristen für Einspeisung und vollständige Inbetriebnahme. Massgebend ist die geltende Fassung von Art. 71a EnG; Details nicht im Einzelnen geprüft."
+status_note_en: "Declared urgent and in force since 1 October 2022. With the amendment of 21 March 2025 Parliament extended the solar express and adjusted Art. 71a(1), (4) and (6) EnG (in force since 1 January 2026), among other things regarding the deadlines for feed-in and full commissioning. The current version of Art. 71a EnG is authoritative; details not checked individually."
+languages: [de, fr, it]
+topics: [solar, renewables, permitting, subsidies, supply_security]
+summary_de: "Mit Art. 71a EnG schuf das Parlament Erleichterungen für grosse Photovoltaikanlagen, vor allem im Alpenraum, die jährlich mindestens 10 GWh und im Winterhalbjahr mindestens 500 kWh pro kW Leistung erzeugen. Solche Anlagen gelten als standortgebunden und von nationalem Interesse, benötigen keine Planung nach dem Raumplanungsgesetz und erhalten eine Einmalvergütung von bis zu 60 % der Investitionskosten. Die Regelung gilt, bis schweizweit eine Gesamtproduktion von 2 TWh pro Jahr erreicht ist."
+summary_en: "With Art. 71a EnG Parliament eased the rules for large PV plants, mainly in the Alps, that produce at least 10 GWh a year and at least 500 kWh per kW of capacity in the winter half-year. Such plants are deemed location-bound and of national interest, need no planning under the Spatial Planning Act and receive a one-off payment of up to 60% of investment costs. The rule applies until total annual production of 2 TWh is reached nationwide."
+source_url: "https://www.fedlex.admin.ch/eli/oc/2022/543/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-gr-leitfaden-solarexpress, ch-sr-700-rpg]
+added: 2026-10-02
+last_checked: 2026-10-02

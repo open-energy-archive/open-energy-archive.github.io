@@ -1,0 +1,24 @@
+id: ch-sr-734-2-stv
+title: "Verordnung über elektrische Starkstromanlagen (Starkstromverordnung, StV)"
+title_en: "Ordinance on High-Current Electrical Installations"
+short_title: StV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 734.2"
+date: 1994-03-30
+status: in_force
+status_note: "In Kraft seit 1.5.1994. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "In force since 1 May 1994. Current version not checked in detail."
+languages: [de, fr, it]
+topics: [grid, supply_security]
+summary_de: "Die Starkstromverordnung legt die Sicherheitsanforderungen an Erstellung, Betrieb und Instandhaltung von Starkstromanlagen fest, etwa Schalt- und Transformatorenanlagen, Erdung und Schutz vor gefährlichen Berührungsspannungen. Sie ist zusammen mit dem Elektrizitätsgesetz Grundlage der Aufsicht durch das Eidgenössische Starkstrominspektorat (ESTI)."
+summary_en: "The ordinance sets the safety requirements for the construction, operation and maintenance of high-current installations, such as switchgear and transformer stations, earthing and protection against dangerous touch voltages. Together with the Electricity Act it is the basis for supervision by the Federal Inspectorate for Heavy Current Installations (ESTI)."
+source_url: "https://www.fedlex.admin.ch/eli/cc/1994/1199_1199_1199/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-0-eleg, ch-sr-734-31-lev, ch-sr-734-27-niv]
+added: 2026-10-02
+last_checked: 2026-10-02

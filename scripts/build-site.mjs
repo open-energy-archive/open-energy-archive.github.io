@@ -23,9 +23,9 @@ const byId = Object.fromEntries(docs.map((d) => [d.id, d]));
 const T = {
   de: {
     prefix: '', htmlLang: 'de', other: 'en', otherLabel: 'English', switchLabel: 'EN',
-    paths: { home: '', list: 'dokumente/', about: 'ueber/', aboutOea: 'ueber/oea/', contribute: 'mitwirken/', legal: 'impressum/' },
-    subAbout: { about: 'Über uns', aboutOea: 'Über OEA' }, subAboutLabel: 'Über',
-    nav: { home: 'Suche', list: 'Alle Dokumente', about: 'Über uns', contribute: 'Mitwirken' },
+    paths: { home: '', list: 'dokumente/', about: 'ueber/', aboutUs: 'ueber/uns/', contribute: 'mitwirken/', legal: 'impressum/' },
+    subAbout: { about: 'Über OEA', aboutUs: 'Über uns' }, subAboutLabel: 'Über',
+    nav: { home: 'Suche', list: 'Alle Dokumente', about: 'Über OEA', contribute: 'Mitwirken' },
     skip: 'Zum Inhalt', mainNav: 'Hauptnavigation',
     initiative: 'Eine Initiative von Bernhard Weber', initiativeShort: 'Initiative von Bernhard Weber',
     metaDesc: 'Offenes, durchsuchbares Archiv für Gesetze, Entscheide, Leitfäden und Verträge zu Elektrizität und Energie.',
@@ -55,9 +55,9 @@ const T = {
   },
   en: {
     prefix: 'en/', htmlLang: 'en', other: 'de', otherLabel: 'Deutsch', switchLabel: 'DE',
-    paths: { home: '', list: 'documents/', about: 'about/', aboutOea: 'about/oea/', contribute: 'contribute/', legal: 'legal/' },
-    subAbout: { about: 'About us', aboutOea: 'About OEA' }, subAboutLabel: 'About',
-    nav: { home: 'Search', list: 'All documents', about: 'About us', contribute: 'Contribute' },
+    paths: { home: '', list: 'documents/', about: 'about/', aboutUs: 'about/us/', contribute: 'contribute/', legal: 'legal/' },
+    subAbout: { about: 'About OEA', aboutUs: 'About us' }, subAboutLabel: 'About',
+    nav: { home: 'Search', list: 'All documents', about: 'About OEA', contribute: 'Contribute' },
     skip: 'Skip to content', mainNav: 'Main navigation',
     initiative: 'An initiative by Bernhard Weber', initiativeShort: 'Initiative by Bernhard Weber',
     metaDesc: 'Open, searchable archive of laws, decisions, guidance and contracts on electricity and energy.',
@@ -136,7 +136,7 @@ const LOGO = () => `<img class="mark" src="${url('assets/logo.png')}" width="52"
 function layout(lang, { title, description = '', body, active = null, alt = null, extraHead = '' }) {
   const { t, page } = forLang(lang);
   const navItems = ['home', 'list', 'about', 'contribute']
-    .map((k) => `<a href="${page(k)}"${active === k || (k === 'about' && active === 'aboutOea') ? ' aria-current="page"' : ''}>${t.nav[k]}</a>`).join('');
+    .map((k) => `<a href="${page(k)}"${active === k || (k === 'about' && active === 'aboutUs') ? ' aria-current="page"' : ''}>${t.nav[k]}</a>`).join('');
   const altHref = alt ?? url(T[t.other].prefix);
   return `<!doctype html>
 <html lang="${t.htmlLang}">
@@ -175,7 +175,7 @@ ${body}
     <p class="disclaimer">${t.footerDisclaimer}</p>
     <p class="footer-links">
       <span>© ${new Date().getFullYear()} ${SITE_NAME}</span><span class="sep">|</span>
-      <a href="${page('aboutOea', lang === 'de' ? '#lizenzen' : '#licences')}">${t.footerLicences}</a><span class="sep">|</span>
+      <a href="${page('about', lang === 'de' ? '#lizenzen' : '#licences')}">${t.footerLicences}</a><span class="sep">|</span>
       <a href="${REPO_URL}">${t.footerSource}</a><span class="sep">|</span>
       <a href="${url('data/documents.json')}">JSON</a><span class="sep">|</span><a href="${url('data/documents.csv')}">CSV</a><span class="sep">|</span>
       <a href="${page('legal')}">${t.footerLegal}</a>
@@ -281,7 +281,7 @@ window.addEventListener('DOMContentLoaded', () => {
   }));
 
   // Liste
-  const opt = (counts) => counts.map((c) => `<option value="${c.k}">${esc(c.l)} (${c.n})</option>`).join('');
+  const opt = (counts) => counts.map((c) => `<option value="${c.k}" data-label="${esc(c.l)}">${esc(c.l)} (${c.n})</option>`).join('');
   write(`${P}${t.paths.list}index.html`, layout(lang, {
     title: t.listTitle, active: 'list', alt: otherPage('list'),
     body: `
@@ -289,10 +289,10 @@ window.addEventListener('DOMContentLoaded', () => {
 <form class="filters" id="filters" role="search" aria-label="${t.filterLabel}">
   <label>${t.f.text}<input type="search" name="q" placeholder="${t.f.textPh}"></label>
   <label>${t.f.jur}<select name="jur"><option value="">${t.f.all}</option>${opt(jurCounts)}</select></label>
-  <label>${t.f.level}<select name="level"><option value="">${t.f.all}</option>${jurCounts.map((j) => `<optgroup label="${esc(j.l)}" data-jur="${j.k}">${subCounts.filter((c) => c.jur === j.k).map((c) => `<option value="${c.k}" data-jur="${c.jur}">${esc(c.l)} (${c.n})</option>`).join('')}</optgroup>`).join('')}</select></label>
+  <label>${t.f.level}<select name="level"><option value="">${t.f.all}</option>${jurCounts.map((j) => `<optgroup label="${esc(j.l)}" data-jur="${j.k}">${subCounts.filter((c) => c.jur === j.k).map((c) => `<option value="${c.k}" data-jur="${c.jur}" data-label="${esc(c.l)}">${esc(c.l)} (${c.n})</option>`).join('')}</optgroup>`).join('')}</select></label>
   <label>${t.f.type}<select name="type"><option value="">${t.f.all}</option>${opt(typeCounts)}</select></label>
   <label>${t.f.topic}<select name="topic"><option value="">${t.f.all}</option>${opt(topicCounts)}</select></label>
-  <label>${t.f.rights}<select name="rights"><option value="">${t.f.all}</option><option value="free">${t.f.free}</option><option value="link">${t.f.link}</option></select></label>
+  <label>${t.f.rights}<select name="rights"><option value="">${t.f.all}</option><option value="free" data-label="${t.f.free}">${t.f.free}</option><option value="link" data-label="${t.f.link}">${t.f.link}</option></select></label>
 </form>
 <div class="result-bar"><span class="result-count" id="count" aria-live="polite" data-of="${t.countOf}" data-docs="${t.countDocs}" data-total="${t.countTotal}"></span> <a href="${page('list')}" id="reset" class="reset" hidden>${t.f.reset}</a>
   <label class="per-page" hidden>${t.perPage} <select id="per"><option value="10">10</option><option value="50">50</option><option value="100">100</option></select></label></div>
@@ -365,11 +365,11 @@ ${related.length ? `<section><h2 class="section-title">${t.related}</h2><ul clas
 
   // Textseiten
   const src = lang === 'de'
-    ? { about: 'docs/ueber.md', aboutOea: 'docs/ueber-oea.md', contribute: 'docs/mitwirken.md', legal: 'docs/impressum.md' }
-    : { about: 'docs/en/about.md', aboutOea: 'docs/en/about-oea.md', contribute: 'docs/en/contribute.md', legal: 'docs/en/legal.md' };
-  const subnav = (key) => ['about', 'aboutOea'].includes(key)
-    ? `<nav class="subnav" aria-label="${t.subAboutLabel}">${['about', 'aboutOea'].map((k) => `<a href="${page(k)}"${k === key ? ' aria-current="page"' : ''}>${t.subAbout[k]}</a>`).join('')}</nav>` : '';
-  for (const key of ['about', 'aboutOea', 'contribute', 'legal']) {
+    ? { about: 'docs/ueber.md', aboutUs: 'docs/ueber-uns.md', contribute: 'docs/mitwirken.md', legal: 'docs/impressum.md' }
+    : { about: 'docs/en/about.md', aboutUs: 'docs/en/about-us.md', contribute: 'docs/en/contribute.md', legal: 'docs/en/legal.md' };
+  const subnav = (key) => ['about', 'aboutUs'].includes(key)
+    ? `<nav class="subnav" aria-label="${t.subAboutLabel}">${['about', 'aboutUs'].map((k) => `<a href="${page(k)}"${k === key ? ' aria-current="page"' : ''}>${t.subAbout[k]}</a>`).join('')}</nav>` : '';
+  for (const key of ['about', 'aboutUs', 'contribute', 'legal']) {
     const text = md(src[key]);
     const h1 = (text.match(/^#\s+(.*)$/m) || [, ''])[1];
     write(`${P}${t.paths[key]}index.html`, layout(lang, {
@@ -377,6 +377,9 @@ ${related.length ? `<section><h2 class="section-title">${t.related}</h2><ul clas
       body: `${subnav(key)}<div class="prose">${mdToHtml(text, 0, REPO_URL).replace(/<h1>/, '<h1 class="section-title">')}</div>`,
     }));
   }
+  // Weiterleitung der früheren Adresse der Seite «Über OEA» (bis 0.10.x)
+  const oldOea = lang === 'de' ? 'ueber/oea/' : 'about/oea/';
+  write(`${P}${oldOea}index.html`, `<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${page('about')}"><link rel="canonical" href="${page('about')}"><a href="${page('about')}">${t.subAbout.about}</a>`);
   write(`${P}404.html`, layout(lang, { title: t.notFound, body: `<h1 class="section-title">${t.notFound}</h1><p><a href="${page('home')}">${t.toSearch}</a></p>` }));
 }
 

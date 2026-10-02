@@ -85,6 +85,8 @@ h2 { font-size: 1.05rem; font-weight: 600; margin: 32px 0 12px; }
 .issuer { margin: 0; color: var(--muted); font-size: .86rem; }
 .chip { padding: 0 8px; border-radius: 3px; border: 1px solid var(--line); color: var(--muted); line-height: 1.7; }
 .chip-type { background: var(--accent-soft); border-color: transparent; color: var(--accent); font-weight: 600; }
+.chip-warn { background: #fdecea; border-color: transparent; color: #a1281c; font-weight: 600; }
+.note.warn { background: #fdf3f2; border-left-color: #c0392b; }
 .chip-rights.is-link { background: var(--link-only-bg); border-color: transparent; color: var(--link-only); }
 .more { display: inline-block; margin-top: 16px; font-weight: 600; }
 

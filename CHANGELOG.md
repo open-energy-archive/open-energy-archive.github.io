@@ -2,6 +2,15 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.5.2] – 2026-10-02
+
+### Geändert
+- Repository in `open-energy-archive.github.io` umbenannt; Website neu unter https://open-energy-archive.github.io/
+
+### Neu
+- Hinweis «Nicht fachlich geprüft» auf eigenen Musterverträgen (Website, Markdown, Word), solange kein Fach-Reviewer eingetragen ist (`reviewed_by`, `reviewed_on`)
+- Aufruf für Fachreviewerinnen und -reviewer im Energierecht Schweiz (Mitwirken, Über das Archiv, CONTRIBUTING, GOVERNANCE)
+
 ## [0.5.1] – 2026-10-02
 
 ### Geändert

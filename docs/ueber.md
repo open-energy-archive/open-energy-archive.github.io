@@ -34,7 +34,7 @@ Das Archiv ersetzt keine Beratung. Angaben zu Stand und Inkrafttreten werden sor
 
 ## Wer steht dahinter
 
-Das Open Energy Archive ist eine Initiative von Bernhard Weber, Jurist in Zürich ([bwlaw.ch](https://www.bwlaw.ch/)). Es ist nicht kommerziell und offen für Beiträge von allen.
+Das Open Energy Archive ist eine Initiative von Bernhard Weber, Jurist in Zürich ([bwlaw.ch](https://www.bwlaw.ch/)). Es ist nicht kommerziell und offen für Beiträge von allen. Der Initiant ist Jurist, aber kein Spezialist für Energierecht. Die Einträge werden sorgfältig recherchiert; für die fachliche Prüfung – vor allem der Musterverträge – sucht das Projekt [Fachreviewerinnen und -reviewer](../mitwirken/).
 
 ## Sprachen {#sprachen}
 
@@ -42,4 +42,4 @@ Titel erscheinen in der Originalsprache. Die englischen Zusammenfassungen sind �
 
 ## Kontakt
 
-Fragen, Hinweise und Anfragen zur Entfernung von Inhalten bitte über [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive/issues) oder über [bwlaw.ch](https://www.bwlaw.ch/).
+Fragen, Hinweise und Anfragen zur Entfernung von Inhalten bitte über [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive.github.io/issues) oder über [bwlaw.ch](https://www.bwlaw.ch/).

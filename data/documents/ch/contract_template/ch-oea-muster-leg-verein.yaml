@@ -15,7 +15,7 @@ languages: [de]
 topics: [self_consumption, solar, storage, tariffs, grid]
 summary_de: "Vollständiges Vertragsmuster für eine lokale Elektrizitätsgemeinschaft in der Rechtsform des Vereins nach Art. 60 ff. ZGB. Es umfasst Statuten, ein Reglement zu Verteilschlüssel, internem Strompreis, Netzabschlag, Verwaltungskosten und Abrechnung sowie eine Beitrittserklärung und deckt die fünf Pflichtinhalte von Art. 19f Abs. 1 StromVV ab."
 summary_en: "Complete model agreement for a local electricity community (LEG) organised as an association under Art. 60 et seq. of the Swiss Civil Code. It contains articles of association, rules on the allocation key, internal electricity price, grid tariff reduction, administrative costs and billing, and a membership form, and covers the five mandatory items of Art. 19f(1) StromVV. Available in German only."
-source_url: "https://github.com/open-energy-archive/open-energy-archive/blob/main/content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.md"
+source_url: "https://github.com/open-energy-archive/open-energy-archive.github.io/blob/main/content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.md"
 content: content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.md
 downloads:
   - label: "Word-Vorlage (.docx)"

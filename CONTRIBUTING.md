@@ -25,7 +25,11 @@ Danke, dass du hilfst! Es gibt drei Wege:
 - **Status aktuell halten:** `last_checked` auf das Datum setzen, an dem du Quelle und Stand geprüft hast.
 - **Schweizer Einträge** in Schweizer Rechtschreibung (ss statt ß).
 
-## 3. Fehler melden
+## 3. Als Fach-Reviewer mitwirken
+
+Du kennst dich im Energierecht aus? Wir suchen Fachpersonen, zuerst für die Schweiz, die Musterverträge und Zusammenfassungen prüfen. Melde dich über ein Issue. Geprüfte Inhalte erhalten im Eintrag `reviewed_by` und `reviewed_on`.
+
+## 4. Fehler melden
 
 Auf jeder Dokumentseite gibt es den Link «Fehler melden». Oder direkt ein [Issue](../../issues/new?template=fehler-melden.yml) öffnen.
 

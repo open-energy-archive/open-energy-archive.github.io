@@ -20,7 +20,7 @@ Nicht aufgenommen werden Werbung, Dokumente ohne nachvollziehbare Herkunft und I
 ## 3. Rollen
 
 - **Maintainer:** Bernhard Weber (Gründer). Merge, Revert, Releases, Taxonomie.
-- **Fach-Reviewer:** Personen mit Fachwissen für einen Rechtsraum oder ein Thema. Werden von den Maintainern ernannt.
+- **Fach-Reviewer:** Personen mit Fachwissen für einen Rechtsraum oder ein Thema, insbesondere Energierecht. Werden von den Maintainern ernannt und auf der Website genannt. Derzeit gesucht, zuerst für die Schweiz.
 - **Contributors:** alle, die Dokumente vorschlagen oder Metadaten korrigieren.
 
 Interessenbindungen (z. B. Tätigkeit für einen Energieversorger, eine Kanzlei oder einen Verband) legen Maintainer und Reviewer in `docs/interessenbindungen.md` offen.
@@ -31,6 +31,10 @@ Interessenbindungen (z. B. Tätigkeit für einen Energieversorger, eine Kanzlei 
 2. Automatische Prüfung (Schema, Taxonomie, Rechte, Links)
 3. Review durch mindestens eine Maintainerin oder einen Reviewer – bei neuen Kategorien oder Taxonomie-Werten 7 Tage öffentliche Kommentarfrist
 4. Merge oder begründete Ablehnung
+
+## 4a. Prüfung eigener Inhalte
+
+Vom Projekt verfasste Musterverträge und Leitfäden gelten erst als «fachlich geprüft», wenn ein Fach-Reviewer sie durchgesehen hat (`reviewed_by`, `reviewed_on`). Bis dahin zeigt die Website den Hinweis «Nicht fachlich geprüft».
 
 ## 5. Beständigkeit
 

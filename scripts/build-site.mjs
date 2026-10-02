@@ -8,7 +8,7 @@ import { mdToHtml } from './markdown.mjs';
 
 const BASE = (process.env.BASE_PATH || '/').replace(/\/?$/, '/');
 const SITE_NAME = 'Open Energy Archive';
-const REPO_URL = process.env.REPO_URL || 'https://github.com/open-energy-archive/open-energy-archive';
+const REPO_URL = process.env.REPO_URL || 'https://github.com/open-energy-archive/open-energy-archive.github.io';
 const AUTHOR_URL = 'https://www.bwlaw.ch/';
 const DIST = path.join(ROOT, 'dist');
 const LANGS = ['de', 'en'];
@@ -37,7 +37,8 @@ const T = {
     listTitle: 'Alle Dokumente', filterLabel: 'Dokumente filtern',
     f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Bund / Kanton', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link' },
     countOf: 'von', countDocs: 'Einträgen',
-    chipFree: 'Frei', chipLink: 'Nur Link',
+    chipFree: 'Frei', chipLink: 'Nur Link', chipUnreviewed: 'Nicht fachlich geprüft',
+    unreviewedNote: '<strong>Nicht fachlich geprüft.</strong> Dieses Muster wurde noch nicht von einer Fachperson für Energierecht geprüft. Verwendung auf eigene Verantwortung; Hinweise und Korrekturen sind willkommen.',
     crumbsAll: 'Alle Dokumente',
     readFull: 'Volltext lesen', onGithub: 'Auf GitHub ↗', toSource: 'Zur Originalquelle ↗', archiveCopy: 'Archivkopie',
     noteLabel: 'Hinweis zum Stand:',
@@ -66,7 +67,8 @@ const T = {
     listTitle: 'All documents', filterLabel: 'Filter documents',
     f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Federal / canton', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only' },
     countOf: 'of', countDocs: 'entries',
-    chipFree: 'Free', chipLink: 'Link only',
+    chipFree: 'Free', chipLink: 'Link only', chipUnreviewed: 'Not expert-reviewed',
+    unreviewedNote: '<strong>Not expert-reviewed.</strong> This template has not yet been reviewed by an energy-law specialist. Use at your own responsibility; comments and corrections are welcome.',
     crumbsAll: 'All documents',
     readFull: 'Read full text (German)', onGithub: 'On GitHub ↗', toSource: 'Go to original source ↗', archiveCopy: 'Archive copy',
     noteLabel: 'Status note:',
@@ -89,6 +91,7 @@ const MONTHS = {
 // ---------- Hilfsfunktionen ----------
 const esc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const url = (p = '') => BASE + p.replace(/^\//, '');
+const unreviewed = (d) => d.doc_type === 'contract_template' && !d.reviewed_by;
 const free = (d) => ['official_work', 'open_license', 'permission'].includes(d.rights?.status);
 function write(rel, content) {
   const out = path.join(DIST, rel);
@@ -191,7 +194,8 @@ function build(lang) {
 
   const chips = (d) => `<span class="chip chip-type">${esc(L('doc_types', d.doc_type))}</span>`
     + `<span class="chip">${esc(d.subdivision ? L('subdivisions', d.subdivision) : L('jurisdictions', d.jurisdiction))}</span>`
-    + `<span class="chip chip-rights ${free(d) ? 'is-free' : 'is-link'}">${free(d) ? t.chipFree : t.chipLink}</span>`;
+    + `<span class="chip chip-rights ${free(d) ? 'is-free' : 'is-link'}">${free(d) ? t.chipFree : t.chipLink}</span>`
+    + (unreviewed(d) ? `<span class="chip chip-warn">${t.chipUnreviewed}</span>` : '');
   const cardTitle = (d) => { const ti = title(d); return d.short_title && !ti.includes(d.short_title) ? `${d.short_title} – ${ti}` : ti; };
   const card = (d, attrs = '') => `<li class="card"${attrs}>
   <div class="card-meta">${chips(d)}<span class="date">${esc(fmtDate(d.date, d.date_precision))}</span></div>
@@ -312,6 +316,7 @@ ${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d
     ${lang === 'de' ? (d.downloads || []).map((x) => `<a class="btn" href="${url(x.path)}" download>${esc(x.label)} ↓</a>`).join('') : ''}
     ${(d.alternate_urls || []).map((a) => `<a class="btn" href="${esc(a.url)}" rel="noopener">${esc(a.label)} ↗</a>`).join('')}
   </div>
+  ${unreviewed(d) ? `<aside class="note warn" role="note">${t.unreviewedNote}</aside>` : ''}
   ${note ? `<aside class="note"><strong>${t.noteLabel}</strong> ${esc(note)}</aside>` : ''}
   <dl class="meta" data-pagefind-ignore>${rows.map(([k, v, lg]) => `<div><dt>${k}</dt><dd${lg ? ` lang="${lg}"` : ''}>${esc(v)}</dd></div>`).join('')}</dl>
   <div class="topics" data-pagefind-ignore><h2>${t.topics}</h2><ul class="tag-list">${d.topics.map((x) => `<li><a href="${page('list', `?topic=${x}`)}">${esc(L('topics', x))}</a></li>`).join('')}</ul></div>

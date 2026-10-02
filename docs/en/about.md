@@ -40,8 +40,8 @@ The archive does not replace legal advice. Status and entry-into-force informati
 
 ## Who is behind it
 
-The Open Energy Archive is an initiative by Bernhard Weber, lawyer in Zurich ([bwlaw.ch](https://www.bwlaw.ch/)). It is non-commercial and open to contributions from anyone.
+The Open Energy Archive is an initiative by Bernhard Weber, lawyer in Zurich ([bwlaw.ch](https://www.bwlaw.ch/)). It is non-commercial and open to contributions from anyone. The initiator is a lawyer but not an energy-law specialist. Entries are researched carefully; for expert review – especially of the model contracts – the project is looking for [reviewers](../contribute/).
 
 ## Contact
 
-Questions, suggestions and removal requests: [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive/issues) or via [bwlaw.ch](https://www.bwlaw.ch/).
+Questions, suggestions and removal requests: [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive.github.io/issues) or via [bwlaw.ch](https://www.bwlaw.ch/).

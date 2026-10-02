@@ -6,6 +6,7 @@
 - [ ] 100 Dokumente: alle Bundeserlasse im Bereich SR 73x, ElCom-Weisungen, wichtigste BGer-/BVGer-Entscheide
 - [ ] Kantonale Energiegesetze: 10 von 26 erfasst (ZH, BE, VD, GE, AG, LU, SG, BS, TI, GR)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
+- [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-Muster prüfen lassen
 - [ ] Weitere Musterverträge: ZEV, vZEV, PPA, LEG als Teilnahmevertrag mit Betreiberin
 - [ ] Französische und italienische Metadaten
 

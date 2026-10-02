@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/open-energy-archive/open-energy-archive/schema/document.schema.json",
+  "$id": "https://github.com/open-energy-archive/open-energy-archive.github.io/schema/document.schema.json",
   "title": "Open Energy Archive – Dokument",
   "type": "object",
   "additionalProperties": false,
@@ -205,6 +205,14 @@
     },
     "status_note_en": {
       "type": "string"
+    },
+    "reviewed_by": {
+      "type": "string",
+      "description": "Fach-Reviewer, der den Inhalt geprüft hat (bei eigenen Mustern Pflicht für den Status «geprüft»)"
+    },
+    "reviewed_on": {
+      "type": "string",
+      "format": "date"
     }
   }
 }

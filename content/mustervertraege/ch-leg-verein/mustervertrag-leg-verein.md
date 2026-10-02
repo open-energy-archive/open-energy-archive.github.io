@@ -4,6 +4,8 @@
 
 Version 1.0 · Stand 29. September 2026 · Schweiz · Lizenz CC BY 4.0 («Open Energy Archive, CC BY 4.0»)
 
+> **Nicht fachlich geprüft.** Dieses Muster wurde noch nicht von einer Fachperson für Energierecht geprüft. Hinweise und Korrekturen sind willkommen (GitHub Issues).
+>
 > **Keine Rechtsberatung.** Dieses Muster ist ein Ausgangspunkt, kein fertiger Vertrag. Es bildet die Rechtslage gemäss StromVG und StromVV mit Stand 1. Juli 2026 ab. Vor der Verwendung an die konkreten Verhältnisse anpassen und mit dem Verteilnetzbetreiber abstimmen. Bei grösseren Gemeinschaften oder Speichern Fachberatung beiziehen.
 
 ## Gebrauchsanleitung

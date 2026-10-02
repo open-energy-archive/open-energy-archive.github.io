@@ -2,7 +2,7 @@
 
 ## Responsible
 
-Bernhard Weber, Zurich, Switzerland · Contact via [bwlaw.ch](https://www.bwlaw.ch/) or [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive/issues)
+Bernhard Weber, Zurich, Switzerland · Contact via [bwlaw.ch](https://www.bwlaw.ch/) or [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive.github.io/issues)
 
 The Open Energy Archive is a non-commercial project with no advertising purpose.
 

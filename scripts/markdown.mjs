@@ -7,7 +7,7 @@ export function mdToHtml(src, shift = 0, REPO_URL = '') {
   const inline = (s) => esc(s)
     .replace(/`([^`]+)`/g, '<code>$1</code>')
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, t, h) => `<a href="${h.startsWith('http') || h.startsWith('#') ? h : REPO_URL + '/blob/main/' + h.replace(/^\.\//, '')}">${t}</a>`)
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, t, h) => `<a href="${h.startsWith('http') || h.startsWith('#') || h.startsWith('../') ? h : REPO_URL + '/blob/main/' + h.replace(/^\.\//, '')}">${t}</a>`)
     .replace(/(^|[\s(])(https:\/\/[^\s<)]+)/g, '$1<a href="$2" rel="noopener">$2</a>');
   const out = []; let list = null; let para = []; let quote = []; let table = [];
   const flushP = () => { if (para.length) { out.push(`<p>${inline(para.join(' '))}</p>`); para = []; } };

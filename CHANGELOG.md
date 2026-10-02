@@ -2,6 +2,12 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.5.1] – 2026-10-02
+
+### Geändert
+- Titel und Beschriftungen ohne Grossbuchstaben
+- Fliesstext nutzt die ganze Inhaltsbreite (keine schmalen Textspalten mehr)
+
 ## [0.5.0] – 2026-10-02
 
 ### Neu

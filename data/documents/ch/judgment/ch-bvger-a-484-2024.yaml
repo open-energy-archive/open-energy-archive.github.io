@@ -1,0 +1,20 @@
+id: ch-bvger-a-484-2024
+title: "Urteil des Bundesverwaltungsgerichts A-484/2024 vom 20. Juni 2025 (Politische Gemeinde Rorschacherberg und A. gegen ElCom) – Smart Meter: Duldungspflicht, Abschaltfunktion und Datenbearbeitung"
+title_en: "Federal Administrative Court A-484/2024 – smart meters: duty to accept installation, disconnection function and data processing"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-484/2024 / A-503/2024"
+date: 2025-06-20
+status: final
+languages: [de]
+topics: [grid]
+summary_de: "Nach der Rückweisung im Urteil A-2372/2021 bestätigte das Bundesverwaltungsgericht die neue Verfügung der ElCom vom 5. Dezember 2023 im Wesentlichen. Endverbraucher müssen den Einbau eines intelligenten Messsystems auch ohne Zustimmung dulden; statt eines Ausbaus genügt ein Nutzungsverbot der Abschaltfunktion, und die Erfassung von Viertelstunden-Lastgängen mit fünfjähriger Aufbewahrung ist verhältnismässig. Zudem hielt das Gericht fest, dass einer Gemeinde als Netzbetreiberin Verfahrenskosten auferlegt werden können."
+source_url: "https://bvger.weblaw.ch/pdf/A-484-2024_2025-06-20_f6e4ccf7-ef74-4758-ba93-8688e2682770.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv, ch-bvger-a-2372-2021]
+added: 2026-10-02
+last_checked: 2026-10-02

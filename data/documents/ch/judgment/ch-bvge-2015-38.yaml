@@ -1,0 +1,20 @@
+id: ch-bvge-2015-38
+title: "Urteil des Bundesverwaltungsgerichts A-2850/2014 vom 28. Mai 2015 (Heuberge AG gegen Repower Schweiz AG und ElCom) – Zuständigkeit für Netzanschlusskosten und Netzkostenbeiträge (BVGE 2015/38)"
+title_en: "Federal Administrative Court BVGE 2015/38 (A-2850/2014) – ElCom has no jurisdiction over grid connection costs and grid cost contributions"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "BVGE 2015/38 / A-2850/2014"
+date: 2015-05-28
+status: final
+languages: [de]
+topics: [grid, tariffs]
+summary_de: "Die ElCom hatte sich für die Festlegung von Netzanschlusskosten und Netzkostenbeiträgen als unzuständig erklärt. Das Bundesverwaltungsgericht bestätigte dies im publizierten Leitentscheid: Aus dem Sachzusammenhang zwischen Netznutzungsentgelt und Anschlusskosten lasse sich keine Prüfungsbefugnis der ElCom ableiten. Art. 5 Abs. 2 StromVG begründe lediglich eine Anschlusspflicht, während sich die Kostentragung weiterhin nach kantonalem oder kommunalem Recht oder nach Vertrag richte."
+source_url: "https://entscheide.weblaw.ch/cache.php?link=bvge-2015-38&sel_lang=de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg]
+added: 2026-10-02
+last_checked: 2026-10-02

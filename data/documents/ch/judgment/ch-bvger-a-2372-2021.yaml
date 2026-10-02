@@ -1,0 +1,21 @@
+id: ch-bvger-a-2372-2021
+title: "Urteil des Bundesverwaltungsgerichts A-2372/2021 vom 26. Juli 2022 (X. gegen Politische Gemeinde Rorschacherberg und ElCom) – Smart Meter, Abschaltfunktion und Datenbearbeitung"
+title_en: "Federal Administrative Court A-2372/2021 – smart meters: remote disconnection function and data processing"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-2372/2021"
+date: 2022-07-26
+status: final
+status_note: "Rückweisung an die ElCom; deren neue Verfügung wurde mit Urteil A-484/2024 vom 20. Juni 2025 beurteilt"
+languages: [de]
+topics: [grid]
+summary_de: "Ein Endverbraucher wehrte sich gegen den Einbau eines intelligenten Messsystems durch seine Netzbetreiberin. Das Bundesverwaltungsgericht beurteilte den Smart Meter nach dem seit 1. Januar 2018 geltenden Recht und hielt fest, dass eine noch ausstehende Datensicherheitsprüfung den Betrieb nicht ausschliesst. Die Abschaltfunktion gelte jedoch als Steuer- und Regelsystem, das nach Art. 17b Abs. 3 StromVG die Zustimmung des Betroffenen erfordert; zudem habe die ElCom den Umfang der Datenbearbeitung ungenügend geprüft, weshalb die Sache teilweise zurückgewiesen wurde."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-2372-2021_2022-07-26.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv, ch-bvger-a-484-2024]
+added: 2026-10-02
+last_checked: 2026-10-02

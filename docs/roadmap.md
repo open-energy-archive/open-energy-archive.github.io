@@ -2,7 +2,7 @@
 
 ## Phase 1 – Schweiz (jetzt)
 - [x] Struktur, Schema, Website mit Suche
-- [x] Erste 18 Dokumente (Bund, ElCom, Bundesgericht, BFE, VSE)
+- [x] Erste 42 Einträge (Bund, ElCom, Bundesgericht, Bundesverwaltungsgericht, BFE, VSE)
 - [ ] 100 Dokumente: alle Bundeserlasse im Bereich SR 73x, ElCom-Weisungen, wichtigste BGer-/BVGer-Entscheide
 - [ ] Kantonale Energiegesetze (26 Kantone)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)

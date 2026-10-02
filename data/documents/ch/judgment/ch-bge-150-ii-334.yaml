@@ -1,0 +1,21 @@
+id: ch-bge-150-ii-334
+title: "BGE 150 II 334 (Urteil 2C_174/2023) – Einspeisevergütung: Abgrenzung von Mischanlagen und Hybridanlagen, Klärgas in einer Biogasanlage"
+title_en: "Federal Supreme Court BGE 150 II 334 (2C_174/2023) – feed-in remuneration: mixed vs. hybrid plants, sewage gas in a biogas plant"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "BGE 150 II 334 / 2C_174/2023"
+date: 2024-03-22
+status: final
+status_note: "Amtlich publiziert als BGE 150 II 334; Beschwerde des UVEK gutgeheissen, Rückweisung an die Pronovo AG zur Neuberechnung des Vergütungssatzes"
+languages: [de]
+topics: [renewables, subsidies]
+summary_de: "Die Betreiberin einer im Einspeisevergütungssystem geförderten Biogasanlage wollte zusätzlich zugekauftes Klärgas verstromen; strittig war, ob es sich um eine Misch- oder eine Hybridanlage handelt und wie der Vergütungssatz zu berechnen ist. Das Bundesgericht qualifizierte die Anlage als Hybridanlage, hielt aber fest, dass Klärgas kein förderberechtigter Energieträger ist und der Vergütungssatz nach dem Energieanteil der einzelnen Energieträger gewichtet neu zu berechnen ist, wobei auf den Klärgasanteil keine Vergütung entfällt. Die Beschwerde des UVEK wurde gutgeheissen und die Sache an die Pronovo AG zurückgewiesen."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F150-II-334%3Ade&lang=de&zoom=IN&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-03-enfv]
+added: 2026-10-02
+last_checked: 2026-10-02

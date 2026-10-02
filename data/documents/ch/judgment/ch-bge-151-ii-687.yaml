@@ -1,0 +1,21 @@
+id: ch-bge-151-ii-687
+title: "BGE 151 II 687 (Urteil 2C_21/2024) – Individuelle Prüfung der Netznutzungstarife 2009–2016, Basisjahrprinzip und Beweisrecht"
+title_en: "Federal Supreme Court BGE 151 II 687 (2C_21/2024) – individual review of grid usage tariffs 2009–2016, base-year principle and rules of evidence"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "BGE 151 II 687 / 2C_21/2024"
+date: 2025-02-05
+status: final
+status_note: "Amtlich publiziert als BGE 151 II 687; Beschwerde abgewiesen"
+languages: [de]
+topics: [grid, tariffs]
+summary_de: "Ein Endverbraucher verlangte im Streitfall vor der ElCom die Überprüfung der Netznutzungstarife der CKW AG für die Jahre 2009 bis 2016 und rügte unter anderem eine ungenügende Sachverhaltsabklärung und eine eingeschränkte Akteneinsicht. Das Bundesgericht hielt fest, dass im individuellen Tarifprüfungsverfahren derselbe Prüfmassstab wie bei einer Prüfung von Amtes wegen gilt und nach dem Basisjahrprinzip auf die effektiven Kosten des letzten abgeschlossenen Geschäftsjahres abzustellen ist; die ElCom darf sich ohne konkrete Zweifel auf die deklarierten Werte der Kostenrechnung stützen. Die Beschwerde wurde abgewiesen."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F151-II-687%3Ade&lang=de&zoom=IN&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-elcom-212-00282, ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

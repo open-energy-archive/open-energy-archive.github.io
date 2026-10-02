@@ -1,0 +1,21 @@
+id: ch-bger-2c-632-2016
+title: "Urteil des Bundesgerichts 2C_632/2016 vom 6. November 2017 (Stadt Winterthur gegen Swissgrid AG) – Vorrang bei der Zuteilung grenzüberschreitender Übertragungskapazitäten"
+title_en: "Federal Supreme Court 2C_632/2016 – priority in the allocation of cross-border transmission capacity"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "2C_632/2016"
+date: 2017-11-06
+status: final
+status_note: "Nicht amtlich publiziert; Beschwerde abgewiesen"
+languages: [de]
+topics: [cross_border, grid, market]
+summary_de: "Die Stadt Winterthur beschaffte ab 2014 Strom für ihre grundversorgten Endverbraucher im europäischen Markt und verlangte, dass die entsprechenden Importe bei der Zuteilung grenzüberschreitender Netzkapazitäten nach Art. 17 Abs. 2 StromVG Vorrang erhalten. Das Bundesgericht entschied, dass dieser Vorrang nur gewährt wird, wenn der Import zur Erfüllung der Versorgungspflicht notwendig ist; ein blosser Preisvorteil gegenüber inländischer Beschaffung genügt nicht. Die Beschwerde wurde abgewiesen."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=highlight_simple_query&query_words=2C_632%2F2016&highlight_docid=2017-11-06-2C_632-2016"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,21 @@
+id: ch-bge-148-iii-172
+title: "BGE 148 III 172 (Urteil 4A_275/2021, 4A_283/2021) – Ausgleichsenergie von Swissgrid, Zuständigkeit und Verfassungswidrigkeit von Art. 5 Abs. 5 StromVV"
+title_en: "Federal Supreme Court BGE 148 III 172 (4A_275/2021) – Swissgrid balancing energy, jurisdiction and unconstitutionality of Art. 5(5) StromVV"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. zivilrechtliche Abteilung"
+reference: "BGE 148 III 172 / 4A_275/2021"
+date: 2022-01-11
+status: final
+status_note: "Amtlich publiziert als BGE 148 III 172; Zuständigkeit der Zivilgerichte verneint"
+languages: [de]
+topics: [grid, supply_security]
+summary_de: "Zwei Unternehmen klagten vor einem kantonalen Handelsgericht gegen Swissgrid auf Korrektur einer Bilanzgruppenabrechnung und Rückerstattung von Kosten für Ausgleichsenergie, die nach einem Eingriff von Swissgrid zur Gewährleistung der Netzsicherheit verrechnet worden waren. Das Bundesgericht qualifizierte die zugrunde liegenden Vereinbarungen als öffentlich-rechtlich und hielt fest, dass Art. 5 Abs. 5 StromVV gegen Art. 164 und Art. 182 Abs. 1 BV verstösst, soweit er Streitigkeiten aus öffentlich-rechtlichen Verhältnissen auf den Zivilweg verweist, da eine solche Zuständigkeitsregelung ein formelles Gesetz erfordert. Die Zivilgerichte waren daher für die Klage nicht zuständig."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F148-III-172%3Ade&lang=de&zoom=IN&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv, ch-bge-144-iii-111]
+added: 2026-10-02
+last_checked: 2026-10-02

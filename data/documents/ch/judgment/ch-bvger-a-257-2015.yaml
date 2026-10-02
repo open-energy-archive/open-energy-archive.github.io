@@ -1,0 +1,21 @@
+id: ch-bvger-a-257-2015
+title: "Urteil des Bundesverwaltungsgerichts A-257/2015 vom 13. November 2015 (AlpTransit Gotthard AG und AET gegen EKZ, Consorzio Lotto 814 und ElCom) – Netzzugang und Endverbrauchereigenschaft auf einer Tunnelbaustelle"
+title_en: "Federal Administrative Court A-257/2015 – grid access and end-consumer status on the AlpTransit construction site"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-257/2015"
+date: 2015-11-13
+status: final
+status_note: "Aufgehoben durch das Bundesgericht (Urteil 2C_12/2016 vom 16. August 2016, gemeinsam mit 2C_13/2016); die Verfügung der ElCom wurde bestätigt"
+languages: [de]
+topics: [market, grid]
+summary_de: "Die ElCom hatte einem Baukonsortium für die Baustelle des Ceneri-Basistunnels als Endverbraucher Netzzugang gewährt. Das Bundesverwaltungsgericht hob diesen Entscheid auf und stellte für die Endverbrauchereigenschaft auf die werkvertragliche Regelung ab, wonach die Bauherrin AlpTransit Gotthard AG den Strom beschafft. Das Bundesgericht hob das Urteil später auf und hielt fest, dass sich die Endverbrauchereigenschaft aus dem Gesetz und nicht aus vertraglichen Konstruktionen ergibt."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-257-2015_2015-11-13.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

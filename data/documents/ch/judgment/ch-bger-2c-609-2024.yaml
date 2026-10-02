@@ -4,18 +4,21 @@ title_en: "Federal Supreme Court 2C_609/2024 – review of electricity tariffs 2
 doc_type: judgment
 jurisdiction: CH
 issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
-reference: "2C_609/2024"
+reference: "BGE 152 II 364 / 2C_609/2024"
 date: 2025-12-03
 status: final
-status_note: "Zur amtlichen Publikation vorgesehen (nicht abschliessend geprüft)."
+status_note: "Amtlich publiziert als BGE 152 II 364. Vorinstanz: BVGer A-5380/2022 (aufgehoben)."
 languages: [de]
 topics: [tariffs, market, grid]
 summary_de: "Das Bundesgericht entschied, dass Gewinnablieferungen an das Gemeinwesen über den regulierten Gewinn hinaus nicht dem Energietarif, sondern den Abgaben und Leistungen an Gemeinwesen im Netztarif zuzuordnen sind. Abgaben auf der Energie sind nur zulässig, wenn sie direkt mit der Energieproduktion zusammenhängen."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F03-12-2025-2C_609-2024&lang=de&type=show_document"
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=highlight_simple_query&query_words=2C_609%2F2024&highlight_docid=2025-12-03-2C_609-2024"
+alternate_urls:
+  - label: "BGE 152 II 364"
+    url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F152-II-364%3Ade&lang=de&zoom=IN&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"
   mirror_allowed: true
-related: [ch-elcom-weisung-7-2025]
+related: [ch-elcom-weisung-7-2025, ch-bvger-a-5380-2022]
 added: 2026-09-25
 last_checked: 2026-09-25

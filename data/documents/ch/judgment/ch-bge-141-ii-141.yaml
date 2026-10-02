@@ -1,0 +1,21 @@
+id: ch-bge-141-ii-141
+title: "BGE 141 II 141 (Urteil 2C_300/2014) – Rechte und Pflichten von Verteilnetzbetreibern, Arealnetzbetreibern und Endverbrauchern in Arealnetzen"
+title_en: "Federal Supreme Court BGE 141 II 141 (2C_300/2014) – rights and obligations of distribution system operators, site network operators and end users in site networks"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "BGE 141 II 141 / 2C_300/2014"
+date: 2015-02-09
+status: final
+status_note: "Amtlich publiziert als BGE 141 II 141; Beschwerde im Sinne der Erwägungen abgewiesen, soweit darauf eingetreten"
+languages: [de]
+topics: [grid, market, self_consumption]
+summary_de: "Die Betreiberin eines Arealnetzes in einem Einkaufszentrum stritt mit der Energie Thun AG darüber, ob die Mieter im Areal als Endverbraucher im Sinne des Stromversorgungsrechts gelten und wie die Elektrizitätsleistungen zur Feinverteilung abzurechnen sind. Das Bundesgericht klärte die Stellung der Arealnetzbetreiber gegenüber dem Verteilnetzbetreiber und den Endverbrauchern und hielt fest, dass die Endverbraucher im Arealnetz ihre stromversorgungsrechtlichen Ansprüche behalten und der Arealnetzbetreiber deren Verbrauch nicht ohne Weiteres bündeln kann. Die Beschwerde wurde abgewiesen."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F141-II-141%3Ade&lang=de&zoom=IN&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

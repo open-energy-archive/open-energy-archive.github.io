@@ -7,7 +7,7 @@ issuer: "Eidgenössische Elektrizitätskommission ElCom"
 reference: "212-00282"
 date: 2021-08-18
 status: final
-status_note: "Rechtsmittelverfahren nicht geprüft."
+status_note: "Weitergezogen; das Bundesgericht wies die Beschwerde letztinstanzlich ab (BGE 151 II 687 / 2C_21/2024)."
 languages: [de]
 topics: [grid, tariffs]
 summary_de: "Die ElCom kam zum Schluss, dass der Netzbetreiber seine Tarife zu Recht auf Plankosten gestützt hat und eine nachträgliche Neuberechnung mit Ist-Kosten nicht verlangt werden kann. Abweichungen werden über Deckungsdifferenzen in künftigen Tarifperioden ausgeglichen."
@@ -16,5 +16,6 @@ rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"
   mirror_allowed: true
+related: [ch-bge-151-ii-687]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-02

@@ -1,0 +1,21 @@
+id: ch-bvger-a-212-2011
+title: "Urteil des Bundesverwaltungsgerichts A-212/2011 vom 25. April 2012 (Kraftwerke Vorderrhein AG gegen swissgrid ag und ElCom) – Definition und Abgrenzung des Übertragungsnetzes"
+title_en: "Federal Administrative Court A-212/2011 – definition of the transmission grid and transfer of switchgear to Swissgrid"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-212/2011"
+date: 2012-04-25
+status: final
+status_note: "Bestätigt durch Urteil des Bundesgerichts 2C_546/2012 vom 10. Dezember 2012 (Beschwerde abgewiesen)"
+languages: [de]
+topics: [grid, hydro]
+summary_de: "Strittig war, ob Schaltanlagen und Schaltfelder vor den Transformatoren an der Schnittstelle zwischen den Netzebenen zum Übertragungsnetz gehören und daher ins Eigentum der nationalen Netzgesellschaft zu überführen sind, obwohl sie einer wasserrechtlichen Heimfallregelung unterstehen. Das Bundesverwaltungsgericht bejahte die Zugehörigkeit zum Übertragungsnetz gestützt auf Art. 4 Abs. 1 lit. h StromVG und Art. 2 Abs. 2 StromVV und hielt fest, dass Art. 18 StromVG das Eigentum der Netzgesellschaft am Übertragungsnetz verlangt. Der Eingriff in die Eigentumsgarantie sei verhältnismässig, und das Bundesrecht gehe kantonalen Heimfallbestimmungen vor; die Beschwerde wurde abgewiesen."
+source_url: "https://bvger.weblaw.ch/pdf/A-212-2011_2012-04-25_c798521f-7098-4172-93f3-ca010c978c00.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

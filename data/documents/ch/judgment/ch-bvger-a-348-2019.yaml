@@ -1,0 +1,20 @@
+id: ch-bvger-a-348-2019
+title: "Urteil des Bundesverwaltungsgerichts A-348/2019 vom 28. August 2019 (A. gegen Pronovo AG) – Einmalvergütung, Einstufung einer Photovoltaikanlage als integriert"
+title_en: "Federal Administrative Court A-348/2019 – one-off remuneration: classification of a PV system as integrated"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-348/2019"
+date: 2019-08-28
+status: final
+languages: [de]
+topics: [renewables, solar, subsidies]
+summary_de: "Strittig war, ob eine Photovoltaikanlage für die Einmalvergütung als angebaut oder als integriert gilt. Das Bundesverwaltungsgericht verlangte nach Art. 6 Abs. 2 EnFV kumulativ eine bauliche Integration, bei der das ersetzte Bauteil tatsächlich entfernt wird, sowie eine Doppelfunktion wie Witterungsschutz. Da die ursprüngliche Dacheindeckung entfernt worden war und die Anlage das Regenwasser ableitete, hiess es die Beschwerde gut und stufte die Anlage als integriert ein."
+source_url: "https://entscheide.weblaw.ch/cache.php?link=28-08-2019-a-348-2019&sel_lang=de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-03-enfv]
+added: 2026-10-02
+last_checked: 2026-10-02

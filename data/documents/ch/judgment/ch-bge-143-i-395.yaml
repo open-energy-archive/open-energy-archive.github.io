@@ -1,0 +1,21 @@
+id: ch-bge-143-i-395
+title: "BGE 143 I 395 (Urteil 2C_1142/2016) – Kein Monopol des Netzbetreibers für Messdienstleistungen bei Produktionsanlagen"
+title_en: "Federal Supreme Court BGE 143 I 395 (2C_1142/2016) – no grid operator monopoly on metering services for generating plants"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "BGE 143 I 395 / 2C_1142/2016"
+date: 2017-07-14
+status: final
+status_note: "Amtlich publiziert als BGE 143 I 395; Beschwerde gutgeheissen, Rückweisung an die ElCom zu neuem Entscheid"
+languages: [de]
+topics: [grid, solar, market]
+summary_de: "Betreiber einer Photovoltaikanlage wollten die Messdienstleistungen für ihre Anlage durch einen Dritten statt durch den örtlichen Verteilnetzbetreiber erbringen lassen. Das Bundesgericht hielt fest, dass das gesetzliche Exklusivrecht nur den Netzbetrieb umfasst und das Messwesen bei Produktionsanlagen nicht dazugehört; die Wahl des Messdienstleisters fällt unter die Wirtschaftsfreiheit des Produzenten, wobei der Netzbetreiber technische und sicherheitsrelevante Anforderungen festlegen kann. Die Beschwerde wurde gutgeheissen und die Sache an die ElCom zurückgewiesen."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F143-I-395%3Ade&lang=de&zoom=IN&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,21 @@
+id: ch-bvger-a-5705-2018
+title: "Urteil des Bundesverwaltungsgerichts A-5705/2018 vom 6. Februar 2020 (Gemeinde Rüschlikon u.a. gegen ewz, Axpo Power AG und BFE) – Plangenehmigung 380/220-kV-Leitung Samstagern–Zürich, Freileitung statt Verkabelung"
+title_en: "Federal Administrative Court A-5705/2018 – plan approval for the 380/220 kV line Samstagern–Zurich: overhead line instead of underground cable"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-5705/2018"
+date: 2020-02-06
+status: final
+status_note: "Weitergezogen ans Bundesgericht (1C_141/2020, 1C_142/2020, 1C_145/2020, 1C_153/2020, Urteil vom 13. November 2020); nur im Kostenpunkt teilweise aufgehoben und zurückgewiesen"
+languages: [de]
+topics: [grid, permitting]
+summary_de: "Gegenstand war die Plangenehmigung des BFE vom 17. September 2018 für die 380/220-kV-Leitung Samstagern–Zürich mit mitgeführten SBB-Bahnstromleitungen sowie die 220-kV-Leitung Obfelden–Thalwil. Das Bundesverwaltungsgericht wies die Beschwerden ab, soweit es darauf eintrat, und bestätigte die Freileitungsvariante, weil eine Teilverkabelung mit separater SBB-Freileitung landschaftlich keine wesentlichen Vorteile gebracht hätte. Das Bundesgericht korrigierte später einzig die Kostenverlegung."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-5705-2018_2020-02-06.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg]
+added: 2026-10-02
+last_checked: 2026-10-02

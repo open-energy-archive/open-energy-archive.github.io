@@ -1,0 +1,21 @@
+id: ch-bvger-a-7036-2018
+title: "Urteil des Bundesverwaltungsgerichts A-7036/2018 vom 26. August 2019 (X. AG gegen Pronovo AG) – Aufnahme ins Einspeisevergütungssystem, Warteliste und anwendbarer Vergütungssatz"
+title_en: "Federal Administrative Court A-7036/2018 – admission to the feed-in remuneration system: waiting list and applicable tariff under the revised Energy Act"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-7036/2018"
+date: 2019-08-26
+status: final
+status_note: "Bestätigt durch Urteil des Bundesgerichts 2C_821/2019 vom 11. Februar 2020"
+languages: [de]
+topics: [renewables, solar, subsidies]
+summary_de: "Eine Photovoltaikanlage stand seit 2011 auf der KEV-Warteliste und wurde erst nach Inkrafttreten des revidierten Energiegesetzes ins Einspeisevergütungssystem aufgenommen. Das Bundesverwaltungsgericht hielt fest, dass nach Art. 72 EnG für Betreiber ohne positiven Bescheid das neue Recht gilt, auch wenn die Anlage bereits in Betrieb war; dies sei eine zulässige unechte Rückwirkung. Der Wartelistenbescheid begründe keinen Vertrauensschutz auf den früheren Vergütungssatz, weshalb der Satz nach geltender EnFV bestätigt und die Beschwerde abgewiesen wurde."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-7036-2018_2019-08-26.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-03-enfv]
+added: 2026-10-02
+last_checked: 2026-10-02

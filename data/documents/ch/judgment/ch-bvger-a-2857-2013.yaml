@@ -1,0 +1,21 @@
+id: ch-bvger-a-2857-2013
+title: "Urteil des Bundesverwaltungsgerichts A-2857/2013 vom 21. Oktober 2014 (Swissgrid AG gegen BKW und ElCom) – Verzinsung von Deckungsdifferenzen, Netznutzung Netzebene 1 2009"
+title_en: "Federal Administrative Court A-2857/2013 – interest on regulatory cost deficits (WACC of year t+2), transmission grid tariffs 2009"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-2857/2013"
+date: 2014-10-21
+status: final
+status_note: "Weitergezogen ans Bundesgericht; Beschwerde mit Urteil 2C_1076/2014 vom 4. Juni 2015 abgewiesen"
+languages: [de]
+topics: [grid, tariffs]
+summary_de: "Im Verfahren um die Kosten und Tarife 2009 für die Netznutzung auf Netzebene 1 focht Swissgrid die Methode der ElCom zur Verzinsung von Deckungsdifferenzen an. Das Bundesverwaltungsgericht bestätigte, dass Deckungsdifferenzen mit dem WACC des Jahres t+2 statt jenem des Jahres t verzinst werden dürfen, weil dies die wirtschaftlichen Verhältnisse im Zeitpunkt des Ausgleichs sachgerecht abbilde. Die Beschwerde wurde abgewiesen."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-2857-2013_2014-10-21.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

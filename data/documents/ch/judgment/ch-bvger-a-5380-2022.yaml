@@ -1,0 +1,21 @@
+id: ch-bvger-a-5380-2022
+title: "Urteil des Bundesverwaltungsgerichts A-5380/2022 vom 25. Oktober 2024 (Energie Wasser Bern gegen ElCom) – Elektrizitätstarife 2009 und 2010, Gewinnablieferung an die Stadt Bern"
+title_en: "Federal Administrative Court A-5380/2022 – electricity tariffs 2009/2010: allocation of profit distributions to the City of Bern"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesverwaltungsgericht, Abteilung I"
+reference: "A-5380/2022"
+date: 2024-10-25
+status: final
+status_note: "Auf Beschwerde des UVEK aufgehoben durch Urteil des Bundesgerichts 2C_609/2024 vom 3. Dezember 2025; die Verfügung der ElCom (211-00016 vom 18. Oktober 2022) wurde bestätigt"
+languages: [de]
+topics: [tariffs]
+summary_de: "Strittig war, ob die Gewinnablieferung von Energie Wasser Bern an die Stadt Bern in den Jahren 2009 und 2010 als Abgabe auf dem Energietarif oder auf dem Netznutzungstarif zu erheben war. Das Bundesverwaltungsgericht qualifizierte sie gestützt auf das kommunale Reglement als energiebezogene Abgabe, hob die Verfügung der ElCom in diesem Punkt auf und wies die Sache zur Neuberechnung zurück. Das Bundesgericht hob dieses Urteil später auf und hielt fest, dass Abgaben auf der Energie nur zulässig sind, wenn sie in direktem Zusammenhang mit der Energie stehen."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-5380-2022_2024-10-25.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-2c-609-2024, ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

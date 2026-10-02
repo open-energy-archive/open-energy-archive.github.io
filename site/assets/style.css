@@ -88,7 +88,7 @@ h2 { font-size: 1.05rem; font-weight: 600; margin: 32px 0 12px; }
 .chip-rights.is-link { background: var(--link-only-bg); border-color: transparent; color: var(--link-only); }
 .more { display: inline-block; margin-top: 16px; font-weight: 600; }
 
-.filters { display: grid; grid-template-columns: 2fr repeat(4, 1fr); gap: 12px; background: var(--soft); padding: 16px; margin-bottom: 8px; }
+.filters { display: grid; grid-template-columns: 2fr repeat(5, 1fr); gap: 12px; background: var(--soft); padding: 16px; margin-bottom: 8px; }
 .filters label { display: grid; gap: 4px; font-size: .75rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 .filters input, .filters select { font: inherit; font-size: .92rem; text-transform: none; letter-spacing: 0; padding: 8px; border: 1px solid var(--line); border-radius: 4px; background: #fff; color: var(--text); min-width: 0; }
 .filters input:focus, .filters select:focus { outline: 2px solid var(--accent); outline-offset: -1px; }

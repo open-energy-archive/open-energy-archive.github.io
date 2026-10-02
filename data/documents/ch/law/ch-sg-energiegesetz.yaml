@@ -1,0 +1,30 @@
+id: ch-sg-energiegesetz
+title: "Energiegesetz"
+title_en: "Energy Act of the Canton of St. Gallen"
+short_title: Energiegesetz SG
+doc_type: law
+jurisdiction: CH
+subdivision: CH-SG
+issuer: "Kantonsrat des Kantons St.Gallen"
+reference: "sGS 741.1"
+date: 2000-05-26
+status: in_force
+status_note: "Die Seite der Gesetzessammlung rendert nicht; Inhalt über LexFind geprüft (dort nur ältere Fassung bis IV. Nachtrag). Erlassen vom damaligen Grossen Rat. Gemäss sg.ch ist der VI. Nachtrag (Umsetzung MuKEn 2014) seit 1. Juli 2021 in Kraft: Eigenstromerzeugung bei Neubauten (mindestens 10 W/m²), erneuerbarer Anteil bzw. Standardlösungen beim Ersatz fossiler Heizungen mit Härtefallregelung. Weiter Grossverbraucherregelung (über 5 GWh Wärme bzw. 0,5 GWh Strom) und kantonale Förderbeiträge. Aktueller Stand nicht im Volltext verifiziert; offizielle Abkürzung nicht bestätigt."
+status_note_en: "The law collection page does not render; content checked via LexFind (older version up to the 4th supplement only). Enacted by the then Grand Council. According to sg.ch, the 6th supplement (implementing MuKEn 2014) has been in force since 1 July 2021: on-site electricity generation for new buildings (at least 10 W/m²), renewable share or standard solutions when replacing fossil heating, with hardship rules. Also large-consumer rules (over 5 GWh heat or 0.5 GWh electricity) and cantonal subsidies. Current consolidated version not verified in full text; official abbreviation not confirmed."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das St.Galler Energiegesetz regelt die sparsame und rationelle Energienutzung und die Förderung erneuerbarer Energien. Es enthält energetische Anforderungen an Gebäude, seit 2021 namentlich Eigenstromerzeugung bei Neubauten und Vorgaben beim Ersatz fossiler Heizungen, Pflichten für Grossverbraucher sowie Grundlagen für kantonale Förderbeiträge."
+summary_en: "The St. Gallen Energy Act governs economical and rational energy use and the promotion of renewable energy. It sets energy requirements for buildings, since 2021 notably on-site electricity generation for new buildings and rules on replacing fossil heating, obligations for large consumers and the basis for cantonal subsidies."
+source_url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/741.1"
+alternate_urls:
+  - label: "LexFind (ältere Fassung)"
+    url: "https://www.lexfind.ch/tolv/72687/de"
+  - label: "sg.ch – Neue Energieverordnung erlassen (Inkrafttreten VI. Nachtrag)"
+    url: "https://www.sg.ch/news/sgch_allgemein/2021/04/neue-energieverordnung-erlassen.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

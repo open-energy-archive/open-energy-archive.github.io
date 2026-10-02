@@ -1,0 +1,28 @@
+id: ch-zh-energg
+title: "Energiegesetz (EnerG)"
+title_en: "Energy Act of the Canton of Zurich"
+short_title: EnerG ZH
+doc_type: law
+jurisdiction: CH
+subdivision: CH-ZH
+issuer: "Kantonsrat des Kantons Zürich"
+reference: "LS 730.1"
+date: 1983-06-19
+status: in_force
+status_note: "ZHlex geprüft: aktuelle Fassung Nachtrag 129, in Kraft seit 1. Juli 2025 (Änderung vom 4. Dezember 2023, OS 80, 152); Inkraftsetzung des Grunderlasses 1. Juli 1986. Die Änderung zum Heizungsersatz (Volksabstimmung vom 28. November 2021) gilt seit 1. September 2022: Ersatz fossiler Heizungen am Ende der Lebensdauer durch klimafreundliche Systeme, soweit technisch möglich und finanziell tragbar; keine Öl- und Gasheizungen in Neubauten; Eigenstromerzeugung bei Neubauten."
+status_note_en: "Checked on ZHlex: current version supplement 129, in force since 1 July 2025 (amendment of 4 December 2023, OS 80, 152); original act brought into force 1 July 1986. The heating-replacement amendment (popular vote of 28 November 2021) applies since 1 September 2022: fossil heating to be replaced at end of life by climate-friendly systems where technically feasible and financially reasonable; no oil or gas heating in new buildings; on-site electricity generation for new buildings."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das Zürcher Energiegesetz regelt die sparsame und rationelle Energieverwendung sowie den Einsatz erneuerbarer Energien, insbesondere im Gebäudebereich. Es enthält Anforderungen an Neubauten und bestehende Bauten, seit 2022 namentlich die Pflicht zum klimaneutralen Heizungsersatz und zur Eigenstromerzeugung bei Neubauten, sowie Grundlagen für kantonale Förderbeiträge."
+summary_en: "The Zurich Energy Act governs economical and rational energy use and the use of renewable energy, especially in buildings. It sets requirements for new and existing buildings, since 2022 notably the obligation to replace fossil heating with climate-neutral systems and to generate electricity on-site in new buildings, and provides the basis for cantonal subsidies."
+source_url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-730_1-1983_06_19-1986_07_01-129.html"
+alternate_urls:
+  - label: "Medienmitteilung Kanton Zürich zur Inkraftsetzung 2022"
+    url: "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2022/06/klimaschutz-bald-wird-das-geaenderte-energiegesetz-in-kraft-gesetzt.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

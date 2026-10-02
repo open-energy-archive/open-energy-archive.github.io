@@ -1,0 +1,30 @@
+id: ch-vd-lvlene
+title: "Loi sur l'énergie (LVLEne)"
+title_en: "Energy Act of the Canton of Vaud"
+short_title: LVLEne VD
+doc_type: law
+jurisdiction: CH
+subdivision: CH-VD
+issuer: "Grand Conseil du Canton de Vaud"
+reference: "BLV 730.01"
+date: 2006-05-16
+status: in_force
+status_note: "Die BLV-Seite rendert nicht; Inhalt über LexFind geprüft (Fassung in Kraft seit 1. März 2022). Gemäss vd.ch gilt das Gesetz vom 16. Mai 2006 bis 31. Dezember 2026; der Grosse Rat hat am 3. Februar 2026 eine neue, totalrevidierte LVLEne verabschiedet, die im Januar 2027 in Kraft treten soll (eigener Eintrag erforderlich). Inhalt u. a.: Deckung von mindestens 30 % des Warmwasserbedarfs von Neubauten mit Solarkollektoren oder erneuerbarer Energie, Grossverbraucher (über 5 GWh Wärme bzw. 0,5 GWh Strom), Einschränkungen für Elektroheizungen, Förderbeiträge."
+status_note_en: "The BLV page does not render; content checked via LexFind (version in force since 1 March 2022). According to vd.ch, the Act of 16 May 2006 applies until 31 December 2026; on 3 February 2026 the Grand Council adopted a new, totally revised LVLEne scheduled to enter into force in January 2027 (needs its own entry). Content includes: at least 30% of hot water demand of new buildings from solar collectors or renewables, large consumers (over 5 GWh heat or 0.5 GWh electricity), restrictions on electric heating, subsidies."
+languages: [fr]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das Waadtländer Energiegesetz fördert eine sichere, wirtschaftliche und umweltschonende Energieversorgung, die rationelle Energienutzung und die erneuerbaren Energien. Es enthält Anforderungen an Gebäude und Heizungen, eine Teildeckung des Warmwasserbedarfs von Neubauten durch Solarenergie, Pflichten für Grossverbraucher sowie Grundlagen für kantonale Förderbeiträge."
+summary_en: "The Vaud Energy Act promotes a secure, economical and environmentally sound energy supply, rational energy use and renewable energy. It sets requirements for buildings and heating systems, partial coverage of hot water demand in new buildings by solar energy, obligations for large consumers and the basis for cantonal subsidies."
+source_url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/730.01"
+alternate_urls:
+  - label: "LexFind"
+    url: "https://www.lexfind.ch/tolv/214813/fr"
+  - label: "vd.ch – Législation sur l'énergie jusqu'au 31 décembre 2026"
+    url: "https://www.vd.ch/environnement/energie/legislation-2"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

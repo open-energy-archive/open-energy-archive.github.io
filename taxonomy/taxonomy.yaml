@@ -25,6 +25,35 @@ jurisdictions:
   EU: { de: "Europäische Union", en: "European Union" }
   INT: { de: "International", en: "International" }
 
+subdivisions:
+  # Kantone (CH-XX); Bundesländer folgen mit DE-XX / AT-X
+  CH-AG: { de: "Kanton Aargau", en: "Canton of Aargau" }
+  CH-AI: { de: "Kanton Appenzell Innerrhoden", en: "Canton of Appenzell Innerrhoden" }
+  CH-AR: { de: "Kanton Appenzell Ausserrhoden", en: "Canton of Appenzell Ausserrhoden" }
+  CH-BE: { de: "Kanton Bern", en: "Canton of Bern" }
+  CH-BL: { de: "Kanton Basel-Landschaft", en: "Canton of Basel-Landschaft" }
+  CH-BS: { de: "Kanton Basel-Stadt", en: "Canton of Basel-Stadt" }
+  CH-FR: { de: "Kanton Freiburg", en: "Canton of Fribourg" }
+  CH-GE: { de: "Kanton Genf", en: "Canton of Geneva" }
+  CH-GL: { de: "Kanton Glarus", en: "Canton of Glarus" }
+  CH-GR: { de: "Kanton Graubünden", en: "Canton of Graubünden" }
+  CH-JU: { de: "Kanton Jura", en: "Canton of Jura" }
+  CH-LU: { de: "Kanton Luzern", en: "Canton of Lucerne" }
+  CH-NE: { de: "Kanton Neuenburg", en: "Canton of Neuchâtel" }
+  CH-NW: { de: "Kanton Nidwalden", en: "Canton of Nidwalden" }
+  CH-OW: { de: "Kanton Obwalden", en: "Canton of Obwalden" }
+  CH-SG: { de: "Kanton St. Gallen", en: "Canton of St. Gallen" }
+  CH-SH: { de: "Kanton Schaffhausen", en: "Canton of Schaffhausen" }
+  CH-SO: { de: "Kanton Solothurn", en: "Canton of Solothurn" }
+  CH-SZ: { de: "Kanton Schwyz", en: "Canton of Schwyz" }
+  CH-TG: { de: "Kanton Thurgau", en: "Canton of Thurgau" }
+  CH-TI: { de: "Kanton Tessin", en: "Canton of Ticino" }
+  CH-UR: { de: "Kanton Uri", en: "Canton of Uri" }
+  CH-VD: { de: "Kanton Waadt", en: "Canton of Vaud" }
+  CH-VS: { de: "Kanton Wallis", en: "Canton of Valais" }
+  CH-ZG: { de: "Kanton Zug", en: "Canton of Zug" }
+  CH-ZH: { de: "Kanton Zürich", en: "Canton of Zurich" }
+
 topics:
   grid:              { de: "Netz & Netzanschluss",      en: "Grid & connection" }
   market:            { de: "Strommarkt",                en: "Electricity market" }

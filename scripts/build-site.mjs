@@ -35,7 +35,7 @@ const T = {
     noJs: 'Die Suche benötigt JavaScript.', listLink: 'Alle Dokumente als Liste',
     byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt ergänzt', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
     listTitle: 'Alle Dokumente', filterLabel: 'Dokumente filtern',
-    f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link' },
+    f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Bund / Kanton', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link' },
     countOf: 'von', countDocs: 'Einträgen',
     chipFree: 'Frei', chipLink: 'Nur Link',
     crumbsAll: 'Alle Dokumente',
@@ -44,7 +44,7 @@ const T = {
     meta: { type: 'Typ', jur: 'Rechtsraum', issuer: 'Herausgeber', ref: 'Referenz', date: 'Datum', status: 'Status', langs: 'Sprachen', rights: 'Rechte', checked: 'Zuletzt geprüft', orig: null },
     topics: 'Themen', related: 'Verwandte Dokumente',
     editMeta: 'Metadaten auf GitHub korrigieren', reportError: 'Fehler melden',
-    filterNames: { jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte' },
+    filterNames: { jur: 'Rechtsraum', level: 'Bund / Kanton', type: 'Typ', topic: 'Thema', rights: 'Rechte' },
     notFound: 'Seite nicht gefunden', toSearch: 'Zur Suche',
     footerDisclaimer: '<strong>Keine Rechtsberatung.</strong> Das Archiv verweist auf öffentlich zugängliche Dokumente. Massgebend ist stets die verlinkte amtliche Quelle.',
     footerLegal: 'Impressum & Datenschutz', footerSource: 'Quellcode', footerLicences: 'Lizenzen',
@@ -64,7 +64,7 @@ const T = {
     noJs: 'Search requires JavaScript.', listLink: 'All documents as a list',
     byTopic: 'By topic', byType: 'By type', latest: 'Recently added', showAll: (n) => `Show all ${n} entries →`,
     listTitle: 'All documents', filterLabel: 'Filter documents',
-    f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', all: 'All', free: 'Freely available', link: 'Link only' },
+    f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Federal / canton', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only' },
     countOf: 'of', countDocs: 'entries',
     chipFree: 'Free', chipLink: 'Link only',
     crumbsAll: 'All documents',
@@ -73,7 +73,7 @@ const T = {
     meta: { type: 'Type', jur: 'Jurisdiction', issuer: 'Issuer', ref: 'Reference', date: 'Date', status: 'Status', langs: 'Languages', rights: 'Rights', checked: 'Last checked', orig: 'Original title' },
     topics: 'Topics', related: 'Related documents',
     editMeta: 'Correct metadata on GitHub', reportError: 'Report an error',
-    filterNames: { jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights' },
+    filterNames: { jur: 'Jurisdiction', level: 'Federal / canton', type: 'Type', topic: 'Topic', rights: 'Rights' },
     notFound: 'Page not found', toSearch: 'Go to search',
     footerDisclaimer: '<strong>Not legal advice.</strong> The archive refers to publicly available documents. The linked official source is always authoritative. English summaries are translations by the project.',
     footerLegal: 'Legal notice & privacy', footerSource: 'Source code', footerLicences: 'Licences',
@@ -185,10 +185,12 @@ function build(lang) {
   const typeCounts = countBy('doc_type', 'doc_types', L);
   const topicCounts = countBy('topics', 'topics', L);
   const jurCounts = countBy('jurisdiction', 'jurisdictions', L);
+  const levelOf = (d) => d.subdivision || 'national';
+  const subCounts = (() => { const c = {}; for (const d of docs) c[levelOf(d)] = (c[levelOf(d)] || 0) + 1; return Object.entries(c).sort((a, b) => (a[0] === 'national' ? -1 : b[0] === 'national' ? 1 : L('subdivisions', a[0]).localeCompare(L('subdivisions', b[0])))).map(([k, n]) => ({ k, n, l: k === 'national' ? t.f.national : L('subdivisions', k) })); })();
   const otherPage = (key) => url(T[t.other].prefix + T[t.other].paths[key]);
 
   const chips = (d) => `<span class="chip chip-type">${esc(L('doc_types', d.doc_type))}</span>`
-    + `<span class="chip">${esc(L('jurisdictions', d.jurisdiction))}</span>`
+    + `<span class="chip">${esc(d.subdivision ? L('subdivisions', d.subdivision) : L('jurisdictions', d.jurisdiction))}</span>`
     + `<span class="chip chip-rights ${free(d) ? 'is-free' : 'is-link'}">${free(d) ? t.chipFree : t.chipLink}</span>`;
   const cardTitle = (d) => { const ti = title(d); return d.short_title && !ti.includes(d.short_title) ? `${d.short_title} – ${ti}` : ti; };
   const card = (d, attrs = '') => `<li class="card"${attrs}>
@@ -250,13 +252,14 @@ window.addEventListener('DOMContentLoaded', () => {
 <form class="filters" id="filters" role="search" aria-label="${t.filterLabel}">
   <label>${t.f.text}<input type="search" name="q" placeholder="${t.f.textPh}"></label>
   <label>${t.f.jur}<select name="jur"><option value="">${t.f.all}</option>${opt(jurCounts)}</select></label>
+  <label>${t.f.level}<select name="level"><option value="">${t.f.all}</option>${opt(subCounts)}</select></label>
   <label>${t.f.type}<select name="type"><option value="">${t.f.all}</option>${opt(typeCounts)}</select></label>
   <label>${t.f.topic}<select name="topic"><option value="">${t.f.all}</option>${opt(topicCounts)}</select></label>
   <label>${t.f.rights}<select name="rights"><option value="">${t.f.all}</option><option value="free">${t.f.free}</option><option value="link">${t.f.link}</option></select></label>
 </form>
 <p class="result-count" id="count" aria-live="polite" data-of="${t.countOf}" data-docs="${t.countDocs}"></p>
 <ul class="cards" id="list">
-${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
+${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
 </ul>
 <script src="${url('assets/filter.js')}" defer></script>`,
   }));
@@ -266,7 +269,7 @@ ${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-type="${d.doc_type
     const rights = `${L('rights', d.rights.status)}${d.rights.basis && lang === 'de' ? ` – ${d.rights.basis}` : ''}${d.rights.license ? ` (${d.rights.license})` : ''}`;
     const rows = [
       [t.meta.type, L('doc_types', d.doc_type)],
-      [t.meta.jur, L('jurisdictions', d.jurisdiction) + (d.subdivision ? ` (${d.subdivision})` : '')],
+      [t.meta.jur, L('jurisdictions', d.jurisdiction) + (d.subdivision ? ` – ${L('subdivisions', d.subdivision)}` : '')],
       [t.meta.issuer, d.issuer],
       [t.meta.ref, d.reference],
       [t.meta.date, fmtDate(d.date, d.date_precision)],
@@ -278,6 +281,7 @@ ${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-type="${d.doc_type
     const related = (d.related || []).map((r) => byId[r]).filter(Boolean);
     const filters = [
       [t.filterNames.jur, L('jurisdictions', d.jurisdiction)],
+      [t.filterNames.level, d.subdivision ? L('subdivisions', d.subdivision) : t.f.national],
       [t.filterNames.type, L('doc_types', d.doc_type)],
       ...d.topics.map((x) => [t.filterNames.topic, L('topics', x)]),
       [t.filterNames.rights, free(d) ? t.f.free : t.f.link],

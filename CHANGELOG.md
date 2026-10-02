@@ -2,6 +2,13 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.5.0] – 2026-10-02
+
+### Neu
+- 11 Verfügungen der ElCom: ZEV und Grundversorgung (223-00004, 223-00005, 233-00095), Rückliefervergütung (222-00001, 222-00003), Netzanschluss PV und Steuergerät (212-00402), Smart Meter (233-00093, 233-00099, 233-00103), Zertifizierungskosten und Herkunftsnachweise (211-00506), Netzanschlüsse E-Mobilität (212-00399)
+- 10 kantonale Energiegesetze: ZH, BE, VD, GE, AG, LU, SG, BS, TI, GR
+- Feld `subdivision` mit allen 26 Kantonen in der Taxonomie; Filter «Bund / Kanton» in Liste und Suche; Kantons-Chip auf den Einträgen
+
 ## [0.4.2] – 2026-10-02
 
 ### Geändert

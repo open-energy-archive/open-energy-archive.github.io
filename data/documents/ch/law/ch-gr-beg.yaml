@@ -1,0 +1,28 @@
+id: ch-gr-beg
+title: "Energiegesetz des Kantons Graubünden (BEG)"
+title_en: "Energy Act of the Canton of Graubünden"
+short_title: BEG GR
+doc_type: law
+jurisdiction: CH
+subdivision: CH-GR
+issuer: "Grosser Rat des Kantons Graubünden"
+reference: "BR 820.200"
+date: 2010-04-20
+status: in_force
+status_note: "gr-lex rendert nicht; LexFind zeigt nur das Vorgängergesetz von 1993. Inhalt daher über eine Textkopie bei FAOLEX geprüft: Fassung vom 20. April 2010, Stand 31. Dezember 2025, mit Änderungen AGS 2020-043 (in Kraft 1. Januar 2021), AGS 2023-008 (in Kraft 1. Januar 2025) und AGS 2025-056 (in Kraft 31. Dezember 2025). Die Teilrevision 2021 setzt die MuKEn 2014 um: Eigenstromerzeugungspflicht bei Neubauten (Art. 9b), Anforderungen beim Wärmeerzeugerersatz in bestehenden Bauten (Art. 10a); dazu Förderbeiträge. Amtliche Sprachfassungen (rm/it) nicht verifiziert."
+status_note_en: "gr-lex does not render; LexFind only shows the predecessor act of 1993. Content was therefore checked via a text copy on FAOLEX: act of 20 April 2010, version as of 31 December 2025, with amendments AGS 2020-043 (in force 1 January 2021), AGS 2023-008 (in force 1 January 2025) and AGS 2025-056 (in force 31 December 2025). The 2021 partial revision implements MuKEn 2014: on-site electricity generation for new buildings (Art. 9b), requirements on heat-generator replacement in existing buildings (Art. 10a); plus subsidies. Official Romansh/Italian versions not verified."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das Bündner Energiegesetz bezweckt eine sparsame und rationelle Energienutzung, eine wirtschaftliche und umweltschonende Versorgung, die Substitution fossiler Energien und den Ausbau einheimischer erneuerbarer Energien. Es regelt die energetischen Anforderungen an Neubauten und den Heizungsersatz, die Eigenstromerzeugung bei Neubauten sowie kantonale Förderbeiträge."
+summary_en: "The Graubünden Energy Act aims at economical and rational energy use, an economical and environmentally sound supply, substitution of fossil energy and expansion of domestic renewables. It governs energy requirements for new buildings and heating replacement, on-site electricity generation in new buildings, and cantonal subsidies."
+source_url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/820.200"
+alternate_urls:
+  - label: "FAOLEX (Textkopie, Stand 31.12.2025)"
+    url: "https://faolex.fao.org/docs/pdf/swi102240.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

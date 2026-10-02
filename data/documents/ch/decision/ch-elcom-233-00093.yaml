@@ -1,0 +1,23 @@
+id: ch-elcom-233-00093
+title: "Verfügung der ElCom vom 5. Dezember 2023 in Sachen A. gegen Politische Gemeinde Rorschacherberg – Einsatz eines intelligenten Messsystems gemäss Artikel 17a StromVG mit Abschaltfunktion"
+title_en: "ElCom decision of 5 December 2023 – use of an intelligent metering system with remote disconnection function under Article 17a StromVG"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "233-00093"
+date: 2023-12-05
+status: final
+status_note: "Neubeurteilung nach Rückweisung durch BVGer A-2372/2021; bestätigt durch Urteil des BVGer A-484/2024 vom 20. Juni 2025"
+status_note_en: "New ruling after remand by Federal Administrative Court A-2372/2021; upheld by Federal Administrative Court judgment A-484/2024 of 20 June 2025"
+languages: [de]
+topics: [grid]
+summary_de: "Die Gemeinde Rorschacherberg hatte 2017 gegen den Willen des Bewohners einen Smart Meter mit Fernabschaltfunktion installiert; nach Rückweisung durch das Bundesverwaltungsgericht beurteilte die ElCom den Fall neu. Sie entschied, dass die Netzbetreiberin das Gerät bis zum Ende seiner Lebensdauer weiter betreiben darf, sofern die datenschutzrechtlichen Vorgaben eingehalten werden, und wies die Begehren um Ersatz durch einen konventionellen Zähler ab. Geprüft wurden insbesondere Art. 17a–17c StromVG, Art. 8a–8d StromVV sowie das Datenschutzrecht."
+summary_en: "In 2017 the municipality of Rorschacherberg had installed a smart meter with remote disconnection capability against the occupant's wishes; after remand by the Federal Administrative Court, ElCom ruled on the case anew. It held that the grid operator may continue operating the device until the end of its service life, provided data protection requirements are met, and rejected the requests for replacement by a conventional meter. The decision examines in particular Art. 17a–17c StromVG, Art. 8a–8d StromVV and data protection law."
+source_url: "https://www.elcom.admin.ch/dam/it/sd-web/2R-8D4qCKMMu/VE_233-00093.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bvger-a-2372-2021, ch-bvger-a-484-2024, ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

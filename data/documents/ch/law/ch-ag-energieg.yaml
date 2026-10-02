@@ -1,0 +1,30 @@
+id: ch-ag-energieg
+title: "Energiegesetz des Kantons Aargau (EnergieG)"
+title_en: "Energy Act of the Canton of Aargau"
+short_title: EnergieG AG
+doc_type: law
+jurisdiction: CH
+subdivision: CH-AG
+issuer: "Grosser Rat des Kantons Aargau"
+reference: "SAR 773.200"
+date: 2012-01-17
+status: in_force
+status_note: "Die Seite der Gesetzessammlung rendert nicht; Grunderlass (AGS 2012/5-3, in Kraft seit 1. September 2012) als amtliches PDF geprüft, aktueller Stand über ag.ch. Das revidierte Energiegesetz gilt gemäss Gemeindemitteilungen seit 1. April 2025 (Datum nicht auf der Gesetzessammlung selbst verifiziert). Inhalt der Revision: Anforderungen beim Heizungsersatz (höchstens 90 % nichterneuerbare Energie bei Wohnbauten, Standardlösungen, Meldeverfahren), Solaranlagen bei Neubauten über 300 m² (§ 26a), Ersatz rein elektrischer Wassererwärmer, GEAK Plus für Elektroheizungen; Grossverbraucherregelung und Förderung."
+status_note_en: "The law collection page does not render; the original act (AGS 2012/5-3, in force since 1 September 2012) was checked as official PDF, current state via ag.ch. According to municipal notices the revised Act applies since 1 April 2025 (date not verified on the law collection itself). Revision content: heating replacement requirements (max. 90% non-renewable energy for residential buildings, standard solutions, notification), solar installations for new buildings over 300 m² (§ 26a), replacement of purely electric water heaters, GEAK Plus for electric heating; large-consumer rules and subsidies."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies, mobility]
+summary_de: "Das Aargauer Energiegesetz regelt die sparsame und effiziente Energienutzung und die Nutzung erneuerbarer Energien. Es enthält Vorschriften für Neubauten und bestehende Bauten, darunter Anforderungen beim Heizungsersatz und eine Solarpflicht für grössere Neubauten, Massnahmen bei Grossverbrauchern sowie die Förderung von Effizienz, erneuerbaren Energien, Abwärmenutzung und CO2-armer Mobilität."
+summary_en: "The Aargau Energy Act governs economical and efficient energy use and the use of renewable energy. It contains rules for new and existing buildings, including heating-replacement requirements and a solar obligation for larger new buildings, measures for large consumers and support for efficiency, renewables, waste-heat use and low-carbon mobility."
+source_url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.200"
+alternate_urls:
+  - label: "Grunderlass AGS 2012/5-3 (PDF)"
+    url: "https://gesetzessammlungen.ag.ch/api/de/change_documents/file_dictionaries/397/pdf_file"
+  - label: "ag.ch – Vorschriften und Energievollzug"
+    url: "https://www.ag.ch/energiegesetz"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

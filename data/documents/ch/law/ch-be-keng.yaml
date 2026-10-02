@@ -1,0 +1,28 @@
+id: ch-be-keng
+title: "Kantonales Energiegesetz (KEnG)"
+title_en: "Cantonal Energy Act of the Canton of Bern"
+short_title: KEnG BE
+doc_type: law
+jurisdiction: CH
+subdivision: CH-BE
+issuer: "Grosser Rat des Kantons Bern"
+reference: "BSG 741.1"
+date: 2011-05-15
+status: in_force
+status_note: "BELEX-PDF geprüft: Stand 1. Januar 2026. Jüngste Änderungen vom 17. Februar 2021 (in Kraft 1. April 2021), 9. März 2022 (in Kraft 1. Januar 2023) und 4. September 2024 (in Kraft 1. Januar 2026). Seit 1. Januar 2026 Pflicht zu Solaranlagen auf Neubauten (Ausnahme Dachflächen unter 50 m²); Meldepflicht und Anforderungen beim Heizungsersatz; Grossverbraucherregelung (über 5 GWh Wärme bzw. 0,5 GWh Strom); kommunale Richtpläne Energie."
+status_note_en: "Checked on BELEX PDF: version as of 1 January 2026. Most recent amendments of 17 February 2021 (in force 1 April 2021), 9 March 2022 (in force 1 January 2023) and 4 September 2024 (in force 1 January 2026). Since 1 January 2026 solar installations are mandatory on new buildings (roofs under 50 m² exempt); notification and requirements on heating replacement; large-consumer rules (over 5 GWh heat or 0.5 GWh electricity); municipal energy plans."
+languages: [de, fr]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das Berner Energiegesetz bezweckt eine sichere, wirtschaftliche und umweltschonende Energieversorgung mit sparsamer Energienutzung und Ausbau erneuerbarer Energien. Es regelt die energetischen Anforderungen an Gebäude einschliesslich Heizungsersatz und Solarpflicht für Neubauten, Massnahmen bei Grossverbrauchern, die kommunale Energieplanung sowie kantonale Förderbeiträge."
+summary_en: "The Bern Energy Act aims at a secure, economical and environmentally sound energy supply with economical energy use and expansion of renewables. It governs energy requirements for buildings including heating replacement and a solar obligation for new buildings, measures for large consumers, municipal energy planning and cantonal subsidies."
+source_url: "https://www.belex.sites.be.ch/api/de/versions/3249/pdf_file"
+alternate_urls:
+  - label: "BELEX (Erlassseite)"
+    url: "https://www.belex.sites.be.ch/app/de/texts_of_law/741.1"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

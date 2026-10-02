@@ -1,0 +1,28 @@
+id: ch-ge-len
+title: "Loi sur l'énergie (LEn)"
+title_en: "Energy Act of the Canton of Geneva"
+short_title: LEn GE
+doc_type: law
+jurisdiction: CH
+subdivision: CH-GE
+issuer: "Grand Conseil de la République et canton de Genève"
+reference: "rsGE L 2 30"
+date: 1986-09-18
+status: in_force
+status_note: "SILGeneve geprüft: Inkrafttreten 7. November 1987, letzte ausgewiesene Änderung 4. Juli 2026. Inhalt u. a.: Solarpflicht bei Neubauten, wesentlichen Renovationen und Dachsanierungen (Art. 14A); Bewilligungspflicht und Einschränkungen für fossile Heizungen und Elektroheizungen (Art. 15B); jährlicher Wärmeverbrauchsindex IDC mit Sanierungspflichten (Art. 15C); Grossverbraucher über 0,5 GWh Strom bzw. 5 GWh Wärme (Art. 14); Förderung (Art. 20)."
+status_note_en: "Checked on SILGeneve: entry into force 7 November 1987, latest recorded amendment 4 July 2026. Content includes: solar obligation for new buildings, major renovations and roof replacements (Art. 14A); authorisation requirement and restrictions for fossil and electric heating (Art. 15B); annual heat consumption index (IDC) with renovation duties (Art. 15C); large consumers above 0.5 GWh electricity or 5 GWh heat (Art. 14); subsidies (Art. 20)."
+languages: [fr]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das Genfer Energiegesetz bezweckt eine ausreichende, sichere, wirtschaftliche, diversifizierte und umweltschonende Energieversorgung. Es regelt die energetischen Anforderungen an Gebäude einschliesslich Solarpflicht, Einschränkungen für fossile Heizungen und den Wärmeverbrauchsindex (IDC), Pflichten für Grossverbraucher sowie staatliche Förderinstrumente."
+summary_en: "The Geneva Energy Act aims at a sufficient, secure, economical, diversified and environmentally sound energy supply. It governs energy requirements for buildings including a solar obligation, restrictions on fossil heating and the heat consumption index (IDC), obligations for large consumers and state support instruments."
+source_url: "https://silgeneve.ch/legis/data/rsg_l2_30.htm"
+alternate_urls:
+  - label: "LexFind"
+    url: "https://www.lexfind.ch/tolv/201775/fr"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

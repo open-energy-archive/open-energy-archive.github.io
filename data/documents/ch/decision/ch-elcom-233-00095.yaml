@@ -1,0 +1,21 @@
+id: ch-elcom-233-00095
+title: "Verfügung der ElCom vom 18. Oktober 2022 in Sachen A. AG gegen Netzbetreiberin – Anspruch auf Grundversorgung nach Unternehmensübernahme"
+title_en: "ElCom decision of 18 October 2022 – entitlement to basic supply after a company takeover"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "233-00095"
+date: 2022-10-18
+status: final
+languages: [de]
+topics: [market, tariffs]
+summary_de: "Ein Unternehmen hatte durch Absorptionsfusion sämtliche Aktiven und Passiven einer Gesellschaft übernommen, die für bestimmte Messpunkte bereits vom Netzzugang Gebrauch gemacht hatte, und verlangte angesichts der angespannten Lage am Strommarkt die Rückkehr dieser Messpunkte in die Grundversorgung. Die ElCom wies das Gesuch ab: Nach dem Grundsatz «einmal frei, immer frei» (Art. 11 Abs. 2 StromVV) wirkt der ausgeübte Netzzugang auch für die Rechtsnachfolgerin fort."
+summary_en: "A company had taken over all assets and liabilities of another company by merger; the absorbed company had already exercised network access for certain metering points, and the acquirer, citing tensions in the electricity market, sought to return those metering points to basic supply. ElCom rejected the request: under the 'once free, always free' principle (Art. 11(2) StromVV), network access once exercised continues to apply to the legal successor."
+source_url: "https://www.elcom.admin.ch/dam/de/sd-web/3ysmpCn9AyXy/233-00095%20Verf%C3%BCgung%20vom%2018.10.2022.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

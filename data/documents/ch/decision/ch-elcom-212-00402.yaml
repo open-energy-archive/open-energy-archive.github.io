@@ -1,0 +1,21 @@
+id: ch-elcom-212-00402
+title: "Verfügung der ElCom vom 4. April 2024 in Sachen A. und B. gegen Verteilnetzbetreiberin – Netzanschluss und Netznutzung einer dezentralen Energieerzeugungsanlage; Installation eines intelligenten Steuer- und Regelsystems ohne Zustimmung"
+title_en: "ElCom decision of 4 April 2024 – grid connection of a decentralised generating plant; installation of an intelligent control system without consent"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "212-00402"
+date: 2024-04-04
+status: final
+languages: [de]
+topics: [grid, solar]
+summary_de: "Die Netzbetreiberin installierte bei einer Photovoltaikanlage mit weniger als 30 kVA Anschlussleistung gegen den Willen der Eigentümer ein intelligentes Steuer- und Regelsystem und berief sich auf Art. 8c Abs. 5 StromVV. Die ElCom wies das Feststellungsbegehren ab, hiess aber den Antrag auf Entfernung gut: Gestützt auf Art. 17b Abs. 3 StromVG darf ein solches Steuerelement nur mit Zustimmung eingesetzt werden, weshalb die Netzbetreiberin es innert 30 Tagen auf eigene Kosten entfernen muss. Die Verfahrenskosten wurden der Netzbetreiberin auferlegt."
+summary_en: "The grid operator installed an intelligent control and regulation system on a photovoltaic plant with less than 30 kVA connection capacity against the owners' will, relying on Art. 8c(5) StromVV. ElCom dismissed the request for a declaratory ruling but granted the request for removal: under Art. 17b(3) StromVG such a control element may only be used with consent, so the operator must remove it within 30 days at its own expense. Procedural costs were imposed on the grid operator."
+source_url: "https://www.elcom.admin.ch/dam/de/sd-web/Y4XnxxGlz-K0/212-00402_20220608_VE_geschw%C3%A4rzt.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -12,6 +12,7 @@
     let n = 0;
     for (const li of items) {
       const ok = (!f.jur || li.dataset.jur === f.jur)
+        && (!f.level || li.dataset.level === f.level)
         && (!f.type || li.dataset.type === f.type)
         && (!f.topic || li.dataset.topics.split(' ').includes(f.topic))
         && (!f.rights || li.dataset.rights === f.rights)

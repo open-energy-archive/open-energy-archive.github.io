@@ -1,0 +1,23 @@
+id: ch-elcom-233-00103
+title: "Verfügung der ElCom vom 3. Dezember 2024 in Sachen Netzbetreiberin gegen A. und B. – Übernahme der Mehrkosten infolge Verweigerung Einbau eines intelligenten Messsystems (Smartmeter)"
+title_en: "ElCom decision of 3 December 2024 – bearing of additional costs resulting from refusal to install an intelligent metering system (smart meter)"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "233-00103"
+date: 2024-12-03
+status: pending
+status_note: "Gemäss ElCom-Website noch nicht rechtskräftig"
+status_note_en: "Not yet final according to the ElCom website"
+languages: [de]
+topics: [grid, tariffs]
+summary_de: "Zwei Endverbraucher verweigerten den Einbau eines Smart Meters und lehnten auch die von der Netzbetreiberin verlangte Pauschale von CHF 90 pro Jahr für die manuelle Ablesung des konventionellen Zählers ab. Die ElCom verpflichtete sie gestützt auf Art. 8a Abs. 3ter StromVV, der Netzbetreiberin jährlich CHF 90 für die manuelle Ablesung zu bezahlen, da Netzbetreiber die durch die Verweigerung verursachten Mehrkosten individuell in Rechnung stellen dürfen. Die Verfahrenskosten wurden den Endverbrauchern solidarisch auferlegt."
+summary_en: "Two end consumers refused the installation of a smart meter and also rejected the grid operator's flat fee of CHF 90 per year for manual reading of their conventional meter. Based on Art. 8a(3ter) StromVV, which allows grid operators to charge the additional costs caused by such a refusal individually, ElCom ordered them to pay the operator CHF 90 per year for manual reading. Procedural costs were imposed on the consumers jointly and severally."
+source_url: "https://www.elcom.admin.ch/dam/de/sd-web/ZXVJzF6Mrmin/233-00103%20%C3%9Cbernahme%20der%20Mehrkosten%20infolge%20Verweigerung%20Einbau%20eines%20intelligenten%20Messsystems%20(Smartmeter),%2003.12.2024.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

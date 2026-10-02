@@ -1,0 +1,23 @@
+id: ch-elcom-222-00001
+title: "Verfügung der ElCom vom 11. Mai 2021 in Sachen Betreiberin eines Kleinwasserkraftwerks gegen Verteilnetzbetreiberin – Festlegung der Rückliefervergütung gemäss Artikel 15 Absatz 3 Buchstabe a EnG"
+title_en: "ElCom decision of 11 May 2021 – determination of the feed-in remuneration under Article 15(3)(a) EnG"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "222-00001"
+date: 2021-05-11
+status: final
+status_note: "Aufgehoben durch Urteil des BVGer A-2790/2021 vom 18. Juni 2024"
+status_note_en: "Annulled by judgment of the Federal Administrative Court A-2790/2021 of 18 June 2024"
+languages: [de]
+topics: [renewables, hydro, tariffs]
+summary_de: "Die Betreiberin eines Kleinwasserkraftwerks verlangte von der abnahmepflichtigen Netzbetreiberin ab 1. Januar 2020 eine höhere Rückliefervergütung und die Offenlegung der Berechnungsmethode. Die ElCom hielt fest, dass sich die Vergütung nach den vermiedenen Kosten der Netzbetreiberin für die Beschaffung gleichwertiger Elektrizität richtet und dazu auch die Gestehungskosten eigener Produktionsanlagen gehören können; Art. 12 Abs. 1 EnV erachtete sie als gesetzmässig. Das Bundesverwaltungsgericht hob die Verfügung später auf."
+summary_en: "The operator of a small hydropower plant claimed higher feed-in remuneration from 1 January 2020 from the grid operator obliged to purchase its electricity, as well as disclosure of the calculation method. ElCom held that remuneration is based on the grid operator's avoided costs of procuring equivalent electricity, which may include the production costs of its own generating plants, and found Art. 12(1) EnV to be lawful. The Federal Administrative Court later annulled the decision."
+source_url: "https://www.swissolar.ch/02_markt-politik/222-00001-festlegung-der-ruckliefervergutung-gemass-artikel-15-absatz-3-buchstabe-a-eng.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env]
+added: 2026-10-02
+last_checked: 2026-10-02

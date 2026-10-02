@@ -1,0 +1,28 @@
+id: ch-bs-eng
+title: "Energiegesetz (EnG)"
+title_en: "Energy Act of the Canton of Basel-Stadt"
+short_title: EnG BS
+doc_type: law
+jurisdiction: CH
+subdivision: CH-BS
+issuer: "Grosser Rat des Kantons Basel-Stadt"
+reference: "SG 772.100"
+date: 2016-11-16
+status: in_force
+status_note: "Die Seite der Gesetzessammlung rendert nicht; Inhalt über LexFind geprüft (Fassung Stand 13. Dezember 2021; in Kraft seit 1. Oktober 2017). Spätere Änderungen nicht verifiziert. Inhalt u. a.: Pflicht zum Ersatz fossiler Heizungen durch erneuerbare Systeme, soweit technisch möglich und ohne Mehrkosten (§ 7); Eigenstromerzeugung bei Neubauten (§ 6); Grossverbraucher (§ 17); Förderabgabe und Lenkungsabgabe auf Strom (§§ 26 ff.); Fernwärme mit CO2-freien Quellen."
+status_note_en: "The law collection page does not render; content checked via LexFind (version as of 13 December 2021; in force since 1 October 2017). Later amendments not verified. Content includes: obligation to replace fossil heating with renewable systems where technically feasible and without extra cost (§ 7); on-site electricity generation for new buildings (§ 6); large consumers (§ 17); promotion levy and steering levy on electricity (§§ 26 ff.); district heating from CO2-free sources."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies, tariffs]
+summary_de: "Das Basler Energiegesetz bezweckt eine sichere, wirtschaftliche und umweltschonende Energieversorgung mit hohem Anteil erneuerbarer Energien. Es enthält strenge Vorgaben für den Heizungsersatz und für Neubauten, Pflichten für Grossverbraucher, Regeln zur Fernwärme sowie eine Förderabgabe und eine Lenkungsabgabe auf Elektrizität."
+summary_en: "The Basel-Stadt Energy Act aims at a secure, economical and environmentally sound energy supply with a high share of renewables. It contains strict rules on heating replacement and new buildings, obligations for large consumers, district heating rules, and a promotion levy and a steering levy on electricity."
+source_url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.100"
+alternate_urls:
+  - label: "LexFind"
+    url: "https://www.lexfind.ch/tolv/211112/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

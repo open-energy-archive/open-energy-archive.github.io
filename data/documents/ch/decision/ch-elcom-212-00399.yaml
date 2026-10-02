@@ -1,0 +1,21 @@
+id: ch-elcom-212-00399
+title: "Verfügung der ElCom vom 15. März 2022 in Sachen Gemeindekorporation Hinterrhein gegen Kraftwerke Hinterrhein AG – Netzanschlüsse für E-Mobilität und besonders energieintensive Netzanschlüsse, Nichteintreten infolge Unzuständigkeit"
+title_en: "ElCom decision of 15 March 2022 – grid connections for e-mobility and particularly energy-intensive connections; dismissal for lack of jurisdiction"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "212-00399"
+date: 2022-03-15
+status: final
+languages: [de]
+topics: [grid, mobility, hydro]
+summary_de: "Wasserrechtskonzessionen aus den 1950er-Jahren verpflichten die Kraftwerke Hinterrhein AG, die Verteilanlagen bis zu den Hausanschlüssen in den Konzessionsgemeinden auf eigene Kosten zu erstellen und zu unterhalten; strittig war, ob dies auch Anschlüsse für Ladestationen der E-Mobilität und besonders energieintensive Anschlüsse umfasst. Die ElCom trat auf das Gesuch nicht ein, weil es im Kern um die Auslegung der Konzession und damit um eine wasserrechtliche Streitigkeit gehe, für die nach Art. 71 WRG die kantonalen Gerichte zuständig sind, und keine konkrete Streitigkeit über Netznutzung oder Netztarife nach Art. 22 StromVG vorliege."
+summary_en: "Water-rights concessions from the 1950s oblige Kraftwerke Hinterrhein AG to build and maintain the distribution facilities up to the house connections in the concession municipalities at its own cost; the dispute was whether this also covers connections for e-mobility charging stations and particularly energy-intensive installations. ElCom declined jurisdiction because the dispute essentially concerns the interpretation of the concession, a water-rights matter for the cantonal courts under Art. 71 WRG, and does not involve a concrete dispute over grid use or grid tariffs under Art. 22 StromVG."
+source_url: "https://www.elcom.admin.ch/dam/de/sd-web/igKeP3Vn1uAP/212-00399%20Netzanschl%C3%BCsse%20f%C3%BCr%20E-Mobilit%C3%A4t%20und%20besonders%20energieintensive%20Netzanschl%C3%BCsse,%20Nichteintreten%20infolge%20Unzust%C3%A4ndigkeit,%2015.03.2022.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,21 @@
+id: ch-elcom-223-00005
+title: "Verfügung der ElCom vom 13. Dezember 2022 in Sachen Verteilnetzbetreiberin gegen A. und weitere – Anspruch ZEV auf Grundversorgung"
+title_en: "ElCom decision of 13 December 2022 – entitlement of a self-consumption community (ZEV) to basic supply"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "223-00005"
+date: 2022-12-13
+status: final
+languages: [de]
+topics: [self_consumption, solar, market]
+summary_de: "Eine Grundeigentümerin und zwei Unternehmen wollten mit einer neuen Photovoltaikanlage von 840 kWp und zwei bestehenden Verbrauchsstätten per 1. Januar 2023 einen ZEV bilden; die Verteilnetzbetreiberin sah darin eine Umgehung des Grundsatzes «einmal frei, immer frei». Die ElCom stellte fest, dass der ZEV die Voraussetzungen nach Art. 17 EnG erfüllt, sobald am Ort der Produktion Elektrizität für den Eigenverbrauch erzeugt wird und die Produktionsleistung mindestens 10 Prozent der Anschlussleistung erreicht, und dass kein offenbarer Rechtsmissbrauch nach Art. 2 Abs. 2 ZGB vorliegt. Die Lieferpflicht der Netzbetreiberin entsteht mit der Inbetriebnahme der Produktionsanlage."
+summary_en: "A property owner and two companies planned to form a ZEV as of 1 January 2023, combining a new 840 kWp photovoltaic plant with two existing consumption points; the distribution system operator considered this a circumvention of the 'once free, always free' principle. ElCom held that the ZEV meets the requirements of Art. 17 EnG as soon as electricity for self-consumption is produced on site and the generating capacity reaches at least 10 percent of the connection capacity, and that there is no manifest abuse of rights under Art. 2(2) Civil Code. The operator's supply obligation arises when the generating plant enters into operation."
+source_url: "https://www.elcom.admin.ch/dam/fr/sd-web/yq6dJQHuS5TN/223-00005.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env, ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

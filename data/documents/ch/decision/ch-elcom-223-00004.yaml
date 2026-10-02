@@ -1,0 +1,21 @@
+id: ch-elcom-223-00004
+title: "Verfügung der ElCom vom 6. Juli 2023 in Sachen A. AG gegen CKW AG – Grundversorgung und Rückabwicklung im Zusammenhang mit ZEV-Gründung"
+title_en: "ElCom decision of 6 July 2023 – basic supply and retroactive reversal in connection with the formation of a self-consumption community (ZEV)"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "223-00004"
+date: 2023-07-06
+status: final
+languages: [de]
+topics: [self_consumption, market]
+summary_de: "Ein ZEV aus einer Grundeigentümerin und 49 Mietparteien bezog ab April 2021 Strom von einem Drittlieferanten und verlangte rund ein Jahr später rückwirkend die Aufnahme in die Grundversorgung der CKW. Die ElCom wies das Gesuch ab: Durch die vorbehaltlose Bezahlung der Rechnungen des Marktlieferanten habe die Grundeigentümerin als Vertreterin des ZEV ihren Netzzugang konkludent ausgeübt, womit nach dem Grundsatz «einmal frei, immer frei» (Art. 11 Abs. 2 StromVV) kein Anspruch auf Grundversorgung mehr besteht. Eine ausdrückliche schriftliche Erklärung zum Marktzugang sei dafür nicht erforderlich."
+summary_en: "A self-consumption community (ZEV) of a property owner and 49 tenants was supplied by a third-party supplier from April 2021 and, about a year later, claimed retroactive admission to CKW's basic supply. ElCom rejected the request: by paying the market supplier's invoices without reservation, the property owner acting for the ZEV had implicitly exercised network access, so under the 'once free, always free' principle (Art. 11(2) StromVV) there is no longer any entitlement to basic supply. No express written declaration of market access is required."
+source_url: "https://www.elcom.admin.ch/dam/de/sd-web/8maxpyG374Kq/223-00004.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv, ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

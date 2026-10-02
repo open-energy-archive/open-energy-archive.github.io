@@ -31,6 +31,7 @@ for (const { file, doc } of docs) {
   check(doc.doc_type, 'doc_types', 'doc_type');
   check(doc.jurisdiction, 'jurisdictions', 'jurisdiction');
   check(doc.status, 'statuses', 'status');
+  check(doc.subdivision, 'subdivisions', 'subdivision');
   check(doc.rights?.status, 'rights', 'rights.status');
   (doc.topics || []).forEach((t) => check(t, 'topics', 'topics'));
   (doc.languages || []).forEach((l) => check(l, 'languages', 'languages'));

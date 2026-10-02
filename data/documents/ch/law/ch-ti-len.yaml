@@ -1,0 +1,28 @@
+id: ch-ti-len
+title: "Legge cantonale sull'energia (LEn)"
+title_en: "Cantonal Energy Act of the Canton of Ticino"
+short_title: LEn TI
+doc_type: law
+jurisdiction: CH
+subdivision: CH-TI
+issuer: "Gran Consiglio della Repubblica e Cantone Ticino"
+reference: "RL 740.100"
+date: 1994-02-08
+status: in_force
+status_note: "Raccolta delle leggi geprüft: Fassung in Kraft seit 1. Januar 2025. Inhalt u. a.: Neubauten höchstens 70 % nichterneuerbare Energie und Eigenstromerzeugung von mindestens 10 W/m²; beim Ersatz des Wärmeerzeugers in Wohnbauten höchstens 90 % nichterneuerbare Energie; Fondo per le energie rinnovabili (FER), gespeist aus Abgaben auf Stromproduktion und -verbrauch; Förderung über vierjährige Kreditbeschlüsse; Grossverbraucher (über 5 GWh Wärme bzw. 0,5 GWh Strom)."
+status_note_en: "Checked on the Raccolta delle leggi: version in force since 1 January 2025. Content includes: new buildings max. 70% non-renewable energy and on-site electricity generation of at least 10 W/m²; on heat-generator replacement in residential buildings max. 90% non-renewable energy; renewable energy fund (FER) financed by levies on electricity production and consumption; support via four-year funding decrees; large consumers (over 5 GWh heat or 0.5 GWh electricity)."
+languages: [it]
+topics: [energy_efficiency, heat, renewables, solar, wind, hydro, subsidies, mobility]
+summary_de: "Das Tessiner Energiegesetz regelt die rationelle Energienutzung und den Ausbau erneuerbarer Energien im Kanton. Es enthält energetische Anforderungen an Neubauten und an den Heizungsersatz, Bestimmungen zu Photovoltaik, Wind und Kleinwasserkraft, Pflichten für Grossverbraucher sowie den Fonds für erneuerbare Energien (FER) und weitere Förderinstrumente."
+summary_en: "The Ticino Energy Act governs rational energy use and the expansion of renewable energy in the canton. It sets energy requirements for new buildings and heating replacement, provisions on photovoltaics, wind and small hydropower, obligations for large consumers, and establishes the renewable energy fund (FER) and other support instruments."
+source_url: "https://m3.ti.ch/CAN/RLeggi/public/raccolta-leggi/legge/num/523"
+alternate_urls:
+  - label: "LexFind"
+    url: "https://www.lexfind.ch/tolv/208340/it"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

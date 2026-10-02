@@ -1,0 +1,24 @@
+id: de-enwg
+title: "Gesetz über die Elektrizitäts- und Gasversorgung (Energiewirtschaftsgesetz – EnWG)"
+title_en: "Energy Industry Act"
+short_title: EnWG
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. I 2005 S. 1970, 3621"
+date: 2005-07-07
+status: in_force
+status_note: "Laut Fassungsangaben juristischer Datenbanken zuletzt geändert durch Art. 5 des Gesetzes vom 29.3.2026 (BGBl. 2026 I Nr. 84); die Fassung auf gesetze-im-internet.de wurde nicht direkt eingesehen. Größere Novelle durch das Gesetz vom 18.12.2025 (BGBl. 2025 I Nr. 347) zur Stärkung des Verbraucherschutzes, u. a. mit Informationspflichten der Lieferanten und der Neufassung von § 11c (Energiespeicher im überragenden öffentlichen Interesse). Das «Netzpaket» zum Netzanschlussverfahren ist als Regierungsentwurf im Bundestag hängig. Zur Kundenanlage (§ 3 Nr. 24a) siehe BGH EnVR 83/20."
+status_note_en: "According to legal databases last amended by Art. 5 of the Act of 29 March 2026 (BGBl. 2026 I No. 84); the version on gesetze-im-internet.de was not inspected directly. Major amendment by the Act of 18 December 2025 (BGBl. 2025 I No. 347) on consumer protection, including supplier information duties and a new § 11c (energy storage in the overriding public interest). The government's 'grid package' on connection procedures is pending in the Bundestag. On customer installations (§ 3 No. 24a) see BGH EnVR 83/20."
+languages: [de]
+topics: [grid, market, tariffs, supply_security, storage, hydrogen, self_consumption]
+summary_de: "Das EnWG ist das Grundgesetz der leitungsgebundenen Versorgung mit Strom, Gas und Wasserstoff in Deutschland. Es regelt die Entflechtung der Netzbetreiber, Netzanschluss, Netzzugang und Netzentgelte, die Belieferung von Letztverbrauchern, die Planfeststellung von Leitungen, die Versorgungssicherheit sowie die Aufgaben der Bundesnetzagentur und der Landesregulierungsbehörden."
+summary_en: "The EnWG is the core statute for grid-based supply of electricity, gas and hydrogen in Germany. It governs unbundling of network operators, grid connection, network access and charges, supply to final customers, planning approval for lines, security of supply and the tasks of the Federal Network Agency and the state regulators."
+source_url: "https://www.gesetze-im-internet.de/enwg_2005/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-eeg-2023, de-msbg, de-bnetza-bk6-22-300, de-bgh-envr-83-20]
+added: 2026-10-02
+last_checked: 2026-10-02

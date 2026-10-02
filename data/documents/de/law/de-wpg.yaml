@@ -1,0 +1,24 @@
+id: de-wpg
+title: "Gesetz für die Wärmeplanung und zur Dekarbonisierung der Wärmenetze (Wärmeplanungsgesetz – WPG)"
+title_en: "Heat Planning Act"
+short_title: WPG
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. 2023 I Nr. 394"
+date: 2023-12-20
+status: in_force
+status_note: "Seit 1.1.2024 in Kraft. Änderungen im Zusammenhang mit der Gebäudereform 2026 nicht im Detail geprüft."
+status_note_en: "In force since 1 January 2024. Amendments connected with the 2026 buildings reform not checked in detail."
+languages: [de]
+topics: [heat, renewables, energy_efficiency]
+summary_de: "Das WPG verpflichtet die Länder, flächendeckend kommunale Wärmepläne erstellen zu lassen: für Gemeindegebiete mit mehr als 100 000 Einwohnern bis 30. Juni 2026, für die übrigen bis 30. Juni 2028. Es enthält zudem Vorgaben für den Anteil erneuerbarer Energien und unvermeidbarer Abwärme in Wärmenetzen."
+summary_en: "The WPG requires the federal states to ensure that municipal heat plans are drawn up nationwide: by 30 June 2026 for municipalities with more than 100,000 inhabitants and by 30 June 2028 for the others. It also sets requirements for the share of renewable energy and unavoidable waste heat in heating networks."
+source_url: "https://www.gesetze-im-internet.de/wpg/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-gmodg, de-kwkg]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -11,7 +11,8 @@
 - [ ] Französische und italienische Metadaten
 
 ## Phase 2 – DACH
-- [ ] Deutschland: EEG, EnWG, KWKG, MsbG, GEG; BNetzA-Festlegungen; BGH-Kartellsenat (EnVR); Clearingstelle EEG|KWKG
+- [x] Deutschland, erste Tranche: EEG 2023, EnWG, KWKG, MsbG, GModG (vormals GEG), WindBG, EnFG, WPG; BNetzA BK6-22-300 (§ 14a EnWG); BGH EnVR 83/20 (Kundenanlage) mit EuGH C-293/23; BVerfG Strompreisbremse; EEG-Novelle 2027 (Entwurf)
+- [ ] Deutschland, weitere: Verordnungen (StromNEV, StromNZV, MaStRV), weitere BNetzA-Festlegungen (BK8-22/010-A, Netzentgeltsystematik), BGH-Kartellsenat (EnVR), Clearingstelle EEG|KWKG, Netzanschlusspaket; Bundesländer (Feld `subdivision` DE-XX)
 - [ ] Österreich: EAG, ElWOG 2010 bzw. Nachfolgeregelung, E-Control-Verordnungen, VwGH/VfGH
 - [ ] Liechtenstein
 - [ ] Fachreviewer pro Land

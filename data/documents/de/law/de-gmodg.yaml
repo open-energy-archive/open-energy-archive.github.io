@@ -1,0 +1,27 @@
+id: de-gmodg
+title: "Gebäudemodernisierungsgesetz (GModG), bis Juli 2026 Gebäudeenergiegesetz (GEG)"
+title_en: "Building Modernisation Act (formerly Building Energy Act)"
+short_title: GModG
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. I 2020 S. 1728"
+date: 2020-08-08
+status: in_force
+status_note: "Das Gebäudeenergiegesetz vom 8.8.2020 wurde durch ein am 10.7.2026 von Bundestag und Bundesrat beschlossenes Änderungsgesetz in Gebäudemodernisierungsgesetz umbenannt und neu ausgerichtet (verkündet am 28.7.2026, in Kraft seit 29.7.2026). Die Pflicht, neue Heizungen zu 65 % mit erneuerbaren Energien zu betreiben, entfällt; für neue Gas- und Ölheizungen gelten stattdessen ab 2029 schrittweise steigende Mindestanteile biogener oder klimaneutraler Brennstoffe. Weitere Bestimmungen zur Umsetzung der EU-Gebäuderichtlinie sollen ab 2027 gelten. Die neue Fassung wurde nicht direkt auf gesetze-im-internet.de geprüft; die Adresse kann sich mit der Umbenennung ändern."
+status_note_en: "The Building Energy Act of 8 August 2020 was renamed Building Modernisation Act and reoriented by an amending act adopted by Bundestag and Bundesrat on 10 July 2026 (promulgated 28 July 2026, in force since 29 July 2026). The obligation to run new heating systems on 65% renewable energy is dropped; instead, new gas and oil heating systems must use gradually rising minimum shares of biogenic or climate-neutral fuels from 2029. Further provisions implementing the EU buildings directive are to apply from 2027. The new version was not checked directly on gesetze-im-internet.de; the address may change with the renaming."
+languages: [de]
+topics: [energy_efficiency, heat, renewables]
+summary_de: "Das Gesetz regelt die energetischen Anforderungen an Neubauten und bestehende Gebäude, die Anforderungen an Heizungsanlagen, Energieausweise sowie den Einsatz erneuerbarer Energien zur Wärme- und Kälteversorgung in Gebäuden. Mit der Reform 2026 wurden die Vorgaben für den Heizungstausch grundlegend geändert."
+summary_en: "The act sets energy performance requirements for new and existing buildings, requirements for heating systems, energy performance certificates and the use of renewable energy for heating and cooling in buildings. The 2026 reform fundamentally changed the rules for replacing heating systems."
+source_url: "https://www.gesetze-im-internet.de/geg/"
+alternate_urls:
+  - label: "BBSR-Infoportal zum Gebäudemodernisierungsgesetz (Verfahren und Inhalte)"
+    url: "https://www.bbsr-geg.bund.de/GEGPortal/DE/Home/startseite/GModG_News/GModG_News-node.html"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-wpg]
+added: 2026-10-02
+last_checked: 2026-10-02

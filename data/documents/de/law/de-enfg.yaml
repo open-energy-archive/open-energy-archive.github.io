@@ -1,0 +1,24 @@
+id: de-enfg
+title: "Gesetz zur Finanzierung der Energiewende im Stromsektor durch Zahlungen des Bundes und Erhebung von Umlagen (Energiefinanzierungsgesetz – EnFG)"
+title_en: "Energy Financing Act"
+short_title: EnFG
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. I 2022 S. 1237, 1272"
+date: 2022-07-20
+status: in_force
+status_note: "Seit 1.1.2023 in Kraft. Spätere Änderungen nicht im Detail geprüft."
+status_note_en: "In force since 1 January 2023. Later amendments not checked in detail."
+languages: [de]
+topics: [subsidies, tariffs, renewables]
+summary_de: "Das EnFG regelt seit 2023 die Finanzierung der Förderung nach EEG und KWKG. Der EEG-Finanzierungsbedarf wird aus dem Bundeshaushalt gedeckt, die EEG-Umlage wird nicht mehr erhoben. Das Gesetz regelt zudem die KWKG-Umlage und die Offshore-Netzumlage sowie Begrenzungen für stromkostenintensive Unternehmen und weitere Privilegierungen."
+summary_en: "Since 2023 the EnFG governs the financing of support under the EEG and KWKG. The EEG funding requirement is covered from the federal budget and the EEG surcharge is no longer levied. The act also governs the CHP surcharge and the offshore grid surcharge as well as caps for electricity-intensive companies and other privileges."
+source_url: "https://www.gesetze-im-internet.de/enfg/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-eeg-2023, de-kwkg]
+added: 2026-10-02
+last_checked: 2026-10-02

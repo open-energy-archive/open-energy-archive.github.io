@@ -1,0 +1,28 @@
+id: de-btdrs-21-7867-eeg-2027
+title: "Gesetzentwurf der Bundesregierung für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im Stromsektor (EEG-Novelle 2027)"
+title_en: "Government bill for plannable, cost-efficient, grid-compatible and market-oriented expansion of renewable energy in the electricity sector (EEG amendment 2027)"
+short_title: EEG-Novelle 2027
+doc_type: parliamentary
+jurisdiction: DE
+issuer: "Bundesregierung (Gesetzentwurf), Deutscher Bundestag"
+reference: "BT-Drs. 21/7867"
+date: 2026-09-01
+date_precision: month
+status: draft
+status_note: "Vom Bundeskabinett am 29.7.2026 beschlossen, gemeinsam mit einem separaten Netzanschlusspaket. Erste Lesung im Bundestag in der Woche ab 21.9.2026, Überweisung an die Ausschüsse. Laut Medienberichten soll der Bundestag bis Ende Oktober 2026 entscheiden; Änderungen im Verfahren sind möglich. Das genaue Datum der Drucksache wurde nicht geprüft."
+status_note_en: "Adopted by the federal cabinet on 29 July 2026 together with a separate grid connection package. First reading in the Bundestag in the week of 21 September 2026, referred to committees. According to media reports the Bundestag aims to decide by the end of October 2026; changes during the procedure are possible. The exact date of the printed paper was not checked."
+languages: [de]
+topics: [renewables, solar, wind, subsidies, market]
+summary_de: "Der Entwurf sieht eine grundlegende Reform des EEG vor: Abschaffung der festen Einspeisevergütung für Neuanlagen, verpflichtende Direktvermarktung, einen Abschöpfungsmechanismus für Zusatzerlöse (Refinanzierungsbeitrag), angepasste Ausschreibungsmengen für 2027 bis 2032 sowie vereinfachte Förder- und Nachweispflichten. Für kleine Photovoltaikanlagen unter 25 kW sind Übergangsregeln vorgesehen."
+summary_en: "The bill provides for a fundamental reform of the EEG: abolition of fixed feed-in tariffs for new plants, mandatory direct marketing, a mechanism to skim additional revenues (refinancing contribution), adjusted tender volumes for 2027 to 2032 and simplified support and verification requirements. Transitional rules are foreseen for small PV systems under 25 kW."
+source_url: "https://dserver.bundestag.de/btd/21/078/2107867.pdf"
+alternate_urls:
+  - label: "Bundestag – Textarchiv zur ersten Lesung"
+    url: "https://www.bundestag.de/dokumente/textarchiv/2026/kw39-de-energie-stromsektor-1211294"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-eeg-2023]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,24 @@
+id: de-msbg
+title: "Gesetz über den Messstellenbetrieb und die Datenkommunikation in intelligenten Energienetzen (Messstellenbetriebsgesetz – MsbG)"
+title_en: "Metering Point Operation Act"
+short_title: MsbG
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. I 2016 S. 2034 (Art. 1 des Gesetzes zur Digitalisierung der Energiewende)"
+date: 2016-08-29
+status: in_force
+status_note: "2023 durch das Gesetz zum Neustart der Digitalisierung der Energiewende umfassend geändert (gesetzlicher Rollout-Fahrplan für intelligente Messsysteme). Aktuelle Fassung und spätere Änderungen nicht im Detail geprüft."
+status_note_en: "Comprehensively amended in 2023 by the Act to Restart the Digitalisation of the Energy Transition (statutory roll-out schedule for smart metering systems). Current version and later amendments not checked in detail."
+languages: [de]
+topics: [grid, market, tariffs]
+summary_de: "Das MsbG regelt den Messstellenbetrieb für Strom und Gas, insbesondere den Einbau moderner Messeinrichtungen und intelligenter Messsysteme (Smart Meter). Es enthält Pflichteinbaufälle, Preisobergrenzen, technische Mindestanforderungen an die sichere Datenkommunikation und Regeln zu Datenschutz und Datenzugang."
+summary_en: "The MsbG governs metering point operation for electricity and gas, in particular the installation of modern metering devices and smart metering systems. It sets mandatory installation cases, price caps, minimum technical requirements for secure data communication and rules on data protection and data access."
+source_url: "https://www.gesetze-im-internet.de/messbg/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-enwg, de-bnetza-bk6-22-300]
+added: 2026-10-02
+last_checked: 2026-10-02

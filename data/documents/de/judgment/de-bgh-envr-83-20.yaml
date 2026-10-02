@@ -1,0 +1,23 @@
+id: de-bgh-envr-83-20
+title: "BGH, Beschluss vom 13. Mai 2025, EnVR 83/20 – Kundenanlage nur, wenn kein Verteilernetz im Sinne der Elektrizitätsbinnenmarktrichtlinie vorliegt"
+title_en: "Federal Court of Justice, order of 13 May 2025, EnVR 83/20 – customer installation only if not a distribution system under the Electricity Directive"
+doc_type: judgment
+jurisdiction: DE
+issuer: "Bundesgerichtshof, Kartellsenat"
+reference: "EnVR 83/20"
+date: 2025-05-13
+status: final
+status_note: "Rechtsbeschwerde zurückgewiesen. Entscheidungsgründe am 3.7.2025 veröffentlicht; Volltext in der Entscheidungsdatenbank des BGH (Suche nach Aktenzeichen). Vorinstanz OLG Dresden; zuvor Vorabentscheidung des EuGH (C-293/23)."
+status_note_en: "Appeal on points of law dismissed. Reasons published on 3 July 2025; full text in the BGH decision database (search by case number). Lower court: Dresden Higher Regional Court; preceded by a CJEU preliminary ruling (C-293/23)."
+languages: [de]
+topics: [grid, self_consumption]
+summary_de: "Eine Anbieterin wollte zwei Leitungsanlagen, über die Blockheizkraftwerke rund 200 Wohneinheiten mit Strom versorgen sollten, als Kundenanlagen an das Verteilernetz anschließen lassen. Der BGH legte § 3 Nr. 24a EnWG richtlinienkonform aus: Eine Kundenanlage liegt nicht vor, wenn die Anlage die Merkmale eines Verteilernetzes im Sinne von Art. 2 Nr. 28 der Richtlinie (EU) 2019/944 erfüllt. An seinen bisherigen Kriterien hielt der BGH nicht fest; die Rechtsbeschwerde wurde zurückgewiesen."
+summary_en: "A provider sought to have two line installations, through which CHP units were to supply about 200 residential units, connected to the distribution grid as customer installations. The court interpreted § 3 No. 24a EnWG in conformity with the directive: there is no customer installation if the installation meets the criteria of a distribution system under Art. 2(28) of Directive (EU) 2019/944. The court abandoned its earlier criteria and dismissed the appeal."
+source_url: "https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025095.html"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [eu-eugh-c-293-23, de-enwg]
+added: 2026-10-02
+last_checked: 2026-10-02

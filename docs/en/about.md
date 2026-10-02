@@ -14,7 +14,7 @@ The expansion of renewable energy often stalls not on technology but on procedur
 - Industry documents (as references only, where protected by copyright)
 - Model contracts and published contracts
 
-The archive starts with Switzerland. Germany, Austria and Liechtenstein follow, then the EU, the English-speaking world and beyond.
+The archive started with Switzerland; a first set of German documents has been added. Austria and Liechtenstein follow, then the EU, the English-speaking world and beyond.
 
 ## Principles
 

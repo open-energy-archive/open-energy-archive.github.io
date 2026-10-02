@@ -1,0 +1,23 @@
+id: eu-eugh-c-293-23
+title: "EuGH, Urteil vom 28. November 2024, C-293/23 – deutsche Kundenanlage und Begriff des Verteilernetzes nach der Richtlinie (EU) 2019/944"
+title_en: "CJEU, judgment of 28 November 2024, C-293/23 – German customer installation and the concept of distribution system under Directive (EU) 2019/944"
+doc_type: judgment
+jurisdiction: EU
+issuer: "Gerichtshof der Europäischen Union"
+reference: "C-293/23"
+date: 2024-11-28
+status: final
+status_note: "Vorabentscheidung auf Vorlage des Bundesgerichtshofs (EnVR 83/20). Der BGH hat das Ausgangsverfahren am 13.5.2025 entschieden."
+status_note_en: "Preliminary ruling on a reference from the German Federal Court of Justice (EnVR 83/20). The BGH decided the main proceedings on 13 May 2025."
+languages: [de, en, fr, it]
+topics: [grid, self_consumption]
+summary_de: "Der Gerichtshof entschied, dass die Elektrizitätsbinnenmarktrichtlinie einer nationalen Regelung entgegensteht, nach der eine Anlage, die die Merkmale eines Verteilernetzes im Sinne der Richtlinie erfüllt, als Kundenanlage von den Pflichten eines Verteilernetzbetreibers ausgenommen wird. Die Mitgliedstaaten können keine Ausnahmen vorsehen, die über die in der Richtlinie zugelassenen hinausgehen."
+summary_en: "The Court held that the Electricity Directive precludes national rules under which an installation meeting the criteria of a distribution system within the meaning of the directive is exempted, as a customer installation, from the obligations of a distribution system operator. Member States may not provide for exemptions beyond those permitted by the directive."
+source_url: "https://curia.europa.eu/juris/document/document.jsf?text=&docid=292741&pageIndex=0&doclang=DE"
+rights:
+  status: official_work
+  basis: "Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäß den Nutzungsbedingungen von curia.europa.eu"
+  mirror_allowed: false
+related: [de-bgh-envr-83-20, de-enwg]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,24 @@
+id: de-windbg
+title: "Gesetz zur Festlegung von Flächenbedarfen für Windenergieanlagen an Land (Windenergieflächenbedarfsgesetz – WindBG)"
+title_en: "Onshore Wind Energy Area Requirements Act"
+short_title: WindBG
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. I 2022 S. 1353 (Art. 1 des Wind-an-Land-Gesetzes)"
+date: 2022-07-20
+status: in_force
+status_note: "Seit 1.2.2023 in Kraft. Spätere Änderungen nicht im Detail geprüft."
+status_note_en: "In force since 1 February 2023. Later amendments not checked in detail."
+languages: [de]
+topics: [wind, permitting, renewables]
+summary_de: "Das WindBG verpflichtet die Länder, bestimmte Anteile ihrer Landesfläche für Windenergie an Land auszuweisen, bundesweit insgesamt 1,4 % bis Ende 2027 und 2 % bis Ende 2032, verteilt nach Länderanteilen. Werden die Flächenbeitragswerte verfehlt, entfällt die Möglichkeit, Windenergieanlagen planerisch auf bestimmte Gebiete zu beschränken."
+summary_en: "The WindBG requires the federal states to designate certain shares of their land for onshore wind, 1.4% nationwide by the end of 2027 and 2% by the end of 2032, allocated by state quotas. If the targets are missed, the possibility of restricting wind turbines to certain areas through planning lapses."
+source_url: "https://www.gesetze-im-internet.de/windbg/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-eeg-2023]
+added: 2026-10-02
+last_checked: 2026-10-02

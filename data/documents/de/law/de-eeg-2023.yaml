@@ -1,0 +1,24 @@
+id: de-eeg-2023
+title: "Gesetz für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz – EEG 2023)"
+title_en: "Renewable Energy Sources Act (EEG 2023)"
+short_title: EEG 2023
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. I 2014 S. 1066; FNA 754-27"
+date: 2014-07-21
+status: in_force
+status_note: "Stammgesetz vom 21.7.2014, seit 1.1.2023 als EEG 2023 bezeichnet. Laut Fassungsangaben juristischer Datenbanken zuletzt geändert durch Art. 23 des Gesetzes vom 18.12.2025 (BGBl. 2025 I Nr. 347); die Fassung auf gesetze-im-internet.de wurde nicht direkt eingesehen. Eine grundlegende Reform (EEG-Novelle 2027, BT-Drs. 21/7867) ist im Bundestag hängig; die beihilferechtliche Genehmigung wesentlicher Vorschriften läuft Ende 2026 aus."
+status_note_en: "Original act of 21 July 2014, called EEG 2023 since 1 January 2023. According to legal databases last amended by Art. 23 of the Act of 18 December 2025 (BGBl. 2025 I No. 347); the version on gesetze-im-internet.de was not inspected directly. A fundamental reform (EEG amendment 2027, Bundestag printed paper 21/7867) is pending; state-aid approval for key provisions expires at the end of 2026."
+languages: [de]
+topics: [renewables, solar, wind, subsidies, grid, self_consumption]
+summary_de: "Das EEG regelt den Ausbau der Stromerzeugung aus erneuerbaren Energien in Deutschland. Es enthält die Ausbauziele und -pfade, den vorrangigen Netzanschluss und die Abnahme des Stroms, die finanzielle Förderung über Marktprämie, Einspeisevergütung und Ausschreibungen sowie Regeln zu Mieterstrom und zur finanziellen Beteiligung von Kommunen."
+summary_en: "The EEG governs the expansion of electricity generation from renewable sources in Germany. It sets expansion targets and pathways, priority grid connection and offtake, financial support through market premiums, feed-in tariffs and tenders, and rules on tenant electricity and municipal financial participation."
+source_url: "https://www.gesetze-im-internet.de/eeg_2014/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-btdrs-21-7867-eeg-2027, de-enfg, de-enwg, de-windbg]
+added: 2026-10-02
+last_checked: 2026-10-02

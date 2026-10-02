@@ -1,0 +1,24 @@
+id: de-kwkg
+title: "Gesetz für die Erhaltung, die Modernisierung und den Ausbau der Kraft-Wärme-Kopplung (Kraft-Wärme-Kopplungsgesetz – KWKG)"
+title_en: "Combined Heat and Power Act"
+short_title: KWKG
+doc_type: law
+jurisdiction: DE
+issuer: "Deutscher Bundestag"
+reference: "BGBl. I 2015 S. 2498"
+date: 2015-12-21
+status: in_force
+status_note: "Die Förderung neuer und modernisierter KWK-Anlagen sowie von Wärmenetzen und -speichern ist grundsätzlich auf eine Inbetriebnahme bis 31.12.2026 befristet (beihilferechtlicher Vorbehalt). Eine Verlängerung wird politisch verhandelt; Ende September 2026 war sie nach den gesichteten Quellen noch nicht beschlossen. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "Support for new and modernised CHP plants, heating networks and heat storage is generally limited to commissioning by 31 December 2026 (state-aid reservation). An extension is under political discussion; according to the sources reviewed it had not been adopted by the end of September 2026. Current version not checked in detail."
+languages: [de]
+topics: [heat, subsidies, energy_efficiency]
+summary_de: "Das KWKG fördert die gekoppelte Erzeugung von Strom und Wärme. Es regelt Zuschläge für Strom aus KWK-Anlagen, Ausschreibungen für mittelgroße Anlagen und innovative KWK-Systeme sowie Zuschläge für den Neu- und Ausbau von Wärme- und Kältenetzen und -speichern."
+summary_en: "The KWKG supports combined generation of electricity and heat. It governs surcharges for electricity from CHP plants, tenders for medium-sized plants and innovative CHP systems, and payments for building and expanding heating and cooling networks and storage."
+source_url: "https://www.gesetze-im-internet.de/kwkg_2016/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-enfg, de-wpg]
+added: 2026-10-02
+last_checked: 2026-10-02

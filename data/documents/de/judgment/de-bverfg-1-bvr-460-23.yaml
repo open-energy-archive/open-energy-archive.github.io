@@ -1,0 +1,23 @@
+id: de-bverfg-1-bvr-460-23
+title: "BVerfG, Urteil vom 28. November 2024, 1 BvR 460/23 und 1 BvR 611/23 (BVerfGE 170, 377) – Abschöpfung von Überschusserlösen nach dem Strompreisbremsegesetz verfassungsgemäß"
+title_en: "Federal Constitutional Court, judgment of 28 November 2024, 1 BvR 460/23 and 1 BvR 611/23 – skimming of surplus revenues under the Electricity Price Brake Act constitutional"
+doc_type: judgment
+jurisdiction: DE
+issuer: "Bundesverfassungsgericht, Erster Senat"
+reference: "1 BvR 460/23, 1 BvR 611/23; BVerfGE 170, 377"
+date: 2024-11-28
+status: final
+status_note: "Verfassungsbeschwerden zurückgewiesen (Pressemitteilung Nr. 102/2024). Spätere Verfassungsbeschwerden zum gleichen Thema wurden unter Verweis auf dieses Urteil nicht zur Entscheidung angenommen."
+status_note_en: "Constitutional complaints dismissed (press release No. 102/2024). Later complaints on the same issue were not admitted, with reference to this judgment."
+languages: [de]
+topics: [market, renewables, tariffs]
+summary_de: "22 Betreiber von Anlagen zur Stromerzeugung aus erneuerbaren Energien wandten sich gegen die Abschöpfung von Überschusserlösen nach §§ 13 ff. und 29 StromPBG für den Zeitraum von Dezember 2022 bis Juni 2023. Das Bundesverfassungsgericht sah darin keine unzulässige Sonderabgabe, sondern eine staatlich koordinierte Umverteilung von Erlösen unter Privaten. Der Eingriff in die Berufsfreiheit war angesichts der Ausnahmesituation auf dem Strommarkt gerechtfertigt."
+summary_en: "22 operators of renewable generation plants challenged the skimming of surplus revenues under §§ 13 et seq. and 29 of the Electricity Price Brake Act for December 2022 to June 2023. The Federal Constitutional Court did not regard this as an impermissible special levy but as a state-coordinated redistribution of revenues between private parties. The interference with occupational freedom was justified given the exceptional situation on the electricity market."
+source_url: "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2024/11/rs20241128_1bvr046023.html"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-eeg-2023]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,23 @@
+id: de-bnetza-bk6-22-300
+title: "Bundesnetzagentur, Festlegung BK6-22-300 vom 27. November 2023 – Integration von steuerbaren Verbrauchseinrichtungen und steuerbaren Netzanschlüssen nach § 14a EnWG"
+title_en: "Federal Network Agency, determination BK6-22-300 of 27 November 2023 – integration of controllable consumption devices and controllable grid connections under § 14a EnWG"
+doc_type: decision
+jurisdiction: DE
+issuer: "Bundesnetzagentur, Beschlusskammer 6"
+reference: "BK6-22-300"
+date: 2023-11-27
+status: in_force
+status_note: "Gilt seit 1.1.2024. Die zugehörige Netzentgeltreduzierung regelt die Festlegung BK8-22/010-A der Beschlusskammer 8. Spätere Änderungs- oder Ergänzungsfestlegungen nicht geprüft."
+status_note_en: "Applies since 1 January 2024. The related network charge reduction is set by determination BK8-22/010-A of Ruling Chamber 8. Later amending or supplementary determinations not checked."
+languages: [de]
+topics: [grid, tariffs, mobility, heat, storage]
+summary_de: "Die Festlegung regelt die netzorientierte Steuerung von steuerbaren Verbrauchseinrichtungen wie Wärmepumpen, privaten Ladepunkten, Klimaanlagen und Stromspeichern in der Niederspannung. Netzbetreiber dürfen den Anschluss solcher Geräte nicht wegen Netzengpässen ablehnen, können deren Strombezug bei drohender Überlastung aber vorübergehend bis auf eine Mindestleistung von 4,2 kW reduzieren. Im Gegenzug erhalten die Betreiber reduzierte Netzentgelte."
+summary_en: "The determination governs grid-oriented control of controllable consumption devices such as heat pumps, private charging points, air-conditioning units and battery storage at low voltage. Network operators may not refuse to connect such devices because of congestion but may temporarily reduce their consumption down to a minimum of 4.2 kW when overload threatens. In return, operators receive reduced network charges."
+source_url: "https://www.bundesnetzagentur.de/DE/Beschlusskammern/1_GZ/BK6-GZ/2022/BK6-22-300/BK6-22-300_Beschluss.html"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-enwg, de-msbg]
+added: 2026-10-02
+last_checked: 2026-10-02

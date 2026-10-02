@@ -2,6 +2,16 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.7.0] – 2026-10-02
+
+### Neu
+- Erste deutsche Einträge (Rechtsraum DE, deutsche Rechtschreibung mit ß):
+  - Bundesgesetze: Erneuerbare-Energien-Gesetz (EEG 2023), Energiewirtschaftsgesetz (EnWG), Kraft-Wärme-Kopplungsgesetz (KWKG), Messstellenbetriebsgesetz (MsbG), Gebäudemodernisierungsgesetz (GModG, bis Juli 2026 GEG), Windenergieflächenbedarfsgesetz (WindBG), Energiefinanzierungsgesetz (EnFG), Wärmeplanungsgesetz (WPG)
+  - Bundesnetzagentur: Festlegung BK6-22-300 zu § 14a EnWG (steuerbare Verbrauchseinrichtungen)
+  - Rechtsprechung: BGH EnVR 83/20 (Kundenanlage), BVerfG 1 BvR 460/23 (Strompreisbremse)
+  - Parlamentsmaterialien: EEG-Novelle 2027, BT-Drs. 21/7867 (Entwurf)
+- Erster EU-Eintrag: EuGH C-293/23 (Kundenanlage), verknüpft mit dem BGH-Beschluss
+
 ## [0.6.1] – 2026-10-02
 
 ### Geändert

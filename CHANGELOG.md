@@ -2,6 +2,12 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.6.1] – 2026-10-02
+
+### Geändert
+- Menüpunkt und Seite «Über uns» / «About us» statt «Über das Archiv» / «About»
+- Gleicher Abstand zwischen Kopfbereich und Seitentitel auf allen Seiten wie auf der Startseite
+
 ## [0.6.0] – 2026-10-02
 
 ### Neu

@@ -24,7 +24,7 @@ const T = {
   de: {
     prefix: '', htmlLang: 'de', other: 'en', otherLabel: 'English', switchLabel: 'EN',
     paths: { home: '', list: 'dokumente/', about: 'ueber/', contribute: 'mitwirken/', legal: 'impressum/' },
-    nav: { home: 'Suche', list: 'Alle Dokumente', about: 'Über das Archiv', contribute: 'Mitwirken' },
+    nav: { home: 'Suche', list: 'Alle Dokumente', about: 'Über uns', contribute: 'Mitwirken' },
     skip: 'Zum Inhalt', mainNav: 'Hauptnavigation',
     initiative: 'Eine Initiative von Bernhard Weber', initiativeShort: 'Initiative von Bernhard Weber',
     metaDesc: 'Offenes, durchsuchbares Archiv für Gesetze, Entscheide, Leitfäden und Verträge zu Elektrizität und Energie.',
@@ -54,7 +54,7 @@ const T = {
   en: {
     prefix: 'en/', htmlLang: 'en', other: 'de', otherLabel: 'Deutsch', switchLabel: 'DE',
     paths: { home: '', list: 'documents/', about: 'about/', contribute: 'contribute/', legal: 'legal/' },
-    nav: { home: 'Search', list: 'All documents', about: 'About', contribute: 'Contribute' },
+    nav: { home: 'Search', list: 'All documents', about: 'About us', contribute: 'Contribute' },
     skip: 'Skip to content', mainNav: 'Main navigation',
     initiative: 'An initiative by Bernhard Weber', initiativeShort: 'Initiative by Bernhard Weber',
     metaDesc: 'Open, searchable archive of laws, decisions, guidance and contracts on electricity and energy.',

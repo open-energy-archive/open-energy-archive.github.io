@@ -1,4 +1,4 @@
-# About the archive
+# About us
 
 The **Open Energy Archive** collects documents on electricity and energy that are publicly available but scattered across the websites of authorities, courts, regulators and associations. It makes them findable in one place, describes them consistently and records how current they are.
 

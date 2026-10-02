@@ -1,0 +1,25 @@
+id: de-by-baybo-art-44a
+title: "Bayerische Bauordnung (BayBO), Art. 44a – Solaranlagen"
+title_en: "Bavarian Building Code, Art. 44a – solar installations"
+short_title: BayBO Art. 44a
+doc_type: law
+jurisdiction: DE
+subdivision: DE-BY
+issuer: "Bayerischer Landtag"
+reference: "BayBO i. d. F. der Bekanntmachung vom 14.8.2007 (GVBl. S. 588), Art. 44a"
+date: 2007-08-14
+status: in_force
+status_note: "Eingeführt 2023 mit schrittweise geltender Pflicht für Nichtwohngebäude; seit 1.1.2025 Soll-Vorschrift für neue Wohngebäude und Dacherneuerungen. Angaben zu Stichtagen aus Sekundärquellen; Wortlaut nicht im Detail geprüft."
+status_note_en: "Introduced in 2023 with a phased obligation for non-residential buildings; since 1 January 2025 a 'should' provision for new residential buildings and roof renewals. Dates from secondary sources; wording not checked in detail."
+languages: [de]
+topics: [solar, permitting]
+summary_de: "Die Vorschrift verpflichtet Bauherren in Bayern, auf geeigneten Dachflächen neuer gewerblich und industriell genutzter Gebäude sowie sonstiger Nichtwohngebäude Solaranlagen zu errichten. Für Wohngebäude enthält sie eine Soll-Vorschrift, aber keine durchsetzbare Pflicht."
+summary_en: "The provision requires builders in Bavaria to install solar systems on suitable roof areas of new commercial and industrial buildings and other non-residential buildings. For residential buildings it contains a 'should' provision but no enforceable obligation."
+source_url: "https://www.gesetze-bayern.de/Content/Document/BayBO-44a"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-bw-klimag, de-be-solarg]
+added: 2026-10-02
+last_checked: 2026-10-02

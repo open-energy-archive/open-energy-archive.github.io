@@ -10,7 +10,7 @@ Gesetze, Verordnungen, Gerichts- und Behördenentscheide, Leitfäden, Studien un
 | Phase | Raum | Status |
 |---|---|---|
 | 1 | Schweiz | 🟢 im Aufbau (90 Einträge, davon 25 kantonale Gesetze und 1 eigener Mustervertrag) |
-| 2 | Deutschland, Österreich, Liechtenstein | 🟡 begonnen (Deutschland: 12 Einträge – 8 Bundesgesetze, BGH, BVerfG, Bundesnetzagentur, EEG-Novelle 2027 als Entwurf) |
+| 2 | Deutschland, Österreich, Liechtenstein | 🟡 begonnen (Deutschland: 21 Einträge – 8 Bundesgesetze, 4 Verordnungen, 3 Landesgesetze BW/BY/BE, BGH, BVerfG, 2 × Bundesnetzagentur, EEG-Novelle 2027 und Netzpaket als Entwurf) |
 | 3 | EU und englischsprachiger Raum | ⚪ geplant |
 | 4 | Weltweit | ⚪ geplant |
 

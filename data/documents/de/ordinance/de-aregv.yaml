@@ -1,0 +1,24 @@
+id: de-aregv
+title: "Verordnung über die Anreizregulierung der Energieversorgungsnetze (Anreizregulierungsverordnung – ARegV)"
+title_en: "Incentive Regulation Ordinance"
+short_title: ARegV
+doc_type: ordinance
+jurisdiction: DE
+issuer: "Bundesregierung"
+reference: "BGBl. I 2007 S. 2529"
+date: 2007-10-29
+status: in_force
+status_note: "Tritt nach Angaben der Bundesnetzagentur mit Ablauf des 31.12.2028 außer Kraft; Nachfolgeregelungen erlässt die Bundesnetzagentur durch Festlegungen. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "According to the Federal Network Agency, expires at the end of 31 December 2028; successor rules are set by the agency through determinations. Current version not checked in detail."
+languages: [de]
+topics: [tariffs, grid]
+summary_de: "Die ARegV regelt die Bestimmung der zulässigen Erlöse von Strom- und Gasnetzbetreibern über Erlösobergrenzen je Regulierungsperiode, einschließlich Effizienzvergleich, Qualitätselementen und Regulierungskonto, um Anreize für einen effizienten Netzbetrieb zu setzen."
+summary_en: "The ARegV governs the determination of permitted revenues of electricity and gas network operators through revenue caps per regulatory period, including efficiency benchmarking, quality elements and the regulatory account, to create incentives for efficient network operation."
+source_url: "https://www.gesetze-im-internet.de/aregv/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-stromnev, de-bnetza-agnes-gbk-25-01-1-3]
+added: 2026-10-02
+last_checked: 2026-10-02

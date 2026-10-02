@@ -2,6 +2,20 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.8.0] – 2026-10-02
+
+### Neu
+- Schlagwörter sind anklickbar: Typ, Rechtsraum, Kanton/Bundesland und Rechte auf Karten und Dokumentseiten führen zur gefilterten Liste (z. B. alle deutschen Dokumente). In der Liste ergänzt ein Klick die bestehenden Filter, statt sie zu ersetzen; «Filter zurücksetzen» hebt alle auf
+- Startseite: neue Spalte «Nach Rechtsraum»
+- Dokumentseiten: Typ und Rechtsraum in den Metadaten verlinkt
+- Filter «Ebene» (bisher «Bund / Kanton») gruppiert nach Rechtsraum und zeigt nur die Ebenen des gewählten Rechtsraums; Karten zeigen bei kantonalen bzw. Landesgesetzen Staat und Kanton/Land
+- Taxonomie: 16 deutsche Bundesländer (DE-XX)
+- Deutschland: StromNEV, StromNZV (aufgehoben Ende 2025), ARegV, MaStRV; Bundesnetzagentur AgNes-Festlegungsentwurf; Netzpaket (BT-Drs. 21/7866); Landesrecht: KlimaG BW, Solargesetz Berlin, BayBO Art. 44a
+- EU: EuGH C-718/18 (Unabhängigkeit der Bundesnetzagentur)
+
+### Geändert
+- Filterwert «Ebene» für Bundesebene ist neu der Code des Rechtsraums (z. B. `level=CH`) statt `national`
+
 ## [0.7.0] – 2026-10-02
 
 ### Neu

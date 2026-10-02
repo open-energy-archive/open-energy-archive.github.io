@@ -1,0 +1,24 @@
+id: de-stromnev
+title: "Verordnung über die Entgelte für den Zugang zu Elektrizitätsversorgungsnetzen (Stromnetzentgeltverordnung – StromNEV)"
+title_en: "Electricity Network Charges Ordinance"
+short_title: StromNEV
+doc_type: ordinance
+jurisdiction: DE
+issuer: "Bundesregierung"
+reference: "BGBl. I 2005 S. 2225"
+date: 2005-07-25
+status: in_force
+status_note: "Tritt gemäß Art. 15 Abs. 3 des Gesetzes vom 22.12.2023 (BGBl. 2023 I Nr. 405) mit Ablauf des 31.12.2028 außer Kraft. Hintergrund ist das EuGH-Urteil C-718/18: Die Methoden der Netzentgeltbildung legt künftig die Bundesnetzagentur durch Festlegung fest (Verfahren AgNes)."
+status_note_en: "Expires at the end of 31 December 2028 under Art. 15(3) of the Act of 22 December 2023 (BGBl. 2023 I No. 405). Following CJEU judgment C-718/18, network charge methods will be set by the Federal Network Agency by determination (AgNes procedure)."
+languages: [de]
+topics: [tariffs, grid]
+summary_de: "Die StromNEV regelt die Methode zur Ermittlung der Entgelte für den Zugang zu Stromnetzen: Kostenarten-, Kostenstellen- und Kostenträgerrechnung, die Bildung der Netzentgelte nach Spannungsebenen sowie Sonderformen wie individuelle Netzentgelte nach § 19 StromNEV."
+summary_en: "The StromNEV sets the method for determining charges for access to electricity networks: cost-type, cost-centre and cost-unit accounting, network charges by voltage level, and special forms such as individual network charges under § 19 StromNEV."
+source_url: "https://www.gesetze-im-internet.de/stromnev/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-bnetza-agnes-gbk-25-01-1-3, de-aregv, eu-eugh-c-718-18, de-enwg]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,24 @@
+id: de-mastrv
+title: "Verordnung über die Registrierung energiewirtschaftlicher Daten (Marktstammdatenregisterverordnung – MaStRV)"
+title_en: "Market Master Data Register Ordinance"
+short_title: MaStRV
+doc_type: ordinance
+jurisdiction: DE
+issuer: "Bundesregierung"
+reference: "BGBl. I 2017 S. 842"
+date: 2017-04-10
+status: in_force
+status_note: "Aktuelle Fassung und spätere Änderungen nicht im Detail geprüft."
+status_note_en: "Current version and later amendments not checked in detail."
+languages: [de]
+topics: [renewables, solar, storage, grid]
+summary_de: "Die MaStRV regelt das Marktstammdatenregister der Bundesnetzagentur. Betreiber von Stromerzeugungsanlagen und Speichern, auch kleiner Photovoltaik- und Steckersolaranlagen, sowie weitere Marktakteure müssen sich und ihre Anlagen dort registrieren; die Daten sind teilweise öffentlich einsehbar."
+summary_en: "The MaStRV governs the Federal Network Agency's market master data register. Operators of generation units and storage, including small PV and plug-in solar systems, and other market participants must register themselves and their units; parts of the data are publicly accessible."
+source_url: "https://www.gesetze-im-internet.de/mastrv/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-eeg-2023, de-enwg]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,23 @@
+id: eu-eugh-c-718-18
+title: "EuGH, Urteil vom 2. September 2021, C-718/18 (Kommission/Deutschland) – Unabhängigkeit der Bundesnetzagentur"
+title_en: "CJEU, judgment of 2 September 2021, C-718/18 (Commission v Germany) – independence of the Federal Network Agency"
+doc_type: judgment
+jurisdiction: EU
+issuer: "Gerichtshof der Europäischen Union"
+reference: "C-718/18"
+date: 2021-09-02
+status: final
+status_note: "Vertragsverletzungsverfahren; der Klage der Kommission wurde stattgegeben. Deutschland setzte das Urteil mit der EnWG-Novelle vom 22.12.2023 um (in Kraft seit 29.12.2023): Verordnungsermächtigungen wurden durch Festlegungskompetenzen der Bundesnetzagentur ersetzt, StromNZV, StromNEV und ARegV laufen aus."
+status_note_en: "Infringement proceedings; the Commission's action was upheld. Germany implemented the judgment through the EnWG amendment of 22 December 2023 (in force since 29 December 2023): ordinance-making powers were replaced by determination powers of the Federal Network Agency, and StromNZV, StromNEV and ARegV are being phased out."
+languages: [de, en, fr, it]
+topics: [grid, tariffs]
+summary_de: "Der Gerichtshof stellte fest, dass Deutschland gegen die Binnenmarktrichtlinien Strom und Gas von 2009 verstoßen hat. Die ausschließliche Zuständigkeit der nationalen Regulierungsbehörde für die Festlegung der Methoden für Netzzugang und Netzentgelte sei verletzt, weil diese weitgehend durch Rechtsverordnungen der Bundesregierung vorgegeben wurden; damit sei auch die Unabhängigkeit der Behörde beeinträchtigt."
+summary_en: "The Court found that Germany had infringed the 2009 internal market directives for electricity and gas. The exclusive competence of the national regulatory authority to set the methods for network access and charges was infringed because these were largely prescribed by federal government ordinances, which also impaired the authority's independence."
+source_url: "https://curia.europa.eu/juris/liste.jsf?num=C-718/18&language=DE"
+rights:
+  status: official_work
+  basis: "Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäß den Nutzungsbedingungen von curia.europa.eu"
+  mirror_allowed: false
+related: [de-stromnev, de-stromnzv, de-aregv, de-enwg]
+added: 2026-10-02
+last_checked: 2026-10-02

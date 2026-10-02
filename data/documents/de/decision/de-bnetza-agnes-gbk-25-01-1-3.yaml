@@ -1,0 +1,27 @@
+id: de-bnetza-agnes-gbk-25-01-1-3
+title: "Bundesnetzagentur, Entwurf der Rahmenfestlegung zur Allgemeinen Netzentgeltsystematik Strom (AgNes), GBK-25-01-1#3"
+title_en: "Federal Network Agency, draft framework determination on the general electricity network charge system (AgNes), GBK-25-01-1#3"
+short_title: AgNes
+doc_type: decision
+jurisdiction: DE
+issuer: "Bundesnetzagentur, Große Beschlusskammer Energie"
+reference: "GBK-25-01-1#3"
+date: 2026-08-06
+status: draft
+status_note: "Verfahren eröffnet am 12.5.2025; vollständiger Festlegungsentwurf am 6.8.2026 zur Konsultation gestellt (Stellungnahmen bis 18.9.2026). Der Erlass ist für Ende 2026 geplant, konkretisierende Folgefestlegungen für 2027. Die neue Systematik soll ab 2029 gelten."
+status_note_en: "Procedure opened on 12 May 2025; full draft determination published for consultation on 6 August 2026 (comments until 18 September 2026). Adoption is planned for the end of 2026, with implementing follow-up determinations in 2027. The new system is to apply from 2029."
+languages: [de]
+topics: [tariffs, grid, storage, renewables]
+summary_de: "Der Entwurf soll die Regeln der StromNEV zur Bildung der Stromnetzentgelte ab 2029 ersetzen. Er behandelt unter anderem die Struktur der Entgelte (etwa Kapazitäts- und Arbeitspreiskomponenten), die mögliche Beteiligung von Einspeisern und Speichern an den Netzkosten mit Vertrauensschutz für bestehende Investitionsentscheidungen sowie Übergangsregeln für bisherige Sonderentgelte."
+summary_en: "The draft is to replace the StromNEV rules on forming electricity network charges from 2029. Among other things it addresses the structure of charges (such as capacity and energy price components), possible contributions of generators and storage to network costs with protection of legitimate expectations for existing investment decisions, and transitional rules for existing special charges."
+source_url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Netzentgelte/Anreizregulierung/Agnes/start.html"
+alternate_urls:
+  - label: "Pressemitteilung vom 6.8.2026 zur Konsultation"
+    url: "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260806_Agnes.html"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-stromnev, de-aregv, de-enwg]
+added: 2026-10-02
+last_checked: 2026-10-02

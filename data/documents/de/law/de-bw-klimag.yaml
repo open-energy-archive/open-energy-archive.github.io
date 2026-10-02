@@ -1,0 +1,28 @@
+id: de-bw-klimag
+title: "Klimaschutz- und Klimawandelanpassungsgesetz Baden-Württemberg (KlimaG BW)"
+title_en: "Baden-Württemberg Climate Protection and Climate Adaptation Act"
+short_title: KlimaG BW
+doc_type: law
+jurisdiction: DE
+subdivision: DE-BW
+issuer: "Landtag von Baden-Württemberg"
+reference: "Art. 1 des Gesetzes vom 7.2.2023 (GBl. BW 2023)"
+date: 2023-02-07
+status: in_force
+status_note: "In Kraft seit 11.2.2023 (Nachfolger des Klimaschutzgesetzes BW). Geändert u. a. durch Gesetz vom 23.7.2025 (u. a. Wärmeplanung im Zusammenhang mit dem WPG). Die Photovoltaikpflicht nach § 23 wird durch die Photovoltaik-Pflicht-Verordnung (PVPf-VO) konkretisiert. Fundstelle im Gesetzblatt und aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "In force since 11 February 2023 (successor to the Baden-Württemberg Climate Protection Act). Amended among others by the Act of 23 July 2025 (including heat planning in connection with the WPG). The PV obligation under § 23 is specified by the PV Obligation Ordinance (PVPf-VO). Gazette reference and current version not checked in detail."
+languages: [de]
+topics: [solar, renewables, heat, energy_efficiency]
+summary_de: "Das Gesetz legt die Klimaschutzziele des Landes und Sektorziele fest und enthält Pflichten zur Energie-, Wärme- und Verkehrswende. Nach § 23 sind beim Neubau von Wohn- und Nichtwohngebäuden, bei grundlegenden Dachsanierungen sowie beim Neubau offener Parkplätze mit mehr als 35 Stellplätzen Photovoltaikanlagen zu installieren; weitere Bestimmungen betreffen unter anderem die kommunale Wärmeplanung."
+summary_en: "The act sets the state's climate targets and sector targets and contains obligations for the energy, heat and transport transition. Under § 23, PV systems must be installed on new residential and non-residential buildings, in fundamental roof renovations and on new open car parks with more than 35 spaces; further provisions concern municipal heat planning among other things."
+source_url: "https://www.landesrecht-bw.de/jportal/?quelle=jlink&query=KlimaSchG+BW&psml=bsbawueprod.psml&max=true"
+alternate_urls:
+  - label: "Umweltministerium BW – Photovoltaikpflicht, Rechtsgrundlagen"
+    url: "https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/erneuerbare-energien/sonnenenergie/photovoltaik/photovoltaikpflicht/rechtsgrundlagen-und-rechtsquellen"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-wpg, de-gmodg]
+added: 2026-10-02
+last_checked: 2026-10-02

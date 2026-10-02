@@ -1,0 +1,24 @@
+id: de-stromnzv
+title: "Verordnung über den Zugang zu Elektrizitätsversorgungsnetzen (Stromnetzzugangsverordnung – StromNZV)"
+title_en: "Electricity Network Access Ordinance"
+short_title: StromNZV
+doc_type: ordinance
+jurisdiction: DE
+issuer: "Bundesregierung"
+reference: "BGBl. I 2005 S. 2243"
+date: 2005-07-25
+status: repealed
+status_note: "Mit Ablauf des 31.12.2025 außer Kraft getreten (Art. 15 Abs. 4 des Gesetzes vom 22.12.2023, BGBl. 2023 I Nr. 405). Die Regeln zum Netzzugang trifft seither die Bundesnetzagentur durch Festlegungen. Der Link auf gesetze-im-internet.de kann nach der Aufhebung entfallen."
+status_note_en: "Expired at the end of 31 December 2025 (Art. 15(4) of the Act of 22 December 2023, BGBl. 2023 I No. 405). Network access rules are now set by the Federal Network Agency through determinations. The link to gesetze-im-internet.de may disappear after repeal."
+languages: [de]
+topics: [grid, market]
+summary_de: "Die StromNZV regelte die Bedingungen für den Zugang zu den Stromnetzen, insbesondere das Bilanzkreissystem, die Fahrplanabwicklung, die Beschaffung von Regelenergie und Verlustenergie sowie den Lieferantenwechsel."
+summary_en: "The StromNZV governed the conditions for access to electricity networks, in particular the balancing group system, schedule management, procurement of balancing and loss energy, and switching suppliers."
+source_url: "https://www.gesetze-im-internet.de/stromnzv/"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-stromnev, eu-eugh-c-718-18, de-enwg]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,30 @@
+id: de-be-solarg
+title: "Solargesetz Berlin (SolarG Bln)"
+title_en: "Berlin Solar Act"
+short_title: SolarG Bln
+doc_type: law
+jurisdiction: DE
+subdivision: DE-BE
+issuer: "Abgeordnetenhaus von Berlin"
+reference: "GVBl. Berlin 2021 Nr. 54, S. 837"
+date: 2021-07-05
+status: in_force
+status_note: "Solarpflicht seit 1.1.2023. Für öffentliche Gebäude gelten die Vorgaben des Berliner Klimaschutz- und Energiewendegesetzes (EWG Bln). Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "Solar obligation since 1 January 2023. Public buildings are covered by the Berlin Climate Protection and Energy Transition Act (EWG Bln). Current version not checked in detail."
+languages: [de]
+topics: [solar, renewables]
+summary_de: "Das Solargesetz verpflichtet Eigentümerinnen und Eigentümer nichtöffentlicher Gebäude in Berlin, bei Neubauten und wesentlichen Dachumbauten Photovoltaikanlagen auf einem Mindestanteil der Dachfläche zu installieren, bei Gebäuden mit mehr als 50 m² Nutzfläche. Es regelt Ausnahmen, Erfüllungsoptionen wie Solarthermie und Bußgelder."
+summary_en: "The Solar Act requires owners of non-public buildings in Berlin to install PV systems on a minimum share of the roof area in new buildings and major roof conversions, for buildings with more than 50 m² of usable floor area. It governs exemptions, alternatives such as solar thermal, and fines."
+source_url: "https://gesetze.berlin.de/bsbe/document/jlr-SolarGBErahmen"
+alternate_urls:
+  - label: "Gesetzestext im GVBl. (PDF, Senatsverwaltung)"
+    url: "https://www.berlin.de/sen/energie/erneuerbare-energien/solargesetz-berlin/20210715_solargesetz-berlin.pdf"
+  - label: "Praxisleitfaden zum Solargesetz Berlin (PDF)"
+    url: "https://www.berlin.de/sen/energie/erneuerbare-energien/solargesetz-berlin/20221205_praxisleitfaden_zum_solargesetz_berlin.pdf"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-bw-klimag, de-by-baybo-art-44a]
+added: 2026-10-02
+last_checked: 2026-10-02

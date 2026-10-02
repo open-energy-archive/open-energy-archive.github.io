@@ -26,7 +26,7 @@ jurisdictions:
   INT: { de: "International", en: "International" }
 
 subdivisions:
-  # Kantone (CH-XX); Bundesländer folgen mit DE-XX / AT-X
+  # Kantone (CH-XX), Bundesländer (DE-XX); österreichische Länder folgen mit AT-X
   CH-AG: { de: "Kanton Aargau", en: "Canton of Aargau" }
   CH-AI: { de: "Kanton Appenzell Innerrhoden", en: "Canton of Appenzell Innerrhoden" }
   CH-AR: { de: "Kanton Appenzell Ausserrhoden", en: "Canton of Appenzell Ausserrhoden" }
@@ -53,6 +53,23 @@ subdivisions:
   CH-VS: { de: "Kanton Wallis", en: "Canton of Valais" }
   CH-ZG: { de: "Kanton Zug", en: "Canton of Zug" }
   CH-ZH: { de: "Kanton Zürich", en: "Canton of Zurich" }
+  # Deutsche Bundesländer (DE-XX, ISO 3166-2)
+  DE-BW: { de: "Baden-Württemberg", en: "Baden-Württemberg" }
+  DE-BY: { de: "Freistaat Bayern", en: "Bavaria" }
+  DE-BE: { de: "Berlin", en: "Berlin" }
+  DE-BB: { de: "Brandenburg", en: "Brandenburg" }
+  DE-HB: { de: "Freie Hansestadt Bremen", en: "Bremen" }
+  DE-HH: { de: "Freie und Hansestadt Hamburg", en: "Hamburg" }
+  DE-HE: { de: "Hessen", en: "Hesse" }
+  DE-MV: { de: "Mecklenburg-Vorpommern", en: "Mecklenburg-Western Pomerania" }
+  DE-NI: { de: "Niedersachsen", en: "Lower Saxony" }
+  DE-NW: { de: "Nordrhein-Westfalen", en: "North Rhine-Westphalia" }
+  DE-RP: { de: "Rheinland-Pfalz", en: "Rhineland-Palatinate" }
+  DE-SL: { de: "Saarland", en: "Saarland" }
+  DE-SN: { de: "Freistaat Sachsen", en: "Saxony" }
+  DE-ST: { de: "Sachsen-Anhalt", en: "Saxony-Anhalt" }
+  DE-SH: { de: "Schleswig-Holstein", en: "Schleswig-Holstein" }
+  DE-TH: { de: "Freistaat Thüringen", en: "Thuringia" }
 
 topics:
   grid:              { de: "Netz & Netzanschluss",      en: "Grid & connection" }

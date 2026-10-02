@@ -1,0 +1,33 @@
+id: de-bnetza-mispel-entwurf-2025
+title: "Bundesnetzagentur, Konsultationsentwurf (Eckpunkte) der MiSpeL-Festlegung vom 18. September 2025"
+title_en: "Federal Network Agency, consultation draft (key points) of the MiSpeL determination of 18 September 2025"
+short_title: MiSpeL-Konsultationsentwurf
+doc_type: decision
+jurisdiction: DE
+issuer: "Bundesnetzagentur, Referat Erneuerbare Energien (618)"
+reference: "618-25-02"
+date: 2025-09-18
+status: superseded
+status_note: "Konsultation bis 24.10.2025; rund 60 Stellungnahmen von Unternehmen, Verbänden, Hochschulen und Privatpersonen sind auf der Verfahrensseite veröffentlicht (Dokumente Dritter, hier nicht einzeln aufgenommen). Durch den Arbeitsstand vom 5.8.2026 und die Festlegung vom 1.10.2026 ersetzt."
+status_note_en: "Consultation until 24 October 2025; about 60 comments from companies, associations, universities and individuals are published on the procedure page (third-party documents, not listed individually here). Superseded by the working draft of 5 August 2026 and the determination of 1 October 2026."
+languages: [de]
+topics: [storage, mobility, solar, subsidies, tariffs]
+summary_de: "Der Entwurf stellte erstmals die beiden neuen Optionen für EE-Anlagen mit Speichern und Ladepunkten vor, die das Gesetz zur Vermeidung temporärer Erzeugungsüberschüsse von 2025 («Solarspitzengesetz») im EEG und EnFG angelegt hat: die Abgrenzungsoption mit rechnerischer Zuordnung viertelstündlicher Strommengen und die Pauschaloption für kleine Solaranlagen. Bis dahin stand nur die Ausschließlichkeitsoption zur Verfügung, bei der jeglicher Netzstrombezug des Speichers die Förderfähigkeit entfallen ließ."
+summary_en: "The draft first presented the two new options for renewable plants with storage and charging points created in the EEG and EnFG by the 2025 solar peak act: the delimitation option with calculated allocation of quarter-hourly volumes and the flat-rate option for small solar systems. Until then only the exclusivity option was available, under which any grid charging of the storage unit removed eligibility for support."
+source_url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Tenor_Entwurf.pdf?__blob=publicationFile&v=2"
+alternate_urls:
+  - label: "Entwurf Anlage 1 – Abgrenzungsoption (PDF)"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Anlage1_Entwurf.pdf?__blob=publicationFile&v=4"
+  - label: "Entwurf Anlage 2 – Pauschaloption (PDF)"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Anlage2_Entwurf.pdf?__blob=publicationFile&v=4"
+  - label: "Konsultationsdokument (PDF)"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Konsultation.pdf?__blob=publicationFile&v=3"
+  - label: "Workshop-Folien vom 1.10.2025"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Workshop-Folien.html"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+related: [de-bnetza-mispel-618-25-02]
+added: 2026-10-02
+last_checked: 2026-10-02

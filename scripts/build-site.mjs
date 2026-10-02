@@ -97,7 +97,15 @@ const esc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<
 const url = (p = '') => BASE + p.replace(/^\//, '');
 const unreviewed = (d) => d.doc_type === 'contract_template' && !d.reviewed_by;
 const free = (d) => ['official_work', 'open_license', 'permission'].includes(d.rights?.status);
+// Externe Links (http/https) öffnen in einem neuen Fenster bzw. Tab.
+const externalLinks = (html) => html.replace(/<a\s([^>]*?)href="(https?:\/\/[^"]*)"([^>]*)>/g, (m, pre, href, post) => {
+  const attrs = pre + post;
+  if (/\btarget=/.test(attrs)) return m;
+  const rel = /\brel="/.test(attrs) ? '' : ' rel="noopener"';
+  return `<a ${pre}href="${href}"${post} target="_blank"${rel}>`;
+});
 function write(rel, content) {
+  if (rel.endsWith('.html')) content = externalLinks(content);
   const out = path.join(DIST, rel);
   fs.mkdirSync(path.dirname(out), { recursive: true });
   fs.writeFileSync(out, content);

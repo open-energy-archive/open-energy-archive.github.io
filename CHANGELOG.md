@@ -2,6 +2,14 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.10.0] – 2026-10-02
+
+### Neu
+- Bundesnetzagentur, Festlegung zur Marktintegration von Speichern und Ladepunkten (MiSpeL, Az. 618-25-02) vom 1.10.2026 mit Anlagen zur Abgrenzungs- und Pauschaloption; dazu Arbeitsstand vom 5.8.2026, Konsultationsentwurf vom 18.9.2025 (beide ersetzt, als Verfahrensgeschichte verknüpft) und Hintergrundpapier
+
+### Geändert
+- Externe Links (Originalquellen, GitHub, bwlaw.ch usw.) öffnen in einem neuen Fenster bzw. Tab; interne Links bleiben im selben Fenster
+
 ## [0.9.0] – 2026-10-02
 
 ### Neu

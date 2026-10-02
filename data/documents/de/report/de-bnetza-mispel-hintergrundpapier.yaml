@@ -1,0 +1,22 @@
+id: de-bnetza-mispel-hintergrundpapier
+title: "Bundesnetzagentur, Hintergrundpapier «MiSpeL: Bundesnetzagentur eröffnet die aktive Nutzung von Speichern und bidirektionalen Ladepunkten»"
+title_en: "Federal Network Agency, background paper on MiSpeL: active use of storage and bidirectional charging points"
+doc_type: report
+jurisdiction: DE
+issuer: "Bundesnetzagentur"
+date: 2026-10-01
+status: non_binding
+status_note: "Zur Festlegung vom 1.10.2026 veröffentlicht. Erläuterndes Papier ohne eigene Rechtswirkung; maßgeblich ist die Festlegung."
+status_note_en: "Published with the determination of 1 October 2026. Explanatory paper without legal effect of its own; the determination is authoritative."
+languages: [de]
+topics: [storage, mobility, solar, self_consumption]
+summary_de: "Das Papier erklärt in allgemeinverständlicher Form Hintergrund und Funktionsweise der MiSpeL-Festlegung: warum Grün- und Netzstrom in Speichern bisher getrennt werden mussten, wie Abgrenzungs- und Pauschaloption funktionieren und welchen Nutzen Haushalte, Gewerbe und das Stromsystem aus der flexiblen Nutzung von Speichern und bidirektionalen Ladepunkten ziehen sollen."
+summary_en: "The paper explains in accessible terms the background and workings of the MiSpeL determination: why green and grid electricity previously had to be separated in storage, how the delimitation and flat-rate options work and what benefits households, businesses and the power system are expected to gain from flexible use of storage and bidirectional charging points."
+source_url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Hintergrundpapier.pdf?__blob=publicationFile&v=3"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 2 UrhG"
+  mirror_allowed: true
+related: [de-bnetza-mispel-618-25-02]
+added: 2026-10-02
+last_checked: 2026-10-02

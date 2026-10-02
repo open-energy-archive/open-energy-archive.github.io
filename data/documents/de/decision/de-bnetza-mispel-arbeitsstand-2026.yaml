@@ -1,0 +1,30 @@
+id: de-bnetza-mispel-arbeitsstand-2026
+title: "Bundesnetzagentur, Arbeitsstand der MiSpeL-Festlegung vom 5. August 2026 (Tenor, Anlage 1 Abgrenzungsoption, Anlage 2 Pauschaloption)"
+title_en: "Federal Network Agency, working draft of the MiSpeL determination of 5 August 2026"
+short_title: MiSpeL-Arbeitsstand
+doc_type: decision
+jurisdiction: DE
+issuer: "Bundesnetzagentur, Referat Erneuerbare Energien (618)"
+reference: "618-25-02"
+date: 2026-08-05
+status: superseded
+status_note: "Durch die Festlegung vom 1.10.2026 ersetzt. Der Arbeitsstand diente der frühzeitigen Information des Marktes und der Abstimmung mit dem parallelen AgNes-Verfahren; er war nicht mit einer erneuten Konsultation verbunden."
+status_note_en: "Superseded by the determination of 1 October 2026. The working draft served to inform the market early and to align with the parallel AgNes procedure; it was not accompanied by a new consultation."
+languages: [de]
+topics: [storage, mobility, solar, subsidies, tariffs]
+summary_de: "Der Arbeitsstand griff zahlreiche Hinweise aus der Konsultation auf, unter anderem die Umstellung auf eine monatliche Saldierungsperiode, die Erweiterung auf Fallkonstellationen ohne geförderte EE-Anlagen und angepasste Formeln, die Fehlanreize zu marktpreisunabhängiger Speichereinspeisung zur Erlangung von Umlageprivilegien vermeiden sollen."
+summary_en: "The working draft took up many points from the consultation, including a switch to a monthly netting period, extension to cases without supported renewable plants and adjusted formulas intended to avoid incentives for storage feed-in decoupled from market prices merely to obtain levy privileges."
+source_url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Tenor_Arbeitsstand.pdf?__blob=publicationFile&v=4"
+alternate_urls:
+  - label: "Anlage 1 – Abgrenzungsoption (PDF)"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Anlage1_Arbeitsstand.pdf?__blob=publicationFile&v=7"
+  - label: "Anlage 2 – Pauschaloption (PDF)"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/Anlage2_Arbeitsstand.pdf?__blob=publicationFile&v=3"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+supersedes: de-bnetza-mispel-entwurf-2025
+related: [de-bnetza-mispel-618-25-02, de-bnetza-agnes-gbk-25-01-1-3]
+added: 2026-10-02
+last_checked: 2026-10-02

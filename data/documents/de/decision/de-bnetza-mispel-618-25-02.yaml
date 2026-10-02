@@ -1,0 +1,34 @@
+id: de-bnetza-mispel-618-25-02
+title: "Bundesnetzagentur, Festlegung zur Marktintegration von Speichern und Ladepunkten (MiSpeL) vom 1. Oktober 2026, Az. 618-25-02"
+title_en: "Federal Network Agency, determination on the market integration of storage and charging points (MiSpeL) of 1 October 2026, ref. 618-25-02"
+short_title: MiSpeL
+doc_type: decision
+jurisdiction: DE
+issuer: "Bundesnetzagentur, Referat Erneuerbare Energien (618)"
+reference: "618-25-02"
+date: 2026-10-01
+status: in_force
+status_note: "Am 1.10.2026 beschlossen. Die Festlegung besteht aus dem Tenor mit Begründung sowie Anlage 1 (Abgrenzungsoption) und Anlage 2 (Pauschaloption). In einer Übergangszeit bis Ende September 2027 ist die Anwendung nur im Einverständnis mit Netzbetreiber und Messstellenbetreiber möglich. Für die Pauschaloption muss zudem die beihilferechtliche Genehmigung der gesetzlichen Grundlage durch die Europäische Kommission abgewartet werden. Verfahren eröffnet am 31.7.2025; Eckpunkte konsultiert ab 18.9.2025, Arbeitsstand veröffentlicht am 5.8.2026."
+status_note_en: "Adopted on 1 October 2026. The determination consists of the operative part with reasons and Annex 1 (delimitation option) and Annex 2 (flat-rate option). During a transition period until the end of September 2027 it can only be applied with the consent of the network operator and the metering point operator. The flat-rate option additionally requires state-aid approval of the statutory basis by the European Commission. Procedure opened on 31 July 2025; key points consulted from 18 September 2025, working draft published on 5 August 2026."
+languages: [de]
+topics: [storage, mobility, solar, subsidies, tariffs, self_consumption, market]
+summary_de: "Die Festlegung erlaubt es, Stromspeicher und erstmals auch bidirektionale Ladepunkte zusammen mit EE-Anlagen flexibel am Markt zu nutzen, ohne Grün- und Netzstrom im Speicher strikt trennen zu müssen. Sie regelt, wie die anteilig förderfähige Netzeinspeisung (zwischengespeicherter EE-Strom, für den die EEG-Marktprämie erhalten bleibt) und die anteilig saldierungsfähige Netzeinspeisung (zwischengespeicherter Netzbezug, für den weniger Umlagen und Netzentgelte anfallen) bestimmt werden. Dafür stehen zwei Optionen zur Verfügung: die Abgrenzungsoption mit Rechenformeln auf Basis viertelstündlicher Messwerte, in der Regel mit zwei Zählern, und die vereinfachte Pauschaloption für Haushalte mit Solaranlagen bis 30 kWp, die mit einem Zähler auskommt."
+summary_en: "The determination allows battery storage and, for the first time, bidirectional charging points to be used flexibly on the market together with renewable plants, without strictly separating green and grid electricity in the storage unit. It sets how to determine the share of grid feed-in that remains eligible for support (stored renewable electricity keeping the EEG market premium) and the share eligible for netting (stored grid electricity, reducing levies and network charges). Two options are available: the delimitation option with formulas based on quarter-hourly metering, usually with two meters, and the simplified flat-rate option for households with solar systems up to 30 kWp, which needs only one meter."
+source_url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/MiSpeL_TenorMitBegruendung.html"
+alternate_urls:
+  - label: "Anlage 1 – Abgrenzungsoption"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/MiSpeL_Abgrenzungsoptionen.html"
+  - label: "Anlage 2 – Pauschaloption"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/DL/MiSpeL_Pauschaloptionen.html"
+  - label: "Verfahrensseite der Bundesnetzagentur"
+    url: "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/ErneuerbareEnergien/EEG_Aufsicht/MiSpeL/start.html"
+  - label: "Pressemitteilung vom 1.10.2026"
+    url: "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261001_Mispel.html"
+rights:
+  status: official_work
+  basis: "§ 5 Abs. 1 UrhG"
+  mirror_allowed: true
+supersedes: de-bnetza-mispel-arbeitsstand-2026
+related: [de-bnetza-mispel-hintergrundpapier, de-eeg-2023, de-enfg, de-bnetza-agnes-gbk-25-01-1-3, de-bnetza-bk6-22-300]
+added: 2026-10-02
+last_checked: 2026-10-02

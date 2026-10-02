@@ -1,46 +1,20 @@
 # About us
 
-The **Open Energy Archive** collects documents on electricity and energy that are publicly available but scattered across the websites of authorities, courts, regulators and associations. It makes them findable in one place, describes them consistently and records how current they are.
-
-## Purpose
-
-The expansion of renewable energy often stalls not on technology but on procedures, contracts and missing knowledge. Anyone who wants to share a solar installation with neighbours, connect a battery or negotiate a power purchase agreement should be able to find the legal and practical basics quickly.
-
-## What the archive contains
-
-- Laws and ordinances
-- Decisions of courts and regulators (e.g. the Swiss Federal Electricity Commission ElCom)
-- Directives, guidance and studies by authorities
-- Industry documents (as references only, where protected by copyright)
-- Model contracts and published contracts
-
-The archive started with Switzerland; a first set of German documents has been added. Austria and Liechtenstein follow, then the EU, the English-speaking world and beyond.
-
-## Principles
-
-- **Primary sources first.** Every entry links to the official or original source.
-- **Factual.** Summaries describe the content without evaluating it.
-- **Legally sound.** Copies are stored only where permitted. Everything else is a reference.
-- **Open.** Metadata under CC0, code under MIT, everything on GitHub.
-
-## Languages {#languages}
-
-Titles appear in the original language, with an English title below. The English summaries and notes are translations of the German entries by the project. Where they differ, the German version and, above all, the official source prevail. Model contracts are currently available in German only.
-
-## Licences {#licences}
-
-- Metadata (incl. JSON/CSV): CC0 1.0, free to use without conditions
-- Own editorial content: CC BY 4.0
-- Code: MIT
-- Third-party documents: their own legal status, noted in each entry
-
-## Not legal advice
-
-The archive does not replace legal advice. Status and entry-into-force information is checked carefully but may become outdated. The official source is authoritative.
+The **Open Energy Archive (OEA)** is an initiative by Bernhard Weber, lawyer in Zurich ([bwlaw.ch](https://www.bwlaw.ch/)). What the archive is, what it contains and the rules it follows are described on [About OEA](../about/oea/).
 
 ## Who is behind it
 
-The Open Energy Archive is an initiative by Bernhard Weber, lawyer in Zurich ([bwlaw.ch](https://www.bwlaw.ch/)). It is non-commercial and open to contributions from anyone. The initiator is a lawyer but not an energy-law specialist. Entries are researched carefully; for expert review – especially of the model contracts – the project is looking for [reviewers](../contribute/).
+Bernhard Weber started the archive from a simple observation: anyone who wants to share a solar installation with neighbours, connect a battery or negotiate a power purchase agreement spends a lot of time just finding the relevant laws, decisions and guidance. The OEA is meant to shorten that search.
+
+The initiator is a lawyer but not an energy-law specialist. Entries are researched carefully and linked to the official source; for expert review – especially of the model contracts and the summaries of decisions – the project is looking for [reviewers](../contribute/) in Switzerland, Germany and Austria.
+
+## Independence
+
+The archive is non-commercial, is not funded by any company or association and carries no advertising. Contributors disclose professional ties that could be relevant to how documents are selected or described. The rules are set out in the [governance document](https://github.com/open-energy-archive/open-energy-archive.github.io/blob/main/GOVERNANCE.md).
+
+## Get involved
+
+The OEA relies on tips: missing documents, outdated versions, better sources. How to contribute – even without knowing Git – is explained under [Contribute](../contribute/).
 
 ## Contact
 

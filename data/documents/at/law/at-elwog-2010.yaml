@@ -1,0 +1,25 @@
+id: at-elwog-2010
+title: "Elektrizitätswirtschafts- und -organisationsgesetz 2010 (ElWOG 2010)"
+title_en: "Electricity Industry and Organisation Act 2010"
+short_title: ElWOG 2010
+doc_type: law
+jurisdiction: AT
+issuer: "Nationalrat der Republik Österreich"
+reference: "BGBl. I Nr. 110/2010 (Art. 1)"
+date: 2010-12-01
+date_precision: month
+status: superseded
+status_note: "Durch das Elektrizitätswirtschaftsgesetz (ElWG, BGBl. I Nr. 91/2025) ersetzt, das am 24.12.2025 in Kraft getreten ist. Für bestimmte Übergangssachverhalte und laufende Verfahren können Bestimmungen weiter von Bedeutung sein. Das genaue Kundmachungsdatum wurde nicht geprüft."
+status_note_en: "Replaced by the Electricity Industry Act (ElWG, BGBl. I No. 91/2025), in force since 24 December 2025. Provisions may remain relevant for certain transitional matters and pending proceedings. The exact promulgation date was not checked."
+languages: [de]
+topics: [grid, market, tariffs, self_consumption]
+summary_de: "Das ElWOG 2010 war bis Ende 2025 das zentrale Bundesgesetz der österreichischen Elektrizitätswirtschaft. Es regelte Netzzugang und Netzbetrieb, Entflechtung, Systemnutzungsentgelte, Lieferantenwechsel und Endkundenrechte sowie seit 2021 Erneuerbare-Energie-Gemeinschaften und Bürgerenergiegemeinschaften."
+summary_en: "Until the end of 2025 the ElWOG 2010 was the central federal statute for the Austrian electricity sector. It governed network access and operation, unbundling, system charges, supplier switching and customer rights and, since 2021, renewable energy communities and citizen energy communities."
+source_url: "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2010_I_110/BGBLA_2010_I_110.html"
+rights:
+  status: official_work
+  basis: "§ 7 Abs. 1 UrhG (AT)"
+  mirror_allowed: true
+related: [at-elwg, at-sne-v-2018]
+added: 2026-10-02
+last_checked: 2026-10-02

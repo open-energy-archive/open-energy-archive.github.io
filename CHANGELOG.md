@@ -2,6 +2,17 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.9.0] – 2026-10-02
+
+### Neu
+- Dokumentliste seitenweise: wählbar 10, 50 oder 100 Einträge pro Seite, mit Seitennavigation (Zurück, Seitenzahlen, Weiter); Seite und Anzahl stehen in der URL (`?page=2&per=50`)
+- Neue Unterseite «Über OEA» / «About OEA» mit Ziel, Inhalt, Abdeckung, Entstehung eines Eintrags, Grundsätzen, Sprachen, Lizenzen und offenen Daten; «Über uns» beschreibt Initiant, Unabhängigkeit und Kontakt; Unternavigation zwischen beiden Seiten
+- Österreich: Elektrizitätswirtschaftsgesetz (ElWG, BGBl. I Nr. 91/2025), ElWOG 2010 (ersetzt), Erneuerbaren-Ausbau-Gesetz (EAG), Erneuerbaren-Ausbau-Beschleunigungsgesetz (EABG, BGBl. I Nr. 47/2026), Systemnutzungsentgelte-Verordnung 2018
+- Taxonomie: neun österreichische Bundesländer (AT-1 bis AT-9)
+
+### Geändert
+- Fusszeile: «Impressum & Datenschutz» steht ganz am Schluss; «Lizenzen» verweist auf «Über OEA»
+
 ## [0.8.0] – 2026-10-02
 
 ### Neu

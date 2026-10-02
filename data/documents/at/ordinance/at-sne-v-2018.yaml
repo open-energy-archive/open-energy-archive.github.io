@@ -1,0 +1,28 @@
+id: at-sne-v-2018
+title: "Verordnung der Regulierungskommission der E-Control, mit der die Entgelte für die Systemnutzung bestimmt werden (Systemnutzungsentgelte-Verordnung 2018 – SNE-V 2018)"
+title_en: "System Charges Ordinance 2018"
+short_title: SNE-V 2018
+doc_type: ordinance
+jurisdiction: AT
+issuer: "Regulierungskommission der E-Control"
+reference: "BGBl. II Nr. 398/2017"
+date: 2017-12-01
+date_precision: month
+status: in_force
+status_note: "In Kraft seit 1.1.2018 und jährlich angepasst, zuletzt durch die SNE-V 2018 – Novelle 2026 (BGBl. II Nr. 305/2025, ausgegeben am 18.12.2025). Diese führt u. a. einen reduzierten Sommer-Nieder-Arbeitspreis für die Zeit vom 1. April bis 30. September, jeweils 10 bis 16 Uhr, ein. Die Verordnung beruht noch auf dem ElWOG 2010; wie sie unter dem ElWG fortgeführt oder ersetzt wird, wurde nicht geprüft."
+status_note_en: "In force since 1 January 2018 and adjusted annually, most recently by the 2026 amendment (BGBl. II No. 305/2025, published 18 December 2025), which introduces a reduced summer low-price energy rate for 1 April to 30 September, 10:00 to 16:00. The ordinance is still based on the ElWOG 2010; how it is continued or replaced under the ElWG was not checked."
+languages: [de]
+topics: [tariffs, grid]
+summary_de: "Die Verordnung legt die Systemnutzungsentgelte für die österreichischen Stromnetze fest, darunter Netznutzungs-, Netzverlust-, Netzzutritts- und Netzbereitstellungsentgelte sowie Entgelte für Messleistungen und sonstige Leistungen, jeweils nach Netzebenen und Netzbereichen."
+summary_en: "The ordinance sets the system charges for Austrian electricity networks, including network usage, network loss, connection and capacity provision charges and charges for metering and other services, by network level and network area."
+source_url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010107"
+alternate_urls:
+  - label: "SNE-V 2018 – Novelle 2026 (BGBl. II Nr. 305/2025)"
+    url: "https://ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2025_II_305/BGBLA_2025_II_305.html"
+rights:
+  status: official_work
+  basis: "§ 7 Abs. 1 UrhG (AT); RIS-Daten zudem unter CC BY 4.0"
+  mirror_allowed: true
+related: [at-elwg, at-elwog-2010]
+added: 2026-10-02
+last_checked: 2026-10-02

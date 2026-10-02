@@ -1,0 +1,27 @@
+id: at-eabg
+title: "Erneuerbaren-Ausbau-Beschleunigungsgesetz (EABG)"
+title_en: "Renewable Expansion Acceleration Act"
+short_title: EABG
+doc_type: law
+jurisdiction: AT
+issuer: "Nationalrat der Republik Österreich"
+reference: "BGBl. I Nr. 47/2026"
+date: 2026-07-01
+status: in_force
+status_note: "Vom Nationalrat am 11.6.2026 und vom Bundesrat am 25.6.2026 mit Zweidrittelmehrheit beschlossen, kundgemacht am 1.7.2026. Einzelne Teile gelten ab Kundmachung bzw. 1.7.2026, der Großteil soll nach Angaben der Wirtschaftskammer ab 1.1.2027 gelten. Der Link zur Kundmachung folgt dem üblichen RIS-Muster und wurde nicht direkt aufgerufen."
+status_note_en: "Adopted by the National Council on 11 June 2026 and the Federal Council on 25 June 2026 with a two-thirds majority, promulgated on 1 July 2026. Some parts apply from promulgation or 1 July 2026; according to the Austrian Economic Chamber most provisions are to apply from 1 January 2027. The promulgation link follows the usual RIS pattern and was not opened directly."
+languages: [de]
+topics: [permitting, renewables, grid, storage, wind, solar, hydro]
+summary_de: "Das EABG setzt die Genehmigungsvorgaben der Erneuerbaren-Richtlinie (RED III) um. Es bündelt Genehmigungsverfahren für Erneuerbaren-Anlagen, Speicher und Netze nach dem One-Stop-Shop-Prinzip, stuft solche Vorhaben als im überragenden öffentlichen Interesse liegend ein, sieht Beschleunigungsgebiete vor und legt verbindliche Ausbaubeiträge der Bundesländer fest: plus 30 TWh erneuerbarer Strom bis 2030, mindestens 40 TWh bis 2035 und rund 5 GW Batteriespeicher bis 2030."
+summary_en: "The EABG transposes the permitting requirements of the Renewable Energy Directive (RED III). It bundles permitting for renewable plants, storage and grids in a one-stop shop, classifies such projects as being in the overriding public interest, provides for acceleration areas and sets binding expansion contributions by the federal states: an additional 30 TWh of renewable electricity by 2030, at least 40 TWh by 2035 and about 5 GW of battery storage by 2030."
+source_url: "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2026_I_47/BGBLA_2026_I_47.html"
+alternate_urls:
+  - label: "Parlament – Verfahren (449 d.B., XXVIII. GP)"
+    url: "https://www.parlament.gv.at/gegenstand/XXVIII/I/449"
+rights:
+  status: official_work
+  basis: "§ 7 Abs. 1 UrhG (AT)"
+  mirror_allowed: true
+related: [at-eag, at-elwg]
+added: 2026-10-02
+last_checked: 2026-10-02

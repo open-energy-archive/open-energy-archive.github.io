@@ -26,7 +26,7 @@ jurisdictions:
   INT: { de: "International", en: "International" }
 
 subdivisions:
-  # Kantone (CH-XX), Bundesländer (DE-XX); österreichische Länder folgen mit AT-X
+  # Kantone (CH-XX), deutsche Bundesländer (DE-XX), österreichische Bundesländer (AT-X)
   CH-AG: { de: "Kanton Aargau", en: "Canton of Aargau" }
   CH-AI: { de: "Kanton Appenzell Innerrhoden", en: "Canton of Appenzell Innerrhoden" }
   CH-AR: { de: "Kanton Appenzell Ausserrhoden", en: "Canton of Appenzell Ausserrhoden" }
@@ -70,6 +70,16 @@ subdivisions:
   DE-ST: { de: "Sachsen-Anhalt", en: "Saxony-Anhalt" }
   DE-SH: { de: "Schleswig-Holstein", en: "Schleswig-Holstein" }
   DE-TH: { de: "Freistaat Thüringen", en: "Thuringia" }
+  # Österreichische Bundesländer (AT-1 bis AT-9, ISO 3166-2)
+  AT-1: { de: "Burgenland", en: "Burgenland" }
+  AT-2: { de: "Kärnten", en: "Carinthia" }
+  AT-3: { de: "Niederösterreich", en: "Lower Austria" }
+  AT-4: { de: "Oberösterreich", en: "Upper Austria" }
+  AT-5: { de: "Salzburg", en: "Salzburg" }
+  AT-6: { de: "Steiermark", en: "Styria" }
+  AT-7: { de: "Tirol", en: "Tyrol" }
+  AT-8: { de: "Vorarlberg", en: "Vorarlberg" }
+  AT-9: { de: "Wien", en: "Vienna" }
 
 topics:
   grid:              { de: "Netz & Netzanschluss",      en: "Grid & connection" }

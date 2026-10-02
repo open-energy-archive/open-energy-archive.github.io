@@ -1,0 +1,25 @@
+id: at-elwg
+title: "Bundesgesetz zur Regelung der Elektrizitätswirtschaft (Elektrizitätswirtschaftsgesetz – ElWG)"
+title_en: "Electricity Industry Act"
+short_title: ElWG
+doc_type: law
+jurisdiction: AT
+issuer: "Nationalrat der Republik Österreich"
+reference: "BGBl. I Nr. 91/2025 (Art. 1 des Günstiger-Strom-Gesetzes)"
+date: 2025-12-23
+status: in_force
+status_note: "Vom Nationalrat am 11.12.2025 mit Zweidrittelmehrheit beschlossen; das Gesetzespaket ist am 24.12.2025 in Kraft getreten und ersetzt das ElWOG 2010. Einzelne Teile gelten gestaffelt, nach Sekundärquellen etwa Verbraucherschutzbestimmungen ab April 2026, neue Modelle für Energiegemeinschaften ab Oktober 2026 und Regeln für Einspeiser (u. a. Versorgungsinfrastrukturbeitrag) ab 2027. Zahlreiche Durchführungsverordnungen der E-Control stehen aus. Verlinkt ist die authentische Kundmachung; die konsolidierte Fassung ist im RIS abrufbar."
+status_note_en: "Adopted by the National Council on 11 December 2025 with a two-thirds majority; the package entered into force on 24 December 2025 and replaces the ElWOG 2010. Some parts apply in stages, according to secondary sources consumer-protection provisions from April 2026, new models for energy communities from October 2026 and rules for generators feeding into the grid (including an infrastructure contribution) from 2027. Many implementing regulations by E-Control are still pending. The link points to the authentic promulgation; the consolidated version is available in RIS."
+languages: [de]
+topics: [grid, market, tariffs, self_consumption, storage, supply_security]
+summary_de: "Das ElWG ist das neue Grundgesetz der österreichischen Elektrizitätswirtschaft. Es regelt Erzeugung, Übertragung, Verteilung, Speicherung, Aggregierung und Lieferung von Strom, die Rechte von Endkundinnen und Endkunden, die Pflichten der Marktteilnehmer, die Systemnutzungsentgelte, die Entflechtung und den Netzbetrieb. Es setzt die Elektrizitätsbinnenmarktrichtlinie (EU) 2019/944 um und enthält Regeln zu Energiegemeinschaften, Spitzenkappung bei der Einspeisung und einem Beitrag von Einspeisern zu den Netzkosten."
+summary_en: "The ElWG is Austria's new core statute for the electricity sector. It governs generation, transmission, distribution, storage, aggregation and supply of electricity, final customers' rights, market participants' duties, system charges, unbundling and grid operation. It transposes Electricity Directive (EU) 2019/944 and contains rules on energy communities, peak capping of feed-in and a contribution by generators to network costs."
+source_url: "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2025_I_91/BGBLA_2025_I_91.html"
+rights:
+  status: official_work
+  basis: "§ 7 Abs. 1 UrhG (AT); RIS-Daten zudem unter CC BY 4.0"
+  mirror_allowed: true
+supersedes: at-elwog-2010
+related: [at-eag, at-sne-v-2018, at-eabg]
+added: 2026-10-02
+last_checked: 2026-10-02

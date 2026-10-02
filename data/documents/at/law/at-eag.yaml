@@ -1,0 +1,24 @@
+id: at-eag
+title: "Bundesgesetz über den Ausbau von Energie aus erneuerbaren Quellen (Erneuerbaren-Ausbau-Gesetz – EAG)"
+title_en: "Renewable Energy Expansion Act"
+short_title: EAG
+doc_type: law
+jurisdiction: AT
+issuer: "Nationalrat der Republik Österreich"
+reference: "BGBl. I Nr. 150/2021 (Art. 1 des EAG-Pakets); Gesetzesnummer 20011619"
+date: 2021-07-27
+status: in_force
+status_note: "In Kraft seit 28.7.2021, die Förderbestimmungen nach beihilferechtlicher Genehmigung. Seither mehrfach geändert, u. a. 2025; das ElWG-Paket (BGBl. I Nr. 91/2025) und das EABG haben weitere Anpassungen gebracht. Aktuelle konsolidierte Fassung im RIS; nicht im Detail geprüft."
+status_note_en: "In force since 28 July 2021, the support provisions after state-aid approval. Amended several times since, including in 2025; the ElWG package (BGBl. I No. 91/2025) and the EABG brought further changes. Current consolidated version in RIS; not checked in detail."
+languages: [de]
+topics: [renewables, solar, wind, hydro, subsidies, self_consumption, hydrogen]
+summary_de: "Das EAG regelt die Förderung von Strom aus erneuerbaren Quellen in Österreich: Marktprämien, vergeben über Ausschreibungen oder auf Antrag, Investitionszuschüsse für Photovoltaik, Speicher, Wind, Wasserkraft und Biomasse sowie die Finanzierung über Erneuerbaren-Förderpauschale und -beitrag. Es enthält das Ziel, den Strombedarf ab 2030 bilanziell zu 100 % aus erneuerbaren Quellen zu decken, und Regeln zu Erneuerbare-Energie-Gemeinschaften."
+summary_en: "The EAG governs support for renewable electricity in Austria: market premiums awarded through tenders or on application, investment grants for PV, storage, wind, hydropower and biomass, and funding through the renewable support flat fee and contribution. It sets the target of covering electricity demand on balance with 100% renewable sources from 2030 and contains rules on renewable energy communities."
+source_url: "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011619"
+rights:
+  status: official_work
+  basis: "§ 7 Abs. 1 UrhG (AT); RIS-Daten zudem unter CC BY 4.0"
+  mirror_allowed: true
+related: [at-elwg, at-eabg]
+added: 2026-10-02
+last_checked: 2026-10-02

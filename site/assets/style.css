@@ -177,3 +177,21 @@ a.chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 @media (min-width: 821px) { .browse { grid-template-columns: 1fr 2fr 1fr; } }
 .meta dd a { color: inherit; text-decoration: underline; text-decoration-color: var(--line); text-underline-offset: 3px; }
 .meta dd a:hover { color: var(--accent); text-decoration-color: var(--accent); }
+
+/* Seitenweise Liste */
+.result-bar .per-page { margin-left: auto; display: inline-flex; gap: 8px; align-items: center; font-size: .86rem; color: var(--muted); }
+.result-bar .per-page[hidden] { display: none; }
+.result-bar .per-page select { font: inherit; padding: 4px 8px; border: 1px solid var(--line); border-radius: 4px; background: #fff; color: var(--text); }
+.pager { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; justify-content: center; margin: 24px 0 8px; }
+.pager[hidden] { display: none; }
+.pager button { font: inherit; font-size: .9rem; min-width: 38px; padding: 6px 10px; border: 1px solid var(--line); border-radius: 4px; background: #fff; color: var(--text); cursor: pointer; }
+.pager button:hover:not([disabled]) { border-color: var(--accent); color: var(--accent); }
+.pager button[aria-current="page"] { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+.pager button[disabled] { opacity: .4; cursor: default; }
+.pager .gap { color: var(--muted); padding: 0 2px; }
+
+/* Unternavigation «Über» */
+.subnav { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 28px; }
+.subnav a { padding: 4px 12px; border: 1px solid var(--line); border-radius: 4px; color: var(--text); font-size: .9rem; }
+.subnav a:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+.subnav a[aria-current="page"] { border-color: var(--accent); color: var(--accent); font-weight: 600; }

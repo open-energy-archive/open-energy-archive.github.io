@@ -2,6 +2,12 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.10.1] – 2026-10-02
+
+### Geändert
+- Startseite: Titel «Energiedokumente – frei zugänglich und an einem Ort» statt «offen» (EN: «freely accessible»)
+- Roadmap um die MiSpeL-Festlegung ergänzt
+
 ## [0.10.0] – 2026-10-02
 
 ### Neu

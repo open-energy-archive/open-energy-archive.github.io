@@ -13,6 +13,7 @@
 ## Phase 2 – DACH
 - [x] Deutschland, erste Tranche: EEG 2023, EnWG, KWKG, MsbG, GModG (vormals GEG), WindBG, EnFG, WPG; BNetzA BK6-22-300 (§ 14a EnWG); BGH EnVR 83/20 (Kundenanlage) mit EuGH C-293/23; BVerfG Strompreisbremse; EEG-Novelle 2027 (Entwurf)
 - [x] Deutschland, zweite Tranche: StromNEV, StromNZV (aufgehoben), ARegV, MaStRV; BNetzA AgNes (Entwurf); Netzpaket (BT-Drs. 21/7866); EuGH C-718/18; erste Länder: KlimaG BW, Solargesetz Berlin, BayBO Art. 44a
+- [x] Deutschland: BNetzA MiSpeL-Festlegung (Speicher und Ladepunkte) mit Verfahrensgeschichte
 - [ ] Deutschland, weitere: Solarpflichten übrige Länder (HB, HH, NI, NW, SH, RP), Landesenergie- und Klimaschutzgesetze; BNetzA BK8-22/010-A und weitere Festlegungen; BGH-Kartellsenat (EnVR); Clearingstelle EEG|KWKG (Rechtestatus klären)
 - [x] Österreich, erste Tranche: ElWG (Günstiger-Strom-Gesetz), ElWOG 2010 (ersetzt), EAG, EABG, SNE-V 2018
 - [ ] Österreich, weitere: E-ControlG, weitere E-Control-Verordnungen (u. a. nach ElWG), Ökostromgesetz 2012, VwGH/VfGH, Landes-Elektrizitätswirtschaftsgesetze

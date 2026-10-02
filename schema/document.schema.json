@@ -202,6 +202,9 @@
     "version": {
       "type": "string",
       "description": "Version eigener Inhalte, z. B. 1.0"
+    },
+    "status_note_en": {
+      "type": "string"
     }
   }
 }

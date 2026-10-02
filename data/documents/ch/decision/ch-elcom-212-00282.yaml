@@ -8,9 +8,11 @@ reference: "212-00282"
 date: 2021-08-18
 status: final
 status_note: "Weitergezogen; das Bundesgericht wies die Beschwerde letztinstanzlich ab (BGE 151 II 687 / 2C_21/2024)."
+status_note_en: "Appealed; the Federal Supreme Court dismissed the appeal at last instance (BGE 151 II 687 / 2C_21/2024)."
 languages: [de]
 topics: [grid, tariffs]
 summary_de: "Die ElCom kam zum Schluss, dass der Netzbetreiber seine Tarife zu Recht auf Plankosten gestützt hat und eine nachträgliche Neuberechnung mit Ist-Kosten nicht verlangt werden kann. Abweichungen werden über Deckungsdifferenzen in künftigen Tarifperioden ausgeglichen."
+summary_en: "ElCom concluded that the grid operator had rightly based its tariffs on planned costs and that a retroactive recalculation using actual costs cannot be demanded. Differences are offset through cost-coverage differences in future tariff periods."
 source_url: "https://www.elcom.admin.ch/dam/de/sd-web/V-8S88f2VgIV/212-00282%20Individuelle%20Pr%C3%BCfung%20Netznutzungstarife%202009%20bis%202016.pdf"
 rights:
   status: official_work

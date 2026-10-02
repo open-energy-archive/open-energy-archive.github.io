@@ -1,6 +1,6 @@
 {
   "name": "open-energy-archive",
-  "version": "0.3.0",
+  "version": "0.4.2",
   "private": true,
   "description": "Offenes Archiv für Dokumente zu Elektrizität und Energie",
   "type": "module",
@@ -13,6 +13,7 @@
     "docx": "node scripts/build-docx.mjs"
   },
   "devDependencies": {
+    "@fontsource/open-sans": "^5.3.0",
     "ajv": "^8.17.1",
     "ajv-formats": "^3.0.1",
     "docx": "^9.8.1",

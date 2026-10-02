@@ -8,9 +8,11 @@ reference: "A-2857/2013"
 date: 2014-10-21
 status: final
 status_note: "Weitergezogen ans Bundesgericht; Beschwerde mit Urteil 2C_1076/2014 vom 4. Juni 2015 abgewiesen"
+status_note_en: "Appealed to the Federal Supreme Court; appeal dismissed in judgment 2C_1076/2014 of 4 June 2015."
 languages: [de]
 topics: [grid, tariffs]
 summary_de: "Im Verfahren um die Kosten und Tarife 2009 für die Netznutzung auf Netzebene 1 focht Swissgrid die Methode der ElCom zur Verzinsung von Deckungsdifferenzen an. Das Bundesverwaltungsgericht bestätigte, dass Deckungsdifferenzen mit dem WACC des Jahres t+2 statt jenem des Jahres t verzinst werden dürfen, weil dies die wirtschaftlichen Verhältnisse im Zeitpunkt des Ausgleichs sachgerecht abbilde. Die Beschwerde wurde abgewiesen."
+summary_en: "In proceedings on the 2009 costs and tariffs for grid usage at grid level 1, Swissgrid challenged ElCom's method for paying interest on cost-coverage differences. The Federal Administrative Court confirmed that such differences may bear interest at the WACC of year t+2 instead of year t, as this appropriately reflects economic conditions at the time of settlement. The appeal was dismissed."
 source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-2857-2013_2014-10-21.pdf"
 rights:
   status: official_work

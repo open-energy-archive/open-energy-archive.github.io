@@ -8,9 +8,11 @@ reference: "Weisung 7/2025"
 date: 2025-06-03
 status: in_force
 status_note: "Aktualisiert am 3.2.2026 nach BGer 2C_609/2024 und ElCom-Verfügung 211-00506. Gilt für Verteilnetzbetreiber ab den Tarifen 2027."
+status_note_en: "Updated on 3 February 2026 following BGer 2C_609/2024 and ElCom decision 211-00506. Applies to distribution grid operators from the 2027 tariffs."
 languages: [de]
 topics: [tariffs, market]
 summary_de: "Die Weisung hält fest, dass Beiträge an Fonds oder Projekte nicht in den Energietarif der Grundversorgung eingerechnet werden dürfen, weil ihnen der direkte Bezug zur Energieproduktion fehlt. Solche Beiträge sind nur auf anderem Weg zulässig, etwa als Abgabe mit kantonaler oder kommunaler Grundlage."
+summary_en: "The directive states that contributions to funds or projects may not be included in the energy tariff for basic supply because they lack a direct link to energy production. Such contributions are only permissible by other means, for example as a levy with a cantonal or municipal legal basis."
 source_url: "https://www.elcom.admin.ch/dam/de/sd-web/OLLL4YnRrE1z/Weisung%207-2025,%20Update%2003.02.2026_DE.pdf"
 rights:
   status: official_work

@@ -8,9 +8,11 @@ reference: "A-7036/2018"
 date: 2019-08-26
 status: final
 status_note: "Bestätigt durch Urteil des Bundesgerichts 2C_821/2019 vom 11. Februar 2020"
+status_note_en: "Upheld by Federal Supreme Court judgment 2C_821/2019 of 11 February 2020."
 languages: [de]
 topics: [renewables, solar, subsidies]
 summary_de: "Eine Photovoltaikanlage stand seit 2011 auf der KEV-Warteliste und wurde erst nach Inkrafttreten des revidierten Energiegesetzes ins Einspeisevergütungssystem aufgenommen. Das Bundesverwaltungsgericht hielt fest, dass nach Art. 72 EnG für Betreiber ohne positiven Bescheid das neue Recht gilt, auch wenn die Anlage bereits in Betrieb war; dies sei eine zulässige unechte Rückwirkung. Der Wartelistenbescheid begründe keinen Vertrauensschutz auf den früheren Vergütungssatz, weshalb der Satz nach geltender EnFV bestätigt und die Beschwerde abgewiesen wurde."
+summary_en: "A photovoltaic plant had been on the KEV waiting list since 2011 and was admitted to the feed-in remuneration system only after the revised Energy Act entered into force. The Federal Administrative Court held that under Art. 72 EnG the new law applies to operators without a positive decision, even if the plant was already operating; this is permissible quasi-retroactivity. The waiting-list notice created no legitimate expectation of the former rate, so the rate under the current EnFV was confirmed and the appeal dismissed."
 source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-7036-2018_2019-08-26.pdf"
 rights:
   status: official_work

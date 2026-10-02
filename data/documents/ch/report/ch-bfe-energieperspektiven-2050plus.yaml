@@ -9,9 +9,11 @@ date: 2020-11-01
 date_precision: month
 status: non_binding
 status_note: "Szenariostudie, nicht verbindlich."
+status_note_en: "Scenario study, not binding."
 languages: [de]
 topics: [renewables, supply_security, energy_efficiency]
 summary_de: "Der Bericht zeigt in Szenarien, wie die Schweiz bis 2050 mit Elektrifizierung, mehr Effizienz und vorhandenen Technologien klimaneutral werden kann. Er beziffert die nötigen Mehrinvestitionen auf rund 109 Mrd. Franken, denen Einsparungen bei den Energiekosten gegenüberstehen."
+summary_en: "The report uses scenarios to show how Switzerland can become climate-neutral by 2050 through electrification, greater efficiency and existing technologies. It puts the necessary additional investment at around CHF 109 billion, offset by savings on energy costs."
 source_url: "https://pubdb.bfe.admin.ch/de/publication/download/10320"
 rights:
   status: unclear

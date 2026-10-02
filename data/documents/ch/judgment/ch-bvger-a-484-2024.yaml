@@ -10,6 +10,7 @@ status: final
 languages: [de]
 topics: [grid]
 summary_de: "Nach der Rückweisung im Urteil A-2372/2021 bestätigte das Bundesverwaltungsgericht die neue Verfügung der ElCom vom 5. Dezember 2023 im Wesentlichen. Endverbraucher müssen den Einbau eines intelligenten Messsystems auch ohne Zustimmung dulden; statt eines Ausbaus genügt ein Nutzungsverbot der Abschaltfunktion, und die Erfassung von Viertelstunden-Lastgängen mit fünfjähriger Aufbewahrung ist verhältnismässig. Zudem hielt das Gericht fest, dass einer Gemeinde als Netzbetreiberin Verfahrenskosten auferlegt werden können."
+summary_en: "Following the remand in A-2372/2021, the Federal Administrative Court largely upheld ElCom's new decision of 5 December 2023. End consumers must accept installation of a smart metering system even without consent; instead of removal, a ban on using the disconnection function suffices, and recording 15-minute load profiles with five-year retention is proportionate. The court also held that procedural costs may be imposed on a municipality acting as grid operator."
 source_url: "https://bvger.weblaw.ch/pdf/A-484-2024_2025-06-20_f6e4ccf7-ef74-4758-ba93-8688e2682770.pdf"
 rights:
   status: official_work

@@ -8,9 +8,11 @@ reference: "A-212/2011"
 date: 2012-04-25
 status: final
 status_note: "Bestätigt durch Urteil des Bundesgerichts 2C_546/2012 vom 10. Dezember 2012 (Beschwerde abgewiesen)"
+status_note_en: "Upheld by Federal Supreme Court judgment 2C_546/2012 of 10 December 2012 (appeal dismissed)."
 languages: [de]
 topics: [grid, hydro]
 summary_de: "Strittig war, ob Schaltanlagen und Schaltfelder vor den Transformatoren an der Schnittstelle zwischen den Netzebenen zum Übertragungsnetz gehören und daher ins Eigentum der nationalen Netzgesellschaft zu überführen sind, obwohl sie einer wasserrechtlichen Heimfallregelung unterstehen. Das Bundesverwaltungsgericht bejahte die Zugehörigkeit zum Übertragungsnetz gestützt auf Art. 4 Abs. 1 lit. h StromVG und Art. 2 Abs. 2 StromVV und hielt fest, dass Art. 18 StromVG das Eigentum der Netzgesellschaft am Übertragungsnetz verlangt. Der Eingriff in die Eigentumsgarantie sei verhältnismässig, und das Bundesrecht gehe kantonalen Heimfallbestimmungen vor; die Beschwerde wurde abgewiesen."
+summary_en: "At issue was whether switchgear and switch bays upstream of transformers at the interface between grid levels belong to the transmission grid and must therefore be transferred to the national grid company, even though they are subject to a water-rights reversion clause. The Federal Administrative Court held that they belong to the transmission grid under Art. 4(1)(h) StromVG and Art. 2(2) StromVV and that Art. 18 StromVG requires the grid company to own the transmission grid. The interference with property rights was proportionate and federal law prevails over cantonal reversion rules; the appeal was dismissed."
 source_url: "https://bvger.weblaw.ch/pdf/A-212-2011_2012-04-25_c798521f-7098-4172-93f3-ca010c978c00.pdf"
 rights:
   status: official_work

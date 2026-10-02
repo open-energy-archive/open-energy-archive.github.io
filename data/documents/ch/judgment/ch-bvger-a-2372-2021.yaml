@@ -8,9 +8,11 @@ reference: "A-2372/2021"
 date: 2022-07-26
 status: final
 status_note: "Rückweisung an die ElCom; deren neue Verfügung wurde mit Urteil A-484/2024 vom 20. Juni 2025 beurteilt"
+status_note_en: "Remanded to ElCom; its new decision was reviewed in judgment A-484/2024 of 20 June 2025."
 languages: [de]
 topics: [grid]
 summary_de: "Ein Endverbraucher wehrte sich gegen den Einbau eines intelligenten Messsystems durch seine Netzbetreiberin. Das Bundesverwaltungsgericht beurteilte den Smart Meter nach dem seit 1. Januar 2018 geltenden Recht und hielt fest, dass eine noch ausstehende Datensicherheitsprüfung den Betrieb nicht ausschliesst. Die Abschaltfunktion gelte jedoch als Steuer- und Regelsystem, das nach Art. 17b Abs. 3 StromVG die Zustimmung des Betroffenen erfordert; zudem habe die ElCom den Umfang der Datenbearbeitung ungenügend geprüft, weshalb die Sache teilweise zurückgewiesen wurde."
+summary_en: "An end consumer objected to the installation of a smart metering system by his grid operator. The Federal Administrative Court assessed the smart meter under the law in force since 1 January 2018 and held that a pending data-security audit does not preclude operation. The remote disconnection function, however, counts as a control and regulation system requiring the consent of the person concerned under Art. 17b(3) StromVG; and since ElCom had not sufficiently examined the scope of data processing, the case was partly remanded."
 source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-2372-2021_2022-07-26.pdf"
 rights:
   status: official_work

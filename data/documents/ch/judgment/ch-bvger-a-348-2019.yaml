@@ -10,6 +10,7 @@ status: final
 languages: [de]
 topics: [renewables, solar, subsidies]
 summary_de: "Strittig war, ob eine Photovoltaikanlage für die Einmalvergütung als angebaut oder als integriert gilt. Das Bundesverwaltungsgericht verlangte nach Art. 6 Abs. 2 EnFV kumulativ eine bauliche Integration, bei der das ersetzte Bauteil tatsächlich entfernt wird, sowie eine Doppelfunktion wie Witterungsschutz. Da die ursprüngliche Dacheindeckung entfernt worden war und die Anlage das Regenwasser ableitete, hiess es die Beschwerde gut und stufte die Anlage als integriert ein."
+summary_en: "At issue was whether a photovoltaic plant counts as attached or integrated for the one-off remuneration. The Federal Administrative Court required under Art. 6(2) EnFV both structural integration, with the replaced building element actually removed, and a dual function such as weather protection. Since the original roof covering had been removed and the plant drained rainwater, it upheld the appeal and classified the plant as integrated."
 source_url: "https://entscheide.weblaw.ch/cache.php?link=28-08-2019-a-348-2019&sel_lang=de"
 rights:
   status: official_work

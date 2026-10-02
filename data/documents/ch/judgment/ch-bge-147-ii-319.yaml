@@ -8,9 +8,11 @@ reference: "BGE 147 II 319 / 1C_657/2018"
 date: 2021-03-18
 status: final
 status_note: "Amtlich publiziert als BGE 147 II 319; Beschwerden im Wesentlichen abgewiesen, in einzelnen Punkten (Schutzmassnahmen) teilweise gutgeheissen"
+status_note_en: "Officially published as BGE 147 II 319; appeals largely dismissed, partly upheld on individual points (protective measures)."
 languages: [fr]
 topics: [wind, renewables, permitting]
 summary_de: "Umwelt- und Landschaftsschutzorganisationen sowie Anwohner fochten die Bewilligungen für den Windpark Sainte-Croix (VD) mit sechs Anlagen an und bestritten insbesondere das nationale Interesse und die Einhaltung der Lärmschutzvorschriften. Das Bundesgericht bestätigte, dass die Schwelle von 20 GWh pro Jahr in der Energieverordnung bundesrechtskonform ist und vom Projekt erreicht wird, und dass der Lärm von Windenergieanlagen nach den Belastungsgrenzwerten für Industrie- und Gewerbelärm zu beurteilen ist. Die Beschwerden wurden im Wesentlichen abgewiesen; in einzelnen Punkten ergänzte das Gericht die Schutzauflagen."
+summary_en: "Environmental and landscape organisations and residents challenged the permits for the six-turbine Sainte-Croix wind farm (VD), disputing in particular the national interest and compliance with noise rules. The Federal Supreme Court confirmed that the 20 GWh per year threshold in the Energy Ordinance complies with federal law and is met by the project, and that wind turbine noise is assessed under the limits for industrial and commercial noise. The appeals were largely dismissed; on some points the court added protective conditions."
 source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F147-II-319%3Afr&lang=fr&zoom=IN&type=show_document"
 rights:
   status: official_work

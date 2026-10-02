@@ -2,6 +2,30 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.4.2] – 2026-10-02
+
+### Geändert
+- «Eine Initiative von Bernhard Weber · bwlaw.ch» steht neu ganz unten in der Fusszeile statt in der oberen Leiste
+
+## [0.4.1] – 2026-10-02
+
+### Geändert
+- Eigenes Logo (Blatt und Stecker) im Kopf, als Favicon und App-Symbol
+- Akzentfarbe Grün aus dem Logo statt Petrol und Blau
+- Titel «Open Energy Archive» einfarbig, keine kursiven Schriften mehr
+
+## [0.4.0] – 2026-10-02
+
+### Neu
+- Englische Version der Website unter `/en/` mit Sprachumschalter DE/EN
+- Englische Zusammenfassungen und Hinweise (`summary_en`, `status_note_en`) für alle Einträge
+- Seiten «Impressum & Datenschutz» bzw. «Legal notice & privacy»
+- Hinweis «Eine Initiative von Bernhard Weber» mit Link auf bwlaw.ch
+
+### Geändert
+- Neues Erscheinungsbild angelehnt an bwlaw.ch: dunkle Kopf- und Fusszeile, Open Sans (selbst gehostet), Petrol als Akzentfarbe, Wortbild «open energy archive»
+- Markdown-Konverter in `scripts/markdown.mjs` ausgelagert
+
 ## [0.3.0] – 2026-10-02
 
 ### Neu

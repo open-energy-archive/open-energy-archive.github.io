@@ -8,9 +8,11 @@ reference: "HER – CH 2025"
 date: 2025-02-10
 status: non_binding
 status_note: "Branchendokument zu ZEV und vZEV. Die verlinkte Kopie wird von Swissolar bereitgestellt."
+status_note_en: "Industry document on ZEV and virtual ZEV. The linked copy is provided by Swissolar."
 languages: [de]
 topics: [self_consumption, solar, tariffs]
 summary_de: "Das Handbuch beschreibt, wie Netzbetreiber und Produzenten die Eigenverbrauchsregelungen einschliesslich Zusammenschluss zum Eigenverbrauch (ZEV) und virtuellem ZEV umsetzen. Es behandelt Messung, Abrechnung und Abläufe zwischen den Beteiligten."
+summary_en: "The handbook describes how grid operators and producers implement the self-consumption rules, including self-consumption communities (ZEV) and virtual ZEV. It covers metering, billing and processes between the parties."
 source_url: "https://www.swissolar.ch/01_wissen/wirtschaftlichkeit/zev/handbuch-eigenverbrauchsregelung-her-2025.pdf"
 rights:
   status: copyrighted

@@ -20,6 +20,7 @@ Danke, dass du hilfst! Es gibt drei Wege:
 - **Datum:** Erlass-, Entscheid- oder Publikationsdatum, Format `JJJJ-MM-TT`. Ist nur der Monat bekannt, `date_precision: month`.
 - **Quelle:** immer die amtliche oder ursprüngliche Quelle (`https://…`). Kopien auf Drittseiten nur, wenn es keine andere gibt – dann in `status_note` erwähnen.
 - **Zusammenfassung:** 1–3 Sätze, neutral, in eigenen Worten. Nicht aus dem Dokument abschreiben, keine Wertungen.
+- **Englisch:** `title_en`, `summary_en` und gegebenenfalls `status_note_en` ergänzen, damit der Eintrag auf der englischen Website vollständig erscheint.
 - **Rechte:** Siehe [RIGHTS.md](RIGHTS.md). Im Zweifel `unclear` und `mirror_allowed: false`.
 - **Status aktuell halten:** `last_checked` auf das Datum setzen, an dem du Quelle und Stand geprüft hast.
 - **Schweizer Einträge** in Schweizer Rechtschreibung (ss statt ß).

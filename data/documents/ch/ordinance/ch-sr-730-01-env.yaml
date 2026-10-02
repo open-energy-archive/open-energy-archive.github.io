@@ -9,9 +9,11 @@ reference: "SR 730.01"
 date: 2017-11-01
 status: in_force
 status_note: "Konsolidierte Fassung vom 1. Januar 2026 geprüft. Änderungen zur Umsetzung des Mantelerlasses seit 1.1.2025 (Herkunftsnachweise, Eigenverbrauch/ZEV, Abnahme und Vergütung)."
+status_note_en: "Consolidated version of 1 January 2026 checked. Changes implementing the Mantelerlass since 1 January 2025 (guarantees of origin, self-consumption/ZEV, purchase and remuneration)."
 languages: [de, fr, it]
 topics: [renewables, self_consumption, tariffs, energy_efficiency]
 summary_de: "Die Verordnung führt das Energiegesetz aus, unter anderem zu Herkunftsnachweisen, Stromkennzeichnung und Netzzuschlag. Sie regelt auch Abnahme und Vergütung durch die Netzbetreiber sowie den Eigenverbrauch und den Zusammenschluss zum Eigenverbrauch (Art. 14–18)."
+summary_en: "The ordinance implements the Energy Act, among other things on guarantees of origin, electricity labelling and the grid surcharge. It also governs purchase and remuneration by grid operators as well as self-consumption and self-consumption communities (Art. 14–18)."
 source_url: "https://www.fedlex.admin.ch/eli/cc/2017/763/de"
 alternate_urls:
   - label: "PDF, Fassung 1.1.2026"

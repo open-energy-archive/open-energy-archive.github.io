@@ -9,9 +9,11 @@ reference: "SR 734.7"
 date: 2007-03-23
 status: in_force
 status_note: "Konsolidierte Fassung vom 1. April 2026 geprüft. Durch den Mantelerlass (AS 2024 679) geändert: Hauptteil seit 1.1.2025, lokale Elektrizitätsgemeinschaften (Art. 17d/17e) seit 1.1.2026, weitere Bestimmungen seit 1.4.2026."
+status_note_en: "Consolidated version of 1 April 2026 checked. Amended by the Mantelerlass (AS 2024 679): main part since 1 January 2025, local electricity communities (Art. 17d/17e) since 1 January 2026, further provisions since 1 April 2026."
 languages: [de, fr, it]
 topics: [grid, market, tariffs, supply_security, self_consumption]
 summary_de: "Das Gesetz regelt die Stromversorgung in der Schweiz, darunter Netzzugang, Netznutzung, Grundversorgung und die teilweise Marktöffnung. Seit dem Mantelerlass regelt es auch die lokalen Elektrizitätsgemeinschaften und weitere Vorgaben zu Tarifen und Messwesen."
+summary_en: "The act governs electricity supply in Switzerland, including network access, grid usage, basic supply and partial market opening. Since the Mantelerlass it also regulates local electricity communities and further requirements on tariffs and metering."
 source_url: "https://www.fedlex.admin.ch/eli/cc/2007/418/de"
 alternate_urls:
   - label: "PDF, Fassung 1.4.2026"

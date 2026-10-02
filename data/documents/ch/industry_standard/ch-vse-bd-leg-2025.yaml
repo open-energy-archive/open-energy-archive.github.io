@@ -8,9 +8,11 @@ reference: "BD LEG – CH 2025 V2"
 date: 2025-06-27
 status: non_binding
 status_note: "Branchenempfehlung, rechtlich nicht verbindlich. Auf die seit 1.1.2026 geltenden Regeln von StromVG/StromVV abgestimmt. Die verlinkte Kopie wird von Swissolar bereitgestellt."
+status_note_en: "Industry recommendation, not legally binding. Aligned with the StromVG/StromVV rules in force since 1 January 2026. The linked copy is provided by Swissolar."
 languages: [de]
 topics: [self_consumption, grid, tariffs, storage]
 summary_de: "Die Empfehlung beschreibt den technischen und administrativen Rahmen für lokale Elektrizitätsgemeinschaften, die lokal erzeugten Strom über das Verteilnetz zu einem reduzierten Netznutzungstarif austauschen. Sie behandelt Gründung, Messung, Abrechnung, Speicher und Vergütung."
+summary_en: "The recommendation describes the technical and administrative framework for local electricity communities that exchange locally produced electricity over the distribution grid at a reduced grid usage tariff. It covers formation, metering, billing, storage and remuneration."
 source_url: "https://www.swissolar.ch/01_wissen/wirtschaftlichkeit/zev/20241120-be-leg.pdf"
 rights:
   status: copyrighted

@@ -10,6 +10,7 @@ status: final
 languages: [de]
 topics: [renewables, solar, subsidies]
 summary_de: "Das Bundesverwaltungsgericht bestätigte die Einstufung einer Photovoltaikanlage als angebaute und nicht als integrierte Anlage, weil eine integrierte Anlage sowohl baulich in das Gebäude eingefügt sein als auch eine Doppelfunktion erfüllen muss. Hingegen hob es die pauschale Bemessung des Vertrauensschadens durch die ElCom auf: Der Betreiber habe grundsätzlich Anspruch auf Ersatz der tatsächlich im Vertrauen getätigten Aufwendungen, weshalb die Sache zur Neubeurteilung zurückgewiesen wurde."
+summary_en: "The Federal Administrative Court upheld the classification of a photovoltaic plant as attached rather than integrated, because an integrated plant must both be structurally built into the building and fulfil a dual function. It set aside, however, ElCom's flat-rate assessment of reliance damages: the operator is in principle entitled to compensation for expenses actually incurred in reliance, so the case was remanded."
 source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-5561-2016_2017-05-17.pdf"
 rights:
   status: official_work

@@ -32,6 +32,14 @@ Der Ausbau erneuerbarer Energie scheitert oft nicht an der Technik, sondern an V
 
 Das Archiv ersetzt keine Beratung. Angaben zu Stand und Inkrafttreten werden sorgfältig geprüft, können aber veralten. Massgebend ist die amtliche Quelle.
 
+## Wer steht dahinter
+
+Das Open Energy Archive ist eine Initiative von Bernhard Weber, Jurist in Zürich ([bwlaw.ch](https://www.bwlaw.ch/)). Es ist nicht kommerziell und offen für Beiträge von allen.
+
+## Sprachen {#sprachen}
+
+Titel erscheinen in der Originalsprache. Die englischen Zusammenfassungen sind Übersetzungen der deutschen Einträge durch das Projekt; massgebend sind die deutsche Fassung und vor allem die amtliche Quelle.
+
 ## Kontakt
 
-Fragen, Hinweise und Anfragen zur Entfernung von Inhalten bitte über [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive/issues).
+Fragen, Hinweise und Anfragen zur Entfernung von Inhalten bitte über [GitHub Issues](https://github.com/open-energy-archive/open-energy-archive/issues) oder über [bwlaw.ch](https://www.bwlaw.ch/).

@@ -18,7 +18,7 @@
         && (!q || q.split(/\s+/).every((w) => li.dataset.text.includes(w)));
       li.hidden = !ok; if (ok) n++;
     }
-    count.textContent = `${n} von ${items.length} Dokumenten`;
+    count.textContent = `${n} ${count.dataset.of} ${items.length} ${count.dataset.docs}`;
     const p = new URLSearchParams(); for (const [k, v] of Object.entries(f)) if (v) p.set(k, v);
     history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
   }

@@ -8,9 +8,11 @@ reference: "BGE 148 II 36 / 1C_573/2018"
 date: 2021-11-24
 status: final
 status_note: "Amtlich publiziert als BGE 148 II 36; Beschwerde teilweise gutgeheissen (2 von 6 Windenergieanlagen nicht bewilligungsfähig)"
+status_note_en: "Officially published as BGE 148 II 36; appeal partly upheld (2 of 6 turbines not permissible)."
 languages: [de]
 topics: [wind, renewables, permitting]
 summary_de: "Vogelschutzverbände fochten die Nutzungsplanung und Baubewilligung für den Windpark Grenchenberg mit sechs Windenergieanlagen an. Das Bundesgericht hielt fest, dass auf Stufe Richtplan auch das Vorkommen gefährdeter und national prioritärer Arten mit Konfliktpotenzial abzuklären ist; da diese Abklärungen im Nutzungsplanverfahren nachgeholt wurden und keine besseren Alternativstandorte ersichtlich waren, war das Projekt nicht schon deswegen aufzuheben. Wegen des Kollisionsrisikos für ein nahe gelegenes Wanderfalken-Brutpaar erachtete es jedoch zwei der sechs Anlagen als nicht bewilligungsfähig und hiess die Beschwerde insoweit teilweise gut."
+summary_en: "Bird protection associations challenged the land-use plan and building permit for the six-turbine Grenchenberg wind farm. The Federal Supreme Court held that the presence of endangered and nationally priority species with conflict potential must already be assessed at structure-plan level; since this was made up for in the land-use planning procedure and no better alternative sites were apparent, the project was not annulled on that ground. Because of the collision risk for a nearby breeding pair of peregrine falcons, however, it held two of the six turbines not permissible and partly upheld the appeal."
 source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F148-II-36%3Ade&lang=de&zoom=IN&type=show_document"
 rights:
   status: official_work

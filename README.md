@@ -18,7 +18,7 @@ Details: [docs/roadmap.md](docs/roadmap.md)
 
 ## So funktioniert das Archiv
 
-Jedes Dokument ist eine kleine **YAML-Datei** mit Metadaten (Titel, Herausgeber, Datum, Status, Themen, Zusammenfassung, Link zur Originalquelle, Rechtestatus). Daraus erzeugt ein Build-Skript eine **statische Website mit Volltextsuche** ([Pagefind](https://pagefind.app)), die kostenlos auf GitHub Pages läuft.
+Jedes Dokument ist eine kleine **YAML-Datei** mit Metadaten (Titel, Herausgeber, Datum, Status, Themen, Zusammenfassung, Link zur Originalquelle, Rechtestatus). Daraus erzeugt ein Build-Skript eine **zweisprachige statische Website (Deutsch und Englisch) mit Volltextsuche** ([Pagefind](https://pagefind.app)), die kostenlos auf GitHub Pages läuft.
 
 **Hybrid-Prinzip:** Das Archiv speichert immer die Metadaten und den Link. Eine Kopie der Datei selbst wird nur abgelegt, wenn das rechtlich eindeutig erlaubt ist (amtliche Werke, offene Lizenzen, schriftliche Freigabe). Siehe [RIGHTS.md](RIGHTS.md).
 
@@ -44,6 +44,10 @@ npm run build        # Website in dist/ erzeugen und Suchindex bauen
 npm run serve        # http://localhost:8080
 npm run check-links  # Prüft, ob alle Quell-Links noch erreichbar sind
 ```
+
+## Wer steht dahinter
+
+Eine Initiative von Bernhard Weber, Zürich – [bwlaw.ch](https://www.bwlaw.ch/).
 
 ## Mitwirken
 

@@ -9,9 +9,11 @@ reference: "AS 2025 139"
 date: 2025-02-19
 status: in_force
 status_note: "In Kraft seit 1.1.2026. Änderungserlass; massgebend ist die konsolidierte StromVV. Enthält die Ausführungsbestimmungen zur LEG: Mindestgrösse 5 % der Anschlussleistung, max. 36 kV, schriftliche Vereinbarung, Meldefristen, Verteilschlüssel, Netztarif-Abschlag 40 % bzw. 20 %."
+status_note_en: "In force since 1 January 2026. Amending act; the consolidated StromVV is authoritative. Contains the LEG implementing rules: minimum size of 5% of connected load, max. 36 kV, written agreement, notice periods, allocation key, grid tariff reduction of 40% or 20%."
 languages: [de, fr, it]
 topics: [self_consumption, grid, tariffs, storage]
 summary_de: "Die Änderung setzt den Mantelerlass in der Stromversorgungsverordnung um. Für lokale Elektrizitätsgemeinschaften regelt sie Mindestgrösse, Netzebenen, Inhalt der Vereinbarung, Meldungen an den Netzbetreiber, den viertelstündlichen Verteilschlüssel und den Abschlag auf den Netznutzungstarif."
+summary_en: "The amendment implements the Mantelerlass in the Electricity Supply Ordinance. For local electricity communities it governs minimum size, grid levels, content of the agreement, notifications to the grid operator, the quarter-hourly allocation key and the reduction of the grid usage tariff."
 source_url: "https://www.fedlex.admin.ch/eli/oc/2025/139/de"
 alternate_urls:
   - label: "PDF (AS 2025 139)"

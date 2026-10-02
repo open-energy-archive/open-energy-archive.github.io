@@ -9,9 +9,11 @@ reference: "AS 2024 679 (Referendumsvorlage BBl 2023 2301)"
 date: 2023-09-29
 status: in_force
 status_note: "In der Volksabstimmung vom 9.6.2024 angenommen. Grossteil in Kraft seit 1.1.2025; Messwesen, Netztarife, Flexibilität und lokale Elektrizitätsgemeinschaften seit 1.1.2026. Ändert EnG, StromVG, Raumplanungs- und Waldgesetz (Änderungserlass; massgebend sind die konsolidierten Fassungen)."
+status_note_en: "Approved in the popular vote of 9 June 2024. Mostly in force since 1 January 2025; metering, grid tariffs, flexibility and local electricity communities since 1 January 2026. Amends EnG, StromVG, the Spatial Planning Act and the Forest Act (amending act; the consolidated versions are authoritative)."
 languages: [de, fr, it]
 topics: [renewables, supply_security, self_consumption, grid, tariffs, permitting, storage]
 summary_de: "Das Gesetz ändert Energiegesetz, Stromversorgungsgesetz, Raumplanungsgesetz und Waldgesetz, um den Ausbau der erneuerbaren Stromproduktion und die Versorgungssicherheit zu stärken. Unter anderem führt es die lokalen Elektrizitätsgemeinschaften ein und legt verbindliche Ausbau-Richtwerte fest."
+summary_en: "The act amends the Energy Act, the Electricity Supply Act, the Spatial Planning Act and the Forest Act to strengthen the expansion of renewable electricity production and security of supply. Among other things, it introduces local electricity communities and sets binding expansion targets."
 source_url: "https://www.fedlex.admin.ch/eli/oc/2024/679/de"
 alternate_urls:
   - label: "PDF (AS 2024 679)"

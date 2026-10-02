@@ -9,9 +9,11 @@ reference: "SR 730.0"
 date: 2016-09-30
 status: in_force
 status_note: "Konsolidierte Fassung vom 1. Januar 2026 geprüft. Durch den Mantelerlass (AS 2024 679) geändert, in Kraft seit 1.1.2025. Art. 2 enthält die Ausbau-Richtwerte für erneuerbare Energien (ohne Wasserkraft: 35 000 GWh bis 2035, 45 000 GWh bis 2050)."
+status_note_en: "Consolidated version of 1 January 2026 checked. Amended by the Mantelerlass (AS 2024 679), in force since 1 January 2025. Art. 2 sets the renewable expansion targets (excluding hydropower: 35,000 GWh by 2035, 45,000 GWh by 2050)."
 languages: [de, fr, it]
 topics: [renewables, energy_efficiency, subsidies, self_consumption, supply_security]
 summary_de: "Das Energiegesetz soll eine ausreichende, sichere, wirtschaftliche und umweltverträgliche Energieversorgung sichern und den Umstieg auf erneuerbare Energien voranbringen. Es enthält Richtwerte für den Ausbau, Regeln zu Eigenverbrauch und Förderung sowie Vorgaben zur Energieeffizienz."
+summary_en: "The Energy Act aims to secure a sufficient, reliable, economic and environmentally sound energy supply and to advance the transition to renewable energy. It contains expansion targets, rules on self-consumption and support schemes, and energy-efficiency requirements."
 source_url: "https://www.fedlex.admin.ch/eli/cc/2017/762/de"
 alternate_urls:
   - label: "PDF, Fassung 1.1.2026"

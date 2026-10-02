@@ -8,9 +8,11 @@ reference: "BGE 152 II 364 / 2C_609/2024"
 date: 2025-12-03
 status: final
 status_note: "Amtlich publiziert als BGE 152 II 364. Vorinstanz: BVGer A-5380/2022 (aufgehoben)."
+status_note_en: "Officially published as BGE 152 II 364. Lower instance: BVGer A-5380/2022 (set aside)."
 languages: [de]
 topics: [tariffs, market, grid]
 summary_de: "Das Bundesgericht entschied, dass Gewinnablieferungen an das Gemeinwesen über den regulierten Gewinn hinaus nicht dem Energietarif, sondern den Abgaben und Leistungen an Gemeinwesen im Netztarif zuzuordnen sind. Abgaben auf der Energie sind nur zulässig, wenn sie direkt mit der Energieproduktion zusammenhängen."
+summary_en: "The Federal Supreme Court held that profit distributions to the municipality exceeding the regulated profit must be allocated not to the energy tariff but to the levies and payments to public authorities within the grid tariff. Levies on energy are only permissible if they are directly linked to energy production."
 source_url: "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=highlight_simple_query&query_words=2C_609%2F2024&highlight_docid=2025-12-03-2C_609-2024"
 alternate_urls:
   - label: "BGE 152 II 364"

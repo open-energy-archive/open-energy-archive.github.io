@@ -9,9 +9,11 @@ date: 2023-05-01
 date_precision: month
 status: non_binding
 status_note: "Stand Mai 2023, vor Inkrafttreten des Mantelerlasses. vZEV und LEG (seit 2025/2026) sind möglicherweise nicht abgedeckt. Prüfen, ob eine neuere Fassung existiert."
+status_note_en: "Status May 2023, before the Mantelerlass entered into force. Virtual ZEV and LEG (since 2025/2026) may not be covered. Check whether a newer version exists."
 languages: [de]
 topics: [self_consumption, solar, tariffs]
 summary_de: "Der Leitfaden erklärt, wie Eigentümer und Mieter einen Zusammenschluss zum Eigenverbrauch (ZEV) gründen und betreiben können. Er behandelt Rechtsgrundlagen, Mieterschutz, Preismodelle und technische Anforderungen und enthält Vorlagen und Rechenbeispiele."
+summary_en: "The guide explains how owners and tenants can set up and operate a self-consumption community (ZEV). It covers the legal basis, tenant protection, pricing models and technical requirements, and includes templates and worked examples."
 source_url: "https://pubdb.bfe.admin.ch/de/publication/download/9329"
 rights:
   status: unclear

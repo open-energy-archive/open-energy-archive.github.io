@@ -8,9 +8,11 @@ reference: "BGE 143 I 395 / 2C_1142/2016"
 date: 2017-07-14
 status: final
 status_note: "Amtlich publiziert als BGE 143 I 395; Beschwerde gutgeheissen, Rückweisung an die ElCom zu neuem Entscheid"
+status_note_en: "Officially published as BGE 143 I 395; appeal upheld, remanded to ElCom for a new decision."
 languages: [de]
 topics: [grid, solar, market]
 summary_de: "Betreiber einer Photovoltaikanlage wollten die Messdienstleistungen für ihre Anlage durch einen Dritten statt durch den örtlichen Verteilnetzbetreiber erbringen lassen. Das Bundesgericht hielt fest, dass das gesetzliche Exklusivrecht nur den Netzbetrieb umfasst und das Messwesen bei Produktionsanlagen nicht dazugehört; die Wahl des Messdienstleisters fällt unter die Wirtschaftsfreiheit des Produzenten, wobei der Netzbetreiber technische und sicherheitsrelevante Anforderungen festlegen kann. Die Beschwerde wurde gutgeheissen und die Sache an die ElCom zurückgewiesen."
+summary_en: "Operators of a photovoltaic plant wanted a third party rather than the local distribution grid operator to provide metering services for their plant. The Federal Supreme Court held that the statutory exclusive right covers only grid operation and not metering at production plants; the choice of metering provider falls under the producer's economic freedom, while the grid operator may set technical and safety requirements. The appeal was upheld and the case remanded to ElCom."
 source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F143-I-395%3Ade&lang=de&zoom=IN&type=show_document"
 rights:
   status: official_work

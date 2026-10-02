@@ -9,9 +9,11 @@ reference: "SR 730.03"
 date: 2017-11-01
 status: in_force
 status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft."
+status_note_en: "Consolidated version of 1 July 2026 checked."
 languages: [de, fr, it]
 topics: [subsidies, renewables, solar, wind, hydro]
 summary_de: "Die Verordnung regelt die Förderinstrumente für Strom aus erneuerbaren Energien, darunter Einspeisevergütung, gleitende Marktprämie, Einmalvergütung, Investitions- und Projektierungsbeiträge. Sie legt Voraussetzungen, Ansätze und Verfahren fest."
+summary_en: "The ordinance governs support instruments for electricity from renewable energy, including feed-in remuneration, the sliding market premium, one-off remuneration, and investment and project-planning contributions. It sets conditions, rates and procedures."
 source_url: "https://www.fedlex.admin.ch/eli/cc/2017/766/de"
 alternate_urls:
   - label: "PDF, Fassung 1.7.2026"

@@ -10,9 +10,11 @@ version: "1.0"
 date: 2026-09-29
 status: non_binding
 status_note: "Muster, keine Rechtsberatung. Abgestimmt auf Art. 17d/17e StromVG (Fassung 1.4.2026) und Art. 19e–19h StromVV (AS 2025 139, in Kraft seit 1.1.2026). Vor Verwendung anpassen und mit dem Verteilnetzbetreiber abstimmen."
+status_note_en: "Template, not legal advice. Aligned with Art. 17d/17e StromVG (version of 1 April 2026) and Art. 19e–19h StromVV (AS 2025 139, in force since 1 January 2026). Adapt before use and coordinate with the distribution grid operator."
 languages: [de]
 topics: [self_consumption, solar, storage, tariffs, grid]
 summary_de: "Vollständiges Vertragsmuster für eine lokale Elektrizitätsgemeinschaft in der Rechtsform des Vereins nach Art. 60 ff. ZGB. Es umfasst Statuten, ein Reglement zu Verteilschlüssel, internem Strompreis, Netzabschlag, Verwaltungskosten und Abrechnung sowie eine Beitrittserklärung und deckt die fünf Pflichtinhalte von Art. 19f Abs. 1 StromVV ab."
+summary_en: "Complete model agreement for a local electricity community (LEG) organised as an association under Art. 60 et seq. of the Swiss Civil Code. It contains articles of association, rules on the allocation key, internal electricity price, grid tariff reduction, administrative costs and billing, and a membership form, and covers the five mandatory items of Art. 19f(1) StromVV. Available in German only."
 source_url: "https://github.com/open-energy-archive/open-energy-archive/blob/main/content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.md"
 content: content/mustervertraege/ch-leg-verein/mustervertrag-leg-verein.md
 downloads:

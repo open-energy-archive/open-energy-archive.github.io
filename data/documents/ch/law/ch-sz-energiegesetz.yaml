@@ -1,0 +1,28 @@
+id: ch-sz-energiegesetz
+title: "Kantonales Energiegesetz"
+title_en: "Cantonal Energy Act of the Canton of Schwyz"
+short_title: Energiegesetz SZ
+doc_type: law
+jurisdiction: CH
+subdivision: CH-SZ
+issuer: "Kantonsrat des Kantons Schwyz"
+reference: "SRSZ 420.100"
+date: 2009-09-16
+status: in_force
+status_note: "Geprüft im amtlichen PDF der Systematischen Gesetzsammlung (sz.ch, Stand 1. Februar 2025): Gesetz vom 16. September 2009. Änderungen gemäss Fussnoten vom 17. Dezember 2013, 25. Juni 2020 (Gegenvorschlag zu einer Volksinitiative, in Kraft 1. Januar 2021), 24. Juni 2021 (grössere Revision, in Kraft 1. Mai 2022) und 11. September 2024 (in Kraft 1. Januar 2025). Inhalt u. a.: Ziel fossilfreie Beheizung bis 2050, Anforderungen an Wärmeschutz, Gebäudetechnik und erneuerbare Wärme, Ladeinfrastruktur, Verbot neuer Elektroheizungen, Gebäudeprogramm (rund 2,5 Mio. Fr. jährlich). Eine offizielle Abkürzung wurde nicht festgestellt. LexFind zeigt nur eine ältere Fassung (Stand 1. Februar 2021)."
+status_note_en: "Checked in the official PDF of the systematic law collection (sz.ch, as of 1 February 2025): act of 16 September 2009. Amendments according to footnotes of 17 December 2013, 25 June 2020 (counter-proposal to a popular initiative, in force 1 January 2021), 24 June 2021 (major revision, in force 1 May 2022) and 11 September 2024 (in force 1 January 2025). Content includes: target of fossil-free heating by 2050, requirements on thermal protection, building services and renewable heat, charging infrastructure, ban on new electric heating, building programme (about CHF 2.5 million per year). No official abbreviation found. LexFind only shows an older version (as of 1 February 2021)."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, subsidies, mobility]
+summary_de: "Das Schwyzer Energiegesetz vollzieht das Energierecht des Bundes und legt die Grundlagen der kantonalen Energiepolitik fest, mit Schwerpunkt auf dem Gebäudebereich und dem Ziel einer fossilfreien Beheizung bis 2050. Es regelt Organisation und Energieplanung, Anforderungen an Wärmeschutz, Gebäudetechnik und erneuerbare Wärme, Einschränkungen für Elektroheizungen und beheizte Aussenanlagen sowie Beratung und Förderbeiträge."
+summary_en: "The Schwyz Energy Act implements federal energy law and sets the basis for cantonal energy policy, focusing on buildings with the aim of fossil-free heating by 2050. It governs organisation and energy planning, requirements on thermal protection, building services and renewable heat, restrictions on electric heating and heated outdoor installations, and advice and subsidies."
+source_url: "https://www.sz.ch/public/upload/assets/5836/420_100.pdf"
+alternate_urls:
+  - label: "LexFind (ältere Fassung, Stand 1. Februar 2021)"
+    url: "https://www.lexfind.ch/tolv/206651/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

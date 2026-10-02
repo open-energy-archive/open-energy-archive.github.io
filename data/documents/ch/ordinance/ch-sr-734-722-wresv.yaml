@@ -1,0 +1,29 @@
+id: ch-sr-734-722-wresv
+title: "Verordnung über die Errichtung einer Stromreserve für den Winter (Winterreserveverordnung, WResV)"
+title_en: "Ordinance on the Establishment of a Winter Electricity Reserve (Winter Reserve Ordinance)"
+short_title: WResV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 734.722"
+date: 2023-01-25
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. Dezember 2025 geprüft (zuletzt geändert durch AS 2025 677). Befristet bis 31.12.2030. Soll durch eine Stromreserveverordnung abgelöst werden, die die im Juni 2025 vom Parlament beschlossene Stromreserve im StromVG umsetzt (Vernehmlassung ab 15.4.2026, Inkrafttreten voraussichtlich 1.7.2027)."
+status_note_en: "Consolidated version of 1 December 2025 checked (last amended by AS 2025 677). Limited until 31 December 2030. To be replaced by an Electricity Reserve Ordinance implementing the reserve adopted by Parliament in the StromVG in June 2025 (consultation from 15 April 2026, entry into force expected 1 July 2027)."
+languages: [de, fr, it]
+topics: [supply_security, hydro, storage]
+summary_de: "Die Verordnung schafft eine Stromreserve zur Absicherung gegen ausserordentliche Versorgungsengpässe im Winter und Frühling. Sie besteht aus einer Wasserkraftreserve, bei der Speicherkraftwerksbetreiber gegen Entgelt Energie zurückhalten, und einer ergänzenden Reserve mit Reservekraftwerken, Notstromgruppen und WKK-Anlagen."
+summary_en: "The ordinance creates an electricity reserve to guard against extraordinary supply shortages in winter and spring. It consists of a hydropower reserve, in which storage plant operators hold back energy against remuneration, and a supplementary reserve of reserve power plants, emergency generators and CHP units."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2023/43/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.12.2025"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/43/20251201/de/pdf-a/fedlex-data-admin-ch-eli-cc-2023-43-20251201-de-pdf-a.pdf"
+  - label: "BFE: Stromreserveverordnung, Eröffnung der Vernehmlassung (15.4.2026)"
+    url: "https://www.bfe.admin.ch/de/newnsb/pLdHnct5GGIwoeeUf2rcn"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-02
+last_checked: 2026-10-02

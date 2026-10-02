@@ -1,0 +1,29 @@
+id: ch-as-2026-99-beschleunigungserlass
+title: "Energiegesetz (EnG), Änderung vom 26. September 2025 (Beschleunigungserlass)"
+title_en: "Amendment of the Energy Act of 26 September 2025 (Acceleration Act)"
+short_title: AS 2026 99
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "AS 2026 99"
+date: 2025-09-26
+status: in_force
+status_note: "Referendumsfrist am 15.1.2026 unbenutzt abgelaufen; vom Bundesrat am 25.2.2026 auf den 1.4.2026 in Kraft gesetzt, ausser Art. 15 Abs. 1bis und 75e EnG (späteres Inkrafttreten). Änderungserlass; massgebend sind die konsolidierten Fassungen. Ändert EnG, BGG, RPG, WRG, EleG und StromVG."
+status_note_en: "Referendum period expired unused on 15 January 2026; brought into force by the Federal Council on 25 February 2026 as of 1 April 2026, except Art. 15(1bis) and 75e EnG (later entry into force). Amending act; the consolidated versions are authoritative. Amends the EnG, Federal Supreme Court Act, RPG, WRG, EleG and StromVG."
+languages: [de, fr, it]
+topics: [permitting, renewables, solar, wind, hydro, grid]
+summary_de: "Der Erlass beschleunigt Planung, Bewilligung und Rechtsmittelverfahren für Solar-, Wind- und Wasserkraftanlagen von nationalem Interesse. Kernstück ist ein konzentriertes kantonales Plangenehmigungsverfahren, in dem der Standortkanton die erforderlichen kantonalen und kommunalen Bewilligungen in einem Entscheid erteilt; zudem werden Verfahren für den Netzausbau vereinfacht."
+summary_en: "The act speeds up planning, permitting and appeal procedures for solar, wind and hydropower installations of national interest. Its core is a concentrated cantonal plan approval procedure in which the host canton grants the required cantonal and municipal permits in a single decision; procedures for grid expansion are also simplified."
+source_url: "https://www.fedlex.admin.ch/eli/oc/2026/99/de"
+alternate_urls:
+  - label: "PDF (AS 2026 99)"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/oc/2026/99/de/pdf-a/fedlex-data-admin-ch-eli-oc-2026-99-de-pdf-a.pdf"
+  - label: "UVEK-Medienmitteilung vom 25.2.2026 (Inkraftsetzung)"
+    url: "https://www.uvek.admin.ch/de/newnsb/8MFWsqj4dVlDDK8EKblaG"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-700-rpg, ch-sr-721-80-wrg, ch-sr-734-0-eleg, ch-sr-734-7-stromvg]
+added: 2026-10-02
+last_checked: 2026-10-02

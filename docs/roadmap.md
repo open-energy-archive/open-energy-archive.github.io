@@ -2,9 +2,9 @@
 
 ## Phase 1 – Schweiz (jetzt)
 - [x] Struktur, Schema, Website mit Suche
-- [x] 63 Einträge (Bund, ElCom, Bundesgericht, Bundesverwaltungsgericht, BFE, VSE, 10 Kantone)
+- [x] 90 Einträge (Bund, ElCom, Bundesgericht, Bundesverwaltungsgericht, BFE, VSE, 25 Kantone)
 - [ ] 100 Dokumente: alle Bundeserlasse im Bereich SR 73x, ElCom-Weisungen, wichtigste BGer-/BVGer-Entscheide
-- [ ] Kantonale Energiegesetze: 10 von 26 erfasst (ZH, BE, VD, GE, AG, LU, SG, BS, TI, GR)
+- [x] Kantonale Energiegesetze: alle Kantone mit eigenem Energiegesetz (25; OW regelt Energie im Baugesetz)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
 - [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-Muster prüfen lassen
 - [ ] Weitere Musterverträge: ZEV, vZEV, PPA, LEG als Teilnahmevertrag mit Betreiberin

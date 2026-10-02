@@ -1,0 +1,28 @@
+id: ch-gl-eng
+title: "Energiegesetz (EnG)"
+title_en: "Energy Act of the Canton of Glarus"
+short_title: EnG GL
+doc_type: law
+jurisdiction: CH
+subdivision: CH-GL
+issuer: "Landsgemeinde des Kantons Glarus"
+reference: "GS VII E/1/1"
+date: 2000-05-07
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (gesetze.gl.ch, LexWork-API): erlassen am 7. Mai 2000, in Kraft seit 1. Januar 2001, aktuelle Fassung in Kraft seit 1. Januar 2023 (Landsgemeindebeschluss vom 5. September 2021). Die Revision 2021 verlangt bei Neubauten und beim Heizungsersatz in bestehenden Wohnbauten grundsätzlich Wärmeerzeuger ohne fossile CO2-Emissionen bzw. Anschluss an erneuerbare Wärmenetze, soweit technisch möglich (Art. 14a, 14d, 21), dazu Eigenstromerzeugung bei Neubauten (Art. 14b) und Verbot elektrischer Widerstandsheizungen. Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (gesetze.gl.ch, LexWork API): enacted 7 May 2000, in force since 1 January 2001, current version in force since 1 January 2023 (Landsgemeinde decision of 5 September 2021). The 2021 revision requires, in principle, heat generators without fossil CO2 emissions or connection to renewable heating networks for new buildings and for heating replacement in existing residential buildings, where technically feasible (Art. 14a, 14d, 21), plus on-site electricity generation for new buildings (Art. 14b) and a ban on electric resistance heating. No LexFind entry checked."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, supply_security]
+summary_de: "Das Glarner Energiegesetz regelt die kantonale Energiepolitik und den Vollzug des Bundesrechts mit dem Ziel einer wirtschaftlichen und umweltverträglichen Energieversorgung. Seit der Revision 2021 sind bei Neubauten und beim Ersatz von Heizungen in Wohnbauten grundsätzlich fossilfreie Wärmeerzeuger vorgeschrieben; weiter enthält es eine Pflicht zur Eigenstromerzeugung bei Neubauten, Vorgaben für öffentliche Bauten und Regeln zu Beteiligungen des Kantons an Energieunternehmen."
+summary_en: "The Glarus Energy Act governs cantonal energy policy and implementation of federal law with the aim of economical and environmentally compatible energy supply. Since the 2021 revision, fossil-free heat generators are in principle required for new buildings and when replacing heating in residential buildings; it also contains an on-site electricity generation duty for new buildings, requirements for public buildings and rules on cantonal stakes in energy companies."
+source_url: "https://gesetze.gl.ch/app/de/texts_of_law/VII-E.1.1"
+alternate_urls:
+  - label: "gl.ch – Umsetzung des neuen Energiegesetzes"
+    url: "https://www.gl.ch/public-newsroom.html/31/newsroomnews/1920/title/so-will-der-regierungsrat-das-neue-energiegesetz-umsetzen"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

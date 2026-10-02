@@ -1,0 +1,27 @@
+id: ch-sr-700-rpg
+title: "Bundesgesetz über die Raumplanung (Raumplanungsgesetz, RPG)"
+title_en: "Federal Act on Spatial Planning (Spatial Planning Act)"
+short_title: RPG
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "SR 700"
+date: 1979-06-22
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. April 2026 geprüft (u. a. RPG-Revision AS 2025 640 und Mantelerlass, in Kraft 1.1.2026; AS 2026 99 in Kraft 1.4.2026). Energierelevant: Art. 18a (Meldeverfahren statt Baubewilligung für angepasste Solaranlagen auf Dächern und an Fassaden in Bau- und Landwirtschaftszonen), Art. 8b (Eignungsgebiete für erneuerbare Energien), Art. 24ter und 24quater (Solar-, Biomasse- und Wasserstoffanlagen ausserhalb der Bauzonen)."
+status_note_en: "Consolidated version of 1 April 2026 checked (incl. RPG revision AS 2025 640 and Mantelerlass, in force 1 January 2026; AS 2026 99 in force 1 April 2026). Energy-relevant: Art. 18a (notification instead of building permit for adapted rooftop and facade solar installations in building and agricultural zones), Art. 8b (suitable areas for renewables), Art. 24ter and 24quater (solar, biomass and hydrogen installations outside building zones)."
+languages: [de, fr, it]
+topics: [permitting, solar, renewables]
+summary_de: "Das Raumplanungsgesetz regelt die Grundsätze der Raumplanung von Bund, Kantonen und Gemeinden, die Richt- und Nutzungsplanung sowie das Bauen ausserhalb der Bauzonen. Für die Energieversorgung zentral sind die erleichterten Verfahren für Solaranlagen nach Art. 18a und die Bestimmungen über Anlagen zur Nutzung erneuerbarer Energien."
+summary_en: "The Spatial Planning Act sets out the principles of spatial planning for the Confederation, cantons and municipalities, structure and land-use planning, and building outside building zones. Key for energy supply are the simplified procedures for solar installations under Art. 18a and the provisions on renewable energy installations."
+source_url: "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.4.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573/20260401/de/pdf-a/fedlex-data-admin-ch-eli-cc-1979-1573_1573_1573-20260401-de-pdf-a.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-as-2024-679-mantelerlass, ch-as-2026-99-beschleunigungserlass]
+added: 2026-10-02
+last_checked: 2026-10-02

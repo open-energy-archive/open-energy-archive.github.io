@@ -1,0 +1,28 @@
+id: ch-ar-keng
+title: "Energiegesetz (kEnG)"
+title_en: "Energy Act of the Canton of Appenzell Ausserrhoden"
+short_title: kEnG AR
+doc_type: law
+jurisdiction: CH
+subdivision: CH-AR
+issuer: "Kantonsrat des Kantons Appenzell Ausserrhoden"
+reference: "bGS 750.1"
+date: 2001-09-24
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Erlass-Sammlung (ar.clex.ch, LexWork-API): erlassen am 24. September 2001, in Kraft seit 1. Januar 2002, aktuelle Fassung in Kraft seit 1. Januar 2023 (Beschluss vom 28. März 2022). Die Teilrevision 2022 setzt die MuKEn 2014 um: Eigenstromerzeugung bei Neubauten (Art. 10a), beim Wärmeerzeugerersatz in Wohnbauten höchstens 80 % nichterneuerbare Energie (Art. 10b), Verbot elektrischer Widerstandsheizungen, Grossverbraucherregelung (Art. 12f), GEAK; Vorbildfunktion der öffentlichen Hand (Art. 14). Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (ar.clex.ch, LexWork API): enacted 24 September 2001, in force since 1 January 2002, current version in force since 1 January 2023 (decision of 28 March 2022). The 2022 partial revision implements MuKEn 2014: on-site electricity generation for new buildings (Art. 10a), max. 80% non-renewable energy when replacing heat generators in residential buildings (Art. 10b), ban on electric resistance heating, large-consumer rules (Art. 12f), GEAK; exemplary role of the public sector (Art. 14). No LexFind entry checked."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das Ausserrhoder Energiegesetz bezweckt eine sichere und umweltschonende Energieversorgung sowie eine sparsame, rationelle und nachhaltige Energienutzung. Es enthält Vorschriften für Gebäude und Anlagen, insbesondere einen erneuerbaren Mindestanteil beim Heizungsersatz in Wohnbauten, eine Eigenstromerzeugung bei Neubauten und Einschränkungen für Elektroheizungen, sowie Regeln für Grossverbraucher und die Vorbildfunktion der öffentlichen Hand."
+summary_en: "The Appenzell Ausserrhoden Energy Act aims at secure and environmentally sound energy supply and economical, rational and sustainable energy use. It contains rules for buildings and installations, notably a minimum renewable share when replacing heating in residential buildings, on-site electricity generation for new buildings and restrictions on electric heating, as well as rules for large consumers and the exemplary role of the public sector."
+source_url: "https://ar.clex.ch/app/de/texts_of_law/750.1"
+alternate_urls:
+  - label: "ar.ch – Energie: Erlasse"
+    url: "https://ar.ch/verwaltung/departement-bau-und-volkswirtschaft/amt-fuer-umwelt/energie/recht-und-vollzug/erlasse/"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

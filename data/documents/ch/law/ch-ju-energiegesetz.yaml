@@ -1,0 +1,30 @@
+id: ch-ju-energiegesetz
+title: "Loi sur l'énergie"
+title_en: "Energy Act of the Republic and Canton of Jura"
+short_title: Loi sur l'énergie JU
+doc_type: law
+jurisdiction: CH
+subdivision: CH-JU
+issuer: "Parlement de la République et Canton du Jura"
+reference: "RSJU 730.1"
+date: 1988-11-24
+status: in_force
+status_note: "Geprüft im amtlichen Recueil systématique (rsju.jura.ch, HTML-Übersicht und PDF): Gesetz vom 24. November 1988, in Kraft seit 1. Februar 1989, aktuelle Fassung seit 1. März 2024 (vorherige Fassung 1. April 2019 bis 29. Februar 2024). Änderungen u. a. durch Gesetz vom 18. November 2015 (in Kraft 1. April 2019; u. a. Eigenstromerzeugung bei Neubauten, Art. 17; Bezug zur MuKEn 2014 nicht verifiziert) und durch das Gesetz über die Elektrizitätsversorgung vom 23. November 2022 (in Kraft 1. März 2024). Eine offizielle Abkürzung wurde nicht festgestellt; Detailvorschriften zum Heizungsersatz stehen in der Verordnung (RSJU 730.11). Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked in the official systematic collection (rsju.jura.ch, HTML overview and PDF): act of 24 November 1988, in force since 1 February 1989, current version since 1 March 2024 (previous version 1 April 2019 to 29 February 2024). Amended among others by the act of 18 November 2015 (in force 1 April 2019; including on-site electricity generation for new buildings, Art. 17; link to MuKEn 2014 not verified) and by the electricity supply act of 23 November 2022 (in force 1 March 2024). No official abbreviation found; detailed heating-replacement rules are in the ordinance (RSJU 730.11). No LexFind entry checked."
+languages: [fr]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das jurassische Energiegesetz regelt die sparsame und rationelle Energienutzung und die Förderung erneuerbarer Energien. Es enthält wärmetechnische Anforderungen an Gebäude als Voraussetzung der Baubewilligung, Vorgaben zur verbrauchsabhängigen Heizkostenabrechnung, eine Pflicht zur teilweisen Eigenstromerzeugung bei Neubauten sowie Grundlagen für Subventionen und Steuererleichterungen."
+summary_en: "The Jura Energy Act governs economical and rational energy use and the promotion of renewable energy. It contains thermal requirements for buildings as a condition for building permits, rules on consumption-based heating cost billing, a duty of partial on-site electricity generation for new buildings, and the basis for subsidies and tax relief."
+source_url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20131&id=38230"
+alternate_urls:
+  - label: "PDF (rsju.jura.ch)"
+    url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20131&id=38230&download=1"
+  - label: "jura.ch – Bases légales énergie"
+    url: "https://www.jura.ch/DEN/SDT/Energie/Bases-legales/Bases-legales.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,26 @@
+id: ch-bfe-elektrizitaetsstatistik-2025
+title: "Schweizerische Elektrizitätsstatistik 2025"
+title_en: "Swiss Electricity Statistics 2025"
+doc_type: report
+jurisdiction: CH
+issuer: "Bundesamt für Energie (BFE)"
+reference: "BFE pubdb 12681"
+date: 2026-07-10
+status: non_binding
+status_note: "Veröffentlicht am 10.7.2026, Berichtsjahr 2025. Teil der öffentlichen Statistik des Bundes (Schweizerische Energiestatistik, gestützt auf das Bundesstatistikgesetz). Landesverbrauch 2025 rund 62,3 Mrd. kWh."
+status_note_en: "Published on 10 July 2026, reporting year 2025. Part of official federal statistics (Swiss energy statistics, based on the Federal Statistics Act). National consumption 2025 approx. 62.3 billion kWh."
+languages: [de, fr]
+topics: [supply_security, hydro, renewables, market]
+summary_de: "Die jährliche Statistik erfasst die gesamte Erzeugung, den Austausch mit dem Ausland und den Verbrauch elektrischer Energie in der Schweiz. Sie gliedert die Produktion nach Kraftwerkstypen und weist Landes- und Endverbrauch aus."
+summary_en: "The annual statistics record total generation, cross-border exchange and consumption of electricity in Switzerland. They break down production by plant type and report national and final consumption."
+source_url: "https://pubdb.bfe.admin.ch/de/publication/download/12681"
+alternate_urls:
+  - label: "BFE-Sammlung Elektrizitätsstatistik (frühere Ausgaben)"
+    url: "https://pubdb.bfe.admin.ch/de/sammlungen/elektrizitaetsstatistik"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bfe-monitoring-es2050-2025]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -2,6 +2,14 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.6.0] – 2026-10-02
+
+### Neu
+- 15 weitere kantonale Energiegesetze: AI, AR, BL, FR, GL, JU, NE, NW, SH, SO, SZ, TG, UR, VS, ZG (Obwalden hat kein eigenes Energiegesetz; Regeln im Baugesetz)
+- Bundeserlasse: Wasserrechtsgesetz (WRG), Elektrizitätsgesetz (EleG), Raumplanungsgesetz (RPG, u. a. Art. 18a Solaranlagen), Beschleunigungserlass (AS 2026 99), Herkunftsnachweisverordnung (HKSV), Niederspannungs-Installationsverordnung (NIV), Winterreserveverordnung (WResV), CO2-Gesetz
+- BFE: Faktenblatt Neuerungen 2025, Monitoring-Bericht Energiestrategie 2050 (2025), Elektrizitätsstatistik 2025, Richtlinie Effizienzvorgaben für Lieferanten
+- Querverweise zwischen WRG und den Wasserkraft-Entscheiden, HKSV und ElCom 211-00506, EleG und den Leitungsentscheiden
+
 ## [0.5.2] – 2026-10-02
 
 ### Geändert

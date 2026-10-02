@@ -1,0 +1,28 @@
+id: ch-sh-energiegesetz
+title: "Energiegesetz"
+title_en: "Energy Act of the Canton of Schaffhausen"
+short_title: Energiegesetz SH
+doc_type: law
+jurisdiction: CH
+subdivision: CH-SH
+issuer: "Kantonsrat des Kantons Schaffhausen"
+reference: "SHR 730.100"
+date: 2024-12-16
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (rechtsbuch.sh.ch, LexWork-API): Energiegesetz vom 16. Dezember 2024, in Kraft seit 1. Januar 2026 (Erstfassung). Ob eine Volksabstimmung stattfand und welche früheren Erlasse abgelöst wurden, ist nicht verifiziert; eine offizielle Abkürzung wurde nicht festgestellt. Inhalt u. a.: Netto-Null-Ziel 2040 für die öffentliche Hand, Energie- und Klimafonds, Förderung von Effizienz und Klimaanpassung, Ladeinfrastruktur, Verbot neuer Elektroheizungen, Grossverbraucher, erneuerbarer Anteil beim Wärmeerzeugerersatz, Solarstrompflichten bei Neubauten und Dachsanierungen (Art. 24 ff.), Windenergie mit Beteiligung, Windabgabe (höchstens 5 Fr./kW) und Rückbaupflicht (Art. 29 ff.). Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (rechtsbuch.sh.ch, LexWork API): Energy Act of 16 December 2024, in force since 1 January 2026 (original version). Whether a popular vote took place and which earlier acts were replaced is not verified; no official abbreviation found. Content includes: net-zero target 2040 for the public sector, energy and climate funds, support for efficiency and climate adaptation, charging infrastructure, ban on new electric heating, large consumers, renewable share when replacing heat generators, solar power duties for new buildings and roof renovations (Art. 24 ff.), wind energy with participation, wind levy (max. CHF 5/kW) and decommissioning duty (Art. 29 ff.). No LexFind entry checked."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, wind, subsidies, mobility, supply_security]
+summary_de: "Das Schaffhauser Energiegesetz von 2024 fördert die effiziente Energienutzung, erneuerbare und dezentrale Produktion, die Versorgungssicherheit und die Verminderung klimaschädlicher Emissionen. Es regelt Förderung und Fonds für Energie, Klimaschutz und Klimaanpassung, Anforderungen an Gebäude und Anlagen einschliesslich Heizungsersatz und Solarstrompflichten sowie Bestimmungen zu Windenergieanlagen wie Beteiligung, Abgabe und Rückbau."
+summary_en: "The 2024 Schaffhausen Energy Act promotes efficient energy use, renewable and decentralised production, supply security and the reduction of climate-damaging emissions. It governs subsidies and funds for energy, climate protection and climate adaptation, requirements for buildings and installations including heating replacement and solar power duties, and provisions on wind installations such as participation, a levy and decommissioning."
+source_url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.100"
+alternate_urls:
+  - label: "Energieverordnung (SHR 730.101)"
+    url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/730.101"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

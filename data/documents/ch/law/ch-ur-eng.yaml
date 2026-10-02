@@ -1,0 +1,30 @@
+id: ch-ur-eng
+title: "Energiegesetz des Kantons Uri (EnG)"
+title_en: "Energy Act of the Canton of Uri"
+short_title: EnG UR
+doc_type: law
+jurisdiction: CH
+subdivision: CH-UR
+issuer: "Volk des Kantons Uri"
+reference: "RB 40.7211"
+date: 1999-04-18
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (rechtsbuch.ur.ch, LexWork-API): Beschluss vom 18. April 1999, in Kraft seit 1. Januar 2000; dort ist am 2. Oktober 2026 nur diese eine Fassung erfasst. Gemäss energie-zentralschweiz.ch und Radio Central tritt eine in der Volksabstimmung vom 8. März 2026 angenommene Teilrevision (Umsetzung MuKEn 2014, u. a. Solarpflicht ab 300 m² Nutzfläche) am 1. Oktober 2026 in Kraft; diese Fassung ist in der Gesetzessammlung noch nicht ersichtlich und ihr Wortlaut nicht verifiziert. Herausgeberangabe aus dem Beschluss durch Volksabstimmung abgeleitet, nicht im Text verifiziert. Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (rechtsbuch.ur.ch, LexWork API): decision of 18 April 1999, in force since 1 January 2000; as of 2 October 2026 only this one version is recorded there. According to energie-zentralschweiz.ch and Radio Central, a partial revision approved in the popular vote of 8 March 2026 (implementing MuKEn 2014, including a solar obligation from 300 m² floor area) enters into force on 1 October 2026; this version is not yet visible in the law collection and its wording is not verified. Issuer derived from the decision by popular vote, not verified in the text. No LexFind entry checked."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies, tariffs]
+summary_de: "Das Urner Energiegesetz legt die Grundlagen der kantonalen Energiepolitik fest und strebt eine ausreichende, diversifizierte, sichere, wirtschaftliche und umweltverträgliche Energieversorgung an. Es regelt energetische Anforderungen an Gebäude, Bewilligungspflichten für Elektroheizungen, Grundsätze der Energieversorgung wie einheitliche Tarife und die Abnahme von Überschussenergie unabhängiger Produzenten sowie Beratung und Förderung; eine Teilrevision nach MuKEn 2014 ist per 1. Oktober 2026 angekündigt."
+summary_en: "The Uri Energy Act sets the basis for cantonal energy policy and aims at sufficient, diversified, secure, economical and environmentally compatible energy supply. It governs energy requirements for buildings, permit requirements for electric heating, principles of energy supply such as uniform tariffs and the purchase of surplus energy from independent producers, and advice and subsidies; a partial revision based on MuKEn 2014 has been announced for 1 October 2026."
+source_url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7211"
+alternate_urls:
+  - label: "Energie Zentralschweiz – Vollzug Uri"
+    url: "https://www.energie-zentralschweiz.ch/vollzug/vollzug-uri.html"
+  - label: "Radio Central – Inkraftsetzung frühestens Herbst 2026"
+    url: "https://www.radiocentral.ch/news/regional/uri-setzt-neues-energiegesetz-fruehestens-im-herbst-2026-in-kraft-163657840"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,28 @@
+id: ch-zg-eng-zg
+title: "Energiegesetz (EnG-ZG)"
+title_en: "Energy Act of the Canton of Zug"
+short_title: EnG-ZG
+doc_type: law
+jurisdiction: CH
+subdivision: CH-ZG
+issuer: "Kantonsrat des Kantons Zug"
+reference: "BGS 740.1"
+date: 2004-07-01
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (bgs.zg.ch, LexWork-API) und LexFind (Stand 1. Februar 2024): Gesetz vom 1. Juli 2004, in Kraft seit 11. September 2004, aktuelle Fassung in Kraft seit 1. Februar 2024 (Beschluss vom 26. Januar 2023). Inhalt u. a.: Mindestanforderungen an Neubauten und bestehende Bauten, verbrauchsabhängige Heizkostenabrechnung ab fünf Einheiten, Verbot ortsfester elektrischer Widerstandsheizungen, Einschränkungen für Elektroboiler, Anforderungen beim Heizungsersatz (Schwelle 80 % gemäss Zusammenfassung, Wortlaut nicht im Volltext geprüft), Eigenstromerzeugung und Fast-Nullenergie-Standard bei Neubauten, Förderbeiträge über Rahmenkredite."
+status_note_en: "Checked via the data of the official law collection (bgs.zg.ch, LexWork API) and LexFind (as of 1 February 2024): act of 1 July 2004, in force since 11 September 2004, current version in force since 1 February 2024 (decision of 26 January 2023). Content includes: minimum requirements for new and existing buildings, consumption-based heating cost billing from five units, ban on fixed electric resistance heating, restrictions on electric water heaters, heating-replacement requirements (80% threshold according to the summary, wording not checked in full text), on-site electricity generation and nearly zero-energy standard for new buildings, subsidies via framework credits."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar, subsidies, supply_security]
+summary_de: "Das Zuger Energiegesetz richtet die kantonale Energiepolitik an den Zielen des Bundes aus und schafft Rahmenbedingungen für eine effiziente Energienutzung und erneuerbare Energien. Es regelt Aufgaben von Kanton und Gemeinden bei der Energieversorgung, energetische Mindestanforderungen an Gebäude einschliesslich Heizungsersatz, Eigenstromerzeugung und Verbot von Elektroheizungen sowie Förderbeiträge."
+summary_en: "The Zug Energy Act aligns cantonal energy policy with federal objectives and creates framework conditions for efficient energy use and renewable energy. It governs the tasks of the canton and municipalities in energy supply, minimum energy requirements for buildings including heating replacement, on-site electricity generation and the ban on electric heating, and subsidies."
+source_url: "https://bgs.zg.ch/app/de/texts_of_law/740.1"
+alternate_urls:
+  - label: "LexFind"
+    url: "https://www.lexfind.ch/tolv/236643/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

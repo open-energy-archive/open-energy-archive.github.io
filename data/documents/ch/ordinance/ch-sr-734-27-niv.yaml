@@ -1,0 +1,27 @@
+id: ch-sr-734-27-niv
+title: "Verordnung über elektrische Niederspannungsinstallationen (Niederspannungs-Installationsverordnung, NIV)"
+title_en: "Ordinance on Low Voltage Electrical Installations"
+short_title: NIV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 734.27"
+date: 2001-11-07
+status: in_force
+status_note: "Konsolidierte Fassung vom 31. Oktober 2025 geprüft (letzte Änderung AS 2025 671, nur französischer Text). Gilt für Installationen bis 1000 V Wechsel- bzw. 1500 V Gleichspannung; regelt Installationsbewilligungen, Sicherheitsnachweis und periodische Kontrollen."
+status_note_en: "Consolidated version of 31 October 2025 checked (last amendment AS 2025 671, French text only). Applies to installations up to 1000 V AC or 1500 V DC; governs installation permits, safety certificates and periodic inspections."
+languages: [de, fr, it]
+topics: [grid, solar]
+summary_de: "Die Verordnung regelt Arbeiten an elektrischen Niederspannungsinstallationen und deren Kontrolle. Sie legt fest, wer mit welcher Bewilligung installieren darf, verlangt Meldungen an die Netzbetreiber und einen Sicherheitsnachweis und bestimmt die Intervalle für periodische Kontrollen, was auch für Photovoltaikanlagen in Gebäuden von Bedeutung ist."
+summary_en: "The ordinance governs work on low voltage electrical installations and their inspection. It sets out who may install with which permit, requires notifications to grid operators and a safety certificate, and fixes the intervals for periodic inspections, which also matters for PV systems on buildings."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2002/22/de"
+alternate_urls:
+  - label: "PDF, Fassung 31.10.2025"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/22/20251031/de/pdf-a/fedlex-data-admin-ch-eli-cc-2002-22-20251031-de-pdf-a.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-0-eleg]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,27 @@
+id: ch-sr-721-80-wrg
+title: "Bundesgesetz über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz, WRG)"
+title_en: "Federal Act on the Use of Hydropower (Water Rights Act)"
+short_title: WRG
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "SR 721.80"
+date: 1916-12-22
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. April 2026 geprüft (zuletzt geändert durch AS 2026 99, Beschleunigungserlass). Wasserzinsmaximum gemäss Art. 49 Abs. 1: 110 Franken pro Kilowatt Bruttoleistung bis Ende 2030; Höchstdauer der Konzession 80 Jahre (Art. 58); Heimfall Art. 67."
+status_note_en: "Consolidated version of 1 April 2026 checked (last amended by AS 2026 99, acceleration act). Maximum water royalty under Art. 49(1): CHF 110 per kilowatt of gross capacity until the end of 2030; maximum concession term 80 years (Art. 58); reversion Art. 67."
+languages: [de, fr, it]
+topics: [hydro, permitting]
+summary_de: "Das Gesetz bildet den bundesrechtlichen Rahmen für die Nutzung der Wasserkraft. Es regelt die Verleihung von Wasserrechtskonzessionen durch die Kantone, den Wasserzins und dessen Höchstbetrag, die Konzessionsdauer sowie den Heimfall der Anlagen nach Ablauf der Konzession."
+summary_en: "The act sets the federal framework for the use of hydropower. It governs the granting of water-rights concessions by the cantons, the water royalty and its maximum amount, the concession term and the reversion of installations when a concession expires."
+source_url: "https://www.fedlex.admin.ch/eli/cc/33/189_191_191/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.4.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/33/189_191_191/20260401/de/pdf-a/fedlex-data-admin-ch-eli-cc-33-189_191_191-20260401-de-pdf-a.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-as-2026-99-beschleunigungserlass, ch-bge-142-i-99, ch-bge-147-ii-164, ch-bge-151-ii-136]
+added: 2026-10-02
+last_checked: 2026-10-02

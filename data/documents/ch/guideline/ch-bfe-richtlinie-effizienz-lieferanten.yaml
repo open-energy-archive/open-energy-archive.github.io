@@ -1,0 +1,23 @@
+id: ch-bfe-richtlinie-effizienz-lieferanten
+title: "Richtlinie für Effizienzsteigerungen durch Elektrizitätslieferanten"
+title_en: "Guideline on Efficiency Improvements by Electricity Suppliers"
+doc_type: guideline
+jurisdiction: CH
+issuer: "Bundesamt für Energie (BFE)"
+reference: "BFE pubdb 11953"
+date: 2025-11-30
+status: non_binding
+status_note: "Fassung vom 30. November 2025. Vollzugshilfe zu Art. 46b EnG und Art. 51a–51i EnV; anrechenbar sind Massnahmen, die nach dem 1.1.2025 umgesetzt wurden, erste Zielvorgaben gelten ab 2026 (Berichterstattung für 2025 bis 30.4.2026)."
+status_note_en: "Version of 30 November 2025. Implementation aid for Art. 46b EnG and Art. 51a–51i EnV; measures implemented after 1 January 2025 count, first targets apply from 2026 (reporting for 2025 by 30 April 2026)."
+languages: [de]
+topics: [energy_efficiency, market]
+summary_de: "Die Richtlinie erläutert die Pflicht der Elektrizitätslieferanten, bei ihren Endverbrauchern Effizienzsteigerungen zu erzielen. Sie beschreibt die Berechnung der Zielvorgaben, standardisierte und nicht standardisierte Massnahmen, das Melde- und Kontrollverfahren sowie die Weitergabe der Kosten an die Endverbraucher."
+summary_en: "The guideline explains the obligation of electricity suppliers to achieve efficiency improvements among their end consumers. It describes how targets are calculated, standardised and non-standardised measures, the reporting and control procedure, and how costs are passed on to end consumers."
+source_url: "https://pubdb.bfe.admin.ch/de/publication/download/11953"
+rights:
+  status: unclear
+  basis: "Behördenpublikation; Weiterverbreitung nicht ausdrücklich geregelt – nur Verlinkung, bis geklärt."
+  mirror_allowed: false
+related: [ch-sr-730-0-eng, ch-sr-730-01-env]
+added: 2026-10-02
+last_checked: 2026-10-02

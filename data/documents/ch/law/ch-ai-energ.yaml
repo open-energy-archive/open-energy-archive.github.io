@@ -1,0 +1,28 @@
+id: ch-ai-energ
+title: "Energiegesetz (EnerG)"
+title_en: "Energy Act of the Canton of Appenzell Innerrhoden"
+short_title: EnerG AI
+doc_type: law
+jurisdiction: CH
+subdivision: CH-AI
+issuer: "Landsgemeinde des Kantons Appenzell I.Rh."
+reference: "GS 730.000"
+date: 2001-04-29
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (ai.clex.ch, LexWork-API): erlassen am 29. April 2001, in Kraft seit 24. Juni 2002, aktuelle Fassung vom 9. Mai 2021. Die Revision 2021 betrifft insbesondere die Windenergie (Ziel von mindestens 10 GWh pro Jahr, Gewichtung der Versorgungssicherheit gegenüber dem Landschaftsschutz); das Bundesgericht trat am 19. Mai 2022 auf eine Beschwerde dagegen nicht ein (1C_357/2021, gemäss Baublatt). Die Gebäudevorschriften nach MuKEn 2014 sind gemäss ai.ch seit 1. April 2020 in Kraft (auf Verordnungsstufe; nicht im Detail verifiziert). Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (ai.clex.ch, LexWork API): enacted 29 April 2001, in force since 24 June 2002, current version of 9 May 2021. The 2021 revision mainly concerns wind energy (target of at least 10 GWh per year, weighting supply security against landscape protection); the Federal Supreme Court declined to hear an appeal against it on 19 May 2022 (1C_357/2021, according to Baublatt). According to ai.ch, building rules based on MuKEn 2014 have applied since 1 April 2020 (at ordinance level; not verified in detail). No LexFind entry checked."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, wind, subsidies, supply_security]
+summary_de: "Das Energiegesetz von Appenzell Innerrhoden schafft Rahmenbedingungen für eine sparsame und rationelle Energienutzung und die Nutzung erneuerbarer Energien. Es enthält Vorschriften für Neubauten, darunter eine teilweise Eigenstromerzeugung und das Verbot neuer ortsfester elektrischer Widerstandsheizungen, regelt Förderbeiträge und ein Ziel für die Stromproduktion aus Windenergie sowie Bestimmungen zur Stromversorgung."
+summary_en: "The Energy Act of Appenzell Innerrhoden sets the framework for economical and rational energy use and the use of renewable energy. It contains rules for new buildings, including partial on-site electricity generation and a ban on new fixed electric resistance heating, governs subsidies and a target for wind power generation, and includes provisions on electricity supply."
+source_url: "https://ai.clex.ch/app/de/texts_of_law/730.000"
+alternate_urls:
+  - label: "ai.ch – Energie"
+    url: "https://www.ai.ch/themen/planen-und-bauen/energie"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

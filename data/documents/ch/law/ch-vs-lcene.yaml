@@ -1,0 +1,30 @@
+id: ch-vs-lcene
+title: "Loi sur l'énergie (LcEne) / Energiegesetz (kEnG)"
+title_en: "Energy Act of the Canton of Valais"
+short_title: LcEne VS
+doc_type: law
+jurisdiction: CH
+subdivision: CH-VS
+issuer: "Grand Conseil du canton du Valais / Grosser Rat des Kantons Wallis"
+reference: "RS/SGS 730.1"
+date: 2023-09-08
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (lex.vs.ch, LexWork-API, deutsche und französische Fassung): Gesetz vom 8. September 2023, in Kraft seit 1. Januar 2025, aktuelle Fassung in Kraft seit 1. Januar 2026 (Beschluss vom 13. Februar 2025). Das Gesetz ersetzt das frühere Walliser Energiegesetz (Ablösung nicht im Einzelnen verifiziert). Inhalt u. a.: kantonale und kommunale Energieplanung, öffentliches Energieregister und Datenbearbeitung, kantonales Interesse an einheimischen erneuerbaren Energien, Abwärmenutzung, Abnahmepflichten für erneuerbare Wärme und synthetische Gase, Anforderungen an Gebäude, Heizungen und Elektroheizungen, Förderung. Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (lex.vs.ch, LexWork API, German and French versions): act of 8 September 2023, in force since 1 January 2025, current version in force since 1 January 2026 (decision of 13 February 2025). The act replaces the earlier Valais energy act (replacement not verified in detail). Content includes: cantonal and municipal energy planning, public energy register and data processing, cantonal interest in domestic renewable energy, waste-heat use, take-back obligations for renewable heat and synthetic gases, requirements for buildings, heating systems and electric heating, subsidies. No LexFind entry checked."
+languages: [fr, de]
+topics: [energy_efficiency, heat, renewables, subsidies, supply_security, hydrogen]
+summary_de: "Das Walliser Energiegesetz von 2023 soll zu einer nachhaltigen Energieversorgung beitragen, durch Effizienz, Förderung erneuerbarer Energien und Verminderung der CO2-Emissionen. Es regelt die Zuständigkeiten, die kantonale und kommunale Energieplanung samt Energieregister, Grundsätze der Energieversorgung einschliesslich Abwärmenutzung und Abnahmepflichten, Anforderungen an die effiziente Energienutzung in Gebäuden sowie die finanzielle Förderung."
+summary_en: "The 2023 Valais Energy Act aims to contribute to sustainable energy supply through efficiency, promotion of renewable energy and reduction of CO2 emissions. It governs responsibilities, cantonal and municipal energy planning including an energy register, principles of energy supply including waste-heat use and take-back obligations, requirements for efficient energy use in buildings, and financial support."
+source_url: "https://lex.vs.ch/app/fr/texts_of_law/730.1"
+alternate_urls:
+  - label: "Deutsche Fassung (lex.vs.ch)"
+    url: "https://lex.vs.ch/app/de/texts_of_law/730.1"
+  - label: "vs.ch – Neue Energiegesetzgebung"
+    url: "https://www.vs.ch/de/web/energie/neue-energiegesetzgebung"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

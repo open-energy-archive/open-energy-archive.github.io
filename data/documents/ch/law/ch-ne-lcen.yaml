@@ -1,0 +1,28 @@
+id: ch-ne-lcen
+title: "Loi cantonale sur l'énergie (LCEn)"
+title_en: "Cantonal Energy Act of the Canton of Neuchâtel"
+short_title: LCEn NE
+doc_type: law
+jurisdiction: CH
+subdivision: CH-NE
+issuer: "Grand Conseil de la République et Canton de Neuchâtel"
+reference: "RSN 740.1"
+date: 2020-09-01
+status: in_force
+status_note: "Geprüft im amtlichen Recueil systématique (rsn.ne.ch, HTML-Fassung): Gesetz vom 1. September 2020, in Kraft seit 1. Mai 2021, Stand 1. Januar 2026; ersetzt das gleichnamige Gesetz vom 18. Juni 2001. Letzte Änderungen vom 24. Januar 2023 (in Kraft 1. April 2023) und 26. September 2023 (in Kraft 1. Januar 2024). Inhalt u. a.: Ziele bis 2040 (Endenergie -50 %, Emissionen -90 % gegenüber 2000), Fast-Nullenergie-Neubauten, solare Deckung von über 50 % des Warmwasserbedarfs, beim Heizungsersatz mindestens 80 % erneuerbar, Verbot ortsfester Elektroheizungen ab 2030, Grossverbraucher, kantonaler Energiefonds. Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked in the official systematic collection (rsn.ne.ch, HTML version): act of 1 September 2020, in force since 1 May 2021, as of 1 January 2026; replaces the act of the same name of 18 June 2001. Latest amendments of 24 January 2023 (in force 1 April 2023) and 26 September 2023 (in force 1 January 2024). Content includes: targets to 2040 (final energy -50%, emissions -90% compared with 2000), nearly zero-energy new buildings, solar coverage of over 50% of hot-water demand, at least 80% renewable when replacing heating, ban on fixed electric heating from 2030, large consumers, cantonal energy fund. No LexFind entry checked."
+languages: [fr]
+topics: [energy_efficiency, heat, renewables, solar, subsidies, supply_security]
+summary_de: "Das Neuenburger Energiegesetz von 2020 bezweckt eine ausreichende, diversifizierte und sichere Energieversorgung und setzt quantitative Ziele für Verbrauch, erneuerbare Produktion und Emissionen bis 2040. Es enthält strenge Gebäudevorschriften, darunter einen erneuerbaren Anteil von mindestens 80 % beim Heizungsersatz und das Ende ortsfester Elektroheizungen bis 2030, Regeln für Grossverbraucher und Wärmenetze sowie einen über einen Stromzuschlag gespeisten Energiefonds."
+summary_en: "The 2020 Neuchâtel Energy Act aims at sufficient, diversified and secure energy supply and sets quantitative targets for consumption, renewable production and emissions up to 2040. It contains strict building rules, including a renewable share of at least 80% when replacing heating and the phase-out of fixed electric heating by 2030, rules for large consumers and heating networks, and an energy fund financed by an electricity surcharge."
+source_url: "https://rsn.ne.ch/DATA/program/books/rsne/htm/740.1.htm"
+alternate_urls:
+  - label: "PDF (rsn.ne.ch)"
+    url: "https://rsn.ne.ch/DATA/program/books/rsne/pdf/740.1.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

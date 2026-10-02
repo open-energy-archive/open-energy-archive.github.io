@@ -1,0 +1,27 @@
+id: ch-sr-734-0-eleg
+title: "Bundesgesetz betreffend die elektrischen Schwach- und Starkstromanlagen (Elektrizitätsgesetz, EleG)"
+title_en: "Federal Act on Low and High Voltage Electrical Installations (Electricity Act)"
+short_title: EleG
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "SR 734.0"
+date: 1902-06-24
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. April 2026 geprüft (zuletzt geändert durch AS 2026 99, davor AS 2024 152). Plangenehmigungsverfahren Art. 16 ff., Enteignungsrecht Art. 43 ff., Haftpflicht Art. 27 ff."
+status_note_en: "Consolidated version of 1 April 2026 checked (last amended by AS 2026 99, previously AS 2024 152). Plan approval procedure Art. 16 et seq., expropriation Art. 43 et seq., liability Art. 27 et seq."
+languages: [de, fr, it]
+topics: [grid, permitting]
+summary_de: "Das Gesetz regelt Bau, Betrieb und Kontrolle elektrischer Schwach- und Starkstromanlagen. Es enthält das bundesrechtliche Plangenehmigungsverfahren für Leitungen und andere Anlagen, das Enteignungsrecht für Netzbetreiber, Sicherheitsvorschriften und die Haftpflicht der Betriebsinhaber."
+summary_en: "The act governs the construction, operation and inspection of low and high voltage electrical installations. It contains the federal plan approval procedure for lines and other installations, expropriation rights for grid operators, safety rules and the liability of operators."
+source_url: "https://www.fedlex.admin.ch/eli/cc/19/259_252_257/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.4.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/19/259_252_257/20260401/de/pdf-a/fedlex-data-admin-ch-eli-cc-19-259_252_257-20260401-de-pdf-a.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-27-niv, ch-as-2026-99-beschleunigungserlass, ch-bvger-a-438-2009, ch-bvger-a-5705-2018]
+added: 2026-10-02
+last_checked: 2026-10-02

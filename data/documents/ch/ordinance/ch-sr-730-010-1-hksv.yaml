@@ -1,0 +1,27 @@
+id: ch-sr-730-010-1-hksv
+title: "Verordnung des UVEK über den Herkunftsnachweis und die Stromkennzeichnung (HKSV)"
+title_en: "DETEC Ordinance on Guarantees of Origin and Electricity Labelling"
+short_title: HKSV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)"
+reference: "SR 730.010.1"
+date: 2017-11-01
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. Januar 2025 geprüft (zuletzt geändert durch AS 2024 702); eine neuere Fassung wurde auf Fedlex nicht gefunden."
+status_note_en: "Consolidated version of 1 January 2025 checked (last amended by AS 2024 702); no newer version was found on Fedlex."
+languages: [de, fr, it]
+topics: [market, renewables]
+summary_de: "Die Verordnung regelt die Erfassung von Produktionsanlagen und die Ausstellung von Herkunftsnachweisen für Elektrizität. Sie verpflichtet die Elektrizitätslieferanten zur jährlichen Stromkennzeichnung gegenüber den Endverbrauchern, einschliesslich Angaben zu Energieträgern, Herkunft und Umweltauswirkungen."
+summary_en: "The ordinance governs the registration of production plants and the issuing of guarantees of origin for electricity. It requires electricity suppliers to provide annual electricity labelling to end consumers, including information on energy sources, origin and environmental impact."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2017/764/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.1.2025"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/764/20250101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2017-764-20250101-de-pdf-a.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env, ch-elcom-211-00506]
+added: 2026-10-02
+last_checked: 2026-10-02

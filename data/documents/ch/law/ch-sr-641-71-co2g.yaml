@@ -1,0 +1,27 @@
+id: ch-sr-641-71-co2g
+title: "Bundesgesetz über die Reduktion der CO2-Emissionen (CO2-Gesetz)"
+title_en: "Federal Act on the Reduction of CO2 Emissions (CO2 Act)"
+short_title: CO2-Gesetz
+doc_type: law
+jurisdiction: CH
+issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
+reference: "SR 641.71"
+date: 2011-12-23
+status: in_force
+status_note: "Konsolidierte Fassung vom 1. Januar 2025 geprüft (Revision vom 15.3.2024, AS 2024 376, in Kraft seit 1.1.2025); eine neuere Fassung wurde auf Fedlex nicht gefunden. Ziel: Halbierung der Treibhausgasemissionen bis 2030 gegenüber 1990; CO2-Abgabe auf Brennstoffen höchstens 120 Franken pro Tonne CO2 (Art. 29)."
+status_note_en: "Consolidated version of 1 January 2025 checked (revision of 15 March 2024, AS 2024 376, in force since 1 January 2025); no newer version was found on Fedlex. Target: halving greenhouse gas emissions by 2030 compared with 1990; CO2 levy on heating and process fuels capped at CHF 120 per tonne of CO2 (Art. 29)."
+languages: [de, fr, it]
+topics: [heat, mobility, energy_efficiency]
+summary_de: "Das Gesetz legt die Reduktionsziele für Treibhausgasemissionen der Schweiz fest und regelt die Instrumente zu ihrer Erreichung. Dazu gehören die CO2-Abgabe auf Brennstoffen mit Teilzweckbindung für Gebäudemassnahmen, das mit der EU verknüpfte Emissionshandelssystem, CO2-Emissionsvorschriften für Fahrzeuge und die Kompensationspflicht für Treibstoffimporteure."
+summary_en: "The act sets Switzerland's greenhouse gas reduction targets and governs the instruments for meeting them. These include the CO2 levy on heating and process fuels, partly earmarked for building measures, the emissions trading system linked with the EU, CO2 emission standards for vehicles and the offsetting obligation for fuel importers."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2012/855/de"
+alternate_urls:
+  - label: "PDF, Fassung 1.1.2025"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/855/20250101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2012-855-20250101-de-pdf-a.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

@@ -1,0 +1,24 @@
+id: ch-bfe-faktenblatt-neuerungen-2025
+title: "Faktenblatt: Neuerungen im Energierecht ab 2025"
+title_en: "Fact Sheet: Changes in Energy Law from 2025"
+doc_type: report
+jurisdiction: CH
+issuer: "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK) / Bundesamt für Energie (BFE)"
+reference: "BFE pubdb 11913"
+date: 2024-11-01
+date_precision: month
+status: non_binding
+status_note: "Stand November 2024; Informationsdokument, nicht verbindlich. Gibt den Stand der Ausführungsbestimmungen zum Mantelerlass per 1.1.2025 wieder; spätere Änderungen (z. B. LEG ab 2026) sind nicht abgebildet."
+status_note_en: "Status November 2024; information document, not binding. Reflects the implementing provisions of the Mantelerlass as of 1 January 2025; later changes (e.g. LEG from 2026) are not covered."
+languages: [de]
+topics: [renewables, self_consumption, subsidies, supply_security, energy_efficiency]
+summary_de: "Das Faktenblatt gibt einen Überblick über die Verordnungsänderungen, mit denen der Bundesrat das im Juni 2024 angenommene Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien umsetzt. Es behandelt Neuerungen in der Energieverordnung, der Energieförderungsverordnung, der Stromversorgungsverordnung und der Winterreserveverordnung."
+summary_en: "The fact sheet gives an overview of the ordinance amendments through which the Federal Council implements the Federal Act on a Secure Electricity Supply from Renewable Energy adopted in June 2024. It covers changes to the Energy Ordinance, the Energy Promotion Ordinance, the Electricity Supply Ordinance and the Winter Reserve Ordinance."
+source_url: "https://pubdb.bfe.admin.ch/de/publication/download/11913"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-as-2024-679-mantelerlass, ch-sr-730-01-env, ch-sr-730-03-enfv, ch-sr-734-71-stromvv, ch-sr-734-722-wresv]
+added: 2026-10-02
+last_checked: 2026-10-02

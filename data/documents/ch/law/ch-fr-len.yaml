@@ -1,0 +1,28 @@
+id: ch-fr-len
+title: "Loi sur l'énergie (LEn) / Energiegesetz (EnGe)"
+title_en: "Energy Act of the Canton of Fribourg"
+short_title: LEn FR
+doc_type: law
+jurisdiction: CH
+subdivision: CH-FR
+issuer: "Grand Conseil du canton de Fribourg / Grosser Rat des Kantons Freiburg"
+reference: "RSF/SGF 770.1"
+date: 2000-06-09
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (bdlf.fr.ch, LexWork-API, deutsche und französische Fassung): erlassen am 9. Juni 2000, in Kraft seit 1. Oktober 2000, aktuelle Fassung in Kraft seit 1. April 2026 (Beschluss vom 11. Februar 2026). Die Änderung 2026 fügt gemäss La Télé einen Art. 10a ein (jährliche Veröffentlichung des Energiemix durch Betreiber von Wärmenetzen). Weitere Inhalte: Wärmeerzeugung in Neubauten höchstens 70 %, bei Renovationen höchstens 80 % nichterneuerbar (Art. 11b), Verbot neuer direktelektrischer Heizungen (Art. 15), kantonaler Sachplan Energie und kommunale Energieplanung. Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (bdlf.fr.ch, LexWork API, German and French versions): enacted 9 June 2000, in force since 1 October 2000, current version in force since 1 April 2026 (decision of 11 February 2026). According to La Télé, the 2026 amendment inserts an Art. 10a (annual publication of the energy mix by district-heating operators). Other content: heat generation in new buildings max. 70% and in renovations max. 80% non-renewable (Art. 11b), ban on new direct electric heating (Art. 15), cantonal sectoral energy plan and municipal energy planning. No LexFind entry checked."
+languages: [fr, de]
+topics: [energy_efficiency, heat, renewables, subsidies, supply_security]
+summary_de: "Das Freiburger Energiegesetz soll zu einer ausreichenden, diversifizierten, sicheren und wirtschaftlichen Energieversorgung beitragen. Es regelt die kantonale und kommunale Energieplanung, Anforderungen an Gebäude wie Höchstanteile nichterneuerbarer Wärme bei Neubauten und Renovationen sowie das Verbot direktelektrischer Heizungen, die Stromproduktion aus fossilen Anlagen, Informationspflichten für Wärmenetze und die Förderung."
+summary_en: "The Fribourg Energy Act aims to contribute to sufficient, diversified, secure and economical energy supply. It governs cantonal and municipal energy planning, building requirements such as maximum shares of non-renewable heat in new and renovated buildings and the ban on direct electric heating, electricity generation in fossil plants, information duties for district-heating networks, and subsidies."
+source_url: "https://bdlf.fr.ch/app/fr/texts_of_law/770.1"
+alternate_urls:
+  - label: "Deutsche Fassung (bdlf.fr.ch)"
+    url: "https://bdlf.fr.ch/app/de/texts_of_law/770.1"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

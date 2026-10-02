@@ -1,0 +1,28 @@
+id: ch-so-energiegesetz
+title: "Energiegesetz"
+title_en: "Energy Act of the Canton of Solothurn"
+short_title: Energiegesetz SO
+doc_type: law
+jurisdiction: CH
+subdivision: CH-SO
+issuer: "Kantonsrat von Solothurn"
+reference: "BGS 941.21"
+date: 1991-03-03
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (bgs.so.ch, LexWork-API): Datum 3. März 1991, in Kraft seit 1. Juli 1992; Revisionen vom 15. Dezember 2004 (in Kraft 1. Juli 2005, u. a. Grossverbraucher § 9bis) und vom 30. November 2014 (in Kraft 1. Januar 2015, aktuelle Fassung); keine künftige Fassung erfasst. Übergangsbestimmung § 21bis: Ersatz ortsfester elektrischer Widerstandsheizungen bis 31. Dezember 2030. Eine umfassende Revision (u. a. Eigenstromerzeugung bei Neubauten, Regeln zum Heizungsersatz, Ladeinfrastruktur) wurde in der Volksabstimmung vom 9. Februar 2025 mit rund 57,5 % Nein abgelehnt (gemäss Energiehub Gebäude, «erneutes Nein»; frühere Ablehnung nicht verifiziert). Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (bgs.so.ch, LexWork API): dated 3 March 1991, in force since 1 July 1992; revisions of 15 December 2004 (in force 1 July 2005, including large consumers § 9bis) and 30 November 2014 (in force 1 January 2015, current version); no future version recorded. Transitional provision § 21bis: replacement of fixed electric resistance heating by 31 December 2030. A comprehensive revision (including on-site electricity generation for new buildings, heating-replacement rules, charging infrastructure) was rejected in the popular vote of 9 February 2025 with about 57.5% No (according to Energiehub Gebäude, a 'renewed No'; earlier rejection not verified). No LexFind entry checked."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, subsidies, supply_security]
+summary_de: "Das Solothurner Energiegesetz bezweckt eine sparsame, rationelle und umweltschonende Energienutzung, eine ausreichende und wirtschaftliche Versorgung, geringere Abhängigkeit von einzelnen Energieträgern und die Förderung erneuerbarer Energien. Es regelt Energiekonzept, Förderung, Information, Vorschriften zu Wärmeschutz und Grossverbrauchern sowie den Ersatz von Elektroheizungen; eine umfassende Revision scheiterte 2025 an der Urne."
+summary_en: "The Solothurn Energy Act aims at economical, rational and environmentally friendly energy use, adequate and economical supply, reduced dependence on individual energy carriers and the promotion of renewable energy. It governs the energy concept, subsidies, information, rules on thermal protection and large consumers, and the replacement of electric heating; a comprehensive revision failed at the ballot box in 2025."
+source_url: "https://bgs.so.ch/app/de/texts_of_law/941.21"
+alternate_urls:
+  - label: "Energiehub Gebäude – Erneutes Nein zum revidierten Energiegesetz (2025)"
+    url: "https://energiehub-gebaeude.ch/fokus/kanton-solothurn-erneutes-nein-zum-revidierten-energiegesetz/"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

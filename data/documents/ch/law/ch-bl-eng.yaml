@@ -1,0 +1,28 @@
+id: ch-bl-eng
+title: "Energiegesetz (EnG BL)"
+title_en: "Energy Act of the Canton of Basel-Landschaft"
+short_title: EnG BL
+doc_type: law
+jurisdiction: CH
+subdivision: CH-BL
+issuer: "Landrat des Kantons Basel-Landschaft"
+reference: "SGS 490"
+date: 2016-06-16
+status: in_force
+status_note: "Geprüft über die Daten der amtlichen Gesetzessammlung (bl.clex.ch, LexWork-API): erlassen am 16. Juni 2016, in Kraft seit 1. Januar 2017, aktuelle Fassung in Kraft seit 1. März 2025 (Landratsbeschluss vom 19. Oktober 2023; gemäss Medienmitteilung des Regierungsrats in der Volksabstimmung vom 9. Juni 2024 angenommen). Die Teilrevision 2025 bringt u. a. Netto-Null-Ziel 2050, Energieplanungspflicht für Gemeinden mit Gasnetz, Gebäudeautomation und Betriebsoptimierung bei Nichtwohnbauten, Regeln zur Nutzung des Untergrunds und erweiterte Fördermöglichkeiten. Kein LexFind-Eintrag geprüft."
+status_note_en: "Checked via the data of the official law collection (bl.clex.ch, LexWork API): enacted 16 June 2016, in force since 1 January 2017, current version in force since 1 March 2025 (Landrat decision of 19 October 2023; approved in the popular vote of 9 June 2024 according to the government's press release). The 2025 partial revision adds, among other things, a net-zero target for 2050, an energy-planning duty for municipalities with gas networks, building automation and operational optimisation for non-residential buildings, rules on use of the subsurface and broader subsidy options. No LexFind entry checked."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, subsidies, supply_security, permitting, storage, mobility]
+summary_de: "Das Energiegesetz Basel-Landschaft bezweckt eine diversifizierte, nachhaltige, effiziente und umweltschonende Energieversorgung und legt kantonale Ziele bis 2050 fest, darunter Netto-Null. Es regelt Anforderungen an Gebäude und Anlagen, das Verbot neuer Elektroheizungen, die kommunale und kantonale Energieplanung, Grossverbraucher, die Nutzung des Untergrunds mit Bewilligungs- und Konzessionspflichten sowie die Förderung."
+summary_en: "The Basel-Landschaft Energy Act aims at diversified, sustainable, efficient and environmentally sound energy supply and sets cantonal targets up to 2050, including net zero. It governs requirements for buildings and installations, the ban on new electric heating, municipal and cantonal energy planning, large consumers, use of the subsurface subject to permits and concessions, and subsidies."
+source_url: "https://bl.clex.ch/app/de/texts_of_law/490"
+alternate_urls:
+  - label: "baselland.ch – Inkraftsetzung Teilrevision per 1. März 2025"
+    url: "https://www.baselland.ch/politik-und-behorden/regierungsrat/medienmitteilungen/regierungsrat-setzt-teilrevision-per-1-maerz-2025-in-kraft"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng]
+added: 2026-10-02
+last_checked: 2026-10-02

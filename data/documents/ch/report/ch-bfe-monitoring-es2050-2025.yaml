@@ -1,0 +1,27 @@
+id: ch-bfe-monitoring-es2050-2025
+title: "Energiestrategie 2050 – Monitoring-Bericht 2025 (ausführliche Fassung)"
+title_en: "Energy Strategy 2050 – Monitoring Report 2025 (full version)"
+doc_type: report
+jurisdiction: CH
+issuer: "Bundesamt für Energie (BFE)"
+reference: "BFE pubdb 12426"
+date: 2025-12-01
+date_precision: month
+status: non_binding
+status_note: "Ausgabe Dezember 2025 (korrigierte Fassung März 2026); Daten mehrheitlich bis 2024. Gesetzlich vorgesehenes Monitoring nach Art. 55 ff. EnG und Art. 69 ff. EnV."
+status_note_en: "Edition of December 2025 (corrected version March 2026); data mostly up to 2024. Statutory monitoring under Art. 55 et seq. EnG and Art. 69 et seq. EnV."
+languages: [de]
+topics: [renewables, supply_security, energy_efficiency, grid]
+summary_de: "Der Bericht beobachtet anhand von Indikatoren, wie weit die Schweiz bei der Umsetzung der Energiestrategie 2050 ist. Er behandelt Energieverbrauch und -produktion, Netzentwicklung, Versorgungssicherheit, Ausgaben und Preise, CO2-Emissionen, Forschung sowie das internationale Umfeld."
+summary_en: "The report uses indicators to track Switzerland's progress in implementing the Energy Strategy 2050. It covers energy consumption and production, grid development, security of supply, expenditure and prices, CO2 emissions, research and the international context."
+source_url: "https://pubdb.bfe.admin.ch/de/publication/download/12426"
+alternate_urls:
+  - label: "Kurzfassung (pubdb 12427)"
+    url: "https://pubdb.bfe.admin.ch/de/publication/download/12427"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env, ch-bfe-energieperspektiven-2050plus]
+added: 2026-10-02
+last_checked: 2026-10-02

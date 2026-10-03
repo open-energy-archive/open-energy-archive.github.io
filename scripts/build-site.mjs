@@ -38,7 +38,7 @@ const T = {
     listTitle: 'Alle Dokumente', filterLabel: 'Dokumente filtern',
     f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen', date: 'Datum (Jahr)', from: 'von', to: 'bis', fromAria: 'Datum von Jahr', toAria: 'Datum bis Jahr' },
     chipTitle: (l) => `Alle Einträge: ${l}`, byJur: 'Nach Rechtsraum',
-    countOf: 'von', countDocs: 'Einträgen', countTotal: 'insgesamt', perPage: 'Pro Seite', prev: '‹ Zurück', next: 'Weiter ›', pagesLabel: 'Seiten',
+    countOf: 'von', countDocs: 'Einträgen', countTotal: 'insgesamt', perPage: 'Pro Seite', sortLabel: 'Sortierung', sortNew: 'Neueste zuerst', sortOld: 'Älteste zuerst', sortTitle: 'Titel A–Z', sortTitleDesc: 'Titel Z–A', prev: '‹ Zurück', next: 'Weiter ›', pagesLabel: 'Seiten',
     chipFree: 'Frei', chipLink: 'Nur Link', chipUnreviewed: 'Nicht fachlich geprüft',
     unreviewedNote: '<strong>Nicht fachlich geprüft.</strong> Dieses Muster wurde noch nicht von einer Fachperson für Energierecht geprüft. Verwendung auf eigene Verantwortung; Hinweise und Korrekturen sind willkommen.',
     crumbsAll: 'Alle Dokumente',
@@ -70,7 +70,7 @@ const T = {
     listTitle: 'All documents', filterLabel: 'Filter documents',
     f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Level', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only', reset: 'Reset filters', date: 'Date (year)', from: 'from', to: 'to', fromAria: 'Date from year', toAria: 'Date to year' },
     chipTitle: (l) => `All entries: ${l}`, byJur: 'By jurisdiction',
-    countOf: 'of', countDocs: 'entries', countTotal: 'in total', perPage: 'Per page', prev: '‹ Previous', next: 'Next ›', pagesLabel: 'Pages',
+    countOf: 'of', countDocs: 'entries', countTotal: 'in total', perPage: 'Per page', sortLabel: 'Sort', sortNew: 'Newest first', sortOld: 'Oldest first', sortTitle: 'Title A–Z', sortTitleDesc: 'Title Z–A', prev: '‹ Previous', next: 'Next ›', pagesLabel: 'Pages',
     chipFree: 'Free', chipLink: 'Link only', chipUnreviewed: 'Not expert-reviewed',
     unreviewedNote: '<strong>Not expert-reviewed.</strong> This template has not yet been reviewed by an energy-law specialist. Use at your own responsibility; comments and corrections are welcome.',
     crumbsAll: 'All documents',
@@ -301,9 +301,10 @@ window.addEventListener('DOMContentLoaded', () => {
   </fieldset>
 </form>
 <div class="result-bar"><span class="result-count" id="count" aria-live="polite" data-of="${t.countOf}" data-docs="${t.countDocs}" data-total="${t.countTotal}"></span> <a href="${page('list')}" id="reset" class="reset" hidden>${t.f.reset}</a>
+  <label class="sort-by" hidden>${t.sortLabel} <select id="sort"><option value="new">${t.sortNew}</option><option value="old">${t.sortOld}</option><option value="title">${t.sortTitle}</option><option value="title-desc">${t.sortTitleDesc}</option></select></label>
   <label class="per-page" hidden>${t.perPage} <select id="per"><option value="10">10</option><option value="50">50</option><option value="100">100</option></select></label></div>
 <ul class="cards" id="list">
-${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-year="${String(d.date || '').slice(0, 4)}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
+${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-year="${String(d.date || '').slice(0, 4)}" data-date="${String(d.date || '')}" data-title="${esc(d.title)}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
 </ul>
 <nav class="pager" id="pager" aria-label="${t.pagesLabel}" data-prev="${t.prev}" data-next="${t.next}" hidden></nav>
 <script src="${url('assets/filter.js')}" defer></script>`,

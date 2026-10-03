@@ -3,7 +3,28 @@
 // ohne die übrigen Filter zu verlieren.
 (() => {
   const form = document.getElementById('filters');
-  const items = [...document.querySelectorAll('#list > li')];
+  const list = document.getElementById('list');
+  let items = [...list.querySelectorAll('#list > li')];
+  const sortSel = document.getElementById('sort');
+  const SORTS = ['new', 'old', 'title', 'title-desc'];
+  const collator = new Intl.Collator(document.documentElement.lang || 'de', { sensitivity: 'base', numeric: true });
+
+  // Sortierung: Datum (bei gleichem Datum nach Titel) oder Titel; ordnet die Einträge im DOM neu
+  function sortItems() {
+    const mode = sortSel.value;
+    const byTitle = (a, b) => collator.compare(a.dataset.title, b.dataset.title);
+    const byDate = (a, b) => (a.dataset.date || '').localeCompare(b.dataset.date || '');
+    const cmp = {
+      new: (a, b) => byDate(b, a) || byTitle(a, b),
+      old: (a, b) => byDate(a, b) || byTitle(a, b),
+      title: byTitle,
+      'title-desc': (a, b) => byTitle(b, a),
+    }[mode] || ((a, b) => byDate(b, a));
+    items = [...items].sort(cmp);
+    const frag = document.createDocumentFragment();
+    for (const li of items) frag.appendChild(li);
+    list.appendChild(frag);
+  }
   const count = document.getElementById('count');
   const reset = document.getElementById('reset');
   const level = form.elements.level;
@@ -103,6 +124,7 @@
     renderPager(pages);
     const p = new URLSearchParams(); for (const [k, v] of Object.entries(f)) if (v) p.set(k, v);
     if (reset) reset.hidden = !p.toString();
+    if (sortSel.value !== 'new') p.set('sort', sortSel.value);
     if (per !== 10) p.set('per', per);
     if (page > 1) p.set('page', page);
     history.replaceState(null, '', p.toString() ? `?${p}` : location.pathname);
@@ -138,6 +160,10 @@
   perSel.value = PER_OPTIONS.includes(initial.get('per')) ? initial.get('per') : '10';
   page = Math.max(1, parseInt(initial.get('page'), 10) || 1);
   perSel.closest('label').hidden = false;
+  sortSel.value = SORTS.includes(initial.get('sort')) ? initial.get('sort') : 'new';
+  sortSel.closest('label').hidden = false;
+  sortItems();
+  sortSel.addEventListener('change', () => { sortItems(); page = 1; apply(); });
   form.addEventListener('input', () => { page = 1; apply(); });
   form.addEventListener('submit', (e) => e.preventDefault());
 

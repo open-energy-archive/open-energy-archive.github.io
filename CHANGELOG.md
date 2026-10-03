@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.15.0] – 2026-10-03
+
+### Neu
+- Sortierauswahl in der Dokumentliste: «Neueste zuerst» (Standard), «Älteste zuerst», «Titel A–Z», «Titel Z–A»; bei gleichem Datum wird nach Titel sortiert. Die Sortierung steht in der URL (`?sort=old`) und lässt sich mit allen Filtern und der Seitenanzeige kombinieren
+
 ## [0.14.0] – 2026-10-03
 
 ### Neu

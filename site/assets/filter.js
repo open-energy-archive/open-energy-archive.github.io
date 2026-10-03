@@ -36,6 +36,11 @@
   const valuesOf = (li, k) => k === 'topic' ? li.dataset.topics.split(' ') : [li.dataset[k]];
   function matches(li, f, words, skip) {
     for (const k of FACETS) if (k !== skip && f[k] && !valuesOf(li, k).includes(f[k])) return false;
+    if (skip !== 'year') {
+      const y = li.dataset.year;
+      if (f.from && (!y || y < f.from)) return false;
+      if (f.to && (!y || y > f.to)) return false;
+    }
     return !words.length || words.every((w) => li.dataset.text.includes(w));
   }
 
@@ -56,6 +61,18 @@
       for (const g of sel.querySelectorAll('optgroup')) {
         if (k === 'level' && f.jur && g.dataset.jur !== f.jur) { g.hidden = true; continue; }
         g.hidden = ![...g.querySelectorAll('option')].some((o) => !o.hidden);
+      }
+    }
+    // Jahre: nur Jahre mit Treffern unter den übrigen Filtern; «bis» nicht vor «von» und umgekehrt
+    const yearCounts = {};
+    for (const li of items) if (matches(li, f, words, 'year') && li.dataset.year) yearCounts[li.dataset.year] = (yearCounts[li.dataset.year] || 0) + 1;
+    for (const name of ['from', 'to']) {
+      const sel = form.elements[name];
+      for (const o of sel.options) {
+        if (!o.value) continue;
+        const outOfRange = name === 'from' ? (f.to && o.value > f.to) : (f.from && o.value < f.from);
+        const show = (yearCounts[o.value] && !outOfRange) || o.value === sel.value;
+        o.hidden = !show; o.disabled = !show;
       }
     }
   }

@@ -36,7 +36,7 @@ const T = {
     noJs: 'Die Suche benötigt JavaScript.', listLink: 'Alle Dokumente als Liste',
     byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt ergänzt', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
     listTitle: 'Alle Dokumente', filterLabel: 'Dokumente filtern',
-    f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen' },
+    f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen', date: 'Datum (Jahr)', from: 'von', to: 'bis', fromAria: 'Datum von Jahr', toAria: 'Datum bis Jahr' },
     chipTitle: (l) => `Alle Einträge: ${l}`, byJur: 'Nach Rechtsraum',
     countOf: 'von', countDocs: 'Einträgen', countTotal: 'insgesamt', perPage: 'Pro Seite', prev: '‹ Zurück', next: 'Weiter ›', pagesLabel: 'Seiten',
     chipFree: 'Frei', chipLink: 'Nur Link', chipUnreviewed: 'Nicht fachlich geprüft',
@@ -68,7 +68,7 @@ const T = {
     noJs: 'Search requires JavaScript.', listLink: 'All documents as a list',
     byTopic: 'By topic', byType: 'By type', latest: 'Recently added', showAll: (n) => `Show all ${n} entries →`,
     listTitle: 'All documents', filterLabel: 'Filter documents',
-    f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Level', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only', reset: 'Reset filters' },
+    f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Level', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only', reset: 'Reset filters', date: 'Date (year)', from: 'from', to: 'to', fromAria: 'Date from year', toAria: 'Date to year' },
     chipTitle: (l) => `All entries: ${l}`, byJur: 'By jurisdiction',
     countOf: 'of', countDocs: 'entries', countTotal: 'in total', perPage: 'Per page', prev: '‹ Previous', next: 'Next ›', pagesLabel: 'Pages',
     chipFree: 'Free', chipLink: 'Link only', chipUnreviewed: 'Not expert-reviewed',
@@ -281,6 +281,7 @@ window.addEventListener('DOMContentLoaded', () => {
   }));
 
   // Liste
+  const years = [...new Set(docs.map((d) => String(d.date || '').slice(0, 4)).filter(Boolean))].sort((a, b) => b.localeCompare(a));
   const opt = (counts) => counts.map((c) => `<option value="${c.k}" data-label="${esc(c.l)}">${esc(c.l)} (${c.n})</option>`).join('');
   write(`${P}${t.paths.list}index.html`, layout(lang, {
     title: t.listTitle, active: 'list', alt: otherPage('list'),
@@ -293,11 +294,16 @@ window.addEventListener('DOMContentLoaded', () => {
   <label>${t.f.type}<select name="type"><option value="">${t.f.all}</option>${opt(typeCounts)}</select></label>
   <label>${t.f.topic}<select name="topic"><option value="">${t.f.all}</option>${opt(topicCounts)}</select></label>
   <label>${t.f.rights}<select name="rights"><option value="">${t.f.all}</option><option value="free" data-label="${t.f.free}">${t.f.free}</option><option value="link" data-label="${t.f.link}">${t.f.link}</option></select></label>
+  <fieldset class="date-range"><legend>${t.f.date}</legend>
+    <select name="from" aria-label="${t.f.fromAria}"><option value="">${t.f.from}</option>${years.map((y) => `<option value="${y}">${y}</option>`).join('')}</select>
+    <span aria-hidden="true">–</span>
+    <select name="to" aria-label="${t.f.toAria}"><option value="">${t.f.to}</option>${years.map((y) => `<option value="${y}">${y}</option>`).join('')}</select>
+  </fieldset>
 </form>
 <div class="result-bar"><span class="result-count" id="count" aria-live="polite" data-of="${t.countOf}" data-docs="${t.countDocs}" data-total="${t.countTotal}"></span> <a href="${page('list')}" id="reset" class="reset" hidden>${t.f.reset}</a>
   <label class="per-page" hidden>${t.perPage} <select id="per"><option value="10">10</option><option value="50">50</option><option value="100">100</option></select></label></div>
 <ul class="cards" id="list">
-${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
+${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-year="${String(d.date || '').slice(0, 4)}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
 </ul>
 <nav class="pager" id="pager" aria-label="${t.pagesLabel}" data-prev="${t.prev}" data-next="${t.next}" hidden></nav>
 <script src="${url('assets/filter.js')}" defer></script>`,

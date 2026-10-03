@@ -2,6 +2,12 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.14.0] – 2026-10-03
+
+### Neu
+- Datumsfilter in der Dokumentliste: Zeitraum nach Jahr («von» – «bis»), kombinierbar mit allen anderen Filtern; angeboten werden nur Jahre, die mit den übrigen Filtern Treffer ergeben, und «bis» kann nicht vor «von» liegen. Der Zeitraum steht in der URL (`?from=2020&to=2025`)
+- Filterbereich zweizeilig angeordnet
+
 ## [0.13.0] – 2026-10-03
 
 ### Neu

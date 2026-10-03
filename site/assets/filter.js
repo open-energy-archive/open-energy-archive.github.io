@@ -53,7 +53,16 @@
   // ---------- Felder lesen und setzen ----------
   const field = (name) => form.elements[name];
   const getValues = () => Object.fromEntries(FIELDS.map((n) => [n, field(n) ? field(n).value : '']));
-  function setField(name, value) { const el = field(name); if (el) el.value = value; }
+  // Für Chip-Gruppen (Radio-Buttons) explizit setzen: RadioNodeList.value = '' wählt «Alle» in Browsern nicht zuverlässig aus
+  function setField(name, value) {
+    const el = field(name);
+    if (!el) return;
+    if (el instanceof RadioNodeList) {
+      const radios = [...el];
+      const target = radios.find((r) => r.value === value) || radios.find((r) => r.value === (DEFAULTS[name] || ''));
+      for (const r of radios) r.checked = r === target;
+    } else el.value = value;
+  }
 
   // Übernimmt Werte aus URL-Parametern; ältere Links mit ?from=2025 (nur Jahr) bleiben gültig
   function setFromParams(params, merge = false) {

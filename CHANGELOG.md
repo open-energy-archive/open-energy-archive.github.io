@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.16.1] – 2026-10-03
+
+### Behoben
+- «Filter zurücksetzen» und das Entfernen des Rechtsraum-Chips setzten das Land nicht zurück: Die Chip-Gruppen werden jetzt explizit auf «Alle» gestellt
+
 ## [0.16.0] – 2026-10-03
 
 ### Neu

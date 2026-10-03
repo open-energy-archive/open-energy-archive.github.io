@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.16.2] – 2026-10-03
+
+### Behoben
+- Datumsfelder bei «Eigener Zeitraum» auf dem Handy: gleiche Höhe, Ausrichtung und Hintergrund wie die übrigen Felder (Systemdarstellung von iOS/Android neutralisiert); alle Filterfelder einheitlich hoch
+
 ## [0.16.1] – 2026-10-03
 
 ### Behoben

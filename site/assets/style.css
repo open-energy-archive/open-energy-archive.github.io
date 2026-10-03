@@ -245,3 +245,11 @@ a.chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
   .result-bar .sort-by select { flex: 1; }
   .result-bar .rb-label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 }
+
+/* Einheitliche Höhe aller Eingabefelder; Datumsfelder auf iOS/Android wie die übrigen Felder darstellen */
+.filters input[type="search"], .filters input[type="date"], .filters select { box-sizing: border-box; height: 2.625rem; }
+.filters input[type="date"] { -webkit-appearance: none; appearance: none; display: block; width: 100%; min-width: 0; margin: 0; padding: 0 8px; line-height: 2.5rem; text-align: left; background: #fff; }
+.filters input[type="date"]::-webkit-date-and-time-value { text-align: left; margin: 0; min-height: 1.4em; }
+.filters input[type="date"]::-webkit-datetime-edit { padding: 0; }
+.filters input[type="date"]::-webkit-calendar-picker-indicator { margin-left: auto; opacity: .6; cursor: pointer; }
+.f-dates label { min-width: 0; }

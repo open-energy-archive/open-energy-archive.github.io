@@ -1,0 +1,28 @@
+id: ch-vd-lvlene-2026
+title: "Loi sur l'énergie (LVLEne) du 3 février 2026"
+title_en: "Vaud Energy Act of 3 February 2026"
+short_title: LVLEne 2026
+doc_type: law
+jurisdiction: CH
+subdivision: CH-VD
+issuer: "Grand Conseil du Canton de Vaud"
+date: 2026-02-03
+status: adopted
+status_note: "Vom Grossen Rat am 3.2.2026 endgültig verabschiedet, im Amtsblatt (FAO) am 10.3.2026 veröffentlicht; Inkrafttreten im Januar 2027 vorgesehen, zusammen mit einem neuen Ausführungsreglement (RLVLEne), das der Staatsrat im zweiten Halbjahr 2026 erlassen soll. Ersetzt die LVLEne vom 16.5.2006. Der Link führt auf die Informationsseite des Kantons mit dem verabschiedeten Gesetzestext (PDF). Inhalt nicht im Einzelnen geprüft."
+status_note_en: "Finally adopted by the Grand Council on 3 February 2026 and published in the official gazette (FAO) on 10 March 2026; entry into force planned for January 2027, together with new implementing regulations (RLVLEne) to be adopted by the Council of State in the second half of 2026. Replaces the LVLEne of 16 May 2006. The link leads to the canton's information page with the adopted text (PDF). Content not checked in detail."
+languages: [fr]
+topics: [energy_efficiency, heat, renewables, solar, subsidies]
+summary_de: "Das totalrevidierte Energiegesetz des Kantons Waadt soll die kantonalen Energie- und Klimaziele umsetzen, darunter die Klimaneutralität spätestens 2050 und eine stärkere Nutzung einheimischer Energiequellen. Für die erste Umsetzungsetappe 2027 bis 2032 sind rund 800 Millionen Franken vorgesehen, ein grosser Teil davon als Förderbeiträge für Eigentümerinnen und Eigentümer, darunter ein Beitrag für Eigentümer, die Sanierungskosten nicht auf die Mieten überwälzen."
+summary_en: "The fully revised Vaud Energy Act is intended to implement the canton's energy and climate goals, including climate neutrality by 2050 at the latest and greater use of local energy sources. Around CHF 800 million is planned for the first implementation phase from 2027 to 2032, much of it as subsidies for property owners, including a subsidy for owners who do not pass renovation costs on to rents."
+source_url: "https://www.vd.ch/djes/nouvelle-loi-sur-lenergie"
+alternate_urls:
+  - label: "FAQ des Kantons zur neuen LVLEne"
+    url: "https://www.vd.ch/djes/faq-loi-energie-2026"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+supersedes: ch-vd-lvlene
+related: [ch-vd-lvlene]
+added: 2026-10-03
+last_checked: 2026-10-03

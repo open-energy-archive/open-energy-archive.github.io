@@ -1,0 +1,26 @@
+id: ch-elcom-weisung-1-2024
+title: "Weisung 1/2024 der ElCom – Aufsicht Cybersicherheit der ElCom"
+title_en: "ElCom Directive 1/2024 – ElCom supervision of cybersecurity"
+doc_type: guideline
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "Weisung 1/2024"
+date: 2024-02-08
+status: in_force
+status_note: "Von der ElCom am 8.2.2024 verabschiedet. Der Link führt auf die Übersicht der ElCom-Weisungen, wo die Weisung als PDF abrufbar ist; ein stabiler Direktlink wurde nicht gefunden."
+status_note_en: "Adopted by ElCom on 8 February 2024. The link leads to ElCom's list of directives, where the directive is available as a PDF; no stable direct link was found."
+languages: [de, fr, it]
+topics: [grid, supply_security]
+summary_de: "Die Weisung erläutert, wie die ElCom die Einhaltung der Mindestanforderungen an die Cybersicherheit beaufsichtigt, die das Stromversorgungsrecht den massgebenden Unternehmen der Elektrizitätswirtschaft auferlegt. Sie beschreibt drei sich ergänzende Aufsichtsinstrumente, darunter Sensibilisierungsgespräche und punktuelle Audits, sowie Fristen, Abläufe und eine Übergangsfrist für die Umsetzung der Mindestanforderungen."
+summary_en: "The directive explains how ElCom supervises compliance with the minimum cybersecurity requirements that electricity supply law imposes on relevant electricity companies. It describes three complementary supervisory instruments, including awareness meetings and selective audits, as well as deadlines, procedures and a transition period for implementing the minimum requirements."
+source_url: "https://www.elcom.admin.ch/elcom/de/home/dokumentation/weisungen.html"
+alternate_urls:
+  - label: "ElCom-Newsletter 2/2024 mit Hinweis auf die Weisung"
+    url: "https://www.elcom.admin.ch/dam/de/sd-web/X8AeVBV7FQhf/newsletter02-2024.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+added: 2026-10-03
+last_checked: 2026-10-03

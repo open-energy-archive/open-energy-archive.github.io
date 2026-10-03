@@ -4,8 +4,10 @@
 - [x] Struktur, Schema, Website mit Suche
 - [x] 90 Einträge (Bund, ElCom, Bundesgericht, Bundesverwaltungsgericht, BFE, VSE, 25 Kantone)
 - [x] Weitere Bundeserlasse: LeV, StV, VPeA, EnEV, KEG, Solarexpress (AS 2022 543); ElCom 236-01364 (Netzverstärkung, Verjährung); Leitfaden Solarexpress GR (98 Einträge)
-- [ ] 100 Dokumente und mehr: übrige Bundeserlasse SR 73x (GebV-En, KEV, NEV, SchwV), ElCom-Weisungen, weitere ElCom-Verfügungen (u. a. 236-01184, 212-00409), wichtigste BGer-/BVGer-Entscheide
-- [ ] EnG und StromVG: Fassung seit 1.4.2026 (Beschleunigungserlass) im Detail prüfen; Kantone UR, VD, TG nachführen
+- [x] 100 Dokumente erreicht (101): ElCom 232-00093 (Auktionserlöse 2026), ElCom-Weisung 1/2024 (Cybersicherheit), neue LVLEne Waadt (in Kraft ab 2027)
+- [x] Stand nachgeführt: EnG (Beschleunigungserlass seit 1.4.2026), VPeA (Revision 1.1.2026), TG (Teilrevision im Grossen Rat), VD
+- [ ] Übrige Bundeserlasse SR 73x (GebV-En, KEV, NEV, SchwV), weitere ElCom-Verfügungen (u. a. 236-01184), wichtigste BGer-/BVGer-Entscheide
+- [ ] Verordnungspaket Energie (Vernehmlassung ab 15.4.2026) nach Verabschiedung aufnehmen; UR: neue Fassung des Energiegesetzes (seit 1.10.2026) prüfen, sobald in der Gesetzessammlung
 - [x] Kantonale Energiegesetze: alle Kantone mit eigenem Energiegesetz (25; OW regelt Energie im Baugesetz)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
 - [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-Muster prüfen lassen

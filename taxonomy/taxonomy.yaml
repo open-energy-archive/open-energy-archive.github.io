@@ -107,6 +107,7 @@ statuses:
   superseded:   { de: "Ersetzt",            en: "Superseded" }
   draft:        { de: "Entwurf",            en: "Draft" }
   final:        { de: "Rechtskräftig / abgeschlossen", en: "Final" }
+  adopted:      { de: "Beschlossen, noch nicht in Kraft", en: "Adopted, not yet in force" }
   pending:      { de: "Hängig / angefochten", en: "Pending / appealed" }
   non_binding:  { de: "Nicht verbindlich",  en: "Non-binding" }
 

@@ -8,8 +8,8 @@ issuer: "Schweizerischer Bundesrat"
 reference: "SR 734.25"
 date: 2000-02-02
 status: in_force
-status_note: "Mehrfach geändert, u. a. 2019 (Strategie Stromnetze: Sachplanverfahren), 2021 (keine Plangenehmigung mehr für Erzeugungsanlagen am Niederspannungsnetz, stattdessen Meldung an das ESTI) und im Rahmen der Beschleunigung des Netzausbaus. Eine weitere Revision im Zusammenhang mit der Änderung des Elektrizitätsgesetzes vom 26.9.2025 (Aufhebung von Art. 15h EleG, Festsetzung von Planungsgebieten) ist angekündigt. Aktuelle Fassung nicht im Detail geprüft."
-status_note_en: "Amended several times, including 2019 (Strategy Electricity Networks: sectoral planning), 2021 (no planning approval for generating plants connected at low voltage, notification to ESTI instead) and as part of accelerating grid expansion. A further revision related to the amendment of the Electricity Act of 26 September 2025 (repeal of Art. 15h EleG on designating planning areas) has been announced. Current version not checked in detail."
+status_note: "Mehrfach geändert, u. a. 2019 (Strategie Stromnetze: Sachplanverfahren) und 2021 (keine Plangenehmigung mehr für Erzeugungsanlagen am Niederspannungsnetz, stattdessen Meldung an das ESTI). Eine vom Bundesrat am 29.10.2025 genehmigte Revision zur Beschleunigung des Netzausbaus ist seit 1.1.2026 in Kraft. Eine weitere Revision, u. a. im Zusammenhang mit der Aufhebung der Festsetzung von Planungsgebieten (Art. 15h EleG), war ab 15.4.2026 als Teil eines Verordnungspakets in der Vernehmlassung. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "Amended several times, including 2019 (Strategy Electricity Networks: sectoral planning) and 2021 (no planning approval for generating plants connected at low voltage, notification to ESTI instead). A revision to accelerate grid expansion, approved by the Federal Council on 29 October 2025, has been in force since 1 January 2026. A further revision, among other things related to the repeal of the designation of planning areas (Art. 15h EleG), was in consultation from 15 April 2026 as part of an ordinance package. Current version not checked in detail."
 languages: [de, fr, it]
 topics: [permitting, grid, solar]
 summary_de: "Die VPeA regelt das Sachplanverfahren für Übertragungsleitungen und das Plangenehmigungsverfahren für elektrische Anlagen beim Eidgenössischen Starkstrominspektorat und beim BFE: Gesuchsunterlagen, Aussteckung, Behandlungsfristen, Teilgenehmigungen, Ausnahmen von der Plangenehmigungspflicht sowie Bau und Inbetriebnahme."
@@ -21,4 +21,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-734-0-eleg, ch-sr-734-31-lev, ch-as-2026-99-beschleunigungserlass]
 added: 2026-10-02
-last_checked: 2026-10-02
+last_checked: 2026-10-03

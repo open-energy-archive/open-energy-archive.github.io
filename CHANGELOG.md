@@ -2,6 +2,15 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.12.0] – 2026-10-03
+
+### Neu
+- Schweiz, jetzt 101 Einträge: ElCom-Verfügung 232-00093 (Verwendung der Auktionserlöse 2026), ElCom-Weisung 1/2024 (Aufsicht Cybersicherheit), neue Loi sur l'énergie des Kantons Waadt vom 3.2.2026 (in Kraft ab Januar 2027)
+- Status «Beschlossen, noch nicht in Kraft» (`adopted`) für verabschiedete Erlasse vor dem Inkrafttreten
+
+### Geändert
+- Stand nachgeführt: EnG (Beschleunigungserlass seit 1.4.2026, Ausnahmen, Verordnungspaket in Vernehmlassung), VPeA (Revision in Kraft seit 1.1.2026), Thurgau (Teilrevision im Grossen Rat seit Juni 2026), Waadt (Verweis auf neues Gesetz)
+
 ## [0.11.0] – 2026-10-02
 
 ### Neu

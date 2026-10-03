@@ -1,0 +1,24 @@
+id: ch-sr-734-26-nev
+title: "Verordnung über elektrische Niederspannungserzeugnisse (NEV)"
+title_en: "Ordinance on Low Voltage Electrical Products"
+short_title: NEV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 734.26"
+date: 2015-11-25
+status: in_force
+status_note: "In Kraft seit 20.4.2016; ersetzt die Verordnung vom 9.4.1997. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "In force since 20 April 2016; replaces the ordinance of 9 April 1997. Current version not checked in detail."
+languages: [de, fr, it]
+topics: [grid, solar]
+summary_de: "Die Verordnung regelt das Inverkehrbringen elektrischer Niederspannungserzeugnisse, etwa Geräte, Wechselrichter oder Ladeeinrichtungen. Sie verlangt, dass solche Erzeugnisse sicher sind und den grundlegenden Anforderungen entsprechen, regelt Konformitätsbewertung, Kennzeichnung und Dokumentation und die nachträgliche Kontrolle durch das Eidgenössische Starkstrominspektorat. Sie lehnt sich an das Niederspannungsrecht der EU an."
+summary_en: "The ordinance governs placing low-voltage electrical products on the market, such as appliances, inverters or charging equipment. It requires such products to be safe and meet essential requirements, governs conformity assessment, marking and documentation and market surveillance by the Federal Inspectorate for Heavy Current Installations. It is aligned with EU low-voltage law."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2016/17/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-0-eleg, ch-sr-734-27-niv]
+added: 2026-10-03
+last_checked: 2026-10-03

@@ -1,0 +1,24 @@
+id: ch-sr-732-11-kev
+title: "Kernenergieverordnung (KEV)"
+title_en: "Nuclear Energy Ordinance"
+short_title: KEV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 732.11"
+date: 2004-12-10
+status: in_force
+status_note: "In Kraft seit 1.2.2005 zusammen mit dem Kernenergiegesetz. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "In force since 1 February 2005 together with the Nuclear Energy Act. Current version not checked in detail."
+languages: [de, fr, it]
+topics: [supply_security, permitting]
+summary_de: "Die Kernenergieverordnung führt das Kernenergiegesetz aus. Sie regelt unter anderem die Gesuchsunterlagen und Verfahren für Bewilligungen von Kernanlagen, die Grundsätze für Auslegung und Betrieb, die Meldepflichten, die Stilllegung, die Entsorgung radioaktiver Abfälle und das Sachplanverfahren für geologische Tiefenlager."
+summary_en: "The Nuclear Energy Ordinance implements the Nuclear Energy Act. Among other things it governs application documents and procedures for licensing nuclear installations, principles for design and operation, reporting duties, decommissioning, disposal of radioactive waste and the sectoral planning procedure for deep geological repositories."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2005/68/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-732-1-keg]
+added: 2026-10-03
+last_checked: 2026-10-03

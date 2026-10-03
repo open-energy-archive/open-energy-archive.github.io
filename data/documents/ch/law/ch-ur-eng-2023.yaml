@@ -1,0 +1,33 @@
+id: ch-ur-eng-2023
+title: "Energiegesetz des Kantons Uri (EnG) vom 22. Oktober 2023"
+title_en: "Energy Act of the Canton of Uri of 22 October 2023"
+short_title: EnG UR 2023
+doc_type: law
+jurisdiction: CH
+subdivision: CH-UR
+issuer: "Volk des Kantons Uri"
+reference: "RB 40.7211"
+date: 2023-10-22
+status: in_force
+status_note: "In der Volksabstimmung vom 22.10.2023 angenommen (rund 68 % Ja). Das Inkrafttreten verzögerte sich, weil die Stimmberechtigten am 22.9.2024 die zugehörige Energieverordnung mit einer Solarpflicht ab 100 m² ablehnten. Mit der in der Volksabstimmung vom 8.3.2026 angenommenen Teilrevision wurde Art. 13 (Nutzung der Sonnenenergie bei Gebäuden) neu gefasst; die minimale Gebäudefläche legt der Landrat in der Energieverordnung fest. Gemäss regionalen Quellen in Kraft seit 1.10.2026; die neue Fassung war am 3.10.2026 in der Gesetzessammlung noch nicht abrufbar, der Link führt deshalb auf die Seite des Kantons. Wortlaut der geltenden Fassung nicht verifiziert."
+status_note_en: "Approved in the popular vote of 22 October 2023 (about 68% yes). Entry into force was delayed because voters rejected the implementing Energy Ordinance with a solar obligation from 100 m² on 22 September 2024. The partial revision approved in the popular vote of 8 March 2026 recast Art. 13 (use of solar energy in buildings); the minimum building area is set by the cantonal parliament in the Energy Ordinance. According to regional sources in force since 1 October 2026; the new version was not yet available in the law collection on 3 October 2026, so the link points to the canton's page. Wording of the version in force not verified."
+languages: [de]
+topics: [energy_efficiency, heat, renewables, solar]
+summary_de: "Das totalrevidierte Urner Energiegesetz legt den Schwerpunkt auf den Gebäudebereich. Es untersagt den Einbau neuer Elektroheizungen und verlangt bei Neubauten, Erweiterungen und eingreifenden Dachsanierungen ab einer minimalen anrechenbaren Gebäudefläche eine Anlage zur Nutzung der Sonnenenergie, etwa Photovoltaik oder Solarthermie. Die Einzelheiten, insbesondere die Flächengrenze, regelt der Landrat in der Energieverordnung."
+summary_en: "The fully revised Uri Energy Act focuses on buildings. It prohibits installing new electric heating and requires a solar energy installation, such as PV or solar thermal, for new buildings, extensions and major roof renovations above a minimum chargeable building area. The details, in particular the area threshold, are set by the cantonal parliament in the Energy Ordinance."
+source_url: "https://www.ur.ch/dienstleistungen/10186"
+alternate_urls:
+  - label: "Teilrevision vom 8.3.2026 (Art. 13), Abstimmungsvorlage"
+    url: "https://www.ur.ch/_doc/431413"
+  - label: "Bericht und Antrag des Regierungsrats vom 23.9.2025"
+    url: "https://www.ur.ch/_doc/431410"
+  - label: "Amtliche Gesetzessammlung, RB 40.7211"
+    url: "https://rechtsbuch.ur.ch/app/de/texts_of_law/40.7211"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+supersedes: ch-ur-eng
+related: [ch-ur-eng, ch-sr-730-0-eng]
+added: 2026-10-03
+last_checked: 2026-10-03

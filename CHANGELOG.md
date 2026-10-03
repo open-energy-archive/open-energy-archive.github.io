@@ -2,6 +2,15 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.13.0] – 2026-10-03
+
+### Neu
+- Schweiz, jetzt 108 Einträge: Gebührenverordnung Energie (GebV-En), Kernenergieverordnung (KEV), Niederspannungserzeugnisverordnung (NEV), Schwachstromverordnung (SchwV); ElCom 236-01184 (IWB gegen Swissgrid, Verjährung Netzverstärkung) und 212-00409 (Tarife 2023, vorsorgliche Massnahmen abgewiesen); Energiegesetz des Kantons Uri vom 22.10.2023
+
+### Geändert
+- Uri: Eintrag zum Energiegesetz von 1999 korrigiert und als «Ersetzt» markiert; die bisherige Angabe, ab 1.10.2026 gelte eine Teilrevision des Gesetzes von 1999, war falsch – es tritt das totalrevidierte Gesetz von 2023 mit der Teilrevision vom 8.3.2026 in Kraft
+- ElCom 236-01364 mit 236-01184 verknüpft
+
 ## [0.12.0] – 2026-10-03
 
 ### Neu

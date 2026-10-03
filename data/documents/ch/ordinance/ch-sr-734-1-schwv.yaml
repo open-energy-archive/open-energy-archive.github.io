@@ -1,0 +1,24 @@
+id: ch-sr-734-1-schwv
+title: "Verordnung über elektrische Schwachstromanlagen (Schwachstromverordnung, SchwV)"
+title_en: "Ordinance on Low-Current Electrical Installations"
+short_title: SchwV
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 734.1"
+date: 1994-03-30
+status: in_force
+status_note: "In Kraft seit 1.5.1994. Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "In force since 1 May 1994. Current version not checked in detail."
+languages: [de, fr, it]
+topics: [grid]
+summary_de: "Die Schwachstromverordnung legt Sicherheitsanforderungen an Erstellung, Betrieb und Instandhaltung von Schwachstromanlagen fest, etwa Telekommunikations- und Steuerleitungen, und regelt insbesondere den Schutz vor Gefahren durch die Nähe zu Starkstromanlagen. Sie gehört zusammen mit Starkstrom- und Leitungsverordnung zu den technischen Ausführungsbestimmungen des Elektrizitätsgesetzes."
+summary_en: "The ordinance sets safety requirements for the construction, operation and maintenance of low-current installations, such as telecommunication and control lines, and in particular protection against hazards from proximity to high-current installations. Together with the high-current and electrical lines ordinances it forms part of the technical implementing provisions of the Electricity Act."
+source_url: "https://www.fedlex.admin.ch/eli/cc/1994/1185_1185_1185/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-734-0-eleg, ch-sr-734-2-stv, ch-sr-734-31-lev]
+added: 2026-10-03
+last_checked: 2026-10-03

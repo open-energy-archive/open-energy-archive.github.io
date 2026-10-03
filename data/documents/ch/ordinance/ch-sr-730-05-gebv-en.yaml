@@ -1,0 +1,24 @@
+id: ch-sr-730-05-gebv-en
+title: "Verordnung über Gebühren und Aufsichtsabgaben im Energiebereich (GebV-En)"
+title_en: "Ordinance on Fees and Supervisory Charges in the Energy Sector"
+short_title: GebV-En
+doc_type: ordinance
+jurisdiction: CH
+issuer: "Schweizerischer Bundesrat"
+reference: "SR 730.05"
+date: 2006-11-22
+status: in_force
+status_note: "Mehrfach geändert, u. a. 2019 (Strategie Stromnetze) und 2023 (Geothermie). Aktuelle Fassung nicht im Detail geprüft."
+status_note_en: "Amended several times, including 2019 (Strategy Electricity Networks) and 2023 (geothermal energy). Current version not checked in detail."
+languages: [de, fr, it]
+topics: [tariffs, grid]
+summary_de: "Die Verordnung regelt die Gebühren und Aufsichtsabgaben, die das Bundesamt für Energie und die ElCom für ihre Verfügungen, Bewilligungen und Aufsichtstätigkeiten erheben, etwa in der Stromversorgung, bei Stauanlagen, in der Wasserkraft, bei Rohrleitungen und im Kernenergiebereich. Gebühren werden in der Regel nach Zeitaufwand bemessen, mit Stundenansätzen von 75 bis 250 Franken je nach Funktionsstufe."
+summary_en: "The ordinance governs the fees and supervisory charges levied by the Swiss Federal Office of Energy and ElCom for their decisions, licences and supervision, for example in electricity supply, dams, hydropower, pipelines and nuclear energy. Fees are generally based on time spent, at hourly rates of CHF 75 to 250 depending on staff level."
+source_url: "https://www.fedlex.admin.ch/eli/cc/2006/762/de"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. a URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-734-7-stromvg]
+added: 2026-10-03
+last_checked: 2026-10-03

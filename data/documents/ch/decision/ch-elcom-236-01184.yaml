@@ -1,0 +1,26 @@
+id: ch-elcom-236-01184
+title: "Verfügung der ElCom vom 5. Mai 2020 in Sachen IWB Industrielle Werke Basel gegen Swissgrid AG – Verjährung des Anspruchs auf Vergütung notwendiger Netzverstärkungskosten"
+title_en: "ElCom decision of 5 May 2020, IWB v Swissgrid – limitation of claims for reimbursement of necessary grid reinforcement costs"
+doc_type: decision
+jurisdiction: CH
+issuer: "Eidgenössische Elektrizitätskommission ElCom"
+reference: "236-01184"
+date: 2020-05-05
+status: final
+status_note: "Rechtskräftig gemäss Übersicht der ElCom. Bestätigt die Praxis aus den Verfügungen 236-01041 (4.7.2019) und 236-01164 (6.4.2020); später angewendet u. a. in 236-01364."
+status_note_en: "Final according to ElCom's overview. Confirms the practice of decisions 236-01041 (4 July 2019) and 236-01164 (6 April 2020); later applied among others in 236-01364."
+languages: [de]
+topics: [grid, solar, renewables]
+summary_de: "IWB verlangte 2019 von Swissgrid die Vergütung von Netzverstärkungskosten für den Anschluss einer Photovoltaikanlage von rund 1,7 MWp, die 2011 und 2012 in Betrieb ging. IWB machte geltend, es gehe um eine für Swissgrid erbrachte Dienstleistung, für die die zehnjährige Verjährungsfrist gelte. Die ElCom verneinte dies: Netzverstärkungen sind keine Systemdienstleistungen, und der Verteilnetzbetreiber handelt nicht als Stellvertreter von Swissgrid. Sie wandte analog zur Entschädigung von Sanierungsmassnahmen bei Wasserkraftwerken eine fünfjährige Frist an und wies das Gesuch als verjährt ab."
+summary_en: "In 2019 IWB asked Swissgrid to reimburse grid reinforcement costs for connecting a PV plant of about 1.7 MWp commissioned in 2011 and 2012. IWB argued that it had provided a service to Swissgrid subject to the ten-year limitation period. ElCom disagreed: grid reinforcements are not ancillary services, and the distribution system operator does not act on Swissgrid's behalf. By analogy with compensation for remediation measures at hydropower plants it applied a five-year period and rejected the application as time-barred."
+source_url: "https://www.elcom.admin.ch/dam/fr/sd-web/9HVF-WYOyMrY/236-001184verjahrungdesanspruchsaufvergutungnotwendigernetzverstarkungskosten05.05.2020"
+alternate_urls:
+  - label: "Übersicht der ElCom-Verfügungen zu Netzverstärkungen"
+    url: "https://www.elcom.admin.ch/elcom/en/home/documentation/decisions/network-reinforcements.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-elcom-236-01364, ch-sr-734-71-stromvv]
+added: 2026-10-03
+last_checked: 2026-10-03

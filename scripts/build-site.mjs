@@ -3,6 +3,7 @@
 // Pagefind trennt die Indizes automatisch nach <html lang>.
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { ROOT, loadDocuments, loadTaxonomy } from './lib.mjs';
 import { mdToHtml } from './markdown.mjs';
 
@@ -14,6 +15,8 @@ const DIST = path.join(ROOT, 'dist');
 const LANGS = ['de', 'en'];
 
 const tax = loadTaxonomy();
+// Cache-Busting: Assets werden mit einem Inhalts-Hash geladen, damit nach einem Update nie eine alte Version läuft
+const ASSET_HASH = Object.fromEntries(['style.css', 'filter.js'].map((f) => [f, crypto.createHash('sha256').update(fs.readFileSync(path.join(ROOT, 'site', 'assets', f))).digest('hex').slice(0, 10)]));
 const docs = loadDocuments()
   .map(({ file, doc }) => ({ ...doc, _file: file }))
   .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
@@ -36,7 +39,7 @@ const T = {
     noJs: 'Die Suche benötigt JavaScript.', listLink: 'Alle Dokumente als Liste',
     byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt ergänzt', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
     listTitle: 'Alle Dokumente', filterLabel: 'Dokumente filtern',
-    f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen', date: 'Datum (Jahr)', from: 'von', to: 'bis', fromAria: 'Datum von Jahr', toAria: 'Datum bis Jahr' },
+    f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen', date: 'Zeitraum', from: 'von', to: 'bis', fromAria: 'Datum von', toAria: 'Datum bis', pAll: 'Alle', p30: 'Letzte 30 Tage', p12: 'Letzte 12 Monate', pCustom: 'Eigener Zeitraum', dateErr: '«Bis» liegt vor «von». Passe den Zeitraum an.', toggle: 'Filter', done: 'Treffer zeigen', remove: 'entfernen', active: 'Aktive Filter', more: 'Weitere Filter' },
     chipTitle: (l) => `Alle Einträge: ${l}`, byJur: 'Nach Rechtsraum',
     countOf: 'von', countDocs: 'Einträgen', countTotal: 'insgesamt', perPage: 'Pro Seite', sortLabel: 'Sortierung', sortNew: 'Neueste zuerst', sortOld: 'Älteste zuerst', sortTitle: 'Titel A–Z', sortTitleDesc: 'Titel Z–A', prev: '‹ Zurück', next: 'Weiter ›', pagesLabel: 'Seiten',
     chipFree: 'Frei', chipLink: 'Nur Link', chipUnreviewed: 'Nicht fachlich geprüft',
@@ -68,7 +71,7 @@ const T = {
     noJs: 'Search requires JavaScript.', listLink: 'All documents as a list',
     byTopic: 'By topic', byType: 'By type', latest: 'Recently added', showAll: (n) => `Show all ${n} entries →`,
     listTitle: 'All documents', filterLabel: 'Filter documents',
-    f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Level', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only', reset: 'Reset filters', date: 'Date (year)', from: 'from', to: 'to', fromAria: 'Date from year', toAria: 'Date to year' },
+    f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Level', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only', reset: 'Reset filters', date: 'Period', from: 'from', to: 'to', fromAria: 'Date from', toAria: 'Date to', pAll: 'All', p30: 'Last 30 days', p12: 'Last 12 months', pCustom: 'Custom range', dateErr: '"To" is before "from". Adjust the period.', toggle: 'Filters', done: 'Show results', remove: 'remove', active: 'Active filters', more: 'More filters' },
     chipTitle: (l) => `All entries: ${l}`, byJur: 'By jurisdiction',
     countOf: 'of', countDocs: 'entries', countTotal: 'in total', perPage: 'Per page', sortLabel: 'Sort', sortNew: 'Newest first', sortOld: 'Oldest first', sortTitle: 'Title A–Z', sortTitleDesc: 'Title Z–A', prev: '‹ Previous', next: 'Next ›', pagesLabel: 'Pages',
     chipFree: 'Free', chipLink: 'Link only', chipUnreviewed: 'Not expert-reviewed',
@@ -148,7 +151,7 @@ function layout(lang, { title, description = '', body, active = null, alt = null
 <link rel="alternate" hreflang="${t.other}" href="${altHref}">
 <link rel="icon" href="${url('assets/favicon-64.png')}" type="image/png">
 <link rel="apple-touch-icon" href="${url('assets/apple-touch-icon.png')}">
-<link rel="stylesheet" href="${url('assets/style.css')}">
+<link rel="stylesheet" href="${url('assets/style.css')}?v=${ASSET_HASH['style.css']}">
 ${extraHead}
 </head>
 <body>
@@ -281,33 +284,52 @@ window.addEventListener('DOMContentLoaded', () => {
   }));
 
   // Liste
-  const years = [...new Set(docs.map((d) => String(d.date || '').slice(0, 4)).filter(Boolean))].sort((a, b) => b.localeCompare(a));
   const opt = (counts) => counts.map((c) => `<option value="${c.k}" data-label="${esc(c.l)}">${esc(c.l)} (${c.n})</option>`).join('');
   write(`${P}${t.paths.list}index.html`, layout(lang, {
     title: t.listTitle, active: 'list', alt: otherPage('list'),
     body: `
 <h1 class="section-title">${t.listTitle}</h1>
 <form class="filters" id="filters" role="search" aria-label="${t.filterLabel}">
-  <label>${t.f.text}<input type="search" name="q" placeholder="${t.f.textPh}"></label>
-  <label>${t.f.jur}<select name="jur"><option value="">${t.f.all}</option>${opt(jurCounts)}</select></label>
-  <label>${t.f.level}<select name="level"><option value="">${t.f.all}</option>${jurCounts.map((j) => `<optgroup label="${esc(j.l)}" data-jur="${j.k}">${subCounts.filter((c) => c.jur === j.k).map((c) => `<option value="${c.k}" data-jur="${c.jur}" data-label="${esc(c.l)}">${esc(c.l)} (${c.n})</option>`).join('')}</optgroup>`).join('')}</select></label>
-  <label>${t.f.type}<select name="type"><option value="">${t.f.all}</option>${opt(typeCounts)}</select></label>
-  <label>${t.f.topic}<select name="topic"><option value="">${t.f.all}</option>${opt(topicCounts)}</select></label>
-  <label>${t.f.rights}<select name="rights"><option value="">${t.f.all}</option><option value="free" data-label="${t.f.free}">${t.f.free}</option><option value="link" data-label="${t.f.link}">${t.f.link}</option></select></label>
-  <fieldset class="date-range"><legend>${t.f.date}</legend>
-    <select name="from" aria-label="${t.f.fromAria}"><option value="">${t.f.from}</option>${years.map((y) => `<option value="${y}">${y}</option>`).join('')}</select>
-    <span aria-hidden="true">–</span>
-    <select name="to" aria-label="${t.f.toAria}"><option value="">${t.f.to}</option>${years.map((y) => `<option value="${y}">${y}</option>`).join('')}</select>
-  </fieldset>
+  <div class="f-top">
+    <label class="f-text">${t.f.text}<input type="search" name="q" placeholder="${t.f.textPh}"></label>
+    <button type="button" class="f-toggle" id="ftoggle" aria-expanded="false" aria-controls="fpanel" hidden>${t.f.toggle} <span class="f-badge" id="fbadge"></span></button>
+  </div>
+  <div class="f-panel" id="fpanel">
+    <fieldset class="f-group"><legend>${t.f.jur}</legend><div class="f-pills">
+      <label class="f-pill"><input type="radio" name="jur" value="" checked><span data-label="${t.f.all}">${t.f.all}</span></label>${jurCounts.map((j) => `<label class="f-pill"><input type="radio" name="jur" value="${j.k}"><span data-label="${esc(j.l)}">${esc(j.l)} (${j.n})</span></label>`).join('')}
+    </div></fieldset>
+    <div class="f-selects">
+      <label>${t.f.level}<select name="level"><option value="">${t.f.all}</option>${jurCounts.map((j) => `<optgroup label="${esc(j.l)}" data-jur="${j.k}">${subCounts.filter((c) => c.jur === j.k).map((c) => `<option value="${c.k}" data-jur="${c.jur}" data-label="${esc(c.l)}">${esc(c.l)} (${c.n})</option>`).join('')}</optgroup>`).join('')}</select></label>
+      <label>${t.f.type}<select name="type"><option value="">${t.f.all}</option>${opt(typeCounts)}</select></label>
+      <label>${t.f.topic}<select name="topic"><option value="">${t.f.all}</option>${opt(topicCounts)}</select></label>
+      <label>${t.f.rights}<select name="rights"><option value="">${t.f.all}</option><option value="free" data-label="${t.f.free}">${t.f.free}</option><option value="link" data-label="${t.f.link}">${t.f.link}</option></select></label>
+    </div>
+    <fieldset class="f-group f-period"><legend>${t.f.date}</legend><div class="f-pills">
+      <label class="f-pill"><input type="radio" name="period" value="all" checked><span data-label="${t.f.pAll}">${t.f.pAll}</span></label>
+      <label class="f-pill"><input type="radio" name="period" value="30d"><span data-label="${t.f.p30}">${t.f.p30}</span></label>
+      <label class="f-pill"><input type="radio" name="period" value="12m"><span data-label="${t.f.p12}">${t.f.p12}</span></label>
+      <label class="f-pill"><input type="radio" name="period" value="y0" data-year-offset="0"><span data-label=""></span></label>
+      <label class="f-pill"><input type="radio" name="period" value="y1" data-year-offset="1"><span data-label=""></span></label>
+      <label class="f-pill"><input type="radio" name="period" value="custom"><span data-label="${t.f.pCustom}">${t.f.pCustom}</span></label>
+    </div>
+      <div class="f-dates" id="fdates">
+        <label>${t.f.from}<input type="date" name="from" aria-label="${t.f.fromAria}" min="1900-01-01" max="2099-12-31"></label>
+        <label>${t.f.to}<input type="date" name="to" aria-label="${t.f.toAria}" min="1900-01-01" max="2099-12-31"></label>
+      </div>
+      <p class="f-err" id="ferr" role="alert" hidden>${t.f.dateErr}</p>
+    </fieldset>
+    <div class="f-actions"><button type="button" class="f-done" id="fdone">${t.f.done}</button></div>
+  </div>
 </form>
+<div class="f-active" id="factive" aria-label="${t.f.active}" data-remove="${t.f.remove}"></div>
 <div class="result-bar"><span class="result-count" id="count" aria-live="polite" data-of="${t.countOf}" data-docs="${t.countDocs}" data-total="${t.countTotal}"></span> <a href="${page('list')}" id="reset" class="reset" hidden>${t.f.reset}</a>
-  <label class="sort-by" hidden>${t.sortLabel} <select id="sort"><option value="new">${t.sortNew}</option><option value="old">${t.sortOld}</option><option value="title">${t.sortTitle}</option><option value="title-desc">${t.sortTitleDesc}</option></select></label>
-  <label class="per-page" hidden>${t.perPage} <select id="per"><option value="10">10</option><option value="50">50</option><option value="100">100</option></select></label></div>
+  <label class="sort-by" hidden><span class="rb-label">${t.sortLabel}</span> <select id="sort" aria-label="${t.sortLabel}"><option value="new">${t.sortNew}</option><option value="old">${t.sortOld}</option><option value="title">${t.sortTitle}</option><option value="title-desc">${t.sortTitleDesc}</option></select></label>
+  <label class="per-page" hidden><span class="rb-label">${t.perPage}</span> <select id="per" aria-label="${t.perPage}"><option value="10">10</option><option value="50">50</option><option value="100">100</option></select></label></div>
 <ul class="cards" id="list">
 ${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-year="${String(d.date || '').slice(0, 4)}" data-date="${String(d.date || '')}" data-title="${esc(d.title)}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
 </ul>
 <nav class="pager" id="pager" aria-label="${t.pagesLabel}" data-prev="${t.prev}" data-next="${t.next}" hidden></nav>
-<script src="${url('assets/filter.js')}" defer></script>`,
+<script src="${url('assets/filter.js')}?v=${ASSET_HASH['filter.js']}" defer></script>`,
   }));
 
   // Dokumentseiten

@@ -2,6 +2,17 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.16.0] – 2026-10-03
+
+### Neu
+- Zeitraum-Filter mit Schnellwahl («Letzte 30 Tage», «Letzte 12 Monate», laufendes und letztes Jahr, jeweils mit Trefferzahl) und «Eigener Zeitraum» mit genauer Datumsauswahl (von/bis); liegt «bis» vor «von», erscheint ein Hinweis. URL: `?period=12m`, `?period=y2025` oder `?period=custom&from=2025-01-01&to=2025-06-30`; ältere Links mit `?from=2025` funktionieren weiter
+- Rechtsraum als antippbare Chips mit Trefferzahl
+- Aktive Filter erscheinen als entfernbare Chips über der Liste
+- Handy: Filterbereich einklappbar («Filter» mit Anzahl aktiver Filter, «Treffer zeigen»), Sortierung und Seitengrösse kompakt in einer Zeile
+
+### Behoben
+- Datumsfilter wirkte wirkungslos: Mit nur «von» und der Sortierung «Neueste zuerst» blieb die erste Seite unverändert; zudem konnte der Browser nach einem Update noch das alte Skript verwenden. Stil und Skript werden jetzt mit einem Versions-Hash geladen (Cache-Busting)
+
 ## [0.15.0] – 2026-10-03
 
 ### Neu

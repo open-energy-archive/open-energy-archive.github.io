@@ -1,0 +1,23 @@
+id: ch-bge-142-ii-451
+title: "BGE 142 II 451 (Urteile 2C_681/2015, 2C_682/2015 vom 20. Juli 2016) – Individuelle Überprüfung der Elektrizitätstarife im Streitfall, Parteistellung der Endverbraucher"
+title_en: "BGE 142 II 451 (judgments 2C_681/2015, 2C_682/2015 of 20 July 2016) – individual review of electricity tariffs in disputes, party status of end consumers"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "BGE 142 II 451 / 2C_681/2015, 2C_682/2015"
+date: 2016-07-20
+status: final
+status_note: "Teilweise amtlich publiziert als BGE 142 II 451. Leitentscheid für individuelle Tarifstreitigkeiten nach Art. 22 Abs. 2 lit. a StromVG; von der ElCom und den Gerichten seither regelmässig angewendet, etwa in den Verfahren 212-00409 (CKW) und 2C_21/2024. Angaben zum Inhalt aus der späteren Rechtsprechung und Praxis der ElCom."
+status_note_en: "Partly officially published as BGE 142 II 451. Leading case for individual tariff disputes under Art. 22(2)(a) StromVG; regularly applied since by ElCom and the courts, e.g. in proceedings 212-00409 (CKW) and 2C_21/2024. Content information taken from later case law and ElCom practice."
+languages: [de]
+topics: [tariffs, grid]
+summary_de: "Das Bundesgericht entschied, dass ein Endverbraucher bei der ElCom die Überprüfung der auf ihn angewendeten Elektrizitätstarife verlangen kann. Im Streitfall hat er Parteistellung, im Verfahren von Amtes wegen über die anrechenbaren Kosten eines Netzbetreibers hingegen nicht, sonst entstünde eine unzulässige Popularbeschwerde. Die ElCom setzt die Tarife nicht selbst fest und bestimmt keinen individuellen Preis; sie prüft nur, ob die vom Netzbetreiber festgelegten Tarife gesetzmässig sind und richtig angewendet werden. Den Ermessensspielraum der Netzbetreiber überprüft sie nicht. Dass Überdeckungen über künftige Deckungsdifferenzen ausgeglichen werden, schliesst den Anspruch auf einen Entscheid im Streitfall nicht aus."
+summary_en: "The court held that an end consumer may ask ElCom to review the electricity tariffs applied to them. In such a dispute the consumer has party status, but not in ex officio proceedings on a network operator's chargeable costs, as that would amount to an inadmissible actio popularis. ElCom does not set tariffs itself or determine an individual price; it only examines whether the tariffs set by the network operator are lawful and correctly applied. It does not review the operators' discretion. The fact that over-recoveries are offset through future cost recovery differences does not exclude the right to a decision in a dispute."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F142-II-451%3Ade&lang=de&zoom=IN&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-elcom-212-00409-2025, ch-bge-151-ii-687, ch-sr-734-7-stromvg]
+added: 2026-10-03
+last_checked: 2026-10-03

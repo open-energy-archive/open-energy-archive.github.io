@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.19.0] – 2026-10-03
+
+### Neu
+- Schweiz, jetzt 119 Einträge: BGE 142 II 451 (individuelle Tarifprüfung im Streitfall, Parteistellung der Endverbraucher); erste kantonale Entscheide: Verwaltungsgericht Zürich VB.2024.00110 (Solaranlage auf ISOS-Objekt, Vorinstanz zu 1C_153/2025) und Bau- und Verkehrsdirektion Bern BVD 110/2025/26 (alpine Solaranlage Morgeten, angefochten)
+
 ## [0.18.0] – 2026-10-03
 
 ### Neu

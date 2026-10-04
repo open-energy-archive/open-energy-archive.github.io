@@ -1,0 +1,24 @@
+id: ch-be-bvd-110-2025-morgeten
+title: "Entscheid der Bau- und Verkehrsdirektion des Kantons Bern BVD 110/2025/26 vom Oktober 2025 – alpine Photovoltaik-Grossanlage Morgeten (Solarexpress)"
+title_en: "Decision of the Bern Building and Transport Directorate BVD 110/2025/26 of October 2025 – Morgeten large alpine PV plant (solar express)"
+doc_type: decision
+jurisdiction: CH
+subdivision: CH-BE
+issuer: "Bau- und Verkehrsdirektion des Kantons Bern"
+reference: "BVD 110/2025/26"
+date: 2025-10-09
+status: pending
+status_note: "Die Baubewilligung des Regierungsstatthalteramts vom Mai 2024 war die erste für ein Solarexpress-Projekt. Das Verwaltungsgericht des Kantons Bern erklärte sich Anfang 2025 für die Beschwerde der Umweltverbände nicht zuständig, weil keine ausreichende Dringlichkeit bestehe, vom zweistufigen Rechtsmittelweg abzuweichen, und überwies sie der Direktion. Gegen diesen Entscheid haben die Stiftung Landschaftsschutz Schweiz, der SAC und Mountain Wilderness im November 2025 Beschwerde beim Verwaltungsgericht erhoben (Stand gemäss Medienberichten). Datum gemäss Veröffentlichung durch den Kanton (9.10.2025); Entscheiddatum nicht separat geprüft."
+status_note_en: "The building permit of May 2024 was the first for a solar express project. In early 2025 the Bern Administrative Court declined jurisdiction over the environmental organisations' appeal, finding no sufficient urgency to depart from the two-stage appeal route, and referred it to the Directorate. The Swiss Foundation for Landscape Conservation, the SAC and Mountain Wilderness appealed this decision to the Administrative Court in November 2025 (according to media reports). Date as published by the canton (9 October 2025); decision date not checked separately."
+languages: [de]
+topics: [solar, permitting, renewables]
+summary_de: "Die Direktion wies die Beschwerde von Umweltverbänden gegen die Baubewilligung für eine alpine Photovoltaik-Grossanlage von rund 7,5 Hektaren oberhalb der Alp Morgeten (Oberwil im Simmental) ab. Sie prüfte unter anderem die Anforderungen von Art. 71a EnG an Einspeisung und Inbetriebnahme, die gleichzeitig beantragten landwirtschaftlichen Bauten, die Umweltverträglichkeit sowie die Auswirkungen auf Steinhuhn und Alpenschneehuhn. Die Verbände rügen insbesondere, die Anlage sei bewilligt worden, obwohl die Stromableitung noch nicht projektiert sei."
+summary_en: "The Directorate rejected environmental organisations' appeal against the building permit for a large alpine PV plant of about 7.5 hectares above Alp Morgeten (Oberwil im Simmental). Among other things it examined the requirements of Art. 71a EnG for feed-in and commissioning, the agricultural buildings applied for at the same time, environmental compatibility and the effects on rock partridge and ptarmigan. The organisations argue in particular that the plant was approved although its grid connection had not yet been planned."
+source_url: "https://www.api.news.apps.be.ch/api/news/b21cb44b-e4eb-4a8b-8cf3-22b8bceee693/content/adacb8c3-86ab-4dd3-a712-df9d69d85b9d/assets/preview/13511e92-d671-4e63-ae1e-cffc4576fe07/2025-10-09-bvd-solaranlage-morgeten-entscheid-de.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-as-2022-543-solarexpress, ch-gr-leitfaden-solarexpress]
+added: 2026-10-03
+last_checked: 2026-10-03

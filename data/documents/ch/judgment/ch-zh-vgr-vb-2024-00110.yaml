@@ -1,0 +1,24 @@
+id: ch-zh-vgr-vb-2024-00110
+title: "Urteil des Verwaltungsgerichts des Kantons Zürich VB.2024.00110 vom 16. Januar 2025 (Stadt Winterthur) – Solaranlage auf ISOS-Objekt, Begutachtung durch ENHK oder EKD"
+title_en: "Zurich Administrative Court judgment VB.2024.00110 of 16 January 2025 (City of Winterthur) – solar installation on an ISOS-listed building, expert report by federal commissions"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-ZH
+issuer: "Verwaltungsgericht des Kantons Zürich, 1. Abteilung"
+reference: "VB.2024.00110"
+date: 2025-01-16
+status: final
+status_note: "Vom Bundesgericht mit Urteil 1C_153/2025 vom 5. Januar 2026 bestätigt. Angaben zum Inhalt aus dem Bundesgerichtsurteil; der Link folgt dem Adressschema von entscheidsuche.ch und wurde nicht direkt aufgerufen."
+status_note_en: "Confirmed by the Federal Supreme Court in judgment 1C_153/2025 of 5 January 2026. Content information from the Federal Supreme Court judgment; the link follows the entscheidsuche.ch address pattern and was not opened directly."
+languages: [de]
+topics: [solar, permitting]
+summary_de: "Der Bauausschuss der Stadt Winterthur hatte eine Photovoltaikanlage auf einem Gebäude in der Kernzone bewilligt, das in einem ISOS-Gebiet mit Erhaltungsziel A liegt. Das Baurekursgericht wies die Sache auf Rekurs des Zürcher Heimatschutzes zurück, weil zuerst die kantonale Fachstelle zur Notwendigkeit eines Gutachtens der ENHK oder EKD Stellung nehmen müsse. Das Verwaltungsgericht bestätigte dies: Art. 18a Abs. 3 RPG sei eine direkt anwendbare, abschliessende Bundesregelung, weshalb die Bewilligung einer Solaranlage auf einem solchen Kulturdenkmal auch innerhalb der Bauzone eine Bundesaufgabe sei."
+summary_en: "Winterthur's building committee had approved a PV system on a building in the core zone located in an ISOS area with preservation objective A. On appeal by the Zurich heritage association, the building appeals court remitted the case because the cantonal specialist office first had to give its opinion on whether an expert report by the federal commissions was needed. The Administrative Court confirmed this: Art. 18a(3) RPG is a directly applicable, exhaustive federal rule, so approving a solar installation on such a monument is a federal task even within the building zone."
+source_url: "https://entscheidsuche.ch/docs/ZH_Verwaltungsgericht/ZH_VG_001_-VB-2024-00110_2025-01-16.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-153-2025, ch-bger-1c-179-2015]
+added: 2026-10-03
+last_checked: 2026-10-03

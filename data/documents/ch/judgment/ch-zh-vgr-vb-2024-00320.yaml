@@ -1,0 +1,24 @@
+id: ch-zh-vgr-vb-2024-00320
+title: "Urteil des Verwaltungsgerichts des Kantons Zürich VB.2024.00320 vom 15. Mai 2025 (Kilchberg) – Luft/Wasser-Wärmepumpe auf dem Dach, genügende Anpassung nach § 238 Abs. 4 PBG"
+title_en: "Zurich Administrative Court judgment VB.2024.00320 of 15 May 2025 (Kilchberg) – air/water heat pump on the roof, sufficient adaptation under § 238(4) PBG"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-ZH
+issuer: "Verwaltungsgericht des Kantons Zürich, 1. Abteilung"
+reference: "VB.2024.00320"
+date: 2025-05-15
+status: final
+status_note: "Rechtskräftig; Beschwerde der Gemeinde abgewiesen. Zwischenentscheid (Rückweisung zur Erteilung der Baubewilligung). Der Link führt in die Entscheiddatenbank des Verwaltungsgerichts; er enthält einen Sitzungsschlüssel und kann ablaufen. In diesem Fall ist der Entscheid über die Suche nach der Geschäftsnummer auffindbar."
+status_note_en: "Final; the municipality's appeal dismissed. Interim decision (remittal for issuing the building permit). The link leads to the Administrative Court's decision database; it contains a session key and may expire. In that case the decision can be found by searching for the case number."
+languages: [de]
+topics: [heat, renewables, permitting, energy_efficiency]
+summary_de: "Die Gemeinde Kilchberg verweigerte die Bewilligung für eine Luft/Wasser-Wärmepumpe mit zwei Rückkühlern auf dem Dach eines Mehrfamilienhauses in der Wohn- und Gewerbezone, die eine Ölheizung ersetzen sollte. Das Verwaltungsgericht bestätigte die Aufhebung des Bauabschlags: Der seit 1. September 2022 geltende § 238 Abs. 4 PBG gilt neben Solaranlagen auch für den Ersatz fossiler Heizungen und andere Anlagen zur Nutzung erneuerbarer Energien und verlangt nur noch eine genügende Anpassung an das Gebäude, nicht an das Ortsbild. Der Gesetzgeber wollte die Gestaltungsanforderungen bewusst senken; das technische Gepräge marktüblicher Geräte ist hinzunehmen. Entgegenstehen können nur überwiegende öffentliche Interessen, insbesondere Schutzinteressen wie Kernzonen oder Inventarobjekte; ein allgemeines Interesse an einer ansehnlichen Dachlandschaft genügt nicht."
+summary_en: "The municipality of Kilchberg refused a permit for an air/water heat pump with two dry coolers on the roof of an apartment building in a residential and commercial zone, intended to replace an oil heating system. The Administrative Court upheld the annulment of the refusal: § 238(4) PBG, in force since 1 September 2022, applies not only to solar installations but also to replacing fossil heating and other renewable energy installations and only requires sufficient adaptation to the building, not to the townscape. The legislator deliberately lowered design requirements; the technical appearance of standard devices must be accepted. Only overriding public interests, in particular protection interests such as core zones or listed objects, can stand in the way; a general interest in an attractive roofscape is not enough."
+source_url: "https://vgrzh.djiktzh.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,127.0.0.1:7000&Parametername=WWW&Schema=ZH_VG_WEB&Source=&Aufruf=getMarkupDocument&cSprache=GER&nF30_KEY=224958&W10_KEY=15013347&nTrefferzeile=2&Template=standard/results/document.fiw"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-zh-energg, ch-sr-700-rpg]
+added: 2026-10-04
+last_checked: 2026-10-04

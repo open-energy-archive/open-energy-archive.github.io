@@ -2,6 +2,14 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.20.0] – 2026-10-04
+
+### Neu
+- Schweiz, jetzt 125 Einträge – sechs Urteile des Verwaltungsgerichts Zürich: VB.2025.00423 (Klimastrategie Männedorf, Abstimmungsinformation), VB.2024.00320 (Wärmepumpe auf dem Dach, § 238 Abs. 4 PBG), VB.2020.00136 (kommunale Energieplanung nicht anfechtbar), VB.2012.00665 (Freibad-Wärmepumpe, keine Vorwirkung des Energiegesetzes), VB.2007.00307 (Blendung durch PV-Anlage), VB.2001.00138 (Fernwärmegebühren nach Anschlusspflicht)
+
+### Geändert
+- BVD 110/2025/26 (Morgeten): Entscheiddatum 8. Oktober 2025, Urteil des Verwaltungsgerichts Bern 100.2024.156 ergänzt
+
 ## [0.19.0] – 2026-10-03
 
 ### Neu

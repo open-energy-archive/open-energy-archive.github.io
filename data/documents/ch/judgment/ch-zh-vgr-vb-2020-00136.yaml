@@ -1,0 +1,24 @@
+id: ch-zh-vgr-vb-2020-00136
+title: "Urteil des Verwaltungsgerichts des Kantons Zürich VB.2020.00136 vom 9. Juli 2020 (Stadt Zürich) – kommunale Energieplanung nicht anfechtbar"
+title_en: "Zurich Administrative Court judgment VB.2020.00136 of 9 July 2020 (City of Zurich) – municipal energy plan cannot be challenged"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-ZH
+issuer: "Verwaltungsgericht des Kantons Zürich, 3. Abteilung"
+reference: "VB.2020.00136"
+date: 2020-07-09
+status: final
+status_note: "Rechtskräftig; Beschwerde abgewiesen. Der Link führt in die Entscheiddatenbank des Verwaltungsgerichts; er enthält einen Sitzungsschlüssel und kann ablaufen. In diesem Fall ist der Entscheid über die Suche nach der Geschäftsnummer auffindbar."
+status_note_en: "Final; appeal dismissed. The link leads to the Administrative Court's decision database; it contains a session key and may expire. In that case the decision can be found by searching for the case number."
+languages: [de]
+topics: [heat, energy_efficiency]
+summary_de: "Ein Stimmberechtigter focht die Aktualisierung der Energieversorgungsplanung der Stadt Zürich von 2019 an und verlangte eine mit dem Pariser Klimaübereinkommen vereinbare Planung. Das Verwaltungsgericht bestätigte das Nichteintreten des Bezirksrats: Die kommunale Energieplanung nach § 7 des kantonalen Energiegesetzes richtet sich ausschliesslich an Behörden und begründet keine Rechte und Pflichten Privater; diese entstehen erst durch Umsetzungsakte, etwa in der Nutzungsplanung. Zudem fehlte die Legitimation, weil der Beschwerdeführer nur allgemeine öffentliche Interessen geltend machte; die Eigenschaft als Steuerzahler oder Stimmberechtigter genügt nicht."
+summary_en: "A voter challenged the City of Zurich's 2019 update of its energy supply plan and demanded planning compatible with the Paris Agreement. The Administrative Court upheld the district council's refusal to consider the appeal: the municipal energy plan under § 7 of the cantonal Energy Act is addressed solely to authorities and creates no rights or obligations for private persons; these only arise from implementing acts, for example in land-use planning. Standing was also lacking, as the appellant only asserted general public interests; being a taxpayer or voter is not sufficient."
+source_url: "https://vgrzh.djiktzh.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,127.0.0.1:7000&Parametername=WWW&Schema=ZH_VG_WEB&Source=&Aufruf=getMarkupDocument&cSprache=GER&nF30_KEY=220418&W10_KEY=15013347&nTrefferzeile=3&Template=standard/results/document.fiw"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-zh-energg]
+added: 2026-10-04
+last_checked: 2026-10-04

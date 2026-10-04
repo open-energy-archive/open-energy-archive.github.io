@@ -1,0 +1,24 @@
+id: ch-zh-vgr-vb-2007-00307
+title: "Urteil des Verwaltungsgerichts des Kantons Zürich VB.2007.00307 vom 7. November 2007 (Hedingen) – Blendung durch eine Photovoltaikanlage, vorsorgliche Emissionsbegrenzung"
+title_en: "Zurich Administrative Court judgment VB.2007.00307 of 7 November 2007 (Hedingen) – glare from a PV installation, precautionary emission limitation"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-ZH
+issuer: "Verwaltungsgericht des Kantons Zürich, 1. Abteilung"
+reference: "VB.2007.00307"
+date: 2007-11-07
+status: final
+status_note: "Rechtskräftig; Beschwerde abgewiesen. Der Link führt in die Entscheiddatenbank des Verwaltungsgerichts; er enthält einen Sitzungsschlüssel und kann ablaufen. In diesem Fall ist der Entscheid über die Suche nach der Geschäftsnummer auffindbar."
+status_note_en: "Final; appeal dismissed. The link leads to the Administrative Court's decision database; it contains a session key and may expire. In that case the decision can be found by searching for the case number."
+languages: [de]
+topics: [solar, permitting]
+summary_de: "Die Photovoltaikanlagen auf zwei Mehrfamilienhäusern blendeten einen Nachbarbalkon vom 13. April bis 28. August täglich bis zu 50 Minuten mit bis zu 30 % der Intensität direkten Sonnenlichts, deutlich mehr als im Baubewilligungsverfahren prognostiziert. Das Verwaltungsgericht bestätigte die Anordnung, Massnahmen zur Reduktion auf höchstens 20 Minuten pro Tag vorzuschlagen. Reflexionen von Sonnenlicht an einer Anlage sind Einwirkungen im Sinne des Umweltschutzgesetzes; die rechtskräftige Baubewilligung steht zusätzlichen Massnahmen nicht entgegen, wenn sich die Prognosen als falsch erweisen. Ein Bagatellfall lag nicht vor, und die Förderung erneuerbarer Energien schliesst die Anwendung des Vorsorgeprinzips nicht aus. Massnahmen sind an der Quelle zu treffen, nicht beim betroffenen Nachbarn."
+summary_en: "The PV installations on two apartment buildings dazzled a neighbouring balcony from 13 April to 28 August for up to 50 minutes a day at up to 30% of the intensity of direct sunlight, much more than forecast in the permit procedure. The Administrative Court upheld the order to propose measures reducing this to at most 20 minutes a day. Reflections of sunlight from an installation are effects within the meaning of the Environmental Protection Act; the final building permit does not prevent additional measures if the forecasts prove wrong. This was not a trivial case, and promoting renewable energy does not exclude applying the precautionary principle. Measures must be taken at the source, not by the affected neighbour."
+source_url: "https://vgrzh.djiktzh.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,127.0.0.1:7000&Parametername=WWW&Schema=ZH_VG_WEB&Source=&Aufruf=getMarkupDocument&cSprache=GER&nF30_KEY=207105&W10_KEY=15013347&nTrefferzeile=5&Template=standard/results/document.fiw"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-zh-energg, ch-sr-700-rpg]
+added: 2026-10-04
+last_checked: 2026-10-04

@@ -1,0 +1,24 @@
+id: ch-zh-vgr-vb-2012-00665
+title: "Urteil des Verwaltungsgerichts des Kantons Zürich VB.2012.00665 vom 23. Januar 2013 (Affoltern am Albis) – Solaranlage und Wärmepumpe für ein Freibad, keine Vorwirkung des revidierten Energiegesetzes"
+title_en: "Zurich Administrative Court judgment VB.2012.00665 of 23 January 2013 (Affoltern am Albis) – solar installation and heat pump for an open-air pool, no anticipatory effect of the revised Energy Act"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-ZH
+issuer: "Verwaltungsgericht des Kantons Zürich, 4. Abteilung"
+reference: "VB.2012.00665"
+date: 2013-01-23
+status: final
+status_note: "Beschwerde abgewiesen; das Bundesgericht hat eine Beschwerde dagegen am 27. Mai 2013 abgewiesen. Der Link führt in die Entscheiddatenbank des Verwaltungsgerichts; er enthält einen Sitzungsschlüssel und kann ablaufen. In diesem Fall ist der Entscheid über die Suche nach der Geschäftsnummer auffindbar."
+status_note_en: "Appeal dismissed; the Federal Supreme Court dismissed an appeal against it on 27 May 2013. The link leads to the Administrative Court's decision database; it contains a session key and may expire. In that case the decision can be found by searching for the case number."
+languages: [de]
+topics: [solar, heat, energy_efficiency]
+summary_de: "Die Gemeindeversammlung bewilligte einen Kredit von 477 000 Franken für eine Solarthermie- und Photovoltaikanlage beim Schwimmbad, zu der auch eine Wärmepumpe zur Beckenheizung gehörte. Ein Stimmberechtigter rügte einen Verstoss gegen den neuen § 12 Abs. 4 des kantonalen Energiegesetzes, wonach Wärmepumpen für Freibäder nur mit Beckenabdeckung betrieben werden dürfen. Das Verwaltungsgericht hielt fest, dass die Bestimmung noch nicht in Kraft war und eine belastende positive Vorwirkung unzulässig ist; nach geltendem Recht war der Betrieb von Mai bis September erlaubt. Zudem verbiete die neue Bestimmung nur den Betrieb ohne Abdeckung, nicht den Bau, und erfasse eine mit eigenem Solarstrom betriebene Wärmepumpe wohl nicht."
+summary_en: "The municipal assembly approved a credit of CHF 477,000 for a solar thermal and PV installation at the swimming pool, including a heat pump to heat the pool. A voter argued that this breached the new § 12(4) of the cantonal Energy Act, under which heat pumps for open-air pools may only be operated with a pool cover. The Administrative Court held that the provision was not yet in force and that applying it in advance to the detriment of those affected is not permitted; under the law in force, operation from May to September was allowed. Moreover, the new provision only prohibits operation without a cover, not construction, and probably does not cover a heat pump run on self-generated solar power."
+source_url: "https://vgrzh.djiktzh.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,127.0.0.1:7000&Parametername=WWW&Schema=ZH_VG_WEB&Source=&Aufruf=getMarkupDocument&cSprache=GER&nF30_KEY=212550&W10_KEY=15013347&nTrefferzeile=4&Template=standard/results/document.fiw"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-zh-energg]
+added: 2026-10-04
+last_checked: 2026-10-04

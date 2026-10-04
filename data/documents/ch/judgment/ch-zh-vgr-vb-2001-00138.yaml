@@ -1,0 +1,24 @@
+id: ch-zh-vgr-vb-2001-00138
+title: "Urteil des Verwaltungsgerichts des Kantons Zürich VB.2001.00138 vom 23. August 2001 – Gebühren für den Bezug von Fernwärme nach Anschlusspflicht"
+title_en: "Zurich Administrative Court judgment VB.2001.00138 of 23 August 2001 – charges for district heating after mandatory connection"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-ZH
+issuer: "Verwaltungsgericht des Kantons Zürich, 3. Abteilung"
+reference: "VB.2001.00138"
+date: 2001-08-23
+status: final
+status_note: "Rechtskräftig; Beschwerde abgewiesen, soweit darauf eingetreten wurde. Der Link führt in die Entscheiddatenbank des Verwaltungsgerichts; er enthält einen Sitzungsschlüssel und kann ablaufen. In diesem Fall ist der Entscheid über die Suche nach der Geschäftsnummer auffindbar."
+status_note_en: "Final; appeal dismissed insofar as admissible. The link leads to the Administrative Court's decision database; it contains a session key and may expire. In that case the decision can be found by searching for the case number."
+languages: [de]
+topics: [heat, tariffs]
+summary_de: "Hauseigentümer waren gestützt auf § 295 Abs. 2 PBG zum Anschluss an ein öffentliches Fernwärmenetz verpflichtet worden, weil die Fernwärme ihrer bisherigen Ölheizung wirtschaftlich gleichwertig sei. Sie verlangten, die Energiegebühren auf 106 % der früheren Heizkosten zu beschränken. Das Verwaltungsgericht verneinte eine solche Plafonierung: Der Vergleich im Anschlussentscheid beruht auf Prognosen künftiger Kosten mit erheblichen Unsicherheiten, und Mehrkosten aus Entwicklungen, auf welche die Lieferantin keinen Einfluss hat, etwa Energiepreise oder Witterung, sind hinzunehmen. Ein Kostenvergleich muss auch Investitions- und Kapitalkosten einbeziehen und sich auf die gleiche Periode beziehen. Die als Aktiengesellschaft organisierte Lieferantin handelte hoheitlich und erhielt deshalb keine Parteientschädigung."
+summary_en: "Homeowners had been required under § 295(2) PBG to connect to a public district heating network because district heating was considered economically equivalent to their former oil heating. They asked for the energy charges to be capped at 106% of their previous heating costs. The Administrative Court rejected such a cap: the comparison in the connection decision is based on forecasts of future costs with considerable uncertainty, and additional costs from developments the supplier cannot influence, such as energy prices or weather, must be accepted. A cost comparison must also include investment and capital costs and relate to the same period. The supplier, organised as a public limited company, acted in the exercise of public authority and was therefore not awarded costs."
+source_url: "https://vgrzh.djiktzh.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=/cgi-bin/nph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=JURISWEB,127.0.0.1:7000&Parametername=WWW&Schema=ZH_VG_WEB&Source=&Aufruf=getMarkupDocument&cSprache=GER&nF30_KEY=106240&W10_KEY=15013347&nTrefferzeile=7&Template=standard/results/document.fiw"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-zh-energg]
+added: 2026-10-04
+last_checked: 2026-10-04

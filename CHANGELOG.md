@@ -2,6 +2,17 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.22.0] – 2026-10-04
+
+### Neu
+- Mustervertrag «Zusammenschluss zum Eigenverbrauch (ZEV) in Mietverhältnissen», Entwurf 0.9 zur Diskussion (nicht fachlich geprüft): Zusatz zum Mietvertrag, Abrechnungsgrundsätze mit Pauschale von höchstens 80 % und Berechnungsbeispiel, Unterlagen zur Einführung in bestehenden Mietverhältnissen, Stammdatenblatt, offene Fragen für Rückmeldungen; Word-Vorlage
+
+## [0.21.0] – 2026-10-04
+
+### Neu
+- EU-Recht (9 Rechtsakte, Typ «EU-Rechtsakt», Links auf EUR-Lex): Elektrizitätsbinnenmarktrichtlinie (EU) 2019/944 und -verordnung (EU) 2019/943, Erneuerbare-Energien-Richtlinie (EU) 2018/2001 und RED III (EU) 2023/2413, Strommarktdesign-Reform (RL (EU) 2024/1711, VO (EU) 2024/1747), REMIT (VO (EU) Nr. 1227/2011), Energieeffizienzrichtlinie (EU) 2023/1791, Gebäuderichtlinie (EU) 2024/1275
+- Verknüpfungen: EuGH C-293/23 mit RL 2019/944, EABG mit RED III, GModG mit EPBD
+
 ## [0.20.0] – 2026-10-04
 
 ### Neu

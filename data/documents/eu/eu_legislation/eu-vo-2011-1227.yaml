@@ -1,0 +1,24 @@
+id: eu-vo-2011-1227
+title: "Verordnung (EU) Nr. 1227/2011 über die Integrität und Transparenz des Energiegrosshandelsmarkts (REMIT)"
+title_en: "Regulation (EU) No 1227/2011 on wholesale energy market integrity and transparency (REMIT)"
+short_title: "REMIT"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32011R1227"
+date: 2011-10-25
+status: in_force
+status_note: "Durch die Verordnung (EU) 2024/1106 (REMIT II) geändert. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Amended by Regulation (EU) 2024/1106 (REMIT II). The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [market]
+summary_de: "REMIT verbietet Insiderhandel und Marktmanipulation auf den Grosshandelsmärkten für Strom und Gas, verpflichtet Marktteilnehmer zur Veröffentlichung von Insiderinformationen, zur Registrierung und zur Meldung von Transaktionen an ACER und regelt die Marktüberwachung durch ACER und die nationalen Regulierungsbehörden."
+summary_en: "REMIT prohibits insider trading and market manipulation on wholesale electricity and gas markets, requires market participants to disclose inside information, to register and to report transactions to ACER, and governs market monitoring by ACER and national regulators."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32011R1227"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-vo-2019-943]
+added: 2026-10-04
+last_checked: 2026-10-04

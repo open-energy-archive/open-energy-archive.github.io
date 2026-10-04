@@ -1,0 +1,24 @@
+id: eu-vo-2019-943
+title: "Verordnung (EU) 2019/943 über den Elektrizitätsbinnenmarkt"
+title_en: "Regulation (EU) 2019/943 on the internal market for electricity"
+short_title: "Elektrizitätsbinnenmarktverordnung"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32019R0943"
+date: 2019-06-05
+status: in_force
+status_note: "Seit 1.1.2020 anwendbar. Durch die Verordnung (EU) 2024/1747 (Strommarktdesign-Reform) geändert. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Applicable since 1 January 2020. Amended by Regulation (EU) 2024/1747 (electricity market design reform). The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [market, grid, cross_border, supply_security, tariffs]
+summary_de: "Die Verordnung enthält die Grundsätze für den Betrieb der Strommärkte: Day-Ahead-, Intraday- und Regelenergiemärkte, Bilanzverantwortung, Engpassmanagement und Redispatch, die Bereitstellung grenzüberschreitender Übertragungskapazität (u. a. das 70-%-Kriterium), Netzentgelte, Kapazitätsmechanismen sowie die Zusammenarbeit der Übertragungsnetzbetreiber in ENTSO-E und regionalen Koordinierungszentren."
+summary_en: "The regulation sets out the principles for operating electricity markets: day-ahead, intraday and balancing markets, balance responsibility, congestion management and redispatch, the provision of cross-border transmission capacity (including the 70% criterion), network charges, capacity mechanisms and cooperation of transmission system operators in ENTSO-E and regional coordination centres."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019R0943"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-rl-2019-944, eu-vo-2024-1747]
+added: 2026-10-04
+last_checked: 2026-10-04

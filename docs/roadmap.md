@@ -11,8 +11,9 @@
 - [ ] Weitere BGer-/BVGer-Entscheide (Eigenverbrauch/ZEV, Rückliefervergütung, alpine Solaranlagen); Verordnungspaket Energie (Vernehmlassung ab 15.4.2026) nach Verabschiedung aufnehmen; Uri: Wortlaut prüfen, sobald in der Gesetzessammlung
 - [x] Kantonale Energiegesetze: alle Kantone mit eigenem Energiegesetz (25; OW regelt Energie im Baugesetz)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
-- [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-Muster prüfen lassen
-- [ ] Weitere Musterverträge: ZEV, vZEV, PPA, LEG als Teilnahmevertrag mit Betreiberin
+- [x] Mustervertrag ZEV in Mietverhältnissen (Entwurf 0.9 zur Diskussion, Pauschale 80 %)
+- [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG- und ZEV-Muster prüfen lassen; Rückmeldungen zum ZEV-Entwurf einarbeiten (Version 1.0)
+- [ ] Weitere Musterverträge: vZEV, ZEV unter Grundeigentümern, PPA, LEG als Teilnahmevertrag mit Betreiberin
 - [ ] Französische und italienische Metadaten
 
 ## Phase 2 – DACH
@@ -26,7 +27,8 @@
 - [ ] Fachreviewer pro Land
 
 ## Phase 3 – EU und englischsprachiger Raum
-- [ ] EU: RED III, Strommarktdesign-Reform, Elektrizitätsbinnenmarkt-VO/-RL, ACER-Entscheide, EuGH
+- [x] EU, erste Tranche: RL 2019/944, VO 2019/943, RED II/III, Strommarktdesign-Reform (RL 2024/1711, VO 2024/1747), REMIT, EED, EPBD; EuGH C-293/23, C-718/18
+- [ ] EU, weitere: ACER-Verordnung (EU) 2019/942, Gas- und Wasserstoffpaket (RL 2024/1788, VO 2024/1789), Netzkodizes, ACER-Entscheide, weitere EuGH-Urteile
 - [ ] UK, Irland; Metadaten auf Englisch
 
 ## Phase 4 – Weltweit

@@ -1,0 +1,24 @@
+id: eu-rl-2024-1275
+title: "Richtlinie (EU) 2024/1275 über die Gesamtenergieeffizienz von Gebäuden (Neufassung, EPBD)"
+title_en: "Directive (EU) 2024/1275 on the energy performance of buildings (recast, EPBD)"
+short_title: "EPBD"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32024L1275"
+date: 2024-04-24
+status: in_force
+status_note: "Umsetzungsfrist grundsätzlich 29.5.2026. In Deutschland ist die Umsetzung u. a. mit der Gebäudereform 2026 (GModG) angekündigt. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Transposition deadline generally 29 May 2026. In Germany implementation is announced among others with the 2026 buildings reform (GModG). The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [energy_efficiency, heat, solar, mobility]
+summary_de: "Die Richtlinie zielt auf einen emissionsfreien Gebäudebestand bis 2050. Neue Gebäude sollen ab 2030 (öffentliche ab 2028) Nullemissionsgebäude sein; sie enthält Vorgaben zur Sanierung der Gebäude mit der schlechtesten Gesamtenergieeffizienz, eine schrittweise Pflicht zu Solaranlagen auf geeigneten Gebäuden, Regeln zu Energieausweisen und zur Ladeinfrastruktur."
+summary_en: "The directive aims at a zero-emission building stock by 2050. New buildings are to be zero-emission buildings from 2030 (public buildings from 2028); it contains requirements for renovating the worst-performing buildings, a phased obligation to install solar on suitable buildings, and rules on energy performance certificates and charging infrastructure."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1275"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-rl-2023-1791, de-gmodg]
+added: 2026-10-04
+last_checked: 2026-10-04

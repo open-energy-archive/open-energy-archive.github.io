@@ -1,0 +1,24 @@
+id: eu-rl-2024-1711
+title: "Richtlinie (EU) 2024/1711 zur Verbesserung der Gestaltung des Elektrizitätsmarkts der Union (Strommarktdesign-Reform, Richtlinie)"
+title_en: "Directive (EU) 2024/1711 improving the Union's electricity market design"
+short_title: "Strommarktdesign-Reform (RL)"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32024L1711"
+date: 2024-06-13
+status: in_force
+status_note: "Ändert die Richtlinien (EU) 2018/2001 und 2019/944. Umsetzungsfrist grundsätzlich 17.1.2025. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Amends Directives (EU) 2018/2001 and 2019/944. Transposition deadline generally 17 January 2025. The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [market, self_consumption, tariffs, ppa, supply_security]
+summary_de: "Die Richtlinie stärkt die Rechte der Endkunden, etwa auf Festpreisverträge neben dynamischen Tarifen, besseren Schutz vor Versorgungsunterbrüchen und Pflichten der Lieferanten zum Risikomanagement. Sie führt ein Recht auf gemeinsame Nutzung von Energie (Energy Sharing) ein und erleichtert Stromabnahmeverträge (PPA)."
+summary_en: "The directive strengthens final customers' rights, for example to fixed-price contracts alongside dynamic prices, better protection against disconnection and supplier obligations on risk management. It introduces a right to energy sharing and facilitates power purchase agreements (PPAs)."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L1711"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-rl-2019-944, eu-vo-2024-1747, eu-rl-2018-2001]
+added: 2026-10-04
+last_checked: 2026-10-04

@@ -1,0 +1,24 @@
+id: eu-rl-2023-1791
+title: "Richtlinie (EU) 2023/1791 zur Energieeffizienz (Neufassung)"
+title_en: "Directive (EU) 2023/1791 on energy efficiency (recast)"
+short_title: "EED"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32023L1791"
+date: 2023-09-13
+status: in_force
+status_note: "Umsetzungsfrist grundsätzlich 11.10.2025. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Transposition deadline generally 11 October 2025. The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [energy_efficiency, heat]
+summary_de: "Die Richtlinie verankert den Grundsatz «Energieeffizienz an erster Stelle», legt ein Unionsziel zur Senkung des Endenergieverbrauchs bis 2030 fest und enthält Pflichten zu Energieeinsparungen, zur jährlichen Renovierung öffentlicher Gebäude, zu Energieaudits und -managementsystemen in Unternehmen sowie zur Wärme- und Kälteplanung."
+summary_en: "The directive establishes the 'energy efficiency first' principle, sets an EU target for reducing final energy consumption by 2030 and contains obligations on energy savings, annual renovation of public buildings, energy audits and management systems in companies, and heating and cooling planning."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L1791"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-rl-2024-1275]
+added: 2026-10-04
+last_checked: 2026-10-04

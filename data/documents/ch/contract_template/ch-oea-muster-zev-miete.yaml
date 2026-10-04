@@ -1,0 +1,31 @@
+id: ch-oea-muster-zev-miete
+title: "Mustervertrag Zusammenschluss zum Eigenverbrauch (ZEV) in Mietverhältnissen – Zusatz zum Mietvertrag, Abrechnungsgrundsätze, Unterlagen zur Einführung, Stammdatenblatt"
+title_en: "Model agreement for a self-consumption community (ZEV) with tenants – lease rider, billing principles, introduction documents, master data sheet"
+short_title: Muster ZEV Miete
+doc_type: contract_template
+jurisdiction: CH
+issuer: "Open Energy Archive"
+reference: "OEA-CH-ZEV-MIETE v0.9"
+version: "0.9"
+date: 2026-10-04
+status: draft
+status_note: "Entwurf zur Diskussion, nicht fachlich geprüft – Rückmeldungen aus der Praxis erwünscht (offene Fragen am Schluss des Musters). Muster, keine Rechtsberatung. Gestützt auf Art. 16–18 EnG, Art. 14–18 EnV (Stand der Kostenanlastung an Mietparteien gemäss Fassung 2023; Nummerierung seit 2025 zu prüfen), Mietrecht und den Leitfaden Eigenverbrauch 3.0."
+status_note_en: "Draft for discussion, not reviewed by an expert – feedback from practice welcome (open questions at the end of the template). Template, not legal advice. Based on Art. 16–18 EnG, Art. 14–18 EnV (cost allocation to tenants as in the 2023 version; numbering since 2025 to be checked), tenancy law and the Self-Consumption Guide 3.0."
+languages: [de]
+topics: [self_consumption, solar, tariffs, storage, mobility]
+summary_de: "Vertragsmuster für einen Zusammenschluss zum Eigenverbrauch auf grösseren Arealen mit einer Vermieterin und vielen Mietparteien. Es umfasst einen Zusatz zum Mietvertrag mit den schriftlich festzuhaltenden Mindestinhalten, Abrechnungsgrundsätze für die Pauschale von höchstens 80 % des externen Standardstromprodukts mit Berechnungsbeispiel, Unterlagen zur Einführung in bestehenden Mietverhältnissen (Begleitschreiben, Begründung für das amtliche Formular, Erklärung über Teilnahme oder Ablehnung) sowie ein Stammdatenblatt. Hinweise zu Contracting, Abrechnungsdienstleistern, Gewerbemietparteien, Speichern und Ladeinfrastruktur."
+summary_en: "Model agreement for a self-consumption community (ZEV) on larger sites with one landlord and many tenants. It contains a lease rider with the minimum content to be agreed in writing, billing principles for the flat rate of at most 80% of the external standard electricity product with a worked example, documents for introduction in existing tenancies (cover letter, wording for the official form, declaration of participation or refusal) and a master data sheet. Notes on contracting, billing service providers, commercial tenants, storage and charging infrastructure. Available in German only."
+source_url: "https://github.com/open-energy-archive/open-energy-archive.github.io/blob/main/content/mustervertraege/ch-zev-miete/mustervertrag-zev-miete.md"
+content: content/mustervertraege/ch-zev-miete/mustervertrag-zev-miete.md
+downloads:
+  - label: "Word-Vorlage (.docx)"
+    path: content/mustervertraege/ch-zev-miete/mustervertrag-zev-miete.docx
+rights:
+  status: open_license
+  license: CC-BY-4.0
+  basis: "Eigenes Werk des Projekts"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env, ch-bfe-leitfaden-eigenverbrauch-v3, ch-vse-her-2025, ch-oea-muster-leg-verein]
+added: 2026-10-04
+last_checked: 2026-10-04
+contributors: [bernhard-weber]

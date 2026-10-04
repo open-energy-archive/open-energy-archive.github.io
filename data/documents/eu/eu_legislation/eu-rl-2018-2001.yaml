@@ -1,0 +1,24 @@
+id: eu-rl-2018-2001
+title: "Richtlinie (EU) 2018/2001 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (Erneuerbare-Energien-Richtlinie, RED II, geändert durch RED III)"
+title_en: "Directive (EU) 2018/2001 on the promotion of the use of energy from renewable sources (RED II, as amended by RED III)"
+short_title: "RED II/III"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32018L2001"
+date: 2018-12-11
+status: in_force
+status_note: "Durch die Richtlinie (EU) 2023/2413 (RED III) wesentlich geändert; der verlinkte Text ist die Stammfassung, die konsolidierte Fassung ist auf EUR-Lex abrufbar. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Substantially amended by Directive (EU) 2023/2413 (RED III); the linked text is the original version, the consolidated version is available on EUR-Lex. The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [renewables, subsidies, self_consumption, permitting, heat, mobility, hydrogen]
+summary_de: "Die Richtlinie legt das verbindliche Unionsziel für den Anteil erneuerbarer Energien fest und regelt Fördersysteme, Herkunftsnachweise, Eigenversorgung und Erneuerbare-Energie-Gemeinschaften, Genehmigungsverfahren sowie erneuerbare Energien in Wärme, Kälte und Verkehr. Sie bildet die Grundlage, die RED III 2023 erweitert hat."
+summary_en: "The directive sets the binding EU target for the share of renewable energy and governs support schemes, guarantees of origin, self-consumption and renewable energy communities, permitting procedures and renewables in heating, cooling and transport. It is the basis that RED III extended in 2023."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32018L2001"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-rl-2023-2413, eu-rl-2024-1711]
+added: 2026-10-04
+last_checked: 2026-10-04

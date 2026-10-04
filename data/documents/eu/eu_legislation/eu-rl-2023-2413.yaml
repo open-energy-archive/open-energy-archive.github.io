@@ -1,0 +1,24 @@
+id: eu-rl-2023-2413
+title: "Richtlinie (EU) 2023/2413 zur Änderung der Erneuerbare-Energien-Richtlinie (RED III)"
+title_en: "Directive (EU) 2023/2413 amending the Renewable Energy Directive (RED III)"
+short_title: "RED III"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32023L2413"
+date: 2023-10-18
+status: in_force
+status_note: "Umsetzungsfrist grundsätzlich 21.5.2025, für Teile der Genehmigungsbestimmungen bereits 1.7.2024. In Österreich u. a. durch das EABG, in Deutschland u. a. durch Änderungen im Planungsrecht umgesetzt. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Transposition deadline generally 21 May 2025, for parts of the permitting provisions already 1 July 2024. Implemented in Austria among others by the EABG and in Germany among others by changes in planning law. The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [renewables, permitting, heat, mobility, hydrogen]
+summary_de: "RED III hebt das Unionsziel für erneuerbare Energien auf mindestens 42,5 % des Bruttoendenergieverbrauchs bis 2030 an. Sie beschleunigt Genehmigungsverfahren, unter anderem mit Beschleunigungsgebieten, Fristen und der Vermutung, dass Erneuerbaren-Anlagen im überragenden öffentlichen Interesse liegen, und verschärft die Vorgaben für Wärme, Industrie, Gebäude und Verkehr."
+summary_en: "RED III raises the EU target for renewable energy to at least 42.5% of gross final energy consumption by 2030. It accelerates permitting, among other things through acceleration areas, deadlines and the presumption that renewable plants are in the overriding public interest, and tightens the requirements for heating, industry, buildings and transport."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023L2413"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-rl-2018-2001, at-eabg]
+added: 2026-10-04
+last_checked: 2026-10-04

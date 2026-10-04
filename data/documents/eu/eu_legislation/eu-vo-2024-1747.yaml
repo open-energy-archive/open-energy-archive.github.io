@@ -1,0 +1,24 @@
+id: eu-vo-2024-1747
+title: "Verordnung (EU) 2024/1747 zur Verbesserung der Gestaltung des Elektrizitätsmarkts der Union (Strommarktdesign-Reform, Verordnung)"
+title_en: "Regulation (EU) 2024/1747 improving the Union's electricity market design"
+short_title: "Strommarktdesign-Reform (VO)"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32024R1747"
+date: 2024-06-13
+status: in_force
+status_note: "Ändert die Verordnungen (EU) 2019/942 und 2019/943. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Amends Regulations (EU) 2019/942 and 2019/943. The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [market, subsidies, ppa, supply_security, renewables]
+summary_de: "Die Verordnung schreibt vor, dass direkte Preisstützungen für neue Erzeugung aus erneuerbaren Energien und Kernenergie grundsätzlich als zweiseitige Differenzverträge (Contracts for Difference) auszugestalten sind, fördert Stromabnahmeverträge (PPA) und Terminmärkte und regelt die Ausrufung einer regionalen oder unionsweiten Strompreiskrise."
+summary_en: "The regulation requires direct price support for new generation from renewables and nuclear to be designed in principle as two-way contracts for difference, promotes power purchase agreements (PPAs) and forward markets, and governs the declaration of a regional or EU-wide electricity price crisis."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1747"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-vo-2019-943, eu-rl-2024-1711]
+added: 2026-10-04
+last_checked: 2026-10-04

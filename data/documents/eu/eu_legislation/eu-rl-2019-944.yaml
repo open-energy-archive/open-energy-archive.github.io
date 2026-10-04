@@ -1,0 +1,24 @@
+id: eu-rl-2019-944
+title: "Richtlinie (EU) 2019/944 mit gemeinsamen Vorschriften für den Elektrizitätsbinnenmarkt (Elektrizitätsbinnenmarktrichtlinie)"
+title_en: "Directive (EU) 2019/944 on common rules for the internal market for electricity"
+short_title: "Elektrizitätsbinnenmarktrichtlinie"
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: "Europäisches Parlament und Rat der Europäischen Union"
+reference: "CELEX 32019L0944"
+date: 2019-06-05
+status: in_force
+status_note: "Umsetzungsfrist 31.12.2020. Durch die Richtlinie (EU) 2024/1711 (Strommarktdesign-Reform) geändert. Massgebend ist die konsolidierte Fassung auf EUR-Lex; spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht unmittelbar anwendbar."
+status_note_en: "Transposition deadline 31 December 2020. Amended by Directive (EU) 2024/1711 (electricity market design reform). The consolidated version on EUR-Lex is authoritative; later amendments not checked in detail. Not directly applicable in Switzerland."
+languages: [de, en, fr, it]
+topics: [grid, market, tariffs, self_consumption, storage]
+summary_de: "Die Richtlinie regelt den Elektrizitätsbinnenmarkt: freie Lieferantenwahl, Rechte der Endkunden (Verträge, Rechnungen, Lieferantenwechsel, intelligente Zähler, dynamische Tarife), aktive Kunden und Bürgerenergiegemeinschaften, Aufgaben und Entflechtung der Verteil- und Übertragungsnetzbetreiber sowie Unabhängigkeit und Befugnisse der Regulierungsbehörden. Ihr Begriff des Verteilernetzes war massgebend für das EuGH-Urteil C-293/23 zur deutschen Kundenanlage."
+summary_en: "The directive governs the internal electricity market: free choice of supplier, rights of final customers (contracts, bills, switching, smart meters, dynamic prices), active customers and citizen energy communities, tasks and unbundling of distribution and transmission system operators, and the independence and powers of regulatory authorities. Its definition of a distribution system was decisive for CJEU judgment C-293/23 on the German customer installation."
+source_url: "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32019L0944"
+rights:
+  status: official_work
+  basis: "Rechtsakt der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex"
+  mirror_allowed: true
+related: [eu-vo-2019-943, eu-rl-2024-1711, eu-eugh-c-293-23]
+added: 2026-10-04
+last_checked: 2026-10-04

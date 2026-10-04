@@ -13,7 +13,7 @@ languages: [de]
 topics: [grid, market, self_consumption]
 summary_de: "Die Betreiberin eines Arealnetzes in einem Einkaufszentrum stritt mit der Energie Thun AG darüber, ob die Mieter im Areal als Endverbraucher im Sinne des Stromversorgungsrechts gelten und wie die Elektrizitätsleistungen zur Feinverteilung abzurechnen sind. Das Bundesgericht klärte die Stellung der Arealnetzbetreiber gegenüber dem Verteilnetzbetreiber und den Endverbrauchern und hielt fest, dass die Endverbraucher im Arealnetz ihre stromversorgungsrechtlichen Ansprüche behalten und der Arealnetzbetreiber deren Verbrauch nicht ohne Weiteres bündeln kann. Die Beschwerde wurde abgewiesen."
 summary_en: "The operator of a site network in a shopping centre disputed with Energie Thun AG whether the tenants on the site count as end consumers under electricity supply law and how fine-distribution services are to be billed. The Federal Supreme Court clarified the position of site-network operators towards the distribution grid operator and end consumers, holding that end consumers in a site network keep their rights under electricity supply law and that the site-network operator cannot simply pool their consumption. The appeal was dismissed."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F141-II-141%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F141-II-141%3Ade&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

@@ -13,10 +13,10 @@ languages: [fr]
 topics: [wind, permitting, renewables]
 summary_de: "Das Kantonsgericht Neuenburg hatte die Baubewilligungen für die 19 Windkraftanlagen aufgehoben, weil das Anlagenmodell noch nicht definitiv gewählt war. Das Bundesgericht trat auf die Beschwerde ein: Seit dem Windexpress (Art. 71c EnG, Art. 83 lit. z BGG, in Kraft seit 1.2.2024) ist der Weiterzug bei Windenergieanlagen von nationalem Interesse nur bei einer Rechtsfrage von grundsätzlicher Bedeutung möglich, und zwar auch bei einer Verweigerung der Bewilligung; eine solche lag hier vor. In der Sache hielt es fest, dass die Bewilligung auf einem Anlagentyp oder einer Bandbreite untersuchter Modelle beruhen darf, wenn die Umweltverträglichkeit für das jeweils ungünstigste Modell geprüft und die technischen Merkmale und Schutzmassnahmen verbindlich festgelegt sind; die Behörde muss prüfen, dass das später gewählte Modell im festgelegten Rahmen liegt."
 summary_en: "The Neuchâtel Cantonal Court had annulled the building permits for the 19 wind turbines because the turbine model had not yet been definitively chosen. The court admitted the appeal: since the wind express (Art. 71c EnG, Art. 83(z) BGG, in force since 1 February 2024), appeals concerning wind installations of national interest are only possible on a legal question of fundamental importance, also where a permit is refused; such a question arose here. On the merits it held that a permit may be based on a reference turbine or a range of studied models if environmental compatibility was assessed for the least favourable model and the technical characteristics and protective measures are set bindingly; the authority must check that the model later chosen stays within that framework."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F152-II-461%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F152-II-461%3Ade&lang=de&type=show_document"
 alternate_urls:
   - label: "Volltext des Urteils (Bundesgericht)"
-    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=01.12.2025_1C_447/2024"
+    url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F01-12-2025-1C_447-2024&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

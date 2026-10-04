@@ -13,7 +13,7 @@ languages: [de]
 topics: [grid, supply_security]
 summary_de: "Zwei Unternehmen klagten vor einem kantonalen Handelsgericht gegen Swissgrid auf Korrektur einer Bilanzgruppenabrechnung und Rückerstattung von Kosten für Ausgleichsenergie, die nach einem Eingriff von Swissgrid zur Gewährleistung der Netzsicherheit verrechnet worden waren. Das Bundesgericht qualifizierte die zugrunde liegenden Vereinbarungen als öffentlich-rechtlich und hielt fest, dass Art. 5 Abs. 5 StromVV gegen Art. 164 und Art. 182 Abs. 1 BV verstösst, soweit er Streitigkeiten aus öffentlich-rechtlichen Verhältnissen auf den Zivilweg verweist, da eine solche Zuständigkeitsregelung ein formelles Gesetz erfordert. Die Zivilgerichte waren daher für die Klage nicht zuständig."
 summary_en: "Two companies sued Swissgrid before a cantonal commercial court to correct a balance-group settlement and recover balancing-energy costs charged after a Swissgrid intervention to ensure grid security. The Federal Supreme Court classified the underlying agreements as governed by public law and held that Art. 5(5) StromVV violates Art. 164 and 182(1) of the Federal Constitution insofar as it refers public-law disputes to the civil courts, since such a rule on jurisdiction requires a formal statute. The civil courts therefore lacked jurisdiction."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F148-III-172%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F148-III-172%3Ade&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

@@ -13,7 +13,7 @@ languages: [de]
 topics: [grid, tariffs]
 summary_de: "Ein Endverbraucher verlangte im Streitfall vor der ElCom die Überprüfung der Netznutzungstarife der CKW AG für die Jahre 2009 bis 2016 und rügte unter anderem eine ungenügende Sachverhaltsabklärung und eine eingeschränkte Akteneinsicht. Das Bundesgericht hielt fest, dass im individuellen Tarifprüfungsverfahren derselbe Prüfmassstab wie bei einer Prüfung von Amtes wegen gilt und nach dem Basisjahrprinzip auf die effektiven Kosten des letzten abgeschlossenen Geschäftsjahres abzustellen ist; die ElCom darf sich ohne konkrete Zweifel auf die deklarierten Werte der Kostenrechnung stützen. Die Beschwerde wurde abgewiesen."
 summary_en: "An end consumer asked ElCom to review CKW AG's grid usage tariffs for 2009 to 2016, complaining among other things of insufficient fact-finding and restricted access to files. The Federal Supreme Court held that individual tariff reviews apply the same standard as reviews ex officio and that, under the base-year principle, the actual costs of the last completed financial year are decisive; absent concrete doubts, ElCom may rely on the values declared in the cost accounts. The appeal was dismissed."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F151-II-687%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F151-II-687%3Ade&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

@@ -13,10 +13,10 @@ languages: [fr]
 topics: [wind, permitting]
 summary_de: "Der Bundesrat hatte den Windpark Eoljoux im Wald und im BLN-Objekt Nr. 1022 «Vallée de Joux et Haut-Jura vaudois» bei der Genehmigung des Waadtländer Richtplans nicht als Festsetzung genehmigt. Das Kantonsgericht hob deshalb den Nutzungsplan auf. Das Bundesgericht hielt fest, dass eine Gemeinde, die durch den behördenverbindlichen Richtplan an der Realisierung eines Projekts gehindert wird, diesen im Anfechtungsverfahren vorfrageweise überprüfen lassen kann. In der Sache bestätigte es aber: Ohne Festsetzung im Richtplan kann ein Windpark dieser Grösse weder Gegenstand eines Nutzungsplans noch einer Rodungsbewilligung sein."
 summary_en: "When approving the Vaud structure plan, the Federal Council had not approved the Eoljoux wind farm, located in forest and in Federal Inventory of Landscapes site No. 1022 'Vallée de Joux et Haut-Jura vaudois', as a settled entry. The Cantonal Court therefore annulled the land-use plan. The court held that a municipality prevented by the binding structure plan from realising a project may have the plan reviewed incidentally. On the merits, however, it confirmed that without a settled entry in the structure plan a wind farm of this size can be the subject neither of a land-use plan nor of a clearance permit."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F149-II-86%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F149-II-86%3Ade&lang=de&type=show_document"
 alternate_urls:
   - label: "Volltext des Urteils (Bundesgericht)"
-    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.01.2023_1C_240/2021"
+    url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F27-01-2023-1C_240-2021&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

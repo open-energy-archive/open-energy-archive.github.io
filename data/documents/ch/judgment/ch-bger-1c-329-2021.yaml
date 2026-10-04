@@ -13,10 +13,10 @@ languages: [fr]
 topics: [wind, permitting, renewables]
 summary_de: "Der Windpark Montagne de Tramelan im Berner Jura sieht sieben Windkraftanlagen mit einer erwarteten Jahresproduktion von 27 bis 31 GWh vor; die Gemeinden Tramelan und Saicourt hatten dem Projekt 2015 zugestimmt. Die jurassische Gemeinde Les Genevez und mehrere Privatpersonen rügten den kantonalen Richtplan, Lärm- und Landschaftsschutz, die nächtliche Befeuerung für die Luftfahrt und den Fledermausschutz. Das Bundesgericht wies diese Rügen ab und ergänzte einzig die Auflagen zum Amphibienschutz während der Bauarbeiten."
 summary_en: "The Montagne de Tramelan wind farm in the Bernese Jura comprises seven turbines with an expected annual output of 27 to 31 GWh; the municipalities of Tramelan and Saicourt approved the project in 2015. The Jura municipality of Les Genevez and several individuals challenged the cantonal structure plan, noise and landscape protection, night-time aviation lighting and bat protection. The court rejected these objections and only supplemented the conditions on amphibian protection during construction."
-source_url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://01-11-2023-1C_329-2021"
+source_url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F01-11-2023-1C_329-2021&lang=de&type=show_document"
 alternate_urls:
   - label: "Urteil 1C_335/2021"
-    url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://01-11-2023-1C_335-2021"
+    url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F01-11-2023-1C_335-2021&lang=de&type=show_document"
   - label: "Medienmitteilung des Bundesgerichts vom 17.11.2023 (PDF)"
     url: "https://bger.ch/files/live/sites/bger/files/pdf/de/1c_0048_2021_2023_11_17_T_d_14_12_36.pdf"
 rights:

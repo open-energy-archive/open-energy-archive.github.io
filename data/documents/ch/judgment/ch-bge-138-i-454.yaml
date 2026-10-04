@@ -13,10 +13,10 @@ languages: [de]
 topics: [subsidies, tariffs, renewables]
 summary_de: "Eine Gasleitungsbetreiberin musste auf kantonale Anordnung Abwärme ihrer Kompressorenstation zur Stromerzeugung nutzen und speiste den Strom ins Netz eines Verteilwerks ein; das Luzerner Departement hatte die Vergütung gestützt auf § 18 des kantonalen Energiegesetzes festgesetzt. Das Bundesgericht entschied, dass die seit 1. Januar 2009 geltenden Art. 7 und 7a EnG (Abnahme- und Vergütungspflicht, kostendeckende Einspeisevergütung) abschliessend sind. Kantonale Vergütungspflichten, die sich auf die Elektrizitätstarife auswirken, haben daneben keinen Raum mehr; Mehrkosten durch Abnahme über dem Marktpreis sind nur zulässig, soweit das Bundesrecht sie vorsieht. Die Strompreise regelt das Stromversorgungsrecht grundsätzlich abschliessend."
 summary_en: "A gas pipeline operator was required by cantonal order to use waste heat from its compressor station to generate electricity and fed it into a distribution utility's grid; the Lucerne department had set the remuneration under § 18 of the cantonal Energy Act. The court held that Art. 7 and 7a EnG in force since 1 January 2009 (offtake and remuneration obligation, cost-covering feed-in tariff) are exhaustive. Cantonal remuneration obligations affecting electricity tariffs no longer have any room; additional costs from offtake above market prices are only permissible where federal law provides for them. Electricity prices are in principle regulated exhaustively by electricity supply law."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F138-I-454%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F138-I-454%3Ade&lang=de&type=show_document"
 alternate_urls:
   - label: "Volltext des Urteils (Bundesgericht)"
-    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=27.10.2012_2C_269/2012"
+    url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F27-10-2012-2C_269-2012&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

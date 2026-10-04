@@ -13,10 +13,10 @@ languages: [de]
 topics: [heat, energy_efficiency]
 summary_de: "Mit der 2021 vom Zürcher Stimmvolk angenommenen Revision des Energiegesetzes (Umsetzung der MuKEn 2014) müssen bestehende ortsfeste elektrische Widerstandsheizungen und rein direkt beheizte zentrale Wassererwärmer bis 2030 ersetzt werden; Verstösse sind strafbar. Das Bundesgericht wies die Beschwerde wegen Verletzung der Eigentumsgarantie ab: Die Ersatzpflicht dient dem Umweltschutz und der Versorgungssicherheit, weil Wärmepumpen mit derselben Strommenge deutlich mehr Wärme erzeugen. Sie ist verhältnismässig, da Elektroheizungen seit 1991 bewilligungspflichtig sind, ihre übliche Lebensdauer bis 2030 erreicht ist und die Verordnung Ausnahmen vorsieht, etwa die Kompensation mit einer Photovoltaikanlage. Eine entschädigungspflichtige materielle Enteignung liegt in der Regel nicht vor."
 summary_en: "Under the revision of the Zurich Energy Act adopted by voters in 2021 (implementing MuKEn 2014), existing fixed electric resistance heating and purely directly heated central water heaters must be replaced by 2030; violations are punishable. The court dismissed the appeal alleging a breach of the guarantee of property: the obligation serves environmental protection and security of supply, as heat pumps produce much more heat from the same amount of electricity. It is proportionate, since electric heating has required a permit since 1991, its usual service life will have ended by 2030 and the ordinance provides exceptions, such as compensation by a PV system. As a rule there is no material expropriation requiring compensation."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F149-I-49%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F149-I-49%3Ade&lang=de&type=show_document"
 alternate_urls:
   - label: "Volltext des Urteils (Bundesgericht)"
-    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.03.2023_1C_37/2022"
+    url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F23-03-2023-1C_37-2022&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

@@ -1,6 +1,6 @@
 {
   "name": "open-energy-archive",
-  "version": "0.23.0",
+  "version": "0.23.1",
   "private": true,
   "description": "Offenes Archiv für Dokumente zu Elektrizität und Energie",
   "type": "module",

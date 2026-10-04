@@ -13,7 +13,7 @@ languages: [de]
 topics: [wind, permitting]
 summary_de: "Am Schwyberg im Kanton Freiburg war ein Windpark mit neun rund 140 Meter hohen Anlagen geplant. Das Bundesgericht hiess die Beschwerde von Natur- und Umweltschutzorganisationen gut: Ein Windpark dieser Grösse mit gewichtigen Auswirkungen auf Raum und Umwelt braucht eine Grundlage im kantonalen Richtplan, die hier fehlte; zudem seien die Interessen des Landschaftsschutzes zu wenig gewichtet worden, zumal der Windpark einen ersten schweren Eingriff seiner Art darstelle."
 summary_en: "A wind farm with nine turbines of about 140 metres was planned on the Schwyberg in the canton of Fribourg. The court upheld the appeal by nature and environmental organisations: a wind farm of this size with significant spatial and environmental impacts needs a basis in the cantonal structure plan, which was lacking; moreover, landscape protection had been given too little weight, as the wind farm would be the first serious intervention of its kind."
-source_url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://26-10-2016-1C_346-2014"
+source_url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F26-10-2016-1C_346-2014&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

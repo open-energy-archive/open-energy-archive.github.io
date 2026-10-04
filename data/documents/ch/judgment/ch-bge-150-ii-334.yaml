@@ -13,7 +13,7 @@ languages: [de]
 topics: [renewables, subsidies]
 summary_de: "Die Betreiberin einer im Einspeisevergütungssystem geförderten Biogasanlage wollte zusätzlich zugekauftes Klärgas verstromen; strittig war, ob es sich um eine Misch- oder eine Hybridanlage handelt und wie der Vergütungssatz zu berechnen ist. Das Bundesgericht qualifizierte die Anlage als Hybridanlage, hielt aber fest, dass Klärgas kein förderberechtigter Energieträger ist und der Vergütungssatz nach dem Energieanteil der einzelnen Energieträger gewichtet neu zu berechnen ist, wobei auf den Klärgasanteil keine Vergütung entfällt. Die Beschwerde des UVEK wurde gutgeheissen und die Sache an die Pronovo AG zurückgewiesen."
 summary_en: "The operator of a biogas plant supported under the feed-in remuneration system wanted to generate electricity from additionally purchased sewage gas; the question was whether this is a mixed or a hybrid plant and how the remuneration rate is calculated. The Federal Supreme Court classified the plant as a hybrid plant but held that sewage gas is not an eligible energy source and that the rate must be recalculated weighted by the share of each energy source, with no remuneration for the sewage-gas share. DETEC's appeal was upheld and the case remanded to Pronovo AG."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F150-II-334%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F150-II-334%3Ade&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

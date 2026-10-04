@@ -13,7 +13,7 @@ languages: [de]
 topics: [grid, market]
 summary_de: "Das Bundesgericht stufte das Netzanschlussverhältnis im Rahmen der Stromversorgung als öffentlich-rechtlich ein, weil der Anschluss Voraussetzung für die Netznutzung und Teil des Service public ist. Das gilt auch dann, wenn ein Endverbraucher seinen Netzzugang im freien Markt wahrnimmt."
 summary_en: "The Federal Supreme Court classified the grid connection relationship in electricity supply as governed by public law, because connection is a precondition for grid usage and part of the public service. This also applies where an end consumer exercises network access in the free market."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F144-III-111%3Ade&lang=de&zoom=IN&type=show_document"
+source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F144-III-111%3Ade&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

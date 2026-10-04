@@ -11,7 +11,7 @@ languages: [de]
 topics: [grid, tariffs, supply_security]
 summary_de: "Das Bundesgericht bestätigte die vorsorgliche Senkung des Tarifs für Systemdienstleistungen durch die ElCom von 0,90 auf 0,77 Rp./kWh. Der Entscheid betrifft die Tarifierung auf der Übertragungsnetzebene."
 summary_en: "The Federal Supreme Court upheld ElCom's provisional reduction of the tariff for ancillary services from 0.90 to 0.77 Rp./kWh. The decision concerns tariffs at transmission grid level."
-source_url: "https://search.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=highlight_simple_query&query_words=2C_367%2F2012&highlight_docid=2012-11-20-2C_367-2012"
+source_url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F20-11-2012-2C_367-2012&lang=de&type=show_document"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"

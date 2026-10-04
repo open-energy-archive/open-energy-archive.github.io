@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.23.1] – 2026-10-04
+
+### Behoben
+- Links zu Entscheiden des Bundesgerichts funktionierten nicht: Alle 42 Links (BGE und nicht publizierte Urteile) auf das Adressformat umgestellt, das die Entscheiddatenbank des Bundesgerichts selbst verwendet (`relevancy.bger.ch/php/clir/…` für BGE, `relevancy.bger.ch/php/aza/…` für Urteile)
+
 ## [0.23.0] – 2026-10-04
 
 ### Neu

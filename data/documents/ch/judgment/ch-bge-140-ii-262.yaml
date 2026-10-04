@@ -1,0 +1,26 @@
+id: ch-bge-140-ii-262
+title: "BGE 140 II 262 (Urteil 1C_283/2012 vom 2. April 2014) – Wasserrechtskonzession Kraftwerk Obergoms: Interessenabwägung bei Kleinwasserkraftwerk und Landschaftsschutz"
+title_en: "BGE 140 II 262 (judgment 1C_283/2012 of 2 April 2014) – water rights concession for the Obergoms power plant: balancing of interests for small hydropower and landscape protection"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "BGE 140 II 262 / 1C_283/2012"
+date: 2014-04-02
+status: final
+status_note: "Beschwerde von WWF, Pro Natura und Stiftung Landschaftsschutz teilweise gutgeheissen; Genehmigung der Konzession aufgehoben. Die Konzessionärin kann ein neues, angepasstes Gesuch stellen."
+status_note_en: "Appeal by WWF, Pro Natura and the Foundation for Landscape Protection partly upheld; approval of the concession annulled. The concessionaire may submit a new, adapted application."
+languages: [de]
+topics: [hydro, permitting, renewables]
+summary_de: "Ein Kleinwasserkraftwerk von 4,2 MW sollte Wasser des Gerewassers und des Gonerliwassers im Obergoms (VS) nutzen. Eine spezifische Grundlage im kantonalen Richtplan war für ein Vorhaben dieser Grösse nicht nötig. Die umfassende Interessenabwägung nach Art. 33 GSchG und Art. 22 WRG ergab jedoch, dass die Fassung des Gonerliwassers einen nicht zu rechtfertigenden Landschaftseingriff darstellt: Es wäre ein Ersteingriff in ein Landschaftsschutzgebiet von kantonaler Bedeutung mit eindrücklichen Kaskaden, bei geringem Beitrag zur Stromproduktion. Zur Konzessionsdauer hielt das Gericht fest, dass sie nicht nach der Amortisationsdauer bemessen werden muss; ihre Festlegung bis zum gesetzlichen Maximum von 80 Jahren liegt im Ermessen des verleihenden Gemeinwesens."
+summary_en: "A 4.2 MW small hydropower plant was to use water from the Gerewasser and the Gonerliwasser in Obergoms (VS). A specific basis in the cantonal structure plan was not required for a project of this size. The comprehensive balancing of interests under Art. 33 of the Waters Protection Act and Art. 22 of the Water Rights Act showed, however, that capturing the Gonerliwasser would be an unjustifiable intervention in the landscape: it would be the first intervention in a landscape protection area of cantonal importance with impressive cascades, for a small contribution to electricity production. On the concession term, the court held that it need not be based on the amortisation period; setting it, up to the statutory maximum of 80 years, lies within the discretion of the granting authority."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F140-II-262%3Ade&lang=de&zoom=IN&type=show_document"
+alternate_urls:
+  - label: "Volltext des Urteils (Bundesgericht)"
+    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=02.04.2014_1C_283/2012"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-721-80-wrg]
+added: 2026-10-04
+last_checked: 2026-10-04

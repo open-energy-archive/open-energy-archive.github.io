@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.23.0] – 2026-10-04
+
+### Neu
+- Schweiz, jetzt 135 Einträge – neun amtlich publizierte Leitentscheide des Bundesgerichts: BGE 149 I 49 (Ersatzpflicht für Elektroheizungen, Zürich), BGE 150 I 106 (Sanierung von Elektroheizungen, Waadt), BGE 152 II 461 (Windpark Montagne-de-Buttes, Anlagentyp und Rechtsweg nach Art. 71c EnG), BGE 151 II 312 (Rückerstattung des Netzzuschlags), BGE 149 II 86 (Windpark Eoljoux, Richtplan), BGE 140 II 262 (Wasserkraftwerk Obergoms), BGE 138 I 468 (keine kommunale Tarifgenehmigung), BGE 138 I 454 (abschliessende Bundesregelung der Einspeisevergütung), BGE 137 II 266 (Teilverkabelung Beznau–Birr)
+
 ## [0.22.0] – 2026-10-04
 
 ### Neu

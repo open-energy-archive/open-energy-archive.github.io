@@ -1,0 +1,26 @@
+id: ch-bge-152-ii-461
+title: "BGE 152 II 461 (arrêt 1C_447/2024 du 1er décembre 2025) – Parc éolien de la Montagne-de-Buttes: permis de construire avec éolienne type, question juridique de principe selon l'art. 71c LEne"
+title_en: "BGE 152 II 461 (judgment 1C_447/2024 of 1 December 2025) – Montagne-de-Buttes wind farm: building permit with a reference turbine, question of principle under Art. 71c EnG"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "BGE 152 II 461 / 1C_447/2024"
+date: 2025-12-01
+status: final
+status_note: "Beschwerde der Projektträgerin gutgeheissen und an das Kantonsgericht Neuenburg zurückgewiesen. Folgeentscheid zu 1C_48/2021."
+status_note_en: "Appeal by the project developer upheld and remitted to the Neuchâtel Cantonal Court. Follow-up to 1C_48/2021."
+languages: [fr]
+topics: [wind, permitting, renewables]
+summary_de: "Das Kantonsgericht Neuenburg hatte die Baubewilligungen für die 19 Windkraftanlagen aufgehoben, weil das Anlagenmodell noch nicht definitiv gewählt war. Das Bundesgericht trat auf die Beschwerde ein: Seit dem Windexpress (Art. 71c EnG, Art. 83 lit. z BGG, in Kraft seit 1.2.2024) ist der Weiterzug bei Windenergieanlagen von nationalem Interesse nur bei einer Rechtsfrage von grundsätzlicher Bedeutung möglich, und zwar auch bei einer Verweigerung der Bewilligung; eine solche lag hier vor. In der Sache hielt es fest, dass die Bewilligung auf einem Anlagentyp oder einer Bandbreite untersuchter Modelle beruhen darf, wenn die Umweltverträglichkeit für das jeweils ungünstigste Modell geprüft und die technischen Merkmale und Schutzmassnahmen verbindlich festgelegt sind; die Behörde muss prüfen, dass das später gewählte Modell im festgelegten Rahmen liegt."
+summary_en: "The Neuchâtel Cantonal Court had annulled the building permits for the 19 wind turbines because the turbine model had not yet been definitively chosen. The court admitted the appeal: since the wind express (Art. 71c EnG, Art. 83(z) BGG, in force since 1 February 2024), appeals concerning wind installations of national interest are only possible on a legal question of fundamental importance, also where a permit is refused; such a question arose here. On the merits it held that a permit may be based on a reference turbine or a range of studied models if environmental compatibility was assessed for the least favourable model and the technical characteristics and protective measures are set bindingly; the authority must check that the model later chosen stays within that framework."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F152-II-461%3Ade&lang=de&zoom=IN&type=show_document"
+alternate_urls:
+  - label: "Volltext des Urteils (Bundesgericht)"
+    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=01.12.2025_1C_447/2024"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-48-2021, ch-sr-730-0-eng, ch-as-2026-99-beschleunigungserlass]
+added: 2026-10-04
+last_checked: 2026-10-04

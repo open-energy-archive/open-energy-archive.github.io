@@ -1,0 +1,26 @@
+id: ch-bge-150-i-106
+title: "BGE 150 I 106 (arrêt 1C_600/2023 du 26 avril 2024) – Canton de Vaud: décret sur l'assainissement des chauffages et chauffe-eau électriques"
+title_en: "BGE 150 I 106 (judgment 1C_600/2023 of 26 April 2024) – Vaud decree on the renovation of electric heating and water heaters"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "BGE 150 I 106 / 1C_600/2023"
+date: 2024-04-26
+status: final
+status_note: "Abstrakte Normenkontrolle nach Entscheid des Verfassungsgerichts des Kantons Waadt vom 6.10.2023; Beschwerde abgewiesen."
+status_note_en: "Abstract review following the decision of the Vaud Constitutional Court of 6 October 2023; appeal dismissed."
+languages: [fr]
+topics: [heat, energy_efficiency]
+summary_de: "Der Grosse Rat des Kantons Waadt ergänzte 2022 das kantonale Energiegesetz und erliess ein Dekret (DACCE), das die Sanierung von Gebäuden mit ortsfesten elektrischen Widerstandsheizungen und Elektroboilern plant; für dezentrale Elektroheizungen gilt grundsätzlich eine Frist bis 1. Januar 2033, mit Dispens oder Fristverlängerung bei geringem oder mittlerem Stromverbrauch. Das Bundesgericht wies die Beschwerde ab. Die für die Sanierungspflicht wesentlichen Elemente sind im Dekret selbst geregelt; dass der Staatsrat in einer Richtlinie nur die massgebenden Verbrauchsschwellen festlegt, ist eine zulässige Delegation."
+summary_en: "In 2022 the Vaud Grand Council amended the cantonal Energy Act and adopted a decree (DACCE) planning the renovation of buildings with fixed electric resistance heating and electric water heaters; for decentralised electric heating the deadline is in principle 1 January 2033, with exemption or extension for low or medium electricity consumption. The court dismissed the appeal. The essential elements of the renovation obligation are set out in the decree itself; leaving only the relevant consumption thresholds to a directive of the Council of State is a permissible delegation."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F150-I-106%3Ade&lang=de&zoom=IN&type=show_document"
+alternate_urls:
+  - label: "Volltext des Urteils (Bundesgericht)"
+    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=26.04.2024_1C_600/2023"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-vd-lvlene, ch-bge-149-i-49]
+added: 2026-10-04
+last_checked: 2026-10-04

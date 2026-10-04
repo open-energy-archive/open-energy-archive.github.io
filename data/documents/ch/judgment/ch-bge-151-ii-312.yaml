@@ -1,0 +1,26 @@
+id: ch-bge-151-ii-312
+title: "BGE 151 II 312 (sentenza 2C_492/2022 del 21 novembre 2024) – Rückerstattung des Netzzuschlags: Ausschluss von Endverbrauchern, die hauptsächlich eine öffentliche Aufgabe erfüllen"
+title_en: "BGE 151 II 312 (judgment 2C_492/2022 of 21 November 2024) – refund of the grid surcharge: exclusion of final consumers mainly performing a public task"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "BGE 151 II 312 / 2C_492/2022"
+date: 2024-11-21
+status: final
+status_note: "Beschwerde des UVEK gutgeheissen; Urteil des Bundesverwaltungsgerichts A-4982/2019 aufgehoben und zurückgewiesen."
+status_note_en: "Appeal by the federal department (DETEC) upheld; Federal Administrative Court judgment A-4982/2019 annulled and remitted."
+languages: [it]
+topics: [subsidies, energy_efficiency, tariffs]
+summary_de: "Eine von 14 Tessiner Gemeinden gegründete Aktiengesellschaft, die ein Hallenbad mit Fitness- und Wellnessbereich betreibt, hatte 2016 mit dem Bund eine Zielvereinbarung über Energieeffizienz abgeschlossen, um den Netzzuschlag zurückerstattet zu erhalten. Seit dem neuen Energiegesetz (1.1.2018) sind Endverbraucher, die hauptsächlich eine öffentliche Aufgabe erfüllen, von der Rückerstattung ausgeschlossen. Das Bundesgericht hielt fest, dass die Zielvereinbarung nach altem wie neuem Recht nur eine von mehreren Voraussetzungen der Rückerstattung ist und keinen eigenständigen Anspruch begründet. Ab 2018 richtet sich die Rückerstattung für jedes Geschäftsjahr nach dem neuen Recht (Art. 39 und 40 EnG); diese unechte Rückwirkung ist zulässig. Das Bundesverwaltungsgericht muss nun prüfen, ob die Gesellschaft hauptsächlich eine öffentliche Aufgabe erfüllt."
+summary_en: "A company founded by 14 Ticino municipalities to operate an indoor pool with fitness and wellness facilities had concluded an energy efficiency target agreement with the Confederation in 2016 to obtain a refund of the grid surcharge. Since the new Energy Act (1 January 2018), final consumers mainly performing a public task are excluded from refunds. The court held that, under both the old and the new law, the target agreement is only one of several conditions for a refund and does not create an independent entitlement. From 2018 the refund for each financial year is governed by the new law (Art. 39 and 40 EnG); this improper retroactive effect is permissible. The Federal Administrative Court must now examine whether the company mainly performs a public task."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F151-II-312%3Ade&lang=de&zoom=IN&type=show_document"
+alternate_urls:
+  - label: "Volltext des Urteils (Bundesgericht)"
+    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=21.11.2024_2C_492/2022"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env]
+added: 2026-10-04
+last_checked: 2026-10-04

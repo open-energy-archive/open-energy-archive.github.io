@@ -1,0 +1,26 @@
+id: ch-bge-138-i-468
+title: "BGE 138 I 468 (Urteil 2C_518/2012 vom 23. November 2012, Gemeinde Wangen SZ) – Keine kommunale Tarifgenehmigung für Energiepreise neben der ElCom"
+title_en: "BGE 138 I 468 (judgment 2C_518/2012 of 23 November 2012, municipality of Wangen SZ) – no municipal approval of energy tariffs alongside ElCom"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
+reference: "BGE 138 I 468 / 2C_518/2012"
+date: 2012-11-23
+status: final
+status_note: "Beschwerde der Netzbetreiberin gutgeheissen; Urteil des Verwaltungsgerichts Schwyz aufgehoben."
+status_note_en: "Appeal by the network operator upheld; judgment of the Schwyz Administrative Court annulled."
+languages: [de]
+topics: [tariffs, grid, market]
+summary_de: "Ein Konzessionsvertrag von 1996 behielt der Gemeinde Wangen die Genehmigung der Stromtarife der privaten Netzbetreiberin vor; der Gemeinderat verfügte, deren Tarife dürften höchstens 15 % über jenen des Gemeindewerks liegen. Das Bundesgericht entschied, dass das Stromversorgungsgesetz auch den Energiepreis grundsätzlich abschliessend regelt und die Tarife der Aufsicht der ElCom unterstehen. Eine parallele kantonale oder kommunale Tarifgenehmigung ist ausgeschlossen. Der Konzessionsvertrag bleibt als Grundlage der Netzgebietszuteilung gültig; nicht bundesrechtlich geregelt sind nur die Abgaben und Leistungen an Gemeinwesen."
+summary_en: "A concession agreement of 1996 reserved to the municipality of Wangen the approval of the private network operator's electricity tariffs; the municipal council ordered that its tariffs could be at most 15% above those of the municipal utility. The court held that the Electricity Supply Act in principle also regulates the energy price exhaustively and that tariffs are subject to ElCom's supervision. A parallel cantonal or municipal tariff approval is excluded. The concession agreement remains valid as the basis for allocating the network area; only charges and payments to public authorities are not regulated by federal law."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F138-I-468%3Ade&lang=de&zoom=IN&type=show_document"
+alternate_urls:
+  - label: "Volltext des Urteils (Bundesgericht)"
+    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=23.11.2012_2C_518/2012"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bge-138-i-454, ch-sr-734-7-stromvg]
+added: 2026-10-04
+last_checked: 2026-10-04

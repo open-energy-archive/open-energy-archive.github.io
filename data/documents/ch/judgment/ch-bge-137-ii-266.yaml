@@ -1,0 +1,26 @@
+id: ch-bge-137-ii-266
+title: "BGE 137 II 266 (Urteil 1C_398/2010 vom 5. April 2011, Gemeinde Riniken) – Hochspannungsleitung Beznau–Birr: Teilverkabelung statt Freileitung"
+title_en: "BGE 137 II 266 (judgment 1C_398/2010 of 5 April 2011, municipality of Riniken) – Beznau–Birr high-voltage line: partial undergrounding instead of an overhead line"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "BGE 137 II 266 / 1C_398/2010"
+date: 2011-04-05
+status: final
+status_note: "Amtlich publiziert als Auszug; Leitentscheid zur Wahl zwischen Freileitung und Erdkabel. Die Kriterien wurden später in der Leitungsverordnung (Mehrkostenfaktor) konkretisiert."
+status_note_en: "Officially published as an excerpt; leading case on choosing between overhead line and underground cable. The criteria were later specified in the Ordinance on Electrical Lines (additional cost factor)."
+languages: [de]
+topics: [grid, permitting]
+summary_de: "Die Axpo wollte die 220-kV-Freileitung Beznau–Birr durch eine 380/220-kV-Freileitung ersetzen; die Gemeinde Riniken und weitere verlangten eine Teilverkabelung im Gebiet Gäbihübel. Das Bundesgericht hielt fest, dass auch Eingriffe in Landschaften von nur lokaler oder mittlerer Bedeutung eine umfassende Interessenabwägung erfordern und dass zum Grundsatz der sparsamen und rationellen Energieverwendung ein effizienter Energietransport mit möglichst geringen Verlusten gehört. Im Gesamtkostenvergleich glichen die deutlich höheren Stromverlustkosten der Freileitung die höheren Investitionskosten des Kabels weitgehend aus; die Interessenabwägung fiel zugunsten der Teilverkabelung aus."
+summary_en: "Axpo wanted to replace the 220 kV Beznau–Birr overhead line with a 380/220 kV overhead line; the municipality of Riniken and others demanded partial undergrounding in the Gäbihübel area. The court held that interventions even in landscapes of only local or medium importance require a comprehensive balancing of interests and that the principle of economical and rational energy use includes efficient energy transport with minimal losses. In the overall cost comparison the much higher loss costs of the overhead line largely offset the higher investment costs of the cable; the balancing of interests favoured partial undergrounding."
+source_url: "https://search.bger.ch/ext/eurospider/live/de/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F137-II-266%3Ade&lang=de&zoom=IN&type=show_document"
+alternate_urls:
+  - label: "Volltext des Urteils (Bundesgericht)"
+    url: "http://relevancy.bger.ch/cgi-bin/JumpCGI?id=05.04.2011_1C_398/2010"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-734-0-eleg, ch-sr-734-31-lev]
+added: 2026-10-04
+last_checked: 2026-10-04

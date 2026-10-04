@@ -7,8 +7,8 @@ issuer: "Eidgenössische Elektrizitätskommission ElCom"
 reference: "212-00409"
 date: 2023-02-20
 status: final
-status_note: "Zwischenverfügung über vorsorgliche Massnahmen; Ausgang des Hauptverfahrens zur Angemessenheit der Energietarife 2023 und Rechtskraft nicht gesondert geprüft."
-status_note_en: "Interim decision on provisional measures; outcome of the main proceedings on the appropriateness of the 2023 energy tariffs and finality not checked separately."
+status_note: "Zwischenverfügung über vorsorgliche Massnahmen. Ein zweites Gesuch wies die ElCom am 6.7.2023 ab; die Beschwerde dagegen wies das BVGer mit A-4335/2023 vom 12.3.2024 ab. Hauptentscheid zu den Energietarifen 2023 und 2024: Verfügung vom 15.8.2025 (eigener Eintrag)."
+status_note_en: "Interim decision on provisional measures. ElCom rejected a second request on 6 July 2023; the Federal Administrative Court dismissed the appeal against it in A-4335/2023 of 12 March 2024. Main decision on the 2023 and 2024 energy tariffs: decision of 15 August 2025 (separate entry)."
 languages: [de]
 topics: [tariffs, market]
 summary_de: "Ein stromintensives Industrieunternehmen in der Grundversorgung wehrte sich gegen eine Erhöhung des Energietarifs 2023 um mehr als 100 % und beantragte, bis zum Entscheid weiterhin den Tarif 2022 anzuwenden. Die ElCom wies das Gesuch ab: Ein nicht leicht wiedergutzumachender Nachteil sei nicht glaubhaft gemacht, Dringlichkeit fehle, weil die Tarife seit Ende August 2022 bekannt waren, und eine Prognose zur Hauptsache sei nicht möglich. Eine Verdoppelung des Tarifs sage für sich allein nichts über dessen Angemessenheit aus; massgebend sei die Cost-Plus-Methode beim einzelnen Verteilnetzbetreiber."
@@ -18,6 +18,6 @@ rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"
   mirror_allowed: true
-related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
+related: [ch-elcom-212-00409-2025, ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
 added: 2026-10-03
 last_checked: 2026-10-03

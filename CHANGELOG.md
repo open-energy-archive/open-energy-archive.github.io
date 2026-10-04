@@ -2,6 +2,14 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.18.0] – 2026-10-03
+
+### Neu
+- Schweiz, jetzt 116 Einträge: BVGer A-321/2017 und BGer 2C_297/2019 (Energie Wasser Bern, Tarife 2009/2010) – damit ist die Verfahrenskette bis 2C_609/2024 vollständig verknüpft; ElCom-Hauptverfügung 212-00409 vom 15.8.2025 (Serge Ferrari Tersuisse gegen CKW, Energietarife 2023 und 2024)
+
+### Geändert
+- ElCom 212-00409 (Zwischenverfügung 2023): Stand mit zweitem Massnahmengesuch, BVGer A-4335/2023 und Verweis auf den Hauptentscheid ergänzt
+
 ## [0.17.0] – 2026-10-03
 
 ### Neu

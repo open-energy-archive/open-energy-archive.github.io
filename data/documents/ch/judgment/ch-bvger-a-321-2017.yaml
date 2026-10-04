@@ -1,0 +1,23 @@
+id: ch-bvger-a-321-2017
+title: "Urteil des Bundesverwaltungsgerichts A-321/2017 vom 20. Februar 2019 (Energie Wasser Bern gegen ElCom) – Netznutzungs- und Elektrizitätstarife 2009 und 2010"
+title_en: "Federal Administrative Court judgment A-321/2017 of 20 February 2019 (Energie Wasser Bern v ElCom) – network and electricity tariffs 2009 and 2010"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Bundesverwaltungsgericht, Abteilung I"
+reference: "A-321/2017"
+date: 2019-02-20
+status: final
+status_note: "Vom Bundesgericht mit Urteil 2C_297/2019 vom 28. Mai 2020 in zwei Nebenpunkten aufgehoben (Abgaben und Leistungen an das Gemeinwesen, insbesondere Gewinnablieferung; Kosten für Pumpenergie) und insoweit an die ElCom zurückgewiesen; im Übrigen bestätigt. Erster Gerichtsentscheid in der Verfahrenskette ElCom 211-00016 – A-321/2017 – 2C_297/2019 – A-5380/2022 – 2C_609/2024."
+status_note_en: "Set aside by the Federal Supreme Court in judgment 2C_297/2019 of 28 May 2020 on two secondary points (charges and payments to public authorities, in particular profit transfers; pumping energy costs) and remitted to ElCom to that extent; otherwise confirmed. First court decision in the chain ElCom 211-00016 – A-321/2017 – 2C_297/2019 – A-5380/2022 – 2C_609/2024."
+languages: [de]
+topics: [tariffs, grid]
+summary_de: "Energie Wasser Bern focht die Verfügung der ElCom 211-00016 vom 17. November 2016 über die Prüfung der Netzkosten 2009 sowie der Netznutzungs- und Elektrizitätstarife 2009 und 2010 an. Das Bundesverwaltungsgericht wies die Beschwerde vollumfänglich ab, soweit es darauf eintrat. Es bestätigte unter anderem die Anwendung der Durchschnittspreismethode bei den Energiekosten der Grundversorgung."
+summary_en: "Energie Wasser Bern challenged ElCom decision 211-00016 of 17 November 2016 reviewing its 2009 network costs and its 2009 and 2010 network and electricity tariffs. The Federal Administrative Court dismissed the appeal entirely insofar as it was admissible. Among other things it confirmed the application of the average price method to energy costs in basic supply."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-321-2017_2019-02-20.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-2c-297-2019, ch-bvger-a-5380-2022, ch-bger-2c-609-2024]
+added: 2026-10-03
+last_checked: 2026-10-03

@@ -7,7 +7,8 @@
 - [x] 100 Dokumente erreicht (101): ElCom 232-00093 (Auktionserlöse 2026), ElCom-Weisung 1/2024 (Cybersicherheit), neue LVLEne Waadt (in Kraft ab 2027)
 - [x] Stand nachgeführt: EnG (Beschleunigungserlass seit 1.4.2026), VPeA (Revision 1.1.2026), TG (Teilrevision im Grossen Rat), VD
 - [x] GebV-En, KEV, NEV, SchwV; ElCom 236-01184 und 212-00409; Uri: neues Energiegesetz vom 22.10.2023 (in Kraft seit 1.10.2026) als eigener Eintrag (108 Einträge)
-- [ ] Wichtigste BGer-/BVGer-Entscheide ergänzen; Verordnungspaket Energie (Vernehmlassung ab 15.4.2026) nach Verabschiedung aufnehmen; Uri: Wortlaut prüfen, sobald in der Gesetzessammlung
+- [x] Bundesgericht: Solaranlagen auf ISOS-Objekten (1C_179/2015, 1C_153/2025), Windparks Schwyberg (1C_346/2014), Montagne-de-Buttes (1C_48/2021), Tramelan (1C_329/2021, 1C_335/2021)
+- [ ] Weitere BGer-/BVGer-Entscheide (Eigenverbrauch/ZEV, Rückliefervergütung, alpine Solaranlagen); Verordnungspaket Energie (Vernehmlassung ab 15.4.2026) nach Verabschiedung aufnehmen; Uri: Wortlaut prüfen, sobald in der Gesetzessammlung
 - [x] Kantonale Energiegesetze: alle Kantone mit eigenem Energiegesetz (25; OW regelt Energie im Baugesetz)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
 - [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-Muster prüfen lassen

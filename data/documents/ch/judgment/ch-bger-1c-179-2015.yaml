@@ -1,0 +1,26 @@
+id: ch-bger-1c-179-2015
+title: "Urteil des Bundesgerichts 1C_179/2015, 1C_180/2015 vom 11. Mai 2016 (Lungern-Obsee) – Solaranlage auf ISOS-Objekt, wesentliche Beeinträchtigung nach Art. 18a Abs. 3 RPG"
+title_en: "Federal Supreme Court judgment 1C_179/2015, 1C_180/2015 of 11 May 2016 – solar installation on an ISOS-listed hamlet, substantial impairment under Art. 18a(3) RPG"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "1C_179/2015, 1C_180/2015"
+date: 2016-05-11
+status: final
+status_note: "Nicht amtlich publiziert; Beschwerde des Bauherrn abgewiesen, auf jene der Schweizerischen Greina-Stiftung nicht eingetreten. Für Anlagen innerhalb der Bauzone bestätigt durch 1C_153/2025."
+status_note_en: "Not officially published; the owner's appeal dismissed, the Swiss Greina Foundation's appeal declared inadmissible. Confirmed for installations within the building zone by 1C_153/2025."
+languages: [de]
+topics: [solar, permitting]
+summary_de: "Ein Landwirt wollte auf einer Ökonomiebaute im Weiler Obsee in Lungern (OW), der im ISOS mit Erhaltungsziel A verzeichnet ist, eine 250 m² grosse Photovoltaikanlage errichten. Das Bundesgericht bestätigte die Verweigerung der Baubewilligung. Nach Art. 18a Abs. 3 RPG hat der Gesetzgeber dem Interesse an der Nutzung der Sonnenenergie mehr Gewicht gegeben: Geringfügige Störungen von Kulturdenkmälern sind hinzunehmen, eine wesentliche Beeinträchtigung steht der Bewilligung aber grundsätzlich entgegen. Ob eine solche vorliegt, ist anhand der Schutzziele des Inventarobjekts zu beurteilen; hier lief die dunkle, grossflächige Anlage dem intakten bäuerlichen Ortsbild zuwider. Art. 18a RPG ist eine direkt anwendbare Bewilligungsnorm; ihre Anwendung ist eine Bundesaufgabe."
+summary_en: "A farmer wanted to install a 250 m² PV system on a farm building in the hamlet of Obsee in Lungern (OW), listed in the ISOS with preservation objective A. The court upheld the refusal of the building permit. Under Art. 18a(3) RPG the legislator gave more weight to the interest in using solar energy: minor disturbances of cultural monuments must be accepted, but a substantial impairment generally precludes approval. Whether there is one depends on the protection objectives of the inventoried site; here the dark, large installation ran counter to the intact rural townscape. Art. 18a RPG is a directly applicable approval rule, and applying it is a federal task."
+source_url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://11-05-2016-1C_179-2015"
+alternate_urls:
+  - label: "Urteil mit Zusammenfassung (VLP-ASPAN), Bundesamt für Kultur (PDF)"
+    url: "https://www.bak.admin.ch/dam/bak/de/dokumente/isos/resultate/urteil_bger_1c_17920151c1802015solaranlagenaufisos-objekten.pdf.download.pdf/urteil_bger_1c_17920151c1802015solaranlagenaufisos-objekten.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-153-2025, ch-sr-700-rpg]
+added: 2026-10-03
+last_checked: 2026-10-03

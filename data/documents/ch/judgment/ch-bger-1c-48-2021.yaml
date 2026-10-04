@@ -1,0 +1,26 @@
+id: ch-bger-1c-48-2021
+title: "Arrêt du Tribunal fédéral 1C_48/2021 du 19 octobre 2023 – Parc éolien de la Montagne-de-Buttes (NE)"
+title_en: "Federal Supreme Court judgment 1C_48/2021 of 19 October 2023 – Montagne-de-Buttes wind farm (NE)"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "1C_48/2021"
+date: 2023-10-19
+status: final
+status_note: "Nicht amtlich publiziert; Beschwerde abgewiesen. Im Baubewilligungsverfahren sind noch vertiefte Abklärungen zum Lebensraum von Steinadlern und Massnahmen gegen Schattenwurf zu treffen. Zusammen mit den Urteilen 1C_329/2021 und 1C_335/2021 (Tramelan) in einer Medienmitteilung vom 17.11.2023 erläutert."
+status_note_en: "Not officially published; appeal dismissed. Further investigation of golden eagle habitat and measures against shadow flicker are required in the building permit procedure. Explained together with judgments 1C_329/2021 and 1C_335/2021 (Tramelan) in a press release of 17 November 2023."
+languages: [fr]
+topics: [wind, permitting, renewables]
+summary_de: "Der Windpark Montagne-de-Buttes im Kanton Neuenburg umfasst 19 Windkraftanlagen mit einer erwarteten Jahresproduktion von rund 95 GWh. Helvetia Nostra und zahlreiche Privatpersonen rügten unter anderem den kantonalen Richtplan und die interkantonale Koordination, die geschätzte Produktion und damit die Einstufung als Anlage von nationalem Interesse sowie Lärm, Schattenwurf, Gewässer-, Landschafts- und Vogelschutz. Das Bundesgericht wies die Beschwerde ab: Angesichts der zahlreichen angeordneten Schutzmassnahmen überwiegt das gewichtige öffentliche Interesse an der Stromproduktion."
+summary_en: "The Montagne-de-Buttes wind farm in the canton of Neuchâtel comprises 19 turbines with an expected annual output of about 95 GWh. Helvetia Nostra and numerous individuals challenged, among other things, the cantonal structure plan and intercantonal coordination, the estimated output and hence the classification as a plant of national interest, as well as noise, shadow flicker and the protection of waters, landscape and birds. The court dismissed the appeal: given the numerous protective measures ordered, the substantial public interest in electricity production prevails."
+source_url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://19-10-2023-1C_48-2021"
+alternate_urls:
+  - label: "Medienmitteilung des Bundesgerichts vom 17.11.2023 (PDF)"
+    url: "https://bger.ch/files/live/sites/bger/files/pdf/de/1c_0048_2021_2023_11_17_T_d_14_12_36.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-329-2021, ch-bge-147-ii-319, ch-bge-148-ii-36]
+added: 2026-10-03
+last_checked: 2026-10-03

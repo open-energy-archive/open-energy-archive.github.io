@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.17.0] – 2026-10-03
+
+### Neu
+- Schweiz, jetzt 113 Einträge – Bundesgericht: 1C_153/2025 (Solaranlage auf ISOS-Objekt in der Bauzone ist Bundesaufgabe), 1C_179/2015 (Lungern-Obsee, wesentliche Beeinträchtigung nach Art. 18a Abs. 3 RPG), 1C_346/2014 (Windpark Schwyberg, Richtplanpflicht), 1C_48/2021 (Windpark Montagne-de-Buttes), 1C_329/2021 und 1C_335/2021 (Windpark Montagne de Tramelan)
+
 ## [0.16.2] – 2026-10-03
 
 ### Behoben

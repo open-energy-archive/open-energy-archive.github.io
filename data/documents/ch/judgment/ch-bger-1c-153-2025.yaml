@@ -1,0 +1,23 @@
+id: ch-bger-1c-153-2025
+title: "Urteil des Bundesgerichts 1C_153/2025 vom 5. Januar 2026 (Stadt Winterthur gegen Zürcher Heimatschutz) – Solaranlage auf ISOS-Objekt in der Bauzone als Bundesaufgabe"
+title_en: "Federal Supreme Court judgment 1C_153/2025 of 5 January 2026 – solar installation on an ISOS-listed building in the building zone as a federal task"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "1C_153/2025"
+date: 2026-01-05
+status: final
+status_note: "Nicht amtlich publiziert (Stand Oktober 2026); Beschwerde abgewiesen. Bestätigt und erweitert das Urteil 1C_179/2015, 1C_180/2015 vom 11. Mai 2016."
+status_note_en: "Not officially published (as of October 2026); appeal dismissed. Confirms and extends judgment 1C_179/2015, 1C_180/2015 of 11 May 2016."
+languages: [de]
+topics: [solar, permitting]
+summary_de: "Eine Genossenschaft wollte auf einem Gebäude in der Kernzone von Winterthur eine Photovoltaikanlage bauen; das Grundstück liegt in einem Gebiet des Bundesinventars der schützenswerten Ortsbilder (ISOS) mit Erhaltungsziel A. Das Bundesgericht hielt fest, dass die Bewilligung einer Solaranlage auf einem solchen Kulturdenkmal nach Art. 18a Abs. 3 RPG auch innerhalb der Bauzone eine Bundesaufgabe ist: Die Bestimmung ist direkt anwendbar und regelt die Bewilligungsvoraussetzungen abschliessend. Die Gemeinde muss deshalb bei der kantonalen Fachstelle eine Stellungnahme einholen, ob ein Gutachten der Eidgenössischen Natur- und Heimatschutzkommission oder der Kommission für Denkmalpflege nötig ist. Zweifel an der Verfassungsmässigkeit von Art. 18a RPG ändern daran wegen Art. 190 BV nichts."
+summary_en: "A cooperative wanted to install a PV system on a building in Winterthur's core zone, located in an area of the Federal Inventory of Swiss Heritage Sites (ISOS) with preservation objective A. The court held that approving a solar installation on such a cultural monument under Art. 18a(3) of the Spatial Planning Act is a federal task even within the building zone: the provision is directly applicable and sets the approval conditions exhaustively. The municipality must therefore obtain the cantonal specialist office's opinion on whether an expert report by the federal nature and heritage protection commission or the monument preservation commission is required. Doubts about the constitutionality of Art. 18a RPG do not change this because of Art. 190 of the Federal Constitution."
+source_url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://05-01-2026-1C_153-2025"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-179-2015, ch-sr-700-rpg]
+added: 2026-10-03
+last_checked: 2026-10-03

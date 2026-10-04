@@ -1,0 +1,28 @@
+id: ch-bger-1c-329-2021
+title: "Arrêts du Tribunal fédéral 1C_329/2021 et 1C_335/2021 du 1er novembre 2023 – Parc éolien de la Montagne de Tramelan (BE)"
+title_en: "Federal Supreme Court judgments 1C_329/2021 and 1C_335/2021 of 1 November 2023 – Montagne de Tramelan wind farm (BE)"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "1C_329/2021, 1C_335/2021"
+date: 2023-11-01
+status: final
+status_note: "Nicht amtlich publiziert; Beschwerden bis auf einen Nebenpunkt abgewiesen (ergänzte Auflagen zum Amphibienschutz bei zwei provisorischen Erddepots). Verlinkt ist das Urteil 1C_329/2021; 1C_335/2021 ist auf derselben Plattform abrufbar."
+status_note_en: "Not officially published; appeals dismissed except on one minor point (additional conditions for amphibian protection at two temporary soil deposits). The link points to judgment 1C_329/2021; 1C_335/2021 is available on the same platform."
+languages: [fr]
+topics: [wind, permitting, renewables]
+summary_de: "Der Windpark Montagne de Tramelan im Berner Jura sieht sieben Windkraftanlagen mit einer erwarteten Jahresproduktion von 27 bis 31 GWh vor; die Gemeinden Tramelan und Saicourt hatten dem Projekt 2015 zugestimmt. Die jurassische Gemeinde Les Genevez und mehrere Privatpersonen rügten den kantonalen Richtplan, Lärm- und Landschaftsschutz, die nächtliche Befeuerung für die Luftfahrt und den Fledermausschutz. Das Bundesgericht wies diese Rügen ab und ergänzte einzig die Auflagen zum Amphibienschutz während der Bauarbeiten."
+summary_en: "The Montagne de Tramelan wind farm in the Bernese Jura comprises seven turbines with an expected annual output of 27 to 31 GWh; the municipalities of Tramelan and Saicourt approved the project in 2015. The Jura municipality of Les Genevez and several individuals challenged the cantonal structure plan, noise and landscape protection, night-time aviation lighting and bat protection. The court rejected these objections and only supplemented the conditions on amphibian protection during construction."
+source_url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://01-11-2023-1C_329-2021"
+alternate_urls:
+  - label: "Urteil 1C_335/2021"
+    url: "https://www.bger.ch/ext/eurospider/live/de/php/aza/http/index.php?lang=de&type=show_document&highlight_docid=aza://01-11-2023-1C_335-2021"
+  - label: "Medienmitteilung des Bundesgerichts vom 17.11.2023 (PDF)"
+    url: "https://bger.ch/files/live/sites/bger/files/pdf/de/1c_0048_2021_2023_11_17_T_d_14_12_36.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-48-2021, ch-bge-147-ii-319]
+added: 2026-10-03
+last_checked: 2026-10-03

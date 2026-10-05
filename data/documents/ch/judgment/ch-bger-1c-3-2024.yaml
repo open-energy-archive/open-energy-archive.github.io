@@ -1,0 +1,23 @@
+id: ch-bger-1c-3-2024
+title: "Urteil des Bundesgerichts 1C_3/2024 vom 29. Januar 2025 – Keine kommunalen Belastungsgrenzwerte für Windenergieanlagen"
+title_en: "Federal Supreme Court judgment 1C_3/2024 of 29 January 2025 – no municipal exposure limits for wind turbines"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "1C_3/2024"
+date: 2025-01-29
+status: final
+status_note: "Publiziert mit Leitsätzen in URP 2025 S. 689. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
+status_note_en: "Published with headnotes in URP 2025 p. 689. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+languages: [de]
+topics: [wind, permitting]
+summary_de: "Eine kommunale Richtplanung sah eigene Belastungsgrenzwerte für Immissionen von Windenergieanlagen vor. Das Bundesgericht hielt fest, dass Kantone und Gemeinden zwar im Bereich des Immissionsschutzes eigene Vorschriften erlassen dürfen, solange der Bundesrat seine Verordnungskompetenz nicht ausgeschöpft hat; neue Immissionsgrenz-, Alarm- oder Planungswerte dürfen sie aber nicht einführen. Die kommunalen Belastungsgrenzwerte für Windenergieanlagen sind daher bundesrechtswidrig."
+summary_en: "A municipal structure plan provided its own exposure limits for emissions from wind turbines. The court held that cantons and municipalities may adopt their own emission control rules as long as the Federal Council has not exhausted its regulatory power, but may not introduce new emission limit, alarm or planning values. The municipal exposure limits for wind turbines therefore violate federal law."
+source_url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F29-01-2025-1C_3-2024&lang=de&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-149-2021, ch-bge-152-ii-461]
+added: 2026-10-04
+last_checked: 2026-10-04

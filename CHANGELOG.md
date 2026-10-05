@@ -2,6 +2,16 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.24.0] – 2026-10-04
+
+### Neu
+- Schweiz, jetzt 148 Einträge – 13 weitere Entscheide aus der Bundesrechtsprechung zum Energiegesetz:
+  - Windenergie: 1C_628/2019 (nationales Interesse ab 20 GWh), 1C_575/2019 (Energiepotenzial im Nutzungsplan), 1C_564/2020 (Planhierarchie), 1C_149/2021 (Mindestabstand 500 m Tramelan), 1C_3/2024 (keine kommunalen Belastungsgrenzwerte), 1C_500/2023 (Windpark Quatre Bornes)
+  - Wasserkraft: BGE 145 II 140 (ehehafte Wasserrechte), 2C_409/2020 (Investitionsbeitrag Staumauer Grimselsee)
+  - Netze: 1C_398/2012 (110-kV-Leitungen Altgass/Horgen–Obfelden), BVGer A-2593/2020 (Verjährung Netzverstärkungskosten)
+  - Weitere: 1C_36/2011 (Gaskombikraftwerk), 1C_433/2022 (Gemeindeinitiative Hochdorf), BVGer A-2790/2021 (Rückliefervergütung)
+- Diese Zusammenfassungen stützen sich auf die publizierten Leitsätze bzw. Entscheidangaben; der Hinweis zum Stand vermerkt dies
+
 ## [0.23.1] – 2026-10-04
 
 ### Behoben

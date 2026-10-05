@@ -1,0 +1,23 @@
+id: ch-bvger-a-2790-2021
+title: "Urteil des Bundesverwaltungsgerichts A-2790/2021 vom 18. Juni 2024 – Rückliefervergütung nach Art. 15 Abs. 3 Bst. a EnG"
+title_en: "Federal Administrative Court judgment A-2790/2021 of 18 June 2024 – feed-in remuneration under Art. 15(3)(a) EnG"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Bundesverwaltungsgericht, Abteilung I"
+reference: "A-2790/2021"
+date: 2024-06-18
+status: final
+status_note: "Beschwerde der Netzbetreiberin gutgeheissen, soweit nicht infolge Teilrückzugs gegenstandslos. Massgebend war die Fassung von Art. 15 EnG vor dem Mantelerlass; seit 2025 gelten teilweise neue Regeln zur Abnahmevergütung. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
+status_note_en: "Appeal by the network operator upheld insofar as not moot following partial withdrawal. The version of Art. 15 EnG before the Mantelerlass applied; since 2025 partly new rules on offtake remuneration apply. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+languages: [de]
+topics: [renewables, tariffs, grid]
+summary_de: "Ein Produzent verlangte von der Netzbetreiberin eine Anpassung der Vergütung für den ins Netz eingespeisten Strom seines Kraftwerks im Jahr 2020. Das Bundesverwaltungsgericht legte Art. 15 Abs. 3 Bst. a EnG aus und hielt fest, dass der Produzent im Streitfall nicht verlangen kann, dass sich die Rückliefervergütung nach den Gestehungskosten der eigenen Produktionsanlagen der Netzbetreiberin richtet. Es hiess die Beschwerde der Netzbetreiberin gegen den Entscheid der ElCom gut."
+summary_en: "A producer asked the network operator to adjust the remuneration for electricity fed into the grid by its power plant in 2020. The court interpreted Art. 15(3)(a) EnG and held that in a dispute the producer cannot require the feed-in remuneration to be based on the production costs of the network operator's own generating plants. It upheld the network operator's appeal against ElCom's decision."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-2790-2021_2024-06-18.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env]
+added: 2026-10-04
+last_checked: 2026-10-04

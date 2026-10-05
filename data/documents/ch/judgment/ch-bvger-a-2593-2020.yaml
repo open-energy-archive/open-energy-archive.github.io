@@ -1,0 +1,23 @@
+id: ch-bvger-a-2593-2020
+title: "Urteil des Bundesverwaltungsgerichts A-2593/2020 vom 5. Mai 2021 – Verjährung des Anspruchs auf Vergütung von Netzverstärkungskosten"
+title_en: "Federal Administrative Court judgment A-2593/2020 of 5 May 2021 – limitation of claims for reimbursement of grid reinforcement costs"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Bundesverwaltungsgericht, Abteilung I"
+reference: "A-2593/2020"
+date: 2021-05-05
+status: final
+status_note: "Beschwerde abgewiesen. Bestätigt die Praxis der ElCom (u. a. 236-01184). Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
+status_note_en: "Appeal dismissed. Confirms ElCom practice (including 236-01184). Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+languages: [de]
+topics: [grid, solar, renewables]
+summary_de: "Ein Netzbetreiber verlangte die Vergütung von Netzverstärkungskosten für den Anschluss einer Photovoltaikanlage. Das Bundesverwaltungsgericht qualifizierte die Rückerstattungszahlung als Subvention und bestätigte, dass der Anspruch verjährt war; es wies die Beschwerde ab."
+summary_en: "A network operator sought reimbursement of grid reinforcement costs for connecting a PV system. The court classified the reimbursement as a subsidy and confirmed that the claim was time-barred; it dismissed the appeal."
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-2593-2020_2021-05-05.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-elcom-236-01184, ch-elcom-236-01364, ch-sr-734-71-stromvv]
+added: 2026-10-04
+last_checked: 2026-10-04

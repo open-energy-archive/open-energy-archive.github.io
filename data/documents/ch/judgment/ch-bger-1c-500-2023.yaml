@@ -1,0 +1,23 @@
+id: ch-bger-1c-500-2023
+title: "Arrêt du Tribunal fédéral 1C_500/2023 du 3 décembre 2025 – Parc éolien des Quatre Bornes (La Joux-du-Plâne, NE)"
+title_en: "Federal Supreme Court judgment 1C_500/2023 of 3 December 2025 – Quatre Bornes wind farm (La Joux-du-Plâne, NE)"
+doc_type: judgment
+jurisdiction: CH
+issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
+reference: "1C_500/2023"
+date: 2025-12-03
+status: final
+status_note: "Beschwerde teilweise gutgeheissen. Zwei Tage nach BGE 152 II 461 (Montagne-de-Buttes) ergangen; das Kantonsgericht hatte in diesem Fall die spätere Wahl des Anlagenmodells zugelassen. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
+status_note_en: "Appeal partly upheld. Delivered two days after BGE 152 II 461 (Montagne-de-Buttes); in this case the Cantonal Court had allowed the turbine model to be chosen later. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+languages: [fr]
+topics: [wind, permitting]
+summary_de: "Gegenstand war der kantonale Nutzungsplan mit Baubewilligungswirkung für den Windpark Quatre Bornes. Das Bundesgericht prüfte unter anderem die Beschwerdelegitimation, den Lärmschutz und die Ersatzmassnahmen. Es hiess die Beschwerde teilweise gut und verlangte eine Ergänzung des Reglements zum Nutzungsplan; die Projektträgerin hatte der Ergänzung bereits zugestimmt und sich dabei auf den Windexpress (in Kraft seit 1.2.2024) berufen."
+summary_en: "The subject was the cantonal land-use plan with building permit effect for the Quatre Bornes wind farm. The court examined among other things standing, noise protection and compensation measures. It partly upheld the appeal and required the regulations of the land-use plan to be supplemented; the developer had already agreed to the addition, invoking the wind express (in force since 1 February 2024)."
+source_url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F03-12-2025-1C_500-2023&lang=de&type=show_document"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bge-152-ii-461, ch-bger-1c-48-2021]
+added: 2026-10-04
+last_checked: 2026-10-04

@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.25.1] – 2026-10-07
+
+### Geändert
+- Menüpunkt, Seitentitel und Pfadangabe heissen neu «Dokumente» (englisch «Documents») statt «Archiv»
+
 ## [0.25.0] – 2026-10-07
 
 ### Qualitätsdurchgang

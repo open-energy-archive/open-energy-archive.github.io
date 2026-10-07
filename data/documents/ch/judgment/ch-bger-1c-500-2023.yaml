@@ -7,12 +7,12 @@ issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
 reference: "1C_500/2023"
 date: 2025-12-03
 status: final
-status_note: "Beschwerde teilweise gutgeheissen. Zwei Tage nach BGE 152 II 461 (Montagne-de-Buttes) ergangen; das Kantonsgericht hatte in diesem Fall die spätere Wahl des Anlagenmodells zugelassen. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
-status_note_en: "Appeal partly upheld. Delivered two days after BGE 152 II 461 (Montagne-de-Buttes); in this case the Cantonal Court had allowed the turbine model to be chosen later. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+status_note: "Beschwerde teilweise gutgeheissen. Zwei Tage nach BGE 152 II 461 (Montagne-de-Buttes) ergangen; das Kantonsgericht hatte in diesem Fall die spätere Wahl des Anlagenmodells zugelassen, was das Bundesgericht nicht beanstandete."
+status_note_en: "Appeal partly upheld. Delivered two days after BGE 152 II 461 (Montagne-de-Buttes); in this case the Cantonal Court had allowed the turbine model to be chosen later, which the Federal Supreme Court did not object to."
 languages: [fr]
 topics: [wind, permitting]
-summary_de: "Gegenstand war der kantonale Nutzungsplan mit Baubewilligungswirkung für den Windpark Quatre Bornes. Das Bundesgericht prüfte unter anderem die Beschwerdelegitimation, den Lärmschutz und die Ersatzmassnahmen. Es hiess die Beschwerde teilweise gut und verlangte eine Ergänzung des Reglements zum Nutzungsplan; die Projektträgerin hatte der Ergänzung bereits zugestimmt und sich dabei auf den Windexpress (in Kraft seit 1.2.2024) berufen."
-summary_en: "The subject was the cantonal land-use plan with building permit effect for the Quatre Bornes wind farm. The court examined among other things standing, noise protection and compensation measures. It partly upheld the appeal and required the regulations of the land-use plan to be supplemented; the developer had already agreed to the addition, invoking the wind express (in force since 1 February 2024)."
+summary_de: "Gegenstand war der kantonale Nutzungsplan mit Baubewilligungswirkung für den Windpark Quatre Bornes auf der Joux-du-Plâne (Val-de-Ruz, NE); nach der Ablehnung des Berner Teils umfasst das Projekt noch drei Anlagen von höchstens 207 m Gesamthöhe. Das Bundesgericht anerkannte die Beschwerdelegitimation der Beschwerdeführenden und prüfte unter anderem die Grundlage im Richtplan, die Wahl des Anlagenmodells erst bei der Ausschreibung, die Umweltverträglichkeitsprüfung, die Ersatzmassnahmen für Vögel und Fledermäuse, den Landschafts- und Lärmschutz sowie den Schattenwurf. Es hiess die Beschwerde teilweise gut und ergänzte das Reglement zum Nutzungsplan um zwei Auflagen: ein Vogelerkennungssystem vom Typ DT-Bird mit Wirkung für den ganzen Park, auch nachts (insbesondere zum Schutz des Uhus), sowie ein automatisches Erkennungs- und Abschaltsystem auf jeder Anlage zur Einhaltung der Grenzwerte für Schattenwurf. Die Projektträgerin hatte diesen Ergänzungen bereits zugestimmt und sich dabei auf den Windexpress (in Kraft seit 1.2.2024) berufen."
+summary_en: "The subject was the cantonal land-use plan with building permit effect for the Quatre Bornes wind farm on the Joux-du-Plâne (Val-de-Ruz, NE); after the Bernese part was rejected, the project comprises three turbines with a maximum total height of 207 m. The court recognised the appellants' standing and examined among other things the basis in the structure plan, choosing the turbine model only at the tender stage, the environmental impact assessment, compensation measures for birds and bats, landscape and noise protection, and shadow flicker. It partly upheld the appeal and added two conditions to the land-use plan regulations: a DT-Bird bird detection system covering the whole park, also at night (in particular to protect the eagle owl), and an automatic detection and shutdown system on each turbine to ensure compliance with shadow flicker limits. The developer had already agreed to these additions, invoking the wind express (in force since 1 February 2024)."
 source_url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F03-12-2025-1C_500-2023&lang=de&type=show_document"
 rights:
   status: official_work
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-bge-152-ii-461, ch-bger-1c-48-2021]
 added: 2026-10-04
-last_checked: 2026-10-04
+last_checked: 2026-10-06

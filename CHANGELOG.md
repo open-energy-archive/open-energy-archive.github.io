@@ -2,6 +2,29 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.25.0] – 2026-10-07
+
+### Qualitätsdurchgang
+- 17 Entscheid-Zusammenfassungen gegen den Volltext geprüft (bisher nur gestützt auf Leitsätze); 10 korrigiert, u. a.:
+  - 1C_36/2011: Beschwerde wurde **gutgeheissen** (Verbot fossiler Kraftwerke in der Muttenzer Zonenordnung aufgehoben), nicht abgewiesen
+  - 1C_3/2024: Gemeinde Wuppenau gegen teilweise Nichtgenehmigung ihres Reglements, nicht ein allgemeiner Entscheid gegen kommunale Grenzwerte
+  - 1C_398/2012: Ausbau einer bestehenden 50-kV-Leitung auf 110 kV (Titel angepasst)
+  - BGE 147 II 319 (Sainte-Croix), BGE 145 II 140, 1C_500/2023, 1C_564/2020, 1C_575/2019: Ausgang und Sachverhalt präzisiert
+  - Bestätigt: BGE 148 II 36 (2 von 6 Anlagen nicht bewilligt), ElCom 222-00003 (Nichteintreten, Anlage im Einspeisevergütungssystem)
+- Fassungen nachgeführt: StromVG (13.8.2026; Fassung 1.1.2027 publiziert), EnG (1.4.2026, Beschleunigungserlass; Art. 15 Abs. 1bis ab 1.1.2027), StromVV (1.7.2026), EnV (1.7.2026; Day-Ahead-Vergütung ab 1.1.2027), EnFV (1.7.2026)
+- Waadt: neues Energiegesetz tritt am 1.1.2027 in Kraft, Referendum nicht zustande gekommen; Thurgau: Stand der Teilrevision ergänzt
+- ElCom-Weisungen 5/2025 und 7/2025, VSE-Dokumente und BFE-Leitfaden Eigenverbrauch auf Aktualität geprüft; hängige Verfahren (ElCom 211-00506, 233-00103, Morgeten) nachgeführt
+- BVGer A-438/2009: Link führte auf ein anderes Urteil, ersetzt
+
+### Neu
+- Sortierung «Zuletzt hinzugefügt» im Archiv
+- Verwandte Dokumente zeigen auch Rückverweise: Ein Gesetz listet jetzt alle Entscheide und Dokumente, die darauf verweisen (ab 8 Einträgen aufklappbar)
+- Mitwirken: Code-Reviewerinnen und -Reviewer gesucht
+
+### Geändert
+- «Archiv» statt «Alle Dokumente» in Menü, Seitentitel und Pfadangabe
+- Grössere Abstände zwischen «Nach Rechtsraum», «Nach Thema» und «Nach Typ» auf dem Handy
+
 ## [0.24.0] – 2026-10-04
 
 ### Neu

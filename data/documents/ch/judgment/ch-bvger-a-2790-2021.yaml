@@ -7,8 +7,8 @@ issuer: "Bundesverwaltungsgericht, Abteilung I"
 reference: "A-2790/2021"
 date: 2024-06-18
 status: final
-status_note: "Beschwerde der Netzbetreiberin gutgeheissen, soweit nicht infolge Teilrückzugs gegenstandslos. Massgebend war die Fassung von Art. 15 EnG vor dem Mantelerlass; seit 2025 gelten teilweise neue Regeln zur Abnahmevergütung. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
-status_note_en: "Appeal by the network operator upheld insofar as not moot following partial withdrawal. The version of Art. 15 EnG before the Mantelerlass applied; since 2025 partly new rules on offtake remuneration apply. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+status_note: "Beschwerde der Netzbetreiberin gutgeheissen, soweit nicht infolge Teilrückzugs gegenstandslos. Massgebend war die Fassung von Art. 15 EnG vor dem Mantelerlass; seit 2025 gelten teilweise neue Regeln zur Abnahmevergütung."
+status_note_en: "Appeal by the network operator upheld insofar as not moot following partial withdrawal. The version of Art. 15 EnG before the Mantelerlass applied; since 2025 partly new rules on offtake remuneration apply."
 languages: [de]
 topics: [renewables, tariffs, grid]
 summary_de: "Ein Produzent verlangte von der Netzbetreiberin eine Anpassung der Vergütung für den ins Netz eingespeisten Strom seines Kraftwerks im Jahr 2020. Das Bundesverwaltungsgericht legte Art. 15 Abs. 3 Bst. a EnG aus und hielt fest, dass der Produzent im Streitfall nicht verlangen kann, dass sich die Rückliefervergütung nach den Gestehungskosten der eigenen Produktionsanlagen der Netzbetreiberin richtet. Es hiess die Beschwerde der Netzbetreiberin gegen den Entscheid der ElCom gut."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-730-0-eng, ch-sr-730-01-env]
 added: 2026-10-04
-last_checked: 2026-10-04
+last_checked: 2026-10-06

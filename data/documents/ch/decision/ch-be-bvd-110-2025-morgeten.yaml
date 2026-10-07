@@ -8,8 +8,8 @@ issuer: "Bau- und Verkehrsdirektion des Kantons Bern"
 reference: "BVD 110/2025/26"
 date: 2025-10-08
 status: pending
-status_note: "Die Baubewilligung des Regierungsstatthalteramts vom Mai 2024 war die erste für ein Solarexpress-Projekt. Das Verwaltungsgericht des Kantons Bern erklärte sich mit Urteil 100.2024.156 für die Beschwerde der Umweltverbände nicht zuständig, weil keine ausreichende Dringlichkeit bestehe, vom zweistufigen Rechtsmittelweg abzuweichen, und überwies sie der Direktion. Gegen diesen Entscheid haben die Stiftung Landschaftsschutz Schweiz, der SAC und Mountain Wilderness im November 2025 Beschwerde beim Verwaltungsgericht erhoben (Stand gemäss Medienberichten)."
-status_note_en: "The building permit of May 2024 was the first for a solar express project. In judgment 100.2024.156 the Bern Administrative Court declined jurisdiction over the environmental organisations' appeal, finding no sufficient urgency to depart from the two-stage appeal route, and referred it to the Directorate. The Swiss Foundation for Landscape Conservation, the SAC and Mountain Wilderness appealed this decision to the Administrative Court in November 2025 (according to media reports)."
+status_note: "Die Baubewilligung des Regierungsstatthalteramts vom Mai 2024 war die erste für ein Solarexpress-Projekt. Das Verwaltungsgericht des Kantons Bern erklärte sich mit Urteil 100.2024.156 für die Beschwerde der Umweltverbände nicht zuständig, weil keine ausreichende Dringlichkeit bestehe, vom zweistufigen Rechtsmittelweg abzuweichen, und überwies sie der Direktion. Gegen diesen Entscheid haben die Stiftung Landschaftsschutz Schweiz, der SAC und Mountain Wilderness im November 2025 Beschwerde beim Verwaltungsgericht erhoben (Stand gemäss Medienberichten). Am 6.10.2026 wurde kein Urteil des Verwaltungsgerichts zu dieser Beschwerde gefunden."
+status_note_en: "The building permit of May 2024 was the first for a solar express project. In judgment 100.2024.156 the Bern Administrative Court declined jurisdiction over the environmental organisations' appeal, finding no sufficient urgency to depart from the two-stage appeal route, and referred it to the Directorate. The Swiss Foundation for Landscape Conservation, the SAC and Mountain Wilderness appealed this decision to the Administrative Court in November 2025 (according to media reports). As of 6 October 2026 no judgment of the Administrative Court on this appeal was found."
 languages: [de]
 topics: [solar, permitting, renewables]
 summary_de: "Die Direktion wies die Beschwerde von Umweltverbänden gegen die Baubewilligung für eine alpine Photovoltaik-Grossanlage von rund 7,5 Hektaren oberhalb der Alp Morgeten (Oberwil im Simmental) ab. Sie prüfte unter anderem die Anforderungen von Art. 71a EnG an Einspeisung und Inbetriebnahme, die gleichzeitig beantragten landwirtschaftlichen Bauten, die Umweltverträglichkeit sowie die Auswirkungen auf Steinhuhn und Alpenschneehuhn. Die Verbände rügen insbesondere, die Anlage sei bewilligt worden, obwohl die Stromableitung noch nicht projektiert sei."
@@ -21,4 +21,4 @@ rights:
   mirror_allowed: true
 related: [ch-as-2022-543-solarexpress, ch-gr-leitfaden-solarexpress]
 added: 2026-10-03
-last_checked: 2026-10-03
+last_checked: 2026-10-06

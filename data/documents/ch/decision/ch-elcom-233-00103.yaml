@@ -7,8 +7,8 @@ issuer: "Eidgenössische Elektrizitätskommission ElCom"
 reference: "233-00103"
 date: 2024-12-03
 status: pending
-status_note: "Gemäss ElCom-Website noch nicht rechtskräftig"
-status_note_en: "Not yet final according to the ElCom website"
+status_note: "Gemäss Verfügungsliste der ElCom am 6.10.2026 weiterhin noch nicht rechtskräftig; ein Rechtsmittelentscheid wurde nicht gefunden."
+status_note_en: "Still not final according to ElCom's list of decisions as of 6 October 2026; no appeal ruling was found."
 languages: [de]
 topics: [grid, tariffs]
 summary_de: "Zwei Endverbraucher verweigerten den Einbau eines Smart Meters und lehnten auch die von der Netzbetreiberin verlangte Pauschale von CHF 90 pro Jahr für die manuelle Ablesung des konventionellen Zählers ab. Die ElCom verpflichtete sie gestützt auf Art. 8a Abs. 3ter StromVV, der Netzbetreiberin jährlich CHF 90 für die manuelle Ablesung zu bezahlen, da Netzbetreiber die durch die Verweigerung verursachten Mehrkosten individuell in Rechnung stellen dürfen. Die Verfahrenskosten wurden den Endverbrauchern solidarisch auferlegt."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
 added: 2026-10-02
-last_checked: 2026-10-02
+last_checked: 2026-10-06

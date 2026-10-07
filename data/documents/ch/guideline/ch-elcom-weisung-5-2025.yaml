@@ -7,8 +7,8 @@ issuer: "Eidgenössische Elektrizitätskommission ElCom"
 reference: "Weisung 5/2025"
 date: 2025-05-06
 status: in_force
-status_note: "Ersetzt die Weisung von 2014 zum gleichen Thema. Gilt grösstenteils ab Tarifjahr 2025, Regeln zu Messentgelten ab 2026."
-status_note_en: "Replaces the 2014 directive on the same subject. Applies mostly from tariff year 2025; rules on metering charges from 2026."
+status_note: "Ersetzt die Weisung 1/2014 vom 11. März 2014 zum gleichen Thema. Gilt grösstenteils ab Tarifjahr 2025, Regeln zu Messentgelten ab 2026. Gemäss Weisungsliste der ElCom am 6.10.2026 weiterhin aufgeführt; keine ersetzende Weisung."
+status_note_en: "Replaces Directive 1/2014 of 11 March 2014 on the same subject. Applies mostly from tariff year 2025; rules on metering charges from 2026. Still listed in ElCom's list of directives as of 6 October 2026; no replacing directive."
 languages: [de]
 topics: [tariffs, grid, market]
 summary_de: "Die Weisung setzt die Vorgaben des revidierten StromVG zur Rechnungsstellung um und verlangt, dass Netznutzung, Energie, Abgaben und weitere Positionen einzeln ausgewiesen werden. Sie regelt auch Angaben zu dynamischen Tarifen und den Datenzugang über intelligente Messsysteme."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-734-7-stromvg]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

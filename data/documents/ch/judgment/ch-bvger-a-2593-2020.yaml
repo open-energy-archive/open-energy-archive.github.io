@@ -7,8 +7,8 @@ issuer: "Bundesverwaltungsgericht, Abteilung I"
 reference: "A-2593/2020"
 date: 2021-05-05
 status: final
-status_note: "Beschwerde abgewiesen. Bestätigt die Praxis der ElCom (u. a. 236-01184). Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
-status_note_en: "Appeal dismissed. Confirms ElCom practice (including 236-01184). Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+status_note: "Beschwerde abgewiesen. Bestätigt die Praxis der ElCom (u. a. 236-01184)."
+status_note_en: "Appeal dismissed. Confirms ElCom practice (including 236-01184)."
 languages: [de]
 topics: [grid, solar, renewables]
 summary_de: "Ein Netzbetreiber verlangte die Vergütung von Netzverstärkungskosten für den Anschluss einer Photovoltaikanlage. Das Bundesverwaltungsgericht qualifizierte die Rückerstattungszahlung als Subvention und bestätigte, dass der Anspruch verjährt war; es wies die Beschwerde ab."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-elcom-236-01184, ch-elcom-236-01364, ch-sr-734-71-stromvv]
 added: 2026-10-04
-last_checked: 2026-10-04
+last_checked: 2026-10-06

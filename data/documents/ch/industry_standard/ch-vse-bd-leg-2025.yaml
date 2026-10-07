@@ -7,8 +7,8 @@ issuer: "Verband Schweizerischer Elektrizitätsunternehmen VSE"
 reference: "BD LEG – CH 2025 V2"
 date: 2025-06-27
 status: non_binding
-status_note: "Branchenempfehlung, rechtlich nicht verbindlich. Auf die seit 1.1.2026 geltenden Regeln von StromVG/StromVV abgestimmt. Die verlinkte Kopie wird von Swissolar bereitgestellt."
-status_note_en: "Industry recommendation, not legally binding. Aligned with the StromVG/StromVV rules in force since 1 January 2026. The linked copy is provided by Swissolar."
+status_note: "Branchenempfehlung, rechtlich nicht verbindlich. Auf die seit 1.1.2026 geltenden Regeln von StromVG/StromVV abgestimmt. Die verlinkte Kopie wird von Swissolar bereitgestellt. Am 6.10.2026 keine neuere Fassung gefunden; Swissolar verlinkt weiterhin V2 (die Suche im VSE-Downloadcenter war nicht abschliessend möglich)."
+status_note_en: "Industry recommendation, not legally binding. Aligned with the StromVG/StromVV rules in force since 1 January 2026. The linked copy is provided by Swissolar. No newer version found on 6 October 2026; Swissolar still links V2 (the VSE download centre could not be searched exhaustively)."
 languages: [de]
 topics: [self_consumption, grid, tariffs, storage]
 summary_de: "Die Empfehlung beschreibt den technischen und administrativen Rahmen für lokale Elektrizitätsgemeinschaften, die lokal erzeugten Strom über das Verteilnetz zu einem reduzierten Netznutzungstarif austauschen. Sie behandelt Gründung, Messung, Abrechnung, Speicher und Vergütung."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: false
 related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

@@ -7,12 +7,12 @@ issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
 reference: "BGE 145 II 140 / 1C_631/2017"
 date: 2019-03-29
 status: final
-status_note: "Leitentscheid zu ehehaften Wasserrechten; publiziert auch mit Leitsätzen in URP 2019 S. 557. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
-status_note_en: "Leading case on historic water rights; also published with headnotes in URP 2019 p. 557. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+status_note: "Leitentscheid zu ehehaften Wasserrechten; publiziert auch mit Leitsätzen in URP 2019 S. 557. Beschwerde des WWF gutgeheissen, Urteil des Verwaltungsgerichts Zug aufgehoben und Sache an den Regierungsrat des Kantons Zug zurückgewiesen."
+status_note_en: "Leading case on historic water rights; also published with headnotes in URP 2019 p. 557. WWF's appeal upheld, judgment of the Zug Administrative Court annulled and case remitted to the Zug cantonal government."
 languages: [de]
 topics: [hydro, permitting]
-summary_de: "Streitig war, ob ein vom Kanton früher anerkanntes ehehaftes Wasserrecht einer umfassenden Restwassersanierung eines bestehenden Kraftwerks entgegensteht. Ehehafte Rechte haben ihren Ursprung in einer nicht mehr bestehenden Rechtsordnung und könnten heute nicht mehr begründet werden. Das Bundesgericht entschied, dass solche zeitlich unbegrenzten Rechte mit der geltenden Verfassungs- und Gesetzesordnung nicht vereinbar sind und die Anwendung der Restwasservorschriften nicht ausschliessen. Das Urteil hat Auswirkungen auf zahlreiche Kleinwasserkraftwerke."
-summary_en: "The issue was whether a historic water right previously recognised by the canton precludes a comprehensive residual flow remediation of an existing power plant. Historic rights originate in a legal order that no longer exists and could not be created today. The court held that such unlimited rights are incompatible with the current constitutional and statutory order and do not exclude the application of the residual flow rules. The judgment affects numerous small hydropower plants."
+summary_de: "Das Kraftwerk Hammer an der Lorze in Cham (ZG) stützt sich auf ein 1967 vom Kanton anerkanntes ehehaftes Wasserrecht. Im Rahmen der Erneuerung der Anlage legten die kantonalen Behörden die Restwassermenge nach den Sanierungsvorschriften (Art. 80 GSchG) auf 400 l/s fest; der WWF verlangte eine höhere Restwassermenge. Das Bundesgericht hielt fest, dass zeitlich unbegrenzte Sondernutzungsrechte heute als verfassungswidrig gelten. Auch ehehafte Wasserrechte sind aus Gründen des Investitionsschutzes nur bis zur Amortisation, höchstens 80 Jahre, zu schützen und danach grundsätzlich entschädigungslos dem geltenden Recht zu unterstellen. Für die Erneuerung und den Weiterbetrieb des Kraftwerks braucht es daher eine Konzession nach heutigem Recht, womit die Restwasservorschriften für neue Wasserentnahmen (Art. 31 ff. GSchG) anwendbar sind. Das Bundesgericht hiess die Beschwerde des WWF gut und wies die Sache an den Regierungsrat zurück. Das Urteil hat Auswirkungen auf zahlreiche Kleinwasserkraftwerke."
+summary_en: "The Hammer power plant on the Lorze in Cham (ZG) relies on a historic water right recognised by the canton in 1967. In the course of renewing the plant, the cantonal authorities set the residual flow at 400 l/s under the remediation rules (Art. 80 Waters Protection Act); WWF demanded a higher residual flow. The court held that special-use rights unlimited in time are now considered unconstitutional. Historic water rights, too, are protected for reasons of investment protection only until amortisation, for at most 80 years, and must then in principle be subjected to current law without compensation. Renewing and continuing to operate the plant therefore requires a concession under current law, so that the residual flow rules for new water withdrawals (Art. 31 et seq. Waters Protection Act) apply. The court upheld WWF's appeal and remitted the case to the cantonal government. The judgment affects numerous small hydropower plants."
 source_url: "https://relevancy.bger.ch/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F145-II-140%3Ade&lang=de&type=show_document"
 rights:
   status: official_work
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-721-80-wrg, ch-bge-140-ii-262]
 added: 2026-10-04
-last_checked: 2026-10-04
+last_checked: 2026-10-06

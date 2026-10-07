@@ -8,14 +8,16 @@ issuer: "Schweizerischer Bundesrat"
 reference: "SR 734.71"
 date: 2008-03-14
 status: in_force
-status_note: "Konsolidierte Fassung vom 1. Januar 2026 geprüft (via LexFind). Enthält u. a. Ausführungsbestimmungen zu den lokalen Elektrizitätsgemeinschaften."
-status_note_en: "Consolidated version of 1 January 2026 checked (via LexFind). Contains, among other things, implementing provisions on local electricity communities."
+status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft (geltende Fassung). Geändert durch die Verordnungsänderung vom 27.5.2026 (AS 2026 304), in Kraft seit 1.7.2026; betroffen sind gemäss den Fussnoten u. a. Art. 4 Abs. 3 (Photovoltaikanlagen ohne Eigenverbrauch zwischen 100 und 150 kW mit Minimalvergütung), Art. 4d Abs. 2 (Kosten von Effizienzmassnahmen) und Art. 8adecies Abs. 7 (intelligente Messsysteme bei Produktionsanlagen mit Einspeisevergütung bis 1.1.2028). Enthält u. a. Ausführungsbestimmungen zu den lokalen Elektrizitätsgemeinschaften. Fedlex führt bereits Fassungen per 1.1.2027 und 1.1.2031 (Inhalt und Grundlage nicht geprüft)."
+status_note_en: "Consolidated version of 1 July 2026 checked (version in force). Amended by the ordinance amendment of 27 May 2026 (AS 2026 304), in force since 1 July 2026; according to the footnotes this concerns, among others, Art. 4(3) (PV plants without self-consumption between 100 and 150 kW with minimum remuneration), Art. 4d(2) (costs of efficiency measures) and Art. 8adecies(7) (smart metering systems at generating plants with feed-in remuneration by 1 January 2028). Contains, among other things, implementing provisions on local electricity communities. Fedlex already lists versions as of 1 January 2027 and 1 January 2031 (content and basis not checked)."
 languages: [de, fr, it]
 topics: [grid, tariffs, market, self_consumption, storage]
 summary_de: "Die Verordnung führt das Stromversorgungsgesetz aus, insbesondere zu Netznutzung, anrechenbaren Kosten, Tarifen und Messwesen. Seit 2026 enthält sie auch Ausführungsbestimmungen zu den lokalen Elektrizitätsgemeinschaften."
 summary_en: "The ordinance implements the Electricity Supply Act, in particular on grid usage, chargeable costs, tariffs and metering. Since 2026 it also contains implementing provisions on local electricity communities."
 source_url: "https://www.fedlex.admin.ch/eli/cc/2008/226/de"
 alternate_urls:
+  - label: "PDF, Fassung 1.7.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/226/20260701/de/pdf-a/fedlex-data-admin-ch-eli-cc-2008-226-20260701-de-pdf-a.pdf"
   - label: "LexFind"
     url: "https://www.lexfind.ch/tolv/259021/de"
 rights:
@@ -24,4 +26,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-734-7-stromvg]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

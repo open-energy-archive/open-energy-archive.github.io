@@ -8,8 +8,8 @@ issuer: "Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunik
 reference: "SR 730.03"
 date: 2017-11-01
 status: in_force
-status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft."
-status_note_en: "Consolidated version of 1 July 2026 checked."
+status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft; am 6.10.2026 auf Fedlex keine neuere Fassung. Zuletzt geändert durch die Verordnungsänderungen vom 27.5.2026 (AS 2026 281 und AS 2026 301), in Kraft seit 1.7.2026, u. a. Art. 26 (Bewirtschaftungsentgelt). Davor Fassung vom 2.6.2026 (Berichtigung AS 2026 273, betrifft nur den italienischen Text)."
+status_note_en: "Consolidated version of 1 July 2026 checked; no newer version on Fedlex as of 6 October 2026. Last amended by the ordinance amendments of 27 May 2026 (AS 2026 281 and AS 2026 301), in force since 1 July 2026, among others Art. 26 (management fee). Preceded by the version of 2 June 2026 (correction AS 2026 273, Italian text only)."
 languages: [de, fr, it]
 topics: [subsidies, renewables, solar, wind, hydro]
 summary_de: "Die Verordnung regelt die Förderinstrumente für Strom aus erneuerbaren Energien, darunter Einspeisevergütung, gleitende Marktprämie, Einmalvergütung, Investitions- und Projektierungsbeiträge. Sie legt Voraussetzungen, Ansätze und Verfahren fest."
@@ -24,4 +24,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-730-0-eng]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

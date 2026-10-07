@@ -21,3 +21,4 @@ Jeder Eintrag ist eine kurze YAML-Datei. Anleitung und Vorlage: [CONTRIBUTING.md
 - Veröffentlichte oder freigegebene Musterverträge (ZEV, LEG, PPA, Netzanschluss)
 - **Fachreviewerinnen und -reviewer für Energierecht in der Schweiz** – insbesondere für die Prüfung der Musterverträge und der Zusammenfassungen von Entscheiden
 - Fachreviewerinnen und -reviewer für Deutschland und Österreich
+- **Code-Reviewerinnen und -Reviewer** – für Website, Build-Skripte und Datenschema (JavaScript/Node.js, statische Websites, Barrierefreiheit). Hinweise und Pull Requests auf [GitHub](https://github.com/open-energy-archive/open-energy-archive.github.io)

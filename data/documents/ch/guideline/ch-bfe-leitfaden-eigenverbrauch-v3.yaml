@@ -8,8 +8,8 @@ reference: "BFE pubdb 9329"
 date: 2023-05-01
 date_precision: month
 status: non_binding
-status_note: "Stand Mai 2023, vor Inkrafttreten des Mantelerlasses. vZEV und LEG (seit 2025/2026) sind möglicherweise nicht abgedeckt. Prüfen, ob eine neuere Fassung existiert."
-status_note_en: "Status May 2023, before the Mantelerlass entered into force. Virtual ZEV and LEG (since 2025/2026) may not be covered. Check whether a newer version exists."
+status_note: "Stand Mai 2023, vor Inkrafttreten des Mantelerlasses; vZEV und LEG (seit 2025/2026) sind nicht abgedeckt. Am 6.10.2026 keine neuere Fassung gefunden: pubdb 9329 liefert weiterhin Version 3.0, und Swissolar verlinkt diese Fassung. Zu vZEV und LEG siehe die VSE-Dokumente HER – CH 2025 und BD LEG – CH 2025."
+status_note_en: "Status May 2023, before the Mantelerlass entered into force; virtual ZEV and LEG (since 2025/2026) are not covered. No newer version found on 6 October 2026: pubdb 9329 still delivers version 3.0, and Swissolar links this version. For virtual ZEV and LEG see the VSE documents HER – CH 2025 and BD LEG – CH 2025."
 languages: [de]
 topics: [self_consumption, solar, tariffs]
 summary_de: "Der Leitfaden erklärt, wie Eigentümer und Mieter einen Zusammenschluss zum Eigenverbrauch (ZEV) gründen und betreiben können. Er behandelt Rechtsgrundlagen, Mieterschutz, Preismodelle und technische Anforderungen und enthält Vorlagen und Rechenbeispiele."
@@ -19,6 +19,6 @@ rights:
   status: unclear
   basis: "Behördenpublikation; Weiterverbreitung nicht ausdrücklich geregelt – nur Verlinkung, bis geklärt."
   mirror_allowed: false
-related: [ch-sr-730-01-env]
+related: [ch-sr-730-01-env, ch-vse-her-2025, ch-vse-bd-leg-2025]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

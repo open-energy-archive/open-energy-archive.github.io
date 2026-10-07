@@ -7,8 +7,8 @@ issuer: "Schweizerisches Bundesgericht, II. öffentlich-rechtliche Abteilung"
 reference: "2C_409/2020"
 date: 2021-03-24
 status: final
-status_note: "Beschwerde gutgeheissen und zurückgewiesen. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
-status_note_en: "Appeal upheld and remitted. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+status_note: "Beschwerde der Kraftwerke Oberhasli AG gutgeheissen und zur neuen Beurteilung an das BFE zurückgewiesen."
+status_note_en: "Appeal by Kraftwerke Oberhasli AG upheld and remitted to the Federal Office of Energy for reassessment."
 languages: [de]
 topics: [hydro, subsidies]
 summary_de: "Streitig war ein Investitionsbeitrag für die erhebliche Erneuerung der Staumauer am Grimselsee. Das Bundesgericht äusserte sich zur Anwendbarkeit von Art. 63 Abs. 4 EnFV und zur Berechnung der Geldzuflüsse bei der Prüfung, ob ein Anspruch auf einen Investitionsbeitrag besteht; dabei waren der Schadenszustand der Staumauer und seine prognostizierte Entwicklung zu berücksichtigen. Es hiess die Beschwerde gut und wies die Sache zur neuen Beurteilung zurück."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-730-03-enfv]
 added: 2026-10-04
-last_checked: 2026-10-04
+last_checked: 2026-10-06

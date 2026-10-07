@@ -7,8 +7,8 @@ issuer: "Eidgenössische Elektrizitätskommission ElCom"
 reference: "211-00506"
 date: 2025-12-16
 status: pending
-status_note: "Noch nicht rechtskräftig; gemäss ElCom-Newsletter 01/2026 ist ein Beschwerdeverfahren hängig"
-status_note_en: "Not yet final; according to ElCom newsletter 01/2026 an appeal is pending"
+status_note: "Noch nicht rechtskräftig (gemäss Verfügungsliste der ElCom am 6.10.2026). Gemäss ElCom-Newsletter 01/2026 ist ein Beschwerdeverfahren hängig; auch naturemade.ch verweist auf die Beschwerde des VUE gegen die Verfügung. Ein Rechtsmittelentscheid wurde nicht gefunden."
+status_note_en: "Not yet final (according to ElCom's list of decisions as of 6 October 2026). According to ElCom newsletter 01/2026 an appeal is pending; naturemade.ch also refers to the VUE's appeal against the decision. No appeal ruling was found."
 languages: [de]
 topics: [tariffs, market, renewables]
 summary_de: "Der Trägerverein des Stromlabels naturemade verlangte die Feststellung, dass Zertifizierungskosten und Beiträge an ökologische Fonds wie bisher als Energiekosten in die Grundversorgungstarife eingerechnet werden dürfen. Die ElCom wies Haupt- und Eventualbegehren ab: Weder die bisherige Praxis noch die vorgeschlagene Kostenaufteilung für Zertifizierung, naturemade-zertifizierte Herkunftsnachweise und Projektbeiträge sei mit dem Stromversorgungsrecht und der Weisung 7/2025 vereinbar. Eine Verlängerung der Umsetzungsfrist gewährte sie nicht; die Kosten sind ab den Tarifen 2027 zu entfernen."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-734-7-stromvg, ch-sr-734-71-stromvv, ch-elcom-weisung-7-2025, ch-bger-2c-609-2024, ch-sr-730-010-1-hksv]
 added: 2026-10-02
-last_checked: 2026-10-02
+last_checked: 2026-10-06

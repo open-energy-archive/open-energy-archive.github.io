@@ -21,4 +21,5 @@ Each entry is a short YAML file. Instructions and template: [CONTRIBUTING.md](CO
 - Published or released model contracts (ZEV, LEG, PPA, grid connection)
 - **Expert reviewers in Swiss energy law** – in particular to review the model contracts and decision summaries
 - Expert reviewers for Germany and Austria
+- **Code reviewers** – for the website, build scripts and data schema (JavaScript/Node.js, static sites, accessibility). Issues and pull requests on [GitHub](https://github.com/open-energy-archive/open-energy-archive.github.io)
 - Help with English (and French or Italian) translations

@@ -21,7 +21,7 @@
   const collator = new Intl.Collator(lang, { sensitivity: 'base', numeric: true });
   const dateFmt = new Intl.DateTimeFormat(lang === 'de' ? 'de-CH' : 'en-GB', { day: 'numeric', month: lang === 'de' ? 'numeric' : 'short', year: 'numeric' });
   const PER_OPTIONS = ['10', '50', '100'];
-  const SORTS = ['new', 'old', 'title', 'title-desc'];
+  const SORTS = ['new', 'added', 'old', 'title', 'title-desc'];
   const FIELDS = ['q', 'jur', 'level', 'type', 'topic', 'rights', 'period', 'from', 'to'];
   const DEFAULTS = { period: 'all' };
   const FACETS = ['jur', 'level', 'type', 'topic', 'rights'];
@@ -213,6 +213,7 @@
     const byDate = (a, b) => (a.dataset.date || '').localeCompare(b.dataset.date || '');
     const cmp = {
       new: (a, b) => byDate(b, a) || byTitle(a, b),
+      added: (a, b) => (b.dataset.added || '').localeCompare(a.dataset.added || '') || byDate(b, a) || byTitle(a, b),
       old: (a, b) => byDate(a, b) || byTitle(a, b),
       title: byTitle,
       'title-desc': (a, b) => byTitle(b, a),

@@ -11,11 +11,11 @@ languages: [de]
 topics: [grid, permitting]
 summary_de: "Das Bundesverwaltungsgericht wies die Beschwerden der Gemeinde Lauerz und weiterer Betroffener gegen die Plangenehmigung des BFE für den Ersatz einer 380-kV-Leitung auf dem Abschnitt Ingenbohl–Lauerz ab. Es hielt fest, dass zwei räumlich nahe, parallel geführte Leitungen nach der NISV als eine einzige Anlage gelten und der Ersatz einer dieser Leitungen deshalb als Änderung und nicht als Neuanlage zu beurteilen ist. Verfahrensmängel bei der Publikation und die blosse Aussteckung mit Holzpfählen statt Profilen führten nicht zur Aufhebung der Genehmigung."
 summary_en: "The Federal Administrative Court dismissed the appeals of the municipality of Lauerz and others against the Federal Office of Energy's plan approval for replacing a 380 kV line on the Ingenbohl–Lauerz section. It held that two closely parallel lines count as a single installation under the Ordinance on Non-Ionising Radiation, so replacing one of them is a modification rather than a new installation. Procedural defects in publication and staking with wooden poles instead of profiles did not lead to annulment of the approval."
-source_url: "https://jurispub.admin.ch/publiws/download?decisionId=057ec476-863a-4747-80b5-0d3b481ae76c"
+source_url: "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-438-2009_2011-03-08.pdf"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. c URG"
   mirror_allowed: true
 related: [ch-sr-734-7-stromvg]
 added: 2026-10-02
-last_checked: 2026-10-02
+last_checked: 2026-10-07

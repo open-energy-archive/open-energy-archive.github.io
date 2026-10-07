@@ -7,17 +7,20 @@ issuer: "Verband Schweizerischer Elektrizitätsunternehmen VSE"
 reference: "HER – CH 2025"
 date: 2025-02-10
 status: non_binding
-status_note: "Branchendokument zu ZEV und vZEV. Die verlinkte Kopie wird von Swissolar bereitgestellt."
-status_note_en: "Industry document on ZEV and virtual ZEV. The linked copy is provided by Swissolar."
+status_note: "Branchendokument zu ZEV und vZEV. Die verlinkte Kopie wird von Swissolar bereitgestellt; dieselbe Fassung (HER – CH 2025, vom VSE-Vorstand am 10.2.2025 verabschiedet) ist auch beim VSE abrufbar. Am 6.10.2026 keine neuere Fassung gefunden."
+status_note_en: "Industry document on ZEV and virtual ZEV. The linked copy is provided by Swissolar; the same version (HER – CH 2025, approved by the VSE board on 10 February 2025) is also available from VSE. No newer version found on 6 October 2026."
 languages: [de]
 topics: [self_consumption, solar, tariffs]
 summary_de: "Das Handbuch beschreibt, wie Netzbetreiber und Produzenten die Eigenverbrauchsregelungen einschliesslich Zusammenschluss zum Eigenverbrauch (ZEV) und virtuellem ZEV umsetzen. Es behandelt Messung, Abrechnung und Abläufe zwischen den Beteiligten."
 summary_en: "The handbook describes how grid operators and producers implement the self-consumption rules, including self-consumption communities (ZEV) and virtual ZEV. It covers metering, billing and processes between the parties."
 source_url: "https://www.swissolar.ch/01_wissen/wirtschaftlichkeit/zev/handbuch-eigenverbrauchsregelung-her-2025.pdf"
+alternate_urls:
+  - label: "VSE-Download"
+    url: "https://www.strom.ch/de/media/15256/download"
 rights:
   status: copyrighted
   basis: "© VSE – nur Metadaten und Link."
   mirror_allowed: false
 related: [ch-sr-730-01-env, ch-bfe-leitfaden-eigenverbrauch-v3]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

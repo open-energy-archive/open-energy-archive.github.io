@@ -21,6 +21,9 @@ const docs = loadDocuments()
   .map(({ file, doc }) => ({ ...doc, _file: file }))
   .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 const byId = Object.fromEntries(docs.map((d) => [d.id, d]));
+// Rückverweise: Wer auf ein Dokument verweist, erscheint auch dort unter «Verwandte Dokumente».
+const backlinks = {};
+for (const d of docs) for (const r of d.related || []) (backlinks[r] ||= []).push(d.id);
 
 // ---------- Texte ----------
 const T = {
@@ -28,7 +31,7 @@ const T = {
     prefix: '', htmlLang: 'de', other: 'en', otherLabel: 'English', switchLabel: 'EN',
     paths: { home: '', list: 'dokumente/', about: 'ueber/', aboutUs: 'ueber/uns/', contribute: 'mitwirken/', legal: 'impressum/' },
     subAbout: { about: 'Über OEA', aboutUs: 'Über uns' }, subAboutLabel: 'Über',
-    nav: { home: 'Suche', list: 'Alle Dokumente', about: 'Über OEA', contribute: 'Mitwirken' },
+    nav: { home: 'Suche', list: 'Archiv', about: 'Über OEA', contribute: 'Mitwirken' },
     skip: 'Zum Inhalt', mainNav: 'Hauptnavigation',
     initiative: 'Eine Initiative von Bernhard Weber', initiativeShort: 'Initiative von Bernhard Weber',
     metaDesc: 'Offenes, durchsuchbares Archiv für Gesetze, Entscheide, Leitfäden und Verträge zu Elektrizität und Energie.',
@@ -36,19 +39,19 @@ const T = {
     heroLead: 'Gesetze, Verordnungen, Gerichts- und Behördenentscheide, Leitfäden und Verträge zu Elektrizität und Energie – gesammelt, verschlagwortet und frei durchsuchbar. Damit der Ausbau erneuerbarer Energie nicht an der Suche nach Grundlagen scheitert.',
     stats: ['Einträge', 'Rechtsräume', 'Dokumenttypen', 'Frei verfügbar'],
     searchTitle: 'Suche', searchPh: 'Suchen, z. B. «Eigenverbrauch», «StromVG», «Netzanschluss» …',
-    noJs: 'Die Suche benötigt JavaScript.', listLink: 'Alle Dokumente als Liste',
+    noJs: 'Die Suche benötigt JavaScript.', listLink: 'Archiv als Liste',
     byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt ergänzt', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
-    listTitle: 'Alle Dokumente', filterLabel: 'Dokumente filtern',
+    listTitle: 'Archiv', filterLabel: 'Dokumente filtern',
     f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen', date: 'Zeitraum', from: 'von', to: 'bis', fromAria: 'Datum von', toAria: 'Datum bis', pAll: 'Alle', p30: 'Letzte 30 Tage', p12: 'Letzte 12 Monate', pCustom: 'Eigener Zeitraum', dateErr: '«Bis» liegt vor «von». Passe den Zeitraum an.', toggle: 'Filter', done: 'Treffer zeigen', remove: 'entfernen', active: 'Aktive Filter', more: 'Weitere Filter' },
     chipTitle: (l) => `Alle Einträge: ${l}`, byJur: 'Nach Rechtsraum',
-    countOf: 'von', countDocs: 'Einträgen', countTotal: 'insgesamt', perPage: 'Pro Seite', sortLabel: 'Sortierung', sortNew: 'Neueste zuerst', sortOld: 'Älteste zuerst', sortTitle: 'Titel A–Z', sortTitleDesc: 'Titel Z–A', prev: '‹ Zurück', next: 'Weiter ›', pagesLabel: 'Seiten',
+    countOf: 'von', countDocs: 'Einträgen', countTotal: 'insgesamt', perPage: 'Pro Seite', sortLabel: 'Sortierung', sortNew: 'Neueste zuerst', sortAdded: 'Zuletzt hinzugefügt', sortOld: 'Älteste zuerst', sortTitle: 'Titel A–Z', sortTitleDesc: 'Titel Z–A', prev: '‹ Zurück', next: 'Weiter ›', pagesLabel: 'Seiten',
     chipFree: 'Frei', chipLink: 'Nur Link', chipUnreviewed: 'Nicht fachlich geprüft',
     unreviewedNote: '<strong>Nicht fachlich geprüft.</strong> Dieses Muster wurde noch nicht von einer Fachperson für Energierecht geprüft. Verwendung auf eigene Verantwortung; Hinweise und Korrekturen sind willkommen.',
-    crumbsAll: 'Alle Dokumente',
+    crumbsAll: 'Archiv',
     readFull: 'Volltext lesen', onGithub: 'Auf GitHub ↗', toSource: 'Zur Originalquelle ↗', archiveCopy: 'Archivkopie',
     noteLabel: 'Hinweis zum Stand:',
     meta: { type: 'Typ', jur: 'Rechtsraum', issuer: 'Herausgeber', ref: 'Referenz', date: 'Datum', status: 'Status', langs: 'Sprachen', rights: 'Rechte', checked: 'Zuletzt geprüft', orig: null },
-    topics: 'Themen', related: 'Verwandte Dokumente',
+    topics: 'Themen', related: 'Verwandte Dokumente', moreRelated: (n) => `${n} weitere anzeigen`,
     editMeta: 'Metadaten auf GitHub korrigieren', reportError: 'Fehler melden',
     filterNames: { jur: 'Rechtsraum', level: 'Ebene', type: 'Typ', topic: 'Thema', rights: 'Rechte' },
     notFound: 'Seite nicht gefunden', toSearch: 'Zur Suche',
@@ -60,7 +63,7 @@ const T = {
     prefix: 'en/', htmlLang: 'en', other: 'de', otherLabel: 'Deutsch', switchLabel: 'DE',
     paths: { home: '', list: 'documents/', about: 'about/', aboutUs: 'about/us/', contribute: 'contribute/', legal: 'legal/' },
     subAbout: { about: 'About OEA', aboutUs: 'About us' }, subAboutLabel: 'About',
-    nav: { home: 'Search', list: 'All documents', about: 'About OEA', contribute: 'Contribute' },
+    nav: { home: 'Search', list: 'Archive', about: 'About OEA', contribute: 'Contribute' },
     skip: 'Skip to content', mainNav: 'Main navigation',
     initiative: 'An initiative by Bernhard Weber', initiativeShort: 'Initiative by Bernhard Weber',
     metaDesc: 'Open, searchable archive of laws, decisions, guidance and contracts on electricity and energy.',
@@ -68,19 +71,19 @@ const T = {
     heroLead: 'Laws, ordinances, court and regulatory decisions, guidance and contracts on electricity and energy – collected, tagged and freely searchable. So that the expansion of renewable energy does not stall on finding the basics.',
     stats: ['Entries', 'Jurisdictions', 'Document types', 'Freely available'],
     searchTitle: 'Search', searchPh: 'Search, e.g. “self-consumption”, “grid tariffs”, “wind farm” …',
-    noJs: 'Search requires JavaScript.', listLink: 'All documents as a list',
+    noJs: 'Search requires JavaScript.', listLink: 'Archive as a list',
     byTopic: 'By topic', byType: 'By type', latest: 'Recently added', showAll: (n) => `Show all ${n} entries →`,
-    listTitle: 'All documents', filterLabel: 'Filter documents',
+    listTitle: 'Archive', filterLabel: 'Filter documents',
     f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Level', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only', reset: 'Reset filters', date: 'Period', from: 'from', to: 'to', fromAria: 'Date from', toAria: 'Date to', pAll: 'All', p30: 'Last 30 days', p12: 'Last 12 months', pCustom: 'Custom range', dateErr: '"To" is before "from". Adjust the period.', toggle: 'Filters', done: 'Show results', remove: 'remove', active: 'Active filters', more: 'More filters' },
     chipTitle: (l) => `All entries: ${l}`, byJur: 'By jurisdiction',
-    countOf: 'of', countDocs: 'entries', countTotal: 'in total', perPage: 'Per page', sortLabel: 'Sort', sortNew: 'Newest first', sortOld: 'Oldest first', sortTitle: 'Title A–Z', sortTitleDesc: 'Title Z–A', prev: '‹ Previous', next: 'Next ›', pagesLabel: 'Pages',
+    countOf: 'of', countDocs: 'entries', countTotal: 'in total', perPage: 'Per page', sortLabel: 'Sort', sortNew: 'Newest first', sortAdded: 'Recently added', sortOld: 'Oldest first', sortTitle: 'Title A–Z', sortTitleDesc: 'Title Z–A', prev: '‹ Previous', next: 'Next ›', pagesLabel: 'Pages',
     chipFree: 'Free', chipLink: 'Link only', chipUnreviewed: 'Not expert-reviewed',
     unreviewedNote: '<strong>Not expert-reviewed.</strong> This template has not yet been reviewed by an energy-law specialist. Use at your own responsibility; comments and corrections are welcome.',
-    crumbsAll: 'All documents',
+    crumbsAll: 'Archive',
     readFull: 'Read full text (German)', onGithub: 'On GitHub ↗', toSource: 'Go to original source ↗', archiveCopy: 'Archive copy',
     noteLabel: 'Status note:',
     meta: { type: 'Type', jur: 'Jurisdiction', issuer: 'Issuer', ref: 'Reference', date: 'Date', status: 'Status', langs: 'Languages', rights: 'Rights', checked: 'Last checked', orig: 'Original title' },
-    topics: 'Topics', related: 'Related documents',
+    topics: 'Topics', related: 'Related documents', moreRelated: (n) => `Show ${n} more`,
     editMeta: 'Correct metadata on GitHub', reportError: 'Report an error',
     filterNames: { jur: 'Jurisdiction', level: 'Level', type: 'Type', topic: 'Topic', rights: 'Rights' },
     notFound: 'Page not found', toSearch: 'Go to search',
@@ -323,10 +326,10 @@ window.addEventListener('DOMContentLoaded', () => {
 </form>
 <div class="f-active" id="factive" aria-label="${t.f.active}" data-remove="${t.f.remove}"></div>
 <div class="result-bar"><span class="result-count" id="count" aria-live="polite" data-of="${t.countOf}" data-docs="${t.countDocs}" data-total="${t.countTotal}"></span> <a href="${page('list')}" id="reset" class="reset" hidden>${t.f.reset}</a>
-  <label class="sort-by" hidden><span class="rb-label">${t.sortLabel}</span> <select id="sort" aria-label="${t.sortLabel}"><option value="new">${t.sortNew}</option><option value="old">${t.sortOld}</option><option value="title">${t.sortTitle}</option><option value="title-desc">${t.sortTitleDesc}</option></select></label>
+  <label class="sort-by" hidden><span class="rb-label">${t.sortLabel}</span> <select id="sort" aria-label="${t.sortLabel}"><option value="new">${t.sortNew}</option><option value="added">${t.sortAdded}</option><option value="old">${t.sortOld}</option><option value="title">${t.sortTitle}</option><option value="title-desc">${t.sortTitleDesc}</option></select></label>
   <label class="per-page" hidden><span class="rb-label">${t.perPage}</span> <select id="per" aria-label="${t.perPage}"><option value="10">10</option><option value="50">50</option><option value="100">100</option></select></label></div>
 <ul class="cards" id="list">
-${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-year="${String(d.date || '').slice(0, 4)}" data-date="${String(d.date || '')}" data-title="${esc(d.title)}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
+${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d)}" data-type="${d.doc_type}" data-topics="${d.topics.join(' ')}" data-rights="${free(d) ? 'free' : 'link'}" data-year="${String(d.date || '').slice(0, 4)}" data-date="${String(d.date || '')}" data-added="${String(d.added || '')}" data-title="${esc(d.title)}" data-text="${esc([d.title, d.title_en, d.short_title, d.reference, d.issuer].filter(Boolean).join(' ').toLowerCase())}"`)).join('\n')}
 </ul>
 <nav class="pager" id="pager" aria-label="${t.pagesLabel}" data-prev="${t.prev}" data-next="${t.next}" hidden></nav>
 <script src="${url('assets/filter.js')}?v=${ASSET_HASH['filter.js']}" defer></script>`,
@@ -346,7 +349,8 @@ ${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d
       [t.meta.rights, rights],
       [t.meta.checked, fmtDate(d.last_checked)],
     ].filter(([k, v]) => k && v);
-    const related = (d.related || []).map((r) => byId[r]).filter(Boolean);
+    const relIds = [...new Set([...(d.related || []), ...(backlinks[d.id] || [])])].filter((r) => r !== d.id);
+    const related = relIds.map((r) => byId[r]).filter(Boolean);
     const filters = [
       [t.filterNames.jur, L('jurisdictions', d.jurisdiction)],
       [t.filterNames.level, levelLabel(levelOf(d))],
@@ -387,7 +391,7 @@ ${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d
   ${contentHtml}
   <div hidden>${filters.map(([k, v]) => `<span data-pagefind-filter="${k}">${esc(v)}</span>`).join('')}<span data-pagefind-meta="${t.meta.date}">${esc(fmtDate(d.date, d.date_precision))}</span><span data-pagefind-sort="date">${d.date}</span></div>
 </article>
-${related.length ? `<section><h2 class="section-title">${t.related}</h2><ul class="cards">${related.map((r) => card(r)).join('')}</ul></section>` : ''}
+${related.length ? `<section><h2 class="section-title">${t.related} <span class="rel-count">(${related.length})</span></h2><ul class="cards">${related.slice(0, 8).map((r) => card(r)).join('')}</ul>${related.length > 8 ? `<details class="more-rel"><summary>${t.moreRelated(related.length - 8)}</summary><ul class="cards">${related.slice(8).map((r) => card(r)).join('')}</ul></details>` : ''}</section>` : ''}
 <p class="edit"><a href="${REPO_URL}/edit/main/${d._file}">${t.editMeta}</a> · <a href="${REPO_URL}/issues/new?template=fehler-melden.yml&title=${encodeURIComponent('Fehler: ' + d.id)}">${t.reportError}</a></p>`,
     }));
   }

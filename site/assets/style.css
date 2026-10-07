@@ -156,7 +156,7 @@ pre { background: var(--soft); padding: 12px; overflow-x: auto; }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .stats div:nth-child(3) { border-left: 0; padding-left: 0; }
   .stats div:nth-child(n+3) { border-top: 1px solid var(--line); }
-  .browse { grid-template-columns: 1fr; gap: 8px; }
+  .browse { grid-template-columns: 1fr; gap: 40px; margin-top: 48px; }
   .card-meta .date { margin-left: 0; width: 100%; }
 }
 @media (max-width: 520px) {
@@ -253,3 +253,8 @@ a.chip:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 .filters input[type="date"]::-webkit-datetime-edit { padding: 0; }
 .filters input[type="date"]::-webkit-calendar-picker-indicator { margin-left: auto; opacity: .6; cursor: pointer; }
 .f-dates label { min-width: 0; }
+
+/* Verwandte Dokumente */
+.rel-count { color: var(--muted); font-size: .8em; }
+.more-rel { margin-top: 12px; }
+.more-rel summary { cursor: pointer; color: var(--accent); font-weight: 600; padding: 8px 0; }

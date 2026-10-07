@@ -6,18 +6,23 @@ doc_type: law
 jurisdiction: CH
 subdivision: CH-VD
 issuer: "Grand Conseil du Canton de Vaud"
+reference: "BLV 730.01"
 date: 2026-02-03
 status: adopted
-status_note: "Vom Grossen Rat am 3.2.2026 endgültig verabschiedet, im Amtsblatt (FAO) am 10.3.2026 veröffentlicht; Inkrafttreten im Januar 2027 vorgesehen, zusammen mit einem neuen Ausführungsreglement (RLVLEne), das der Staatsrat im zweiten Halbjahr 2026 erlassen soll. Ersetzt die LVLEne vom 16.5.2006. Der Link führt auf die Informationsseite des Kantons mit dem verabschiedeten Gesetzestext (PDF). Inhalt nicht im Einzelnen geprüft."
-status_note_en: "Finally adopted by the Grand Council on 3 February 2026 and published in the official gazette (FAO) on 10 March 2026; entry into force planned for January 2027, together with new implementing regulations (RLVLEne) to be adopted by the Council of State in the second half of 2026. Replaces the LVLEne of 16 May 2006. The link leads to the canton's information page with the adopted text (PDF). Content not checked in detail."
+status_note: "Vom Grossen Rat am 3.2.2026 endgültig verabschiedet, im Amtsblatt (FAO) am 10.3.2026 veröffentlicht; Referendumsfrist bis 14.5.2026. Das von der SVP (UDC) ergriffene Referendum kam nicht zustande (gemäss Medienberichten 11 362 statt der nötigen 12 000 Unterschriften). Gemäss Staatsratsentscheid vom 27.5.2026 tritt das Gesetz am 1.1.2027 in Kraft, zusammen mit dem neuen Ausführungsreglement. Systematische Nummer gemäss verabschiedetem Text: BLV 730.01 (wie das bisherige Gesetz). Hebt die LVLEne vom 16.5.2006 auf (Art. 79). Inhalt u. a.: Pflicht zur optimalen Nutzung des Solarpotenzials bei Neubauten, Dachsanierungen und Aufstockungen (Art. 39) und Ersatz fossiler Heizungen innert 15 bzw. 20 Jahren je nach Installationsdatum (Art. 40). Inhalt im Übrigen nicht im Einzelnen geprüft."
+status_note_en: "Finally adopted by the Grand Council on 3 February 2026 and published in the official gazette (FAO) on 10 March 2026; referendum deadline 14 May 2026. The referendum launched by the SVP (UDC) did not succeed (according to media reports 11,362 instead of the required 12,000 signatures). By decision of the Council of State of 27 May 2026 the act enters into force on 1 January 2027, together with the new implementing regulations. Systematic number according to the adopted text: BLV 730.01 (same as the previous act). Repeals the LVLEne of 16 May 2006 (Art. 79). Content includes: duty to make optimal use of the solar potential for new buildings, roof renovations and additional storeys (Art. 39) and replacement of fossil heating within 15 or 20 years depending on installation date (Art. 40). Otherwise content not checked in detail."
 languages: [fr]
 topics: [energy_efficiency, heat, renewables, solar, subsidies]
 summary_de: "Das totalrevidierte Energiegesetz des Kantons Waadt soll die kantonalen Energie- und Klimaziele umsetzen, darunter die Klimaneutralität spätestens 2050 und eine stärkere Nutzung einheimischer Energiequellen. Für die erste Umsetzungsetappe 2027 bis 2032 sind rund 800 Millionen Franken vorgesehen, ein grosser Teil davon als Förderbeiträge für Eigentümerinnen und Eigentümer, darunter ein Beitrag für Eigentümer, die Sanierungskosten nicht auf die Mieten überwälzen."
 summary_en: "The fully revised Vaud Energy Act is intended to implement the canton's energy and climate goals, including climate neutrality by 2050 at the latest and greater use of local energy sources. Around CHF 800 million is planned for the first implementation phase from 2027 to 2032, much of it as subsidies for property owners, including a subsidy for owners who do not pass renovation costs on to rents."
 source_url: "https://www.vd.ch/djes/nouvelle-loi-sur-lenergie"
 alternate_urls:
+  - label: "Gesetzestext (PDF, vd.ch)"
+    url: "https://www.vd.ch/fileadmin/user_upload/themes/environnement/energie/LVLEne.pdf"
   - label: "FAQ des Kantons zur neuen LVLEne"
     url: "https://www.vd.ch/djes/faq-loi-energie-2026"
+  - label: "Staatsratsentscheid vom 27.5.2026 zum Inkrafttreten"
+    url: "https://www.vd.ch/actualites/decisions-du-conseil-detat/seance-du-conseil-detat/decision/id/93fbd60f-08aa-4361-a9ec-e3c229dd300f"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. a URG"
@@ -25,4 +30,4 @@ rights:
 supersedes: ch-vd-lvlene
 related: [ch-vd-lvlene]
 added: 2026-10-03
-last_checked: 2026-10-03
+last_checked: 2026-10-06

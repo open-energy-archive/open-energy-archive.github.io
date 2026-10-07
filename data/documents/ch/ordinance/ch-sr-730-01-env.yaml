@@ -8,20 +8,22 @@ issuer: "Schweizerischer Bundesrat"
 reference: "SR 730.01"
 date: 2017-11-01
 status: in_force
-status_note: "Konsolidierte Fassung vom 1. Januar 2026 geprüft. Änderungen zur Umsetzung des Mantelerlasses seit 1.1.2025 (Herkunftsnachweise, Eigenverbrauch/ZEV, Abnahme und Vergütung)."
-status_note_en: "Consolidated version of 1 January 2026 checked. Changes implementing the Mantelerlass since 1 January 2025 (guarantees of origin, self-consumption/ZEV, purchase and remuneration)."
+status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft (geltende Fassung). Änderungen zur Umsetzung des Mantelerlasses seit 1.1.2025 (Herkunftsnachweise, Eigenverbrauch/ZEV, Abnahme und Vergütung). Durch die Verordnungsänderung vom 27.5.2026 (AS 2026 298) geändert: seit 1.7.2026 u. a. Herkunftsnachweise für erneuerbare Brenn- und Treibstoffe und Wasserstoff (Art. 4b–4c); ab 1.1.2027 entspricht der Marktpreis für die Vergütung nach Art. 12 dem Day-Ahead-Spotmarktpreis für das Marktgebiet Schweiz, und Art. 12a regelt die Minimalvergütungen. Die künftige Fassung vom 1.1.2027 ist auf Fedlex bereits veröffentlicht."
+status_note_en: "Consolidated version of 1 July 2026 checked (version in force). Changes implementing the Mantelerlass since 1 January 2025 (guarantees of origin, self-consumption/ZEV, purchase and remuneration). Amended by the ordinance amendment of 27 May 2026 (AS 2026 298): since 1 July 2026, among other things, guarantees of origin for renewable fuels and hydrogen (Art. 4b–4c); from 1 January 2027 the market price for remuneration under Art. 12 corresponds to the day-ahead spot market price for the Swiss market area, and Art. 12a governs minimum remuneration. The future version of 1 January 2027 is already published on Fedlex."
 languages: [de, fr, it]
 topics: [renewables, self_consumption, tariffs, energy_efficiency]
 summary_de: "Die Verordnung führt das Energiegesetz aus, unter anderem zu Herkunftsnachweisen, Stromkennzeichnung und Netzzuschlag. Sie regelt auch Abnahme und Vergütung durch die Netzbetreiber sowie den Eigenverbrauch und den Zusammenschluss zum Eigenverbrauch (Art. 14–18)."
 summary_en: "The ordinance implements the Energy Act, among other things on guarantees of origin, electricity labelling and the grid surcharge. It also governs purchase and remuneration by grid operators as well as self-consumption and self-consumption communities (Art. 14–18)."
 source_url: "https://www.fedlex.admin.ch/eli/cc/2017/763/de"
 alternate_urls:
-  - label: "PDF, Fassung 1.1.2026"
-    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2017-763-20260101-de-pdf-a-3.pdf"
+  - label: "PDF, Fassung 1.7.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20260701/de/pdf-a/fedlex-data-admin-ch-eli-cc-2017-763-20260701-de-pdf-a.pdf"
+  - label: "PDF, künftige Fassung 1.1.2027"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20270101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2017-763-20270101-de-pdf-a.pdf"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. a URG"
   mirror_allowed: true
 related: [ch-sr-730-0-eng]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

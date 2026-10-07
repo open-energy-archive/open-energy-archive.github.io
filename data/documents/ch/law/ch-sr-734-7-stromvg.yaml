@@ -8,20 +8,22 @@ issuer: "Bundesversammlung der Schweizerischen Eidgenossenschaft"
 reference: "SR 734.7"
 date: 2007-03-23
 status: in_force
-status_note: "Konsolidierte Fassung vom 1. April 2026 geprüft. Durch den Mantelerlass (AS 2024 679) geändert: Hauptteil seit 1.1.2025, lokale Elektrizitätsgemeinschaften (Art. 17d/17e) seit 1.1.2026, weitere Bestimmungen seit 1.4.2026."
-status_note_en: "Consolidated version of 1 April 2026 checked. Amended by the Mantelerlass (AS 2024 679): main part since 1 January 2025, local electricity communities (Art. 17d/17e) since 1 January 2026, further provisions since 1 April 2026."
+status_note: "Konsolidierte Fassung vom 13. August 2026 geprüft (geltende Fassung). Durch den Mantelerlass (AS 2024 679) geändert: Hauptteil seit 1.1.2025, lokale Elektrizitätsgemeinschaften (Art. 17d/17e) seit 1.1.2026, weitere Bestimmungen seit 1.4.2026. Seit 1.4.2026 zudem durch den Beschleunigungserlass (AS 2026 99) geändert (u. a. Art. 9a und 15). Die Fassung vom 13.8.2026 beruht auf einer Berichtigung des Mantelerlasses (AS 2026 418), die nur den italienischen Text betrifft. Auf Fedlex ist bereits die künftige Fassung vom 1.1.2027 veröffentlicht; sie geht gemäss Fedlex-Metadaten auf das Bundesgesetz über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten (BATE, AS 2026 509) zurück. Die Änderungen durch das BATE wurden nicht im Einzelnen geprüft."
+status_note_en: "Consolidated version of 13 August 2026 checked (version in force). Amended by the Mantelerlass (AS 2024 679): main part since 1 January 2025, local electricity communities (Art. 17d/17e) since 1 January 2026, further provisions since 1 April 2026. Also amended since 1 April 2026 by the acceleration act (AS 2026 99), among others Art. 9a and 15. The version of 13 August 2026 reflects a correction of the Mantelerlass (AS 2026 418) affecting the Italian text only. The future version of 1 January 2027 is already published on Fedlex; according to the Fedlex metadata it results from the Federal Act on Supervision and Transparency in Wholesale Energy Markets (BATE, AS 2026 509). The changes made by the BATE were not checked in detail."
 languages: [de, fr, it]
 topics: [grid, market, tariffs, supply_security, self_consumption]
 summary_de: "Das Gesetz regelt die Stromversorgung in der Schweiz, darunter Netzzugang, Netznutzung, Grundversorgung und die teilweise Marktöffnung. Seit dem Mantelerlass regelt es auch die lokalen Elektrizitätsgemeinschaften und weitere Vorgaben zu Tarifen und Messwesen."
 summary_en: "The act governs electricity supply in Switzerland, including network access, grid usage, basic supply and partial market opening. Since the Mantelerlass it also regulates local electricity communities and further requirements on tariffs and metering."
 source_url: "https://www.fedlex.admin.ch/eli/cc/2007/418/de"
 alternate_urls:
-  - label: "PDF, Fassung 1.4.2026"
-    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260401/de/pdf-a/fedlex-data-admin-ch-eli-cc-2007-418-20260401-de-pdf-a-1.pdf"
+  - label: "PDF, Fassung 13.8.2026"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20260813/de/pdf-a/fedlex-data-admin-ch-eli-cc-2007-418-20260813-de-pdf-a.pdf"
+  - label: "PDF, künftige Fassung 1.1.2027"
+    url: "https://www.fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/418/20270101/de/pdf-a/fedlex-data-admin-ch-eli-cc-2007-418-20270101-de-pdf-a.pdf"
 rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. a URG"
   mirror_allowed: true
 related: [ch-as-2024-679-mantelerlass, ch-sr-734-71-stromvv, ch-as-2026-99-beschleunigungserlass, ch-sr-734-722-wresv]
 added: 2026-09-25
-last_checked: 2026-09-25
+last_checked: 2026-10-06

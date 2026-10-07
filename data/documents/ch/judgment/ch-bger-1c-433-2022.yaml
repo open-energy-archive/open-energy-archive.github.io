@@ -7,8 +7,8 @@ issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
 reference: "1C_433/2022"
 date: 2023-12-12
 status: final
-status_note: "Stimmrechtsbeschwerde abgewiesen. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
-status_note_en: "Appeal on voting rights dismissed. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+status_note: "Stimmrechtsbeschwerde abgewiesen."
+status_note_en: "Appeal on voting rights dismissed."
 languages: [de]
 topics: [solar, subsidies, tariffs]
 summary_de: "Eine Gemeindeinitiative in Hochdorf (LU) wollte den Ausbau der Solarenergie über eine kommunale Abgabe finanzieren. Die Vorinstanz verneinte die Kompetenz der Gemeinde, eine solche Abgabe zu erheben, weil eine kantonalgesetzliche Grundlage fehle und es sich um eine Steuer handle. Das Bundesgericht erachtete dies nicht als willkürlich; einen Verstoss gegen Art. 15 EnG oder Art. 14 StromVG sah es nicht."
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-730-0-eng]
 added: 2026-10-04
-last_checked: 2026-10-04
+last_checked: 2026-10-06

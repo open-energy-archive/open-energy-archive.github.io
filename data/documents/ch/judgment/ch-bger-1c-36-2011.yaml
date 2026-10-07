@@ -7,12 +7,12 @@ issuer: "Schweizerisches Bundesgericht, I. öffentlich-rechtliche Abteilung"
 reference: "1C_36/2011"
 date: 2012-02-08
 status: final
-status_note: "Publiziert mit Leitsätzen in URP 2013 S. 541. Zusammenfassung gestützt auf die veröffentlichten Leitsätze bzw. die Angaben zu Gegenstand und Ergebnis; Volltext nicht im Einzelnen gesichtet."
-status_note_en: "Published with headnotes in URP 2013 p. 541. Summary based on the published headnotes or on the information on subject and outcome; full text not reviewed in detail."
+status_note: "Publiziert mit Leitsätzen in URP 2013 S. 541. Beschwerde gutgeheissen; Ziff. 9.2 des Zonenreglements Siedlung der Gemeinde Muttenz aufgehoben."
+status_note_en: "Published with headnotes in URP 2013 p. 541. Appeal upheld; section 9.2 of the Muttenz settlement zoning regulations annulled."
 languages: [de]
 topics: [permitting, supply_security]
-summary_de: "Soweit das Bundesrecht keine verbindlichen Vorschriften zur Planung und Errichtung fossil-thermischer Kraftwerke enthält, gilt das Planungs- und Baurecht der Kantone und Gemeinden. Auch die CO2-Gesetzgebung setzt voraus, dass die Baubewilligung für ein Gaskombikraftwerk im ordentlichen planungs- und baurechtlichen Verfahren erteilt wird."
-summary_en: "Insofar as federal law contains no binding rules on planning and building fossil-thermal power plants, the planning and building law of the cantons and municipalities applies. The CO2 legislation likewise presupposes that the building permit for a combined-cycle gas power plant is granted in the ordinary planning and building procedure."
+summary_de: "Die Gemeinde Muttenz (BL) hatte in ihrem Zonenreglement (Ziff. 9.2) Elektrizitätserzeugungsanlagen, die mit Erdöl, Erdgas oder Kohle betrieben werden, in den Gewerbe- und Industriezonen ausgeschlossen, ausser bei Abwärmenutzung und einem Gesamtwirkungsgrad von mindestens 85 %. Dagegen wehrte sich eine Grundeigentümerin in der Industriezone Schweizerhalle, die dort ein Gaskombikraftwerk realisieren wollte. Das Bundesgericht hielt fest, dass das Planungs- und Baurecht der Kantone und Gemeinden zur Anwendung kommt, soweit das Bundesrecht keine verbindlichen Vorschriften enthält; die CO2-Gesetzgebung (Kompensationspflicht, Mindestwirkungsgrad von 62 %) setzt das ordentliche Baubewilligungsverfahren voraus. Die kommunale Bestimmung führe aber dazu, dass solche Anlagen kaum wirtschaftlich betrieben werden könnten; sie liege nicht im öffentlichen Interesse, sei weder geeignet noch erforderlich und damit unverhältnismässig (Eigentumsgarantie, Wirtschaftsfreiheit). Das Bundesgericht hiess die Beschwerde gut und hob Ziff. 9.2 des Zonenreglements auf."
+summary_en: "The municipality of Muttenz (BL) had excluded electricity generating plants fired by oil, natural gas or coal from its commercial and industrial zones (section 9.2 of its zoning regulations), except where waste heat is used and overall efficiency reaches at least 85%. A landowner in the Schweizerhalle industrial zone that wanted to build a combined-cycle gas power plant there challenged this. The court held that cantonal and municipal planning and building law applies insofar as federal law contains no binding rules; the CO2 legislation (offsetting obligation, minimum efficiency of 62%) presupposes the ordinary building permit procedure. However, the municipal provision meant that such plants could hardly be operated economically; it was not in the public interest, neither suitable nor necessary and therefore disproportionate (guarantee of property, economic freedom). The court upheld the appeal and annulled section 9.2 of the zoning regulations."
 source_url: "https://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F08-02-2012-1C_36-2011&lang=de&type=show_document"
 rights:
   status: official_work
@@ -20,4 +20,4 @@ rights:
   mirror_allowed: true
 related: [ch-sr-641-71-co2g]
 added: 2026-10-04
-last_checked: 2026-10-04
+last_checked: 2026-10-06

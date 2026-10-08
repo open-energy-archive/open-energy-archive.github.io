@@ -1,0 +1,5 @@
+{
+  "_hinweis": "Link zum Anmeldeformular für E-Mail-Benachrichtigungen (z. B. Brevo-Formularseite). Leer lassen, solange es keinen gibt – dann wird der Button ausgeblendet.",
+  "subscribeUrl": "",
+  "siteUrl": "https://open-energy-archive.github.io"
+}

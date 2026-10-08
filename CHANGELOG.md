@@ -2,6 +2,13 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.26.0] – 2026-10-08
+
+### Neu
+- RSS-Feeds mit den 50 zuletzt ergänzten Dokumenten: `/feed.xml` (Deutsch) und `/en/feed.xml` (Englisch); Link «RSS» auf der Startseite bei «Zuletzt ergänzt», automatisch auffindbar für Browser und Feed-Reader
+- Button «Neue Dokumente per E-Mail erhalten» auf der Startseite; erscheint, sobald in `site/config.json` der Link zum Anmeldeformular (Brevo) eingetragen ist
+- Impressum & Datenschutz: Abschnitte zu RSS-Feed und E-Mail-Benachrichtigung (Brevo, Double-Opt-in)
+
 ## [0.25.1] – 2026-10-07
 
 ### Geändert

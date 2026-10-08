@@ -12,6 +12,10 @@ const SITE_NAME = 'Open Energy Archive';
 const REPO_URL = process.env.REPO_URL || 'https://github.com/open-energy-archive/open-energy-archive.github.io';
 const AUTHOR_URL = 'https://www.bwlaw.ch/';
 const DIST = path.join(ROOT, 'dist');
+// Einstellungen, die ohne Programmierkenntnisse angepasst werden können (site/config.json)
+const CONFIG = JSON.parse(fs.readFileSync(path.join(ROOT, 'site', 'config.json'), 'utf8'));
+const SUBSCRIBE_URL = (process.env.SUBSCRIBE_URL || CONFIG.subscribeUrl || '').trim();
+const SITE_URL = (process.env.SITE_URL || CONFIG.siteUrl || 'https://open-energy-archive.github.io').replace(/\/$/, '');
 const LANGS = ['de', 'en'];
 
 const tax = loadTaxonomy();
@@ -40,7 +44,7 @@ const T = {
     stats: ['Einträge', 'Rechtsräume', 'Dokumenttypen', 'Frei verfügbar'],
     searchTitle: 'Suche', searchPh: 'Suchen, z. B. «Eigenverbrauch», «StromVG», «Netzanschluss» …',
     noJs: 'Die Suche benötigt JavaScript.', listLink: 'Dokumente als Liste',
-    byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt ergänzt', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
+    byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt ergänzt', feedTitle: 'Open Energy Archive – neue Dokumente', rssTitle: 'RSS-Feed mit neuen Dokumenten abonnieren', subscribe: 'Neue Dokumente per E-Mail erhalten', subscribeNote: 'Kostenlos, jederzeit abbestellbar. Die Anmeldung läuft über unseren E-Mail-Dienst; Details unter Impressum & Datenschutz.', feedDesc: 'Neu ins Open Energy Archive aufgenommene Dokumente zu Elektrizität und Energie.', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
     listTitle: 'Dokumente', filterLabel: 'Dokumente filtern',
     f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen', date: 'Zeitraum', from: 'von', to: 'bis', fromAria: 'Datum von', toAria: 'Datum bis', pAll: 'Alle', p30: 'Letzte 30 Tage', p12: 'Letzte 12 Monate', pCustom: 'Eigener Zeitraum', dateErr: '«Bis» liegt vor «von». Passe den Zeitraum an.', toggle: 'Filter', done: 'Treffer zeigen', remove: 'entfernen', active: 'Aktive Filter', more: 'Weitere Filter' },
     chipTitle: (l) => `Alle Einträge: ${l}`, byJur: 'Nach Rechtsraum',
@@ -72,7 +76,7 @@ const T = {
     stats: ['Entries', 'Jurisdictions', 'Document types', 'Freely available'],
     searchTitle: 'Search', searchPh: 'Search, e.g. “self-consumption”, “grid tariffs”, “wind farm” …',
     noJs: 'Search requires JavaScript.', listLink: 'Documents as a list',
-    byTopic: 'By topic', byType: 'By type', latest: 'Recently added', showAll: (n) => `Show all ${n} entries →`,
+    byTopic: 'By topic', byType: 'By type', latest: 'Recently added', feedTitle: 'Open Energy Archive – new documents', rssTitle: 'Subscribe to the RSS feed of new documents', subscribe: 'Get new documents by email', subscribeNote: 'Free, unsubscribe at any time. Sign-up is handled by our email service; details under Legal notice & privacy.', feedDesc: 'Documents on electricity and energy newly added to the Open Energy Archive.', showAll: (n) => `Show all ${n} entries →`,
     listTitle: 'Documents', filterLabel: 'Filter documents',
     f: { text: 'Text', textPh: 'Title, case number, issuer …', jur: 'Jurisdiction', type: 'Type', topic: 'Topic', rights: 'Rights', level: 'Level', national: 'Federal', all: 'All', free: 'Freely available', link: 'Link only', reset: 'Reset filters', date: 'Period', from: 'from', to: 'to', fromAria: 'Date from', toAria: 'Date to', pAll: 'All', p30: 'Last 30 days', p12: 'Last 12 months', pCustom: 'Custom range', dateErr: '"To" is before "from". Adjust the period.', toggle: 'Filters', done: 'Show results', remove: 'remove', active: 'Active filters', more: 'More filters' },
     chipTitle: (l) => `All entries: ${l}`, byJur: 'By jurisdiction',
@@ -152,6 +156,7 @@ function layout(lang, { title, description = '', body, active = null, alt = null
 <title>${esc(title ? `${title} – ${SITE_NAME}` : SITE_NAME)}</title>
 <meta name="description" content="${esc(description || t.metaDesc)}">
 <link rel="alternate" hreflang="${t.other}" href="${altHref}">
+<link rel="alternate" type="application/rss+xml" title="${esc(t.feedTitle)}" href="${url(t.prefix + 'feed.xml')}">
 <link rel="icon" href="${url('assets/favicon-64.png')}" type="image/png">
 <link rel="apple-touch-icon" href="${url('assets/apple-touch-icon.png')}">
 <link rel="stylesheet" href="${url('assets/style.css')}?v=${ASSET_HASH['style.css']}">
@@ -272,7 +277,14 @@ function build(lang) {
   </div>
 </section>
 <section>
-  <h2 class="section-title">${t.latest}</h2>
+  <div class="latest-head">
+    <h2 class="section-title">${t.latest}</h2>
+    <div class="follow">
+      ${SUBSCRIBE_URL ? `<a class="btn primary subscribe" href="${esc(SUBSCRIBE_URL)}" rel="noopener">${t.subscribe}</a>` : ''}
+      <a class="rss-link" href="${url(t.prefix + 'feed.xml')}" title="${esc(t.rssTitle)}"><svg viewBox="0 0 24 24" aria-hidden="true" width="16" height="16"><circle cx="5" cy="19" r="2.2"/><path d="M3 10.5a10.5 10.5 0 0 1 10.5 10.5h-3A7.5 7.5 0 0 0 3 13.5zM3 4a17 17 0 0 1 17 17h-3A14 14 0 0 0 3 7z"/></svg> RSS</a>
+    </div>
+  </div>
+  ${SUBSCRIBE_URL ? `<p class="follow-note">${t.subscribeNote}</p>` : ''}
   <ul class="cards">${[...docs].sort((a, b) => b.added.localeCompare(a.added) || b.date.localeCompare(a.date)).slice(0, 6).map((d) => card(d)).join('')}</ul>
   <p><a class="more" href="${page('list')}">${t.showAll(docs.length)}</a></p>
 </section>
@@ -415,6 +427,38 @@ ${related.length ? `<section><h2 class="section-title">${t.related} <span class=
   write(`${P}${oldOea}index.html`, `<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=${page('about')}"><link rel="canonical" href="${page('about')}"><a href="${page('about')}">${t.subAbout.about}</a>`);
   write(`${P}404.html`, layout(lang, { title: t.notFound, body: `<h1 class="section-title">${t.notFound}</h1><p><a href="${page('home')}">${t.toSearch}</a></p>` }));
 }
+
+// ---------- RSS-Feeds (je Sprache) ----------
+const xmlEsc = (s = '') => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&apos;' }[c]));
+const rfc822 = (iso) => new Date(`${iso}T08:00:00Z`).toUTCString();
+function buildFeed(lang) {
+  const t = T[lang];
+  const abs = (p) => SITE_URL + url(p);
+  const items = [...docs].sort((a, b) => (b.added || '').localeCompare(a.added || '') || (b.date || '').localeCompare(a.date || '')).slice(0, 50);
+  const ti = (d) => (lang === 'en' && d.title_en) ? d.title_en : d.title;
+  const su = (d) => (lang === 'en' && d.summary_en) ? d.summary_en : d.summary_de;
+  const body = items.map((d) => `    <item>
+      <title>${xmlEsc(ti(d))}</title>
+      <link>${xmlEsc(abs(t.prefix + `d/${d.id}/`))}</link>
+      <guid isPermaLink="true">${xmlEsc(abs(t.prefix + `d/${d.id}/`))}</guid>
+      <pubDate>${rfc822(d.added || d.date)}</pubDate>
+      <description>${xmlEsc(su(d))}</description>
+    </item>`).join('\n');
+  write(`${t.prefix}feed.xml`, `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>${xmlEsc(t.feedTitle)}</title>
+    <link>${xmlEsc(abs(t.prefix))}</link>
+    <atom:link href="${xmlEsc(abs(t.prefix + 'feed.xml'))}" rel="self" type="application/rss+xml"/>
+    <description>${xmlEsc(t.feedDesc)}</description>
+    <language>${lang === 'de' ? 'de-CH' : 'en'}</language>
+    <lastBuildDate>${rfc822(items[0]?.added || new Date().toISOString().slice(0, 10))}</lastBuildDate>
+${body}
+  </channel>
+</rss>
+`);
+}
+LANGS.forEach(buildFeed);
 
 LANGS.forEach(build);
 

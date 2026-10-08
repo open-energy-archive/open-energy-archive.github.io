@@ -1,0 +1,24 @@
+id: ch-vd-cdap-ac-2016-0103
+title: "Arrêt de la Cour de droit administratif et public du Tribunal cantonal vaudois AC.2016.0103 du 31 octobre 2019 – Parc éolien de Sur Grati (Premier, Vallorbe, Vaulion)"
+title_en: "Vaud Cantonal Court (Administrative and Public Law Division) judgment AC.2016.0103 of 31 October 2019 – Sur Grati wind farm (Premier, Vallorbe, Vaulion)"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-VD
+issuer: "Tribunal cantonal du canton de Vaud, Cour de droit administratif et public"
+reference: "AC.2016.0103, AC.2016.0105, AC.2016.0106"
+date: 2019-10-31
+status: final
+status_note: "Recours rejetés (recours contre la décision fédérale de raccordement au réseau irrecevable). Confirmé par le Tribunal fédéral, arrêt 1C_628/2019 du 22 décembre 2021. La version en ligne sur entscheidsuche.ch est tronquée avant le dispositif; le résultat ressort de l'état de fait de l'arrêt du Tribunal fédéral."
+status_note_en: "Appeals dismissed (appeal against the federal grid-connection decision inadmissible). Confirmed by the Federal Supreme Court, judgment 1C_628/2019 of 22 December 2021. The online version on entscheidsuche.ch is truncated before the operative part; the result appears from the facts of the Federal Supreme Court judgment."
+languages: [fr]
+topics: [wind, permitting, renewables]
+summary_de: "Mehrere Natur- und Landschaftsschutzorganisationen fochten den interkommunalen Nutzungsplan «Sur Grati – Parc éolien» für sechs Windenergieanlagen von bis zu 210 m Höhe auf einer Jurakrete sowie Zufahrt, Rodungen und weitere Bewilligungen an. Die CDAP lehnte eine Sistierung bis zum Entscheid über die benachbarten Projekte Mollendruz und Bel Coster ab und prüfte nur die Umweltauswirkungen dieses Projekts. Der Standort entspricht dem kantonalen Richtplan (Massnahme F51) und überschreitet die kantonale Mindestwindgeschwindigkeit; mit 35–40 GWh pro Jahr liegt der Park über der Schwelle des nationalen Interesses von 20 GWh. Das öffentliche Interesse an erneuerbarer Energie überwiegt die Beeinträchtigung von Landschaft und Ortsbildern, die Lärmgrenzwerte sind eingehalten."
+summary_en: "Several nature and landscape organisations challenged the inter-municipal land-use plan 'Sur Grati – wind farm' for six wind turbines up to 210 m high on a Jura ridge, together with access road, forest clearing and other permits. The CDAP refused to stay the proceedings pending the neighbouring Mollendruz and Bel Coster projects and assessed only this project's environmental effects. The site complies with the cantonal structure plan (measure F51) and exceeds the cantonal minimum wind speed; at 35–40 GWh per year the farm is above the 20 GWh national-interest threshold. The public interest in renewable energy outweighs the impact on landscape and townscapes, and noise limits are met."
+source_url: "https://entscheidsuche.ch/docs/VD_Omni/VD_TC_031_AC-2016-0103_2019-10-31.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bger-1c-628-2019, ch-sr-730-0-eng, ch-sr-730-01-env, ch-vd-lvlene]
+added: 2026-10-08
+last_checked: 2026-10-08

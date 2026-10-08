@@ -1,0 +1,24 @@
+id: ch-be-vgr-100-2016-239
+title: "Urteil des Verwaltungsgerichts des Kantons Bern 100.2016.239U vom 24. März 2017 (Köniz) – Verbot ortsfester elektrischer Widerstandsheizungen, Elektroboiler mit Solarstrom"
+title_en: "Bern Administrative Court judgment 100.2016.239U of 24 March 2017 (Köniz) – ban on fixed electric resistance heating, electric boiler powered by solar electricity"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-BE
+issuer: "Verwaltungsgericht des Kantons Bern, Verwaltungsrechtliche Abteilung"
+reference: "100.2016.239U"
+date: 2017-03-24
+status: final
+status_note: "Beschwerde teilweise gutgeheissen: Rückbau der Infrarotheizung bestätigt, Rückbauverfügung für den Elektroboiler aufgehoben. Ergangen unter dem KEnG und der KEnV in der Fassung von 2011. Ein Weiterzug an das Bundesgericht ist nicht bekannt."
+status_note_en: "Appeal partly upheld: removal of the infrared heating confirmed, removal order for the electric boiler annulled. Decided under the KEnG and KEnV as in force in 2011. No appeal to the Federal Supreme Court is known."
+languages: [de]
+topics: [heat, energy_efficiency, solar, self_consumption]
+summary_de: "Die Eigentümerschaft einer Liegenschaft in Köniz hatte eine Infrarot-Heizung und einen Elektroboiler eingebaut, die weitgehend mit Strom aus der eigenen Photovoltaikanlage betrieben wurden; die Baubewilligungsbehörde ordnete den Rückbau an. Das Verwaltungsgericht bestätigte den Rückbau der Infrarotheizung: Sie ist eine ortsfeste elektrische Widerstandsheizung, deren Neuinstallation Art. 40 Abs. 2 KEnG verbietet, und der Rückbau kann auch bei bewilligungsfreien Energieanlagen angeordnet werden; auf Zusagen des Netzbetreibers oder von Installateuren durfte sie sich nicht verlassen. Den Elektroboiler erachtete das Gericht dagegen als zulässig, weil der Begriff der erneuerbaren Energie in Art. 21 Abs. 4 KEnV auch Solarstrom aus einer eigenen PV-Anlage umfasst."
+summary_en: "The owners of a property in Köniz had installed infrared heating and an electric boiler, largely powered by electricity from their own PV system; the building authority ordered their removal. The Administrative Court confirmed the removal of the infrared heating: it is a fixed electric resistance heater whose new installation is prohibited by Art. 40(2) KEnG, and removal can be ordered even for energy installations exempt from permits; they could not rely on assurances by the grid operator or installers. The court, however, held the electric boiler to be lawful, because the notion of renewable energy in Art. 21(4) KEnV also covers solar electricity from one's own PV system."
+source_url: "https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2016-239_2017-03-24.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-be-keng, ch-bge-149-i-49, ch-bge-150-i-106]
+added: 2026-10-08
+last_checked: 2026-10-08

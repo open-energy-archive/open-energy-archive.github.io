@@ -1,0 +1,24 @@
+id: ch-vd-cdap-ac-2023-0170
+title: "Arrêt de la Cour de droit administratif et public du Tribunal cantonal vaudois AC.2023.0170 du 29 février 2024 (Lutry) – Panneaux photovoltaïques sur un mur de soutènement dans l'espace réservé aux eaux du Léman"
+title_en: "Vaud Cantonal Court (Administrative and Public Law Division) judgment AC.2023.0170 of 29 February 2024 (Lutry) – PV panels on a retaining wall within the reserved water area of Lake Geneva"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-VD
+issuer: "Tribunal cantonal du canton de Vaud, Cour de droit administratif et public"
+reference: "AC.2023.0170"
+date: 2024-02-29
+status: final
+status_note: "Recours admis; refus municipal annulé, autorisation spéciale de la DGE accordée par réforme et cause renvoyée à la Municipalité de Lutry pour nouvelle décision. Un recours au Tribunal fédéral n'est pas connu."
+status_note_en: "Appeal upheld; municipal refusal annulled, the DGE's special authorisation granted by the court itself and the case remitted to the Municipality of Lutry for a new decision. No appeal to the Federal Supreme Court is known."
+languages: [fr]
+topics: [solar, permitting, renewables]
+summary_de: "Die Gemeinde Lutry verweigerte die Baubewilligung für Photovoltaikmodule auf einer Ufermauer am Genfersee, nachdem die kantonale Umweltbehörde (DGE) die gewässerschutzrechtliche Sonderbewilligung für den Gewässerraum abgelehnt hatte. Die CDAP hiess die Beschwerde gut: Der Uferstreifen zwischen Kantonsstrasse und See gilt als dicht überbautes Gebiet im Sinne von Art. 41c Abs. 1 lit. a GSchV, die Module verändern die bestehende Mauer ohne nennenswertes zusätzliches Volumen, und nach Art. 18a Abs. 4 RPG gehen die Interessen an der Solarenergie ästhetischen Anliegen grundsätzlich vor. Das Projekt ist zudem mit dem Lavaux-Schutzgesetz vereinbar."
+summary_en: "The municipality of Lutry refused a building permit for PV panels on a lakeside retaining wall on Lake Geneva after the cantonal environment office (DGE) refused the special water-protection authorisation for the reserved water area. The CDAP upheld the appeal: the shore strip between the cantonal road and the lake is a densely built-up area within the meaning of Art. 41c(1)(a) GSchV, the panels modify the existing wall without significant additional volume, and under Art. 18a(4) RPG the interest in solar energy generally prevails over aesthetic concerns. The project is also compatible with the Lavaux protection law."
+source_url: "https://entscheidsuche.ch/dok/VD_Omni/VD_TC_031_AC-2023-0170_2024-02-29.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-700-rpg, ch-vd-lvlene, ch-ge-cj-ata-826-2022]
+added: 2026-10-08
+last_checked: 2026-10-08

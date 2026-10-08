@@ -1,0 +1,24 @@
+id: ch-be-vgr-100-2023-219
+title: "Urteil des Verwaltungsgerichts des Kantons Bern 100.2023.219U vom 19. Juni 2024 – Wasserzins für die thermische Grundwassernutzung mit Wärmepumpe"
+title_en: "Bern Administrative Court judgment 100.2023.219U of 19 June 2024 – water levy for thermal groundwater use with a heat pump"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-BE
+issuer: "Verwaltungsgericht des Kantons Bern, Verwaltungsrechtliche Abteilung"
+reference: "100.2023.219U"
+date: 2024-06-19
+status: final
+status_note: "Beschwerde als offensichtlich unbegründet abgewiesen (Zweierbesetzung). Ein Weiterzug an das Bundesgericht ist nicht bekannt."
+status_note_en: "Appeal dismissed as manifestly unfounded (two-judge panel). No appeal to the Federal Supreme Court is known."
+languages: [de]
+topics: [heat, renewables, tariffs]
+summary_de: "Ein Unternehmen nutzt Grundwasser für eine Wärmepumpe zur Beheizung und für die Kühlung seines Geschäftsgebäudes und focht den mengenabhängigen jährlichen Wasserzins seiner Gebrauchswasserkonzession an. Das Verwaltungsgericht wies die Beschwerde ab: Auch wenn das Wasser nach dem Wärmeaustausch wieder dem Grundwasser zugeführt wird, liegt ein abgabepflichtiger Gebrauch vor. Wassernutzungsgesetz und Dekret über die Wassernutzungsabgaben sehen Abgaben für Grundwasser-Wärmepumpen und Kühlung ausdrücklich vor; ob diese zur Förderung erneuerbarer Wärme gesenkt werden sollen, ist ein Entscheid des Gesetzgebers, nicht der Gerichte."
+summary_en: "A company uses groundwater for a heat pump heating its commercial building and for cooling, and challenged the volume-based annual water levy under its water-use concession. The Administrative Court dismissed the appeal: even though the water is returned to the groundwater after heat exchange, it is a use subject to the levy. The Water Use Act and the Decree on water use levies expressly provide for levies on groundwater heat pumps and cooling; whether they should be reduced to promote renewable heat is a matter for the legislature, not the courts."
+source_url: "https://entscheidsuche.ch/docs/BE_Verwaltungsgericht/BE_VG_001_100-2023-219_2024-06-19.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-be-keng]
+added: 2026-10-08
+last_checked: 2026-10-08

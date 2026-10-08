@@ -1,0 +1,24 @@
+id: ch-gr-vgr-u-22-52
+title: "Urteil des Verwaltungsgerichts des Kantons Graubünden U 22 52 vom 9. Mai 2023 – Tariferhöhung eines kommunalen Wärmeverbunds: privatrechtlicher Wärmelieferungsvertrag statt Verfügung"
+title_en: "Graubünden Administrative Court judgment U 22 52 of 9 May 2023 – tariff increase by a municipal district heating network: private-law heat supply contract instead of a ruling"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-GR
+issuer: "Verwaltungsgericht des Kantons Graubünden, 1. Kammer"
+reference: "U 22 52"
+date: 2023-05-09
+status: final
+status_note: "Beschwerde gutgeheissen; die als Verfügung erlassene Tariferhöhung wurde als nichtig erklärt. Gemeinde und Parteien sind im publizierten Text anonymisiert. Ein Weiterzug an das Bundesgericht ist nicht bekannt."
+status_note_en: "Appeal upheld; the tariff increase issued as a ruling was declared null and void. The municipality and the parties are anonymised in the published text. No appeal to the Federal Supreme Court is known."
+languages: [de]
+topics: [heat, tariffs]
+summary_de: "Eine Gemeinde betreibt seit 2012 einen Wärmeverbund mit Holzschnitzelfeuerung und wollte den Energiepreis gegenüber einer Stockwerkeigentümergemeinschaft per Verfügung von CHF 0.088 auf 0.132 pro kWh erhöhen. Das Verwaltungsgericht stufte den Wärmelieferungsvertrag von 2015 als privatrechtlich ein: Weder kantonales noch kommunales Recht verpflichtet die Gemeinde zum Betrieb eines Wärmenetzes, sodass sie damit keine öffentliche Aufgabe unmittelbar erfüllt; auch die Gerichtsstandsklausel spricht für Privatrecht. Die Gemeinde kann den Tarif deshalb nicht hoheitlich ändern, das Kostendeckungsprinzip ist nicht anwendbar und Streitigkeiten über die Preisanpassungsklausel gehören vor die Zivilgerichte."
+summary_en: "A municipality has operated a wood-chip district heating network since 2012 and sought to raise the energy price for a condominium owners' association by ruling from CHF 0.088 to 0.132 per kWh. The Administrative Court classified the 2015 heat supply contract as a private-law contract: neither cantonal nor municipal law obliges the municipality to run a heat network, so it is not directly performing a public task; the jurisdiction clause also points to private law. The municipality therefore cannot change the tariff unilaterally by ruling, the cost-coverage principle does not apply, and disputes over the price adjustment clause belong before the civil courts."
+source_url: "https://entscheidsuche.ch/docs/GR_Gerichte/GR_VG_001_U-2022-52_2023-05-09.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-gr-beg]
+added: 2026-10-08
+last_checked: 2026-10-08

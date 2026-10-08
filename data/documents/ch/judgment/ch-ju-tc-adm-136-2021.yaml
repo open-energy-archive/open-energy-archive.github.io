@@ -1,0 +1,24 @@
+id: ch-ju-tc-adm-136-2021
+title: "Arrêt de la Cour administrative du Tribunal cantonal jurassien ADM 136/2021 du 15 novembre 2022 – Extinction d'un droit d'eau immémorial d'une centrale hydroélectrique sur le Doubs (Saint-Ursanne)"
+title_en: "Jura Cantonal Court (Administrative Division) judgment ADM 136/2021 of 15 November 2022 – extinction of an immemorial water right of a hydropower plant on the Doubs (Saint-Ursanne)"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-JU
+issuer: "Tribunal cantonal de la République et Canton du Jura, Cour administrative"
+reference: "ADM 136/2021"
+date: 2022-11-15
+status: final
+status_note: "Recours partiellement admis: la décision du Gouvernement du 29 juin 2021 est annulée uniquement quant à la date de fin de l'exploitation et du droit d'eau, dossier renvoyé pour instruction complémentaire et nouvelle décision. Le texte mentionne des dates divergentes (dispositif: 1er janvier 2028; considérants: fin du droit au 31 décembre 2028 et arrêt de l'exploitation dès le 1er janvier 2029). Un recours au Tribunal fédéral n'est pas connu."
+status_note_en: "Appeal partly upheld: the Government's decision of 29 June 2021 is annulled only as regards the end date of operation and of the water right, and the case is remitted for further investigation and a new decision. The text gives inconsistent dates (operative part: 1 January 2028; reasons: water right ending 31 December 2028 and operation banned from 1 January 2029). No appeal to the Federal Supreme Court is known."
+languages: [fr]
+topics: [hydro, renewables]
+summary_de: "Der Jurassische Regierungsrat stellte das Erlöschen eines als selbständiges und dauerndes Recht eingetragenen ehehaften Wasserrechts einer Kleinwasserkraftanlage am Doubs in Saint-Ursanne fest und verbot den Betrieb ab einem bestimmten Datum, weil die Betreiberin kein Konzessionsgesuch stellen wollte. Die Cour administrative wandte BGE 145 II 140 analog an: Ehehafte Rechte an öffentlichen Gewässern können bei Anlass (hier Fischgängigkeit und Restwasser) unter Gewährung einer Übergangsfrist zur Amortisation beendet werden; die Eigentumsgarantie ist nicht verletzt und der Regierungsrat ist für Anlagen über 50 kW zuständig. Das Enddatum war jedoch auf veraltete, nicht überprüfbare Amortisationszahlen gestützt und muss neu bestimmt werden."
+summary_en: "The Jura Government declared the extinction of an immemorial water right of a small hydropower plant on the Doubs at Saint-Ursanne, registered as an independent and permanent right, and banned operation from a set date because the operator refused to apply for a concession. The Administrative Division applied BGE 145 II 140 by analogy: immemorial rights to public waters can be ended when there is an occasion (here fish passage and residual flow), with a transition period for amortisation; the guarantee of property is not violated and the Government is competent for plants above 50 kW. The end date, however, rested on outdated, unverifiable amortisation figures and must be set anew."
+source_url: "https://entscheidsuche.ch/docs/JU_Gerichte/JU_TC_005_ADM-2021-136_2022-11-15.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-bge-145-ii-140, ch-sr-721-80-wrg, ch-ju-energiegesetz]
+added: 2026-10-08
+last_checked: 2026-10-08

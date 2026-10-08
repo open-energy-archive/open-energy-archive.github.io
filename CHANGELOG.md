@@ -2,6 +2,16 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.27.0] – 2026-10-08
+
+### Neu
+- Schweiz, jetzt 160 Einträge – 12 Entscheide kantonaler Verwaltungsgerichte ausserhalb Zürichs:
+  - Wärmepumpen: KG Luzern 7H 15 138 (Standort und Vorsorgeprinzip), VGr Aargau WBE.2018.330 (Grenzabstand Aussengerät), TC Vaud AC.2021.0171 (Lärm, Bussigny), VGr Bern 100.2023.219U (Wassernutzungsabgabe Grundwasserwärmepumpe)
+  - Solaranlagen: Cour de justice Genève ATA/826/2022 (Scheune im Inventar, Art. 18a RPG), TC Vaud AC.2023.0170 (Uferschutzzone Lutry), VGr Zug V 2023 72 (Blendung)
+  - Wärme und Heizungen: VGr Bern 100.2016.239U (Verbot Elektroheizung, Köniz), VGr Solothurn VWBES.2016.162 (Fernwärme-Anschlusspflicht, vom Bundesgericht aufgehoben), VGr Graubünden U 22 52 (Fernwärmetarif)
+  - Windenergie: TC Vaud AC.2016.0103 (Windpark Sur Grati)
+  - Wasserkraft: TC Jura ADM 136/2021 (ehehaftes Wasserrecht am Doubs)
+
 ## [0.26.0] – 2026-10-08
 
 ### Neu

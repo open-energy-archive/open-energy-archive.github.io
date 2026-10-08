@@ -1,0 +1,24 @@
+id: ch-so-vgr-vwbes-2016-162
+title: "Urteil des Verwaltungsgerichts des Kantons Solothurn VWBES.2016.162 vom 15. März 2017 (Stadt Solothurn) – Erschliessungsplan «Fernwärme 1. Etappe» mit Anschlusspflicht"
+title_en: "Solothurn Administrative Court judgment VWBES.2016.162 of 15 March 2017 (City of Solothurn) – development plan 'district heating stage 1' with connection obligation"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-SO
+issuer: "Verwaltungsgericht des Kantons Solothurn"
+reference: "VWBES.2016.162"
+date: 2017-03-15
+status: repealed
+status_note: "Vom Bundesgericht mit Urteil 1C_243/2017 vom 5. Februar 2018 aufgehoben (Vermerk in der Entscheiddatenbank). Gemäss Medienberichten hiess das Bundesgericht die Beschwerde der Grundeigentümer wegen Verletzung des rechtlichen Gehörs gut, weil die Kriterien für den Einbezug der Parzellen in die Anschlusspflicht zu unklar waren. Die materiellen Erwägungen zur gesetzlichen Grundlage und Verhältnismässigkeit bleiben als Argumentationsmaterial von Interesse."
+status_note_en: "Annulled by the Federal Supreme Court in judgment 1C_243/2017 of 5 February 2018 (note in the decision database). According to media reports, the Federal Supreme Court upheld the landowners' appeal for violation of the right to be heard, because the criteria for including parcels in the connection obligation were too unclear. The substantive reasons on legal basis and proportionality remain of interest as reasoning."
+languages: [de]
+topics: [heat, permitting, energy_efficiency]
+summary_de: "Die Stadt Solothurn erliess einen Erschliessungsplan «Fernwärme 1. Etappe», der Grundeigentümer im Perimeter bei Neubauten und beim Ersatz der Heizung zum Anschluss an das Fernwärmenetz verpflichtet. Das Verwaltungsgericht wies die Beschwerde von fünf Eigentümern ab: § 7 des kantonalen Energiegesetzes bilde eine genügende gesetzliche Grundlage, die Fernwärmenutzung diene dem Umweltschutz und die Amortisation der städtischen Netzinvestitionen sei ein legitimes Interesse. Dank Kostenschwelle von 10 %, Beschränkung auf Neubauten und Heizungsersatz sowie Ausnahmen sei die Anschlusspflicht verhältnismässig; Wirtschaftsfreiheit und Vertrauensschutz (frühere Gasstrategie) seien nicht verletzt."
+summary_en: "The City of Solothurn adopted a development plan 'district heating stage 1' requiring landowners in the perimeter to connect to the district heating network for new buildings and when replacing their heating. The Administrative Court dismissed the appeal of five owners: § 7 of the cantonal Energy Act provided a sufficient legal basis, district heating served environmental protection and amortising the city's network investment was a legitimate interest. Given the 10% cost threshold, the limitation to new buildings and heating replacement and the exemptions, the connection obligation was proportionate; economic freedom and legitimate expectations (earlier gas strategy) were not violated."
+source_url: "https://entscheidsuche.ch/docs/SO_Omni/SO_VG_001_VWBES-2016-162_2017-03-15.html"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-so-energiegesetz, ch-sr-700-rpg]
+added: 2026-10-08
+last_checked: 2026-10-08

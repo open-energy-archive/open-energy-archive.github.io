@@ -1,0 +1,24 @@
+id: ch-ge-cj-ata-826-2022
+title: "Arrêt de la Chambre administrative de la Cour de justice de Genève ATA/826/2022 du 23 août 2022 (Bernex) – Panneaux photovoltaïques sur une grange recensée, condition de couleur contraire à l'art. 18a LAT"
+title_en: "Geneva Court of Justice, Administrative Chamber, judgment ATA/826/2022 of 23 August 2022 (Bernex) – PV panels on an inventoried barn, colour condition contrary to Art. 18a RPG"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-GE
+issuer: "Cour de justice de la République et canton de Genève, Chambre administrative"
+reference: "ATA/826/2022 (A/2091/2021-LCI)"
+date: 2022-08-23
+status: final
+status_note: "Recours admis; le jugement du TAPI (JTAPI/1318/2021) et la condition n° 6 de l'autorisation de construire ont été annulés. Un recours au Tribunal fédéral n'est pas connu."
+status_note_en: "Appeal upheld; the first-instance judgment (JTAPI/1318/2021) and condition no. 6 of the building permit were annulled. No appeal to the Federal Supreme Court is known."
+languages: [fr]
+topics: [solar, permitting, renewables]
+summary_de: "Der Eigentümer einer landwirtschaftlichen Scheune in Bernex erhielt die Bewilligung für Photovoltaikmodule nur unter der Auflage, dass ihre Farbe jener der Ziegel möglichst nahekommt. Die Chambre administrative hob die Auflage auf: Nach Art. 18a Abs. 4 RPG gehen die Interessen an der Nutzung der Solarenergie den ästhetischen Anliegen grundsätzlich vor; dies schränkt das Ermessen nach der allgemeinen Ästhetikklausel des kantonalen Baurechts ein und gilt auch in Schutzzonen. Gestalterische Auflagen sind nur in sehr seltenen Ausnahmefällen mit eingehender Begründung zulässig; hier war das Schutzinteresse an den bloss inventarisierten Gebäuden begrenzt und schwarze Module bringen mehr Ertrag."
+summary_en: "The owner of an agricultural barn in Bernex obtained a permit for PV panels only on condition that their colour should come as close as possible to that of the roof tiles. The Administrative Chamber annulled the condition: under Art. 18a(4) RPG, the interest in using solar energy generally prevails over aesthetic concerns; this limits the discretion under the general aesthetics clause of cantonal building law and also applies in protected zones. Design conditions are admissible only in very exceptional cases with detailed reasons; here the protection interest in the merely inventoried buildings was limited and black panels produce more energy."
+source_url: "https://entscheidsuche.ch/docs/GE_Gerichte/GE_CJ_013_A-2091-2021_2022-08-23.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-700-rpg, ch-ge-len, ch-bger-1c-179-2015]
+added: 2026-10-08
+last_checked: 2026-10-08

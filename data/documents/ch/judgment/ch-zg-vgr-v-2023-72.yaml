@@ -1,0 +1,24 @@
+id: ch-zg-vgr-v-2023-72
+title: "Urteil des Verwaltungsgerichts des Kantons Zug V 2023 72 vom 7. August 2024 (Stadt Zug) – Blendwirkung einer Photovoltaikanlage auf dem Dach, vereinfachtes Verfahren"
+title_en: "Zug Administrative Court judgment V 2023 72 of 7 August 2024 (City of Zug) – glare from a rooftop PV installation, simplified procedure"
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-ZG
+issuer: "Verwaltungsgericht des Kantons Zug, Verwaltungsrechtliche Kammer"
+reference: "V 2023 72"
+date: 2024-08-07
+status: final
+status_note: "Beschwerde des Nachbarn abgewiesen. Ein Weiterzug an das Bundesgericht ist nicht bekannt."
+status_note_en: "The neighbour's appeal dismissed. No appeal to the Federal Supreme Court is known."
+languages: [de]
+topics: [solar, permitting]
+summary_de: "Ein Nachbar wehrte sich gegen eine im vereinfachten Verfahren bewilligte Photovoltaikanlage auf einem Dach in der Stadt Zug, weil ihn Reflexionen blendeten. Das Verwaltungsgericht wies die Beschwerde ab: Genügend angepasste Dachanlagen sind nach Bundesrecht nur meldepflichtig, und nach kantonalem Recht genügt eine einfache Baumeldung, wenn Nachbarinteressen nicht erheblich betroffen sind. Für Lichtreflexionen bestehen keine Grenzwerte; die Empfehlungen von BAFU und Swissolar dienen nur als Orientierung. Die schwarzen, matt satinierten Module verursachen keine übermässige Blendung, und Eigentümer rechtmässig erstellter Anlagen müssen diese nicht bei jedem technischen Fortschritt nachrüsten."
+summary_en: "A neighbour objected to a rooftop PV installation in the City of Zug, approved in the simplified procedure, because reflections dazzled him. The Administrative Court dismissed the appeal: sufficiently adapted rooftop installations only require notification under federal law, and under cantonal law a simple building notice suffices where neighbours' interests are not significantly affected. There are no limit values for light reflections; the recommendations of FOEN and Swissolar serve only as guidance. The black, matt satin-finished modules do not cause excessive glare, and owners of lawfully built installations need not retrofit them with every technical advance."
+source_url: "https://entscheidsuche.ch/docs/ZG_Verwaltungsgericht/ZG_VG_004_V-2023-72_2024-08-07.pdf"
+rights:
+  status: official_work
+  basis: "Art. 5 Abs. 1 lit. c URG"
+  mirror_allowed: true
+related: [ch-sr-700-rpg, ch-zg-eng-zg]
+added: 2026-10-08
+last_checked: 2026-10-08

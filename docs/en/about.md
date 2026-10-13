@@ -12,6 +12,7 @@ The expansion of renewable energy often stalls not on technology but on procedur
 - Decisions of courts and regulators (e.g. ElCom, Federal Network Agency, E-Control)
 - Directives, guidance and studies by authorities
 - Parliamentary materials on ongoing reforms
+- Studies by associations and research institutions (as references to the original source)
 - Industry documents (as references only, where protected by copyright)
 - Model contracts drafted by the project itself
 

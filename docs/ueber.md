@@ -12,6 +12,7 @@ Der Ausbau erneuerbarer Energie scheitert oft nicht an der Technik, sondern an V
 - Entscheide von Gerichten und Regulierungsbehörden (z. B. ElCom, Bundesnetzagentur, E-Control)
 - Weisungen, Leitfäden und Studien von Behörden
 - Parlamentsmaterialien zu laufenden Reformen
+- Studien von Verbänden und Forschungseinrichtungen (als Verweis auf die Originalquelle)
 - Branchendokumente (nur als Verweis, wenn urheberrechtlich geschützt)
 - Musterverträge, die das Projekt selbst erarbeitet
 

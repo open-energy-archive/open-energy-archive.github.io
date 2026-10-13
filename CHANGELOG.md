@@ -7,6 +7,9 @@ Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen 
 ### Neu
 - VESE-Kurzstudie «PV-Zubau 2.0» (Version 02, 28.1.2026), aufgenommen mit Zustimmung von VESE als Direktlink auf die Originaldatei.
 
+### Geändert
+- Einleitung auf der Startseite und «Über OEA» (DE/EN) nennen neu auch Studien, einschliesslich Studien von Verbänden und Forschungseinrichtungen.
+
 ## [0.27.0] – 2026-10-08
 
 ### Neu

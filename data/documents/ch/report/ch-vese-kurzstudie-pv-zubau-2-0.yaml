@@ -1,0 +1,29 @@
+id: ch-vese-kurzstudie-pv-zubau-2-0
+title: "PV-Zubau 2.0: Innovative Lösungen für nachhaltige PV-Investitionssicherheit"
+title_en: "PV Expansion 2.0: Innovative Solutions for Sustainable PV Investment Security"
+short_title: "VESE-Kurzstudie PV-Zubau 2.0"
+doc_type: report
+jurisdiction: CH
+issuer: "VESE – Verband unabhängiger Energieerzeuger (Fachgruppe der SSES)"
+reference: "Version 02"
+date: 2026-01-28
+status: non_binding
+status_note: "Kurzstudie eines Verbands, Version 02 vom 28.1.2026 (Webseite zuletzt am 10.2.2026 aktualisiert). Politischer Vorschlag, kein geltendes Recht. Auf der Webseite ist zusätzlich ein ausführlicheres Whitepaper mit Anhang zum Kapazitätsmodell verlinkt."
+status_note_en: "Short study by an association, version 02 of 28 January 2026 (web page last updated 10 February 2026). A policy proposal, not law in force. The web page also links a longer white paper with an annex on the capacity model."
+languages: [de]
+topics: [solar, subsidies, grid, market]
+summary_de: "Die Studie fragt, wie sich das PV-Ziel des Stromgesetzes von 18,7 TWh bis 2030 mit jährlich 3–4 Mrd. Franken überwiegend privater Investitionen erreichen lässt. Sie schlägt zwei Säulen vor: Modelle mit gesicherter Rendite (Kapazitätsmodell mit fixem Preis pro kWp und Steuerung der Einspeisung durch den Netzbetreiber; gleitende Marktprämie) und Marktmodelle (Winter-KEV; Smart-Grid-Bonus mit Echtzeit-Preissignalen). Die Einführung soll in drei Phasen über vier Jahre erfolgen, beginnend mit Pilotanlagen."
+summary_en: "The study asks how the Electricity Act's PV target of 18.7 TWh by 2030 can be reached with CHF 3–4 billion of mostly private investment per year. It proposes two pillars: models with secured returns (a capacity model with a fixed price per kWp and feed-in steered by the grid operator; a sliding market premium) and market models (a winter feed-in tariff; a smart-grid bonus based on real-time price signals). Implementation is planned in three phases over four years, starting with pilot plants."
+source_url: "https://www.vese.ch/wp-content/uploads/VESE_Kurzstudie_PV-Zubau_2-0.pdf"
+alternate_urls:
+  - label: "VESE-Webseite zur Studie (mit Whitepaper)"
+    url: "https://vese.ch/pvzubau"
+  - label: "Französische Webseite"
+    url: "https://www.vese.ch/fr/developpement-photovoltaique-2-0/"
+rights:
+  status: copyrighted
+  basis: "© VESE – Aufnahme mit Zustimmung von VESE (Oktober 2026); nur Metadaten und Direktlink auf die Originaldatei."
+  mirror_allowed: false
+related: [ch-sr-734-7-stromvg, ch-sr-730-0-eng, ch-bfe-monitoring-es2050-2025]
+added: 2026-10-13
+last_checked: 2026-10-13

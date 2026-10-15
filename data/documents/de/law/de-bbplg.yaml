@@ -1,0 +1,30 @@
+id: de-bbplg
+title: Gesetz über den Bundesbedarfsplan (Bundesbedarfsplangesetz – BBPlG)
+title_en: Federal Requirements Plan Act
+short_title: BBPlG
+doc_type: law
+jurisdiction: DE
+issuer: Deutscher Bundestag
+reference: BGBl. I 2013 S. 2543
+date: 2013-07-23
+status: in_force
+status_note: Erlassen als Art. 1 des Zweiten Gesetzes über Massnahmen zur Beschleunigung des Netzausbaus Elektrizitätsnetze vom 23.7.2013; der Bedarfsplan wird regelmässig auf Grundlage des Netzentwicklungsplans aktualisiert. Aktuelle Fassung nicht im Detail geprüft.
+status_note_en: Enacted as Article 1 of the Second Act on Measures to Accelerate Expansion of Electricity Grids of 23 July 2013; the requirements plan is updated regularly on the basis of the network development plan. Current version not checked in detail.
+languages:
+- de
+topics:
+- grid
+- permitting
+- supply_security
+summary_de: Das Bundesbedarfsplangesetz stellt für die in seiner Anlage aufgeführten Vorhaben im Übertragungsnetz die energiewirtschaftliche Notwendigkeit und den vordringlichen Bedarf verbindlich fest. Es kennzeichnet unter anderem die Vorhaben, für die das NABEG gilt, die Hochspannungs-Gleichstrom-Übertragungsleitungen mit Vorrang für Erdkabel und Pilotprojekte. Grundlage ist der von der Bundesnetzagentur bestätigte Netzentwicklungsplan.
+summary_en: The Federal Requirements Plan Act establishes, with binding effect, the energy-sector necessity and urgent need of the transmission grid projects listed in its annex. Among other things it marks the projects subject to the NABEG, the high-voltage direct current lines with priority for underground cables, and pilot projects. It is based on the network development plan confirmed by the Federal Network Agency.
+source_url: https://www.gesetze-im-internet.de/bbplg/
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-nabeg
+- de-enwg
+added: 2026-10-15
+last_checked: 2026-10-15

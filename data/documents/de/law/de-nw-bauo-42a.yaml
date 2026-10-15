@@ -1,0 +1,39 @@
+id: de-nw-bauo-42a
+title: Bauordnung für das Land Nordrhein-Westfalen (BauO NRW 2018), § 42a Solaranlagen, mit Solaranlagen-Verordnung (SAN-VO NRW)
+title_en: North Rhine-Westphalia Building Code, section 42a (solar installations), with Solar Installations Ordinance
+short_title: BauO NRW § 42a
+doc_type: law
+jurisdiction: DE
+subdivision: DE-NW
+issuer: Landtag Nordrhein-Westfalen; Landesregierung (Verordnung)
+reference: § 42a eingefügt durch Gesetz vom 2023 (GV. NRW. 2023 S. 1172); SAN-VO NRW vom 6.6.2024
+date: 2023-12-31
+date_precision: year
+status: in_force
+status_note: 'Pflicht gestaffelt: neue Nichtwohngebäude seit 1.1.2024, neue Wohngebäude seit 1.1.2025, vollständige Erneuerung der Dachhaut bestehender Gebäude bei Baubeginn ab 1.1.2026. Einzelheiten in der Solaranlagen-Verordnung NRW vom 6.6.2024. Genaues Datum des Änderungsgesetzes nicht geprüft.'
+status_note_en: 'Phased obligation: new non-residential buildings since 1 January 2024, new residential buildings since 1 January 2025, complete renewal of the roof covering of existing buildings where works start from 1 January 2026. Details in the NRW Solar Installations Ordinance of 6 June 2024. Exact date of the amending act not checked.'
+languages:
+- de
+topics:
+- solar
+- renewables
+- permitting
+summary_de: § 42a der Landesbauordnung verpflichtet dazu, auf geeigneten Dachflächen von Neubauten und bei vollständiger Erneuerung der Dachhaut bestehender Gebäude Solaranlagen zu errichten; § 48 Abs. 1a regelt Photovoltaik über neuen Stellplätzen. Die Solaranlagen-Verordnung legt Mindestumfang, Ausnahmen und Nachweise fest. Solarthermie kann die Pflicht ganz oder teilweise erfüllen; die Anlage muss auf oder an dem betroffenen Gebäude liegen.
+summary_en: Section 42a of the state building code requires solar installations on suitable roof areas of new buildings and when the roof covering of existing buildings is completely renewed; section 48(1a) covers PV over new parking spaces. The Solar Installations Ordinance sets minimum extent, exemptions and proof. Solar thermal can fulfil the obligation in whole or in part; the installation must be on or at the building concerned.
+source_url: https://recht.nrw.de/gvnrw/2023-s1172
+alternate_urls:
+- label: Solaranlagen-Verordnung NRW (SAN-VO NRW) vom 6.6.2024
+  url: https://recht.nrw.de/lrgv/rechtsverordnung/19062024-verordnung-zur-umsetzung-der-solaranlagen-pflicht-nach-ss-42a-und-ss/
+- label: BauO NRW 2018, Ursprungsfassung (GV. NRW. 2018 S. 421)
+  url: https://recht.nrw.de/gvnrw/2018-s421
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-ni-nbauo-32a
+- de-bw-klimag
+- de-rp-lsolarg
+- eu-rl-2024-1275
+added: 2026-10-15
+last_checked: 2026-10-15

@@ -1,0 +1,39 @@
+id: de-hh-hmbklischg
+title: Hamburgisches Gesetz zum Schutz des Klimas (Hamburgisches Klimaschutzgesetz – HmbKliSchG)
+title_en: Hamburg Climate Protection Act
+short_title: HmbKliSchG
+doc_type: law
+jurisdiction: DE
+subdivision: DE-HH
+issuer: Hamburgische Bürgerschaft
+reference: HmbGVBl. 2020 S. 148
+date: 2020-02-20
+status: in_force
+status_note: In Kraft seit Februar 2020; geändert u. a. am 13.12.2023 (HmbGVBl. S. 443) und am 4.11.2025 (HmbGVBl. S. 597). Nach Angaben der Stadt ist Klimaneutralität bis 2040 gesetzlich festgelegt. Photovoltaikpflicht bei Neubauten seit 1.1.2023, bei grundlegender Dacherneuerung im Bestand für Arbeiten ab 1.1.2025; Gründachpflicht (Solargründach) ab 1.1.2027. Konkretisiert durch die Photovoltaikpflicht-Umsetzungsverordnung (PVUmsVO) vom 16.4.2024. Aktuelle Fassung nicht im Detail geprüft.
+status_note_en: In force since February 2020; amended among others on 13 December 2023 and 4 November 2025. According to the city, climate neutrality by 2040 is set in law. PV obligation for new buildings since 1 January 2023, for fundamental roof renewal of existing buildings for works from 1 January 2025; green roof obligation (solar green roof) from 1 January 2027. Detailed in the PV Obligation Implementing Ordinance (PVUmsVO) of 16 April 2024. Current version not checked in detail.
+languages:
+- de
+topics:
+- solar
+- renewables
+- heat
+- energy_efficiency
+summary_de: Das Hamburgische Klimaschutzgesetz legt die Klimaschutzziele der Stadt fest und enthält Pflichten für Gebäude und Wärmenetze. § 16 verpflichtet zur Errichtung von Photovoltaikanlagen auf Dächern von Neubauten und bei grundlegender Erneuerung der Dachhaut bestehender Gebäude (ab 50 m² Bruttodachfläche), künftig kombiniert mit Gründächern; § 16a regelt Photovoltaik auf Stellplatzanlagen. Weitere Bestimmungen betreffen Beschränkungen für elektrische Heizungen, die Nutzung erneuerbarer Energien bei der Wärmeversorgung, Dekarbonisierungsfahrpläne für Wärmenetze und den Kohleausstieg.
+summary_en: The Hamburg Climate Protection Act sets the city's climate targets and contains obligations for buildings and heating networks. Section 16 requires PV systems on the roofs of new buildings and when the roof covering of existing buildings is fundamentally renewed (from 50 m² gross roof area), in future combined with green roofs; section 16a covers PV on parking facilities. Further provisions concern restrictions on electric heating, the use of renewables in heat supply, decarbonisation roadmaps for heating networks and the coal phase-out.
+source_url: https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/klima/klimaschutz-klimaplan/hamburgischesklimaschutzgesetz-169178
+alternate_urls:
+- label: FAQ zur Photovoltaikpflicht in Hamburg (BUKEA)
+  url: https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/energie/erneuerbare-energien/photovoltaik/faq-pv-pflicht-in-hamburg-956122
+- label: Photovoltaikpflicht-Umsetzungsverordnung (PVUmsVO) vom 16.4.2024 (PDF)
+  url: https://www.hamburg.de/resource/blob/884880/f7fb642004980d114de7ea8a6cadc20c/d-hmbklischstaerkvo-pvumsvo-data.pdf
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-be-solarg
+- de-hb-bremsolarg
+- de-sh-ewkg
+- de-gmodg
+added: 2026-10-15
+last_checked: 2026-10-15

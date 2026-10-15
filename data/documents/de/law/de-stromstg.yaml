@@ -1,0 +1,32 @@
+id: de-stromstg
+title: Stromsteuergesetz (StromStG)
+title_en: Electricity Tax Act
+short_title: StromStG
+doc_type: law
+jurisdiction: DE
+issuer: Deutscher Bundestag
+reference: BGBl. I 1999 S. 378
+date: 1999-03-24
+status: in_force
+status_note: In Kraft seit 1.4.1999. Zuletzt wesentlich geändert durch das Dritte Gesetz zur Änderung des Energiesteuer- und des Stromsteuergesetzes (BGBl. 2025 I Nr. 340), überwiegend in Kraft seit 1.1.2026, einzelne Bestimmungen ab 1.1.2027. Spätere Änderungen nicht im Detail geprüft.
+status_note_en: In force since 1 April 1999. Last substantially amended by the Third Act amending the Energy Tax and Electricity Tax Acts (Federal Law Gazette 2025 I No. 340), mostly in force since 1 January 2026, some provisions from 1 January 2027. Later amendments not checked in detail.
+languages:
+- de
+topics:
+- tariffs
+- self_consumption
+- storage
+- mobility
+summary_de: Das Stromsteuergesetz regelt die Besteuerung von Strom, der im Steuergebiet entnommen wird, mit Steuerschuldnerschaft der Versorger und Eigenerzeuger. Es enthält Steuerbefreiungen, unter anderem für Strom aus erneuerbaren Energieträgern und aus kleinen Anlagen, der am Ort der Erzeugung verbraucht wird, sowie Entlastungen für Unternehmen des produzierenden Gewerbes. Die Änderung 2026 verstetigt die Entlastung des produzierenden Gewerbes auf den EU-Mindeststeuersatz und regelt Elektromobilität (Ladepunktbetreiber als Steuerschuldner, bidirektionales Laden), Stromspeicher und dezentrale Erzeugung neu.
+summary_en: The Electricity Tax Act governs the taxation of electricity withdrawn in the tax territory, with suppliers and self-generators as taxpayers. It contains exemptions, among others for electricity from renewable sources and from small plants consumed at the place of generation, and relief for manufacturing companies. The 2026 amendment makes the relief for manufacturing permanent at the EU minimum rate and reorganises the rules for e-mobility (charge point operators as taxpayers, bidirectional charging), storage and decentralised generation.
+source_url: https://www.gesetze-im-internet.de/stromstg/
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-eeg-2023
+- de-enfg
+- de-enwg
+added: 2026-10-15
+last_checked: 2026-10-15

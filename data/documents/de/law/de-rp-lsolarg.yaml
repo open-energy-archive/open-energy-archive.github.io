@@ -1,0 +1,35 @@
+id: de-rp-lsolarg
+title: Landesgesetz zur Installation von Solaranlagen (Landessolargesetz – LSolarG)
+title_en: Rhineland-Palatinate State Solar Act
+short_title: LSolarG RP
+doc_type: law
+jurisdiction: DE
+subdivision: DE-RP
+issuer: Landtag Rheinland-Pfalz
+reference: GVBl. 2021 S. 550; geändert durch Gesetz vom 22.11.2023 (GVBl. S. 367)
+date: 2021-09-30
+status: in_force
+status_note: In Kraft seit Oktober 2021; Pflichten für gewerbliche Neubauten und Parkplätze seit 1.1.2023. Mit der Änderung vom 22.11.2023 auf Neubauten und grundlegende Dachsanierungen öffentlicher Gebäude sowie Parkplätze der öffentlichen Hand ausgeweitet (seit 1.1.2024). Für private Wohngebäude besteht keine Pflicht. Spätere Änderungen nicht im Detail geprüft.
+status_note_en: In force since October 2021; obligations for new commercial buildings and car parks since 1 January 2023. Extended by the amendment of 22 November 2023 to new public buildings and their fundamental roof renovations and to public car parks (since 1 January 2024). There is no obligation for private residential buildings. Later amendments not checked in detail.
+languages:
+- de
+topics:
+- solar
+- renewables
+- permitting
+summary_de: Das Landessolargesetz verpflichtet Bauherrinnen und Bauherren gewerblich genutzter Neubauten und neuer gewerblicher Parkplätze mit mehr als 50 Stellplätzen, Photovoltaikanlagen zu installieren, bei Gebäuden auf mindestens 60 % der geeigneten Dachfläche. Seit 2024 gilt die Pflicht auch für Neubauten und grundlegende Dachsanierungen öffentlicher Gebäude und für Parkplätze der öffentlichen Hand. Solarthermie kann angerechnet werden; Verstösse können mit Bussgeldern bis 50 000 Euro geahndet werden.
+summary_en: The State Solar Act requires builders of new commercial buildings and of new commercial car parks with more than 50 spaces to install PV systems, on buildings covering at least 60% of the suitable roof area. Since 2024 the obligation also applies to new public buildings, their fundamental roof renovations and public car parks. Solar thermal can be counted; violations can be fined up to EUR 50,000.
+source_url: https://umwelt-online.de/recht/energie/laender/rp/solg21.htm
+alternate_urls:
+- label: Gesetzentwurf zur Änderung 2023 (Drs. 18/6910, PDF)
+  url: https://www.spdfraktion-rlp.de/fileadmin/user_upload/Dateien/Parlamentarische_Initiativen/18._Legislaturperiode/Gesetzentw%C3%BCrfe/6910-18__1_.pdf
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-nw-bauo-42a
+- de-bw-klimag
+- de-ni-nbauo-32a
+added: 2026-10-15
+last_checked: 2026-10-15

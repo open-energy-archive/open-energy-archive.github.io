@@ -2,6 +2,13 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.30.0] – 2026-10-15
+
+### Neu
+- Deutschland, jetzt 37 Einträge – 12 weitere Dokumente:
+  - Solarpflichten der Länder: Bremisches Solargesetz, Hamburgisches Klimaschutzgesetz, § 32a NBauO (Niedersachsen), § 42a BauO NRW mit Solaranlagen-Verordnung, Energiewende- und Klimaschutzgesetz Schleswig-Holstein (Novelle 2025), Landessolargesetz Rheinland-Pfalz
+  - Bund: Bundes-Klimaschutzgesetz, Energieeffizienzgesetz mit der hängigen Novelle (BT-Drs. 21/8027), Stromsteuergesetz (Änderung 2026), Netzausbaubeschleunigungsgesetz Übertragungsnetz, Bundesbedarfsplangesetz
+
 ## [0.29.0] – 2026-10-15
 
 ### Neu

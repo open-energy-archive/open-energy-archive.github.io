@@ -1,0 +1,36 @@
+id: de-sh-ewkg
+title: Gesetz über die Energiewende, den Klimaschutz und die Anpassung an die Folgen des Klimawandels (Energiewende- und Klimaschutzgesetz – EWKG)
+title_en: Schleswig-Holstein Energy Transition and Climate Protection Act
+short_title: EWKG SH
+doc_type: law
+jurisdiction: DE
+subdivision: DE-SH
+issuer: Schleswig-Holsteinischer Landtag
+reference: GVOBl. Schl.-H. 2017 S. 124; Novelle durch Gesetz vom 25.3.2025 (GVOBl. 2025 Nr. 26)
+date: 2017-03-07
+status: in_force
+status_note: Erlassen 2017, novelliert 2021 und durch Gesetz vom 25.3.2025 (in Kraft seit 29.3.2025). Mit der Novelle wurde die Netto-Treibhausgasneutralität des Landes auf 2040 vorverlegt. Photovoltaikpflicht für neue Wohngebäude mit Übergangsfrist bis Ende März 2026. Spätere Änderungen nicht im Detail geprüft.
+status_note_en: Enacted 2017, amended 2021 and by the act of 25 March 2025 (in force since 29 March 2025). The amendment brought the state's net greenhouse gas neutrality target forward to 2040. PV obligation for new residential buildings with a transitional period until the end of March 2026. Later amendments not checked in detail.
+languages:
+- de
+topics:
+- solar
+- renewables
+- heat
+summary_de: Das EWKG legt die Klimaschutzziele Schleswig-Holsteins fest (Netto-Treibhausgasneutralität bis 2040) und regelt Energiewende- und Klimaschutzmassnahmen von Land und Kommunen. Seit der Novelle 2025 gilt eine Photovoltaikpflicht beim Neubau von Wohngebäuden, beim Neubau und bei grösseren Dachsanierungen von Nichtwohngebäuden (§ 26) sowie bei Neubau, Erweiterung und Sanierung von Parkplätzen ab 70 Stellplätzen (§ 25). Weitere Bestimmungen betreffen die Wärmeversorgung, die kommunale Wärmeplanung und die Klimaanpassung.
+summary_en: The EWKG sets Schleswig-Holstein's climate targets (net greenhouse gas neutrality by 2040) and governs energy transition and climate measures of the state and municipalities. Since the 2025 amendment, a PV obligation applies to new residential buildings, to new non-residential buildings and their major roof renovations (section 26), and to new, extended and renovated car parks with 70 or more spaces (section 25). Further provisions concern heat supply, municipal heat planning and climate adaptation.
+source_url: https://www.schleswig-holstein.de/DE/landesregierung/themen/energie/energiewende/ewkg
+alternate_urls:
+- label: Bericht und Beschlussempfehlung zur Novelle 2025 (Drs. 20/2804, PDF)
+  url: https://landtag.ltsh.de/infothek/wahl20/drucks/02800/drucksache-20-02804.pdf
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-hh-hmbklischg
+- de-ksg
+- de-wpg
+- de-bw-klimag
+added: 2026-10-15
+last_checked: 2026-10-15

@@ -1,0 +1,30 @@
+id: de-nabeg
+title: Netzausbaubeschleunigungsgesetz Übertragungsnetz (NABEG)
+title_en: Grid Expansion Acceleration Act (Transmission Grid)
+short_title: NABEG
+doc_type: law
+jurisdiction: DE
+issuer: Deutscher Bundestag
+reference: BGBl. I 2011 S. 1690
+date: 2011-07-28
+status: in_force
+status_note: Erlassen als Art. 1 des Gesetzes über Massnahmen zur Beschleunigung des Netzausbaus Elektrizitätsnetze vom 28.7.2011; seither mehrfach geändert. Aktuelle Fassung nicht im Detail geprüft.
+status_note_en: Enacted as Article 1 of the Act on Measures to Accelerate Expansion of Electricity Grids of 28 July 2011; amended several times since. Current version not checked in detail.
+languages:
+- de
+topics:
+- grid
+- permitting
+summary_de: Das NABEG regelt die Bundesfachplanung und die Planfeststellung für länderübergreifende und grenzüberschreitende Höchstspannungsleitungen, die im Bundesbedarfsplangesetz entsprechend gekennzeichnet sind. Zuständig ist die Bundesnetzagentur. Das Gesetz enthält Vorgaben zur Öffentlichkeitsbeteiligung, zu Trassenkorridoren, zum Vorrang der Erdverkabelung bei Gleichstromleitungen und Instrumente zur Verfahrensbeschleunigung.
+summary_en: The NABEG governs federal sectoral planning and plan approval for extra-high-voltage lines crossing state or national borders that are marked accordingly in the Federal Requirements Plan Act. The Federal Network Agency is the competent authority. The act contains rules on public participation, route corridors, the priority of underground cabling for direct current lines and tools to speed up procedures.
+source_url: https://www.gesetze-im-internet.de/nabeg/
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-bbplg
+- de-enwg
+- de-btdrs-21-7866-netzpaket
+added: 2026-10-15
+last_checked: 2026-10-15

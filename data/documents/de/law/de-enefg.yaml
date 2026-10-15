@@ -1,0 +1,31 @@
+id: de-enefg
+title: Gesetz zur Steigerung der Energieeffizienz in Deutschland (Energieeffizienzgesetz – EnEfG)
+title_en: Energy Efficiency Act
+short_title: EnEfG
+doc_type: law
+jurisdiction: DE
+issuer: Deutscher Bundestag
+reference: BGBl. 2023 I Nr. 309
+date: 2023-11-13
+status: in_force
+status_note: In Kraft seit 18.11.2023. Eine Novelle, die fehlende Vorgaben der EU-Energieeffizienzrichtlinie umsetzen und darüber hinausgehende nationale Pflichten weitgehend auf EU-Recht zurückführen soll, ist im Bundestag hängig (BT-Drs. 21/8027, erste Lesung 24.9.2026).
+status_note_en: In force since 18 November 2023. An amendment to transpose outstanding requirements of the EU Energy Efficiency Directive and largely reduce national obligations going beyond EU law is pending in the Bundestag (printed paper 21/8027, first reading 24 September 2026).
+languages:
+- de
+topics:
+- energy_efficiency
+- heat
+summary_de: Das Energieeffizienzgesetz setzt Ziele zur Senkung des Primär- und Endenergieverbrauchs bis 2030 und 2045 und setzt Teile der EU-Energieeffizienzrichtlinie um. Es verpflichtet Bund und Länder zu Einsparmassnahmen, Unternehmen mit hohem Energieverbrauch zu Energie- oder Umweltmanagementsystemen und zur Veröffentlichung wirtschaftlicher Effizienzmassnahmen, und enthält Anforderungen an Rechenzentren (Energieeffizienz, Abwärmenutzung, Strom aus erneuerbaren Energien) sowie zur Vermeidung und Nutzung von Abwärme.
+summary_en: The Energy Efficiency Act sets targets for reducing primary and final energy consumption by 2030 and 2045 and transposes parts of the EU Energy Efficiency Directive. It obliges the federal and state governments to take savings measures, companies with high energy consumption to introduce energy or environmental management systems and publish economic efficiency measures, and sets requirements for data centres (efficiency, waste heat use, renewable electricity) and for avoiding and using waste heat.
+source_url: https://www.gesetze-im-internet.de/enefg/
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-btdrs-21-8027-enefg
+- eu-rl-2023-1791
+- de-ksg
+- de-gmodg
+added: 2026-10-15
+last_checked: 2026-10-15

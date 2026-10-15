@@ -1,0 +1,38 @@
+id: de-hb-bremsolarg
+title: Bremisches Gesetz zur Beschleunigung des Ausbaus von Anlagen zur Stromerzeugung aus solarer Strahlungsenergie (Bremisches Solargesetz – BremSolarG)
+title_en: Bremen Solar Act
+short_title: BremSolarG
+doc_type: law
+jurisdiction: DE
+subdivision: DE-HB
+issuer: Bremische Bürgerschaft (Landtag)
+reference: Neufassung vom 29.5.2024, Brem.GBl. 2024 S. 589 (ursprünglich Gesetz vom 2.5.2023, Brem.GBl. S. 443)
+date: 2024-05-29
+status: in_force
+status_note: Ursprünglich in Kraft seit 24.5.2023; Änderungsgesetz vom 29.5.2024 (Brem.GBl. S. 486) in Kraft seit 27.6.2024, Neufassung bekannt gemacht am 24.7.2024. Pflicht bei Dachsanierungen seit 1.7.2024, bei Neubauten für Bauanträge ab 1.7.2025. Spätere Änderungen nicht im Detail geprüft.
+status_note_en: Originally in force since 24 May 2023; amending act of 29 May 2024 in force since 27 June 2024, consolidated text published on 24 July 2024. Obligation for roof renovations since 1 July 2024, for new buildings for permit applications from 1 July 2025. Later amendments not checked in detail.
+languages:
+- de
+topics:
+- solar
+- renewables
+- permitting
+summary_de: Das Bremische Solargesetz verpflichtet Bauherrinnen und Bauherren, auf neuen Gebäuden eine Photovoltaikanlage mit einer Modulfläche von mindestens 50 % der Dachfläche zu installieren. Bei bestehenden Gebäuden entsteht die Pflicht mit einer grundlegenden Dachsanierung (Erneuerung von mindestens 80 % der Dachfläche); dann ist innert zwei Jahren eine Anlage von mindestens 1 kW zu errichten. Das Gesetz regelt die massgebliche Dachfläche, Ausnahmen, Solarthermie als Erfüllungsalternative, Befreiungen bei unzumutbarer Härte, Nachweispflichten und Bussgelder.
+summary_en: The Bremen Solar Act requires builders to install a PV system with a module area of at least 50% of the roof area on new buildings. For existing buildings, the obligation is triggered by a fundamental roof renovation (renewal of at least 80% of the roof area), after which a system of at least 1 kW must be installed within two years. The act governs the relevant roof area, exemptions, solar thermal as an alternative, waivers for undue hardship, proof requirements and fines.
+source_url: https://gesetzblatt.bremen.de/fastmedia/218/2024_07_24_GBl_Nr_0078_signed.pdf
+alternate_urls:
+- label: Ursprüngliche Fassung vom 2.5.2023 (Brem.GBl. 2023 Nr. 71)
+  url: https://www.gesetzblatt.bremen.de/fastmedia/218/2023_05_23_GBl_Nr_0071_signed.pdf
+- label: Änderungsgesetz vom 29.5.2024 (Brem.GBl. 2024 Nr. 62)
+  url: https://gesetzblatt.bremen.de/fastmedia/218/2024_06_26_GBl_Nr_0062_signed.pdf
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-be-solarg
+- de-hh-hmbklischg
+- de-ni-nbauo-32a
+- eu-rl-2024-1275
+added: 2026-10-15
+last_checked: 2026-10-15

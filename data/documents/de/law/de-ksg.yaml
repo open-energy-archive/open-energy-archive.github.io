@@ -1,0 +1,32 @@
+id: de-ksg
+title: Bundes-Klimaschutzgesetz (KSG)
+title_en: Federal Climate Change Act
+short_title: KSG
+doc_type: law
+jurisdiction: DE
+issuer: Deutscher Bundestag
+reference: BGBl. I 2019 S. 2513
+date: 2019-12-12
+status: in_force
+status_note: In Kraft seit 18.12.2019. Nach dem Klimabeschluss des Bundesverfassungsgerichts 2021 geändert (Treibhausgasneutralität bis 2045); mit der Änderung vom 15.7.2024 (BGBl. 2024 I Nr. 235) wurde die Überprüfung der Ziele auf eine sektorübergreifende, mehrjährige Gesamtrechnung umgestellt. Spätere Änderungen nicht im Detail geprüft.
+status_note_en: In force since 18 December 2019. Amended after the Federal Constitutional Court's 2021 climate ruling (greenhouse gas neutrality by 2045); the amendment of 15 July 2024 switched target monitoring to a cross-sector, multi-year overall accounting. Later amendments not checked in detail.
+languages:
+- de
+topics:
+- renewables
+- energy_efficiency
+- supply_security
+summary_de: 'Das Bundes-Klimaschutzgesetz legt die nationalen Klimaschutzziele fest: Minderung der Treibhausgasemissionen um mindestens 65 % bis 2030 und 88 % bis 2040 gegenüber 1990 sowie Netto-Treibhausgasneutralität bis 2045. Es regelt jährliche Emissionsmengen, die Überprüfung durch den Expertenrat für Klimafragen, Klimaschutzprogramme der Bundesregierung und die Vorbildfunktion der öffentlichen Hand.'
+summary_en: 'The Federal Climate Change Act sets Germany''s climate targets: reducing greenhouse gas emissions by at least 65% by 2030 and 88% by 2040 compared with 1990, and net greenhouse gas neutrality by 2045. It governs annual emission budgets, review by the Council of Experts on Climate Change, the federal government''s climate action programmes and the exemplary role of the public sector.'
+source_url: https://www.gesetze-im-internet.de/ksg/
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-eeg-2023
+- de-enefg
+- de-sh-ewkg
+- de-bw-klimag
+added: 2026-10-15
+last_checked: 2026-10-15

@@ -1,0 +1,33 @@
+id: de-ni-nbauo-32a
+title: Niedersächsische Bauordnung (NBauO), § 32a Solarenergieanlagen zur Stromerzeugung auf Dächern
+title_en: Lower Saxony Building Code, section 32a (solar PV on roofs)
+short_title: NBauO § 32a
+doc_type: law
+jurisdiction: DE
+subdivision: DE-NI
+issuer: Niedersächsischer Landtag
+reference: NBauO vom 3.4.2012 (Nds. GVBl. S. 46), § 32a
+date: 2012-04-03
+status: in_force
+status_note: § 32a gilt seit 1.1.2023 für gewerbliche Neubauten und wurde mit Wirkung ab 1.1.2025 auf alle Gebäude ab 50 m² Dachfläche sowie auf grundlegende Dachsanierungen ausgeweitet. Fundstelle der Änderung nicht im Detail geprüft.
+status_note_en: Section 32a has applied to new commercial buildings since 1 January 2023 and was extended with effect from 1 January 2025 to all buildings with at least 50 m² of roof area and to fundamental roof renovations. Reference of the amendment not checked in detail.
+languages:
+- de
+topics:
+- solar
+- renewables
+- permitting
+summary_de: Die Bestimmung verpflichtet seit 2025 bei der Errichtung von Gebäuden mit mindestens 50 m² Dachfläche sowie bei Aufstockungen, Anbauten und der Erneuerung der Dachhaut bis zur wasserführenden Schicht dazu, mindestens 50 % der Dachfläche mit Photovoltaik zu belegen. Für offene Parkplätze mit mehr als 25 Einstellplätzen gilt eine Pflicht zur Überdachung mit Photovoltaik. Solarthermie auf der Dachfläche wird angerechnet; Ausnahmen gelten unter anderem bei Unwirtschaftlichkeit oder entgegenstehenden Vorschriften.
+summary_en: Since 2025 the provision requires at least 50% of the roof area to be covered with PV when buildings with at least 50 m² of roof area are erected, and in case of extensions, additional storeys and renewal of the roof covering down to the waterproofing layer. Open car parks with more than 25 spaces must be covered with PV. Solar thermal on the roof counts towards the obligation; exemptions apply, among others, where it is uneconomic or conflicts with other rules.
+source_url: https://voris.wolterskluwer-online.de/browse/document/f056c189-2143-307d-9a85-eb5d10b7fa52
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-nw-bauo-42a
+- de-hb-bremsolarg
+- de-by-baybo-art-44a
+- eu-rl-2024-1275
+added: 2026-10-15
+last_checked: 2026-10-15

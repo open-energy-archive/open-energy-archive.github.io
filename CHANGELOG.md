@@ -2,6 +2,18 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.30.1] – 2026-10-15
+
+### Geändert
+- Startseite: «Zuletzt ergänzt» heisst neu «Zuletzt hinzugefügt» (englisch «Recently added»). Die Überschrift und der Link «Alle … Einträge anzeigen» führen auf die Dokumentenliste, sortiert nach «Zuletzt hinzugefügt»
+
+### Korrigiert
+- Links der neuen deutschen Einträge geprüft und ersetzt:
+  - § 42a BauO NRW: Quelle neu die jeweils aktuelle Fassung auf recht.nrw.de; Änderungsgesetz vom 31.10.2023 (GV. NRW. S. 1172) bestätigt, Angaben zu Fristen, Ausnahmen und kommunalen Gebäuden ergänzt
+  - Landessolargesetz Rheinland-Pfalz: Quelle neu landesrecht.rlp.de statt umwelt-online.de (nur Demo-Ausschnitt); Link auf eine Parteiseite entfernt, Durchführungsverordnung und Ministeriumsseite ergänzt; Pflicht zur PV-Vorbereitung aller Neubauten seit 2024 ergänzt
+  - EnEfG-Novelle: Datum der Drucksache (16.9.2026) und Anhörung (5.10.2026) bestätigt, Inhalt nach der Bundestagsseite präzisiert
+  - Bremisches Solargesetz: Anrechnung der Solarthermie und Erfüllung auf anderen Flächen korrekt beschrieben
+
 ## [0.30.0] – 2026-10-15
 
 ### Neu

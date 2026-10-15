@@ -6,26 +6,25 @@ doc_type: law
 jurisdiction: DE
 subdivision: DE-NW
 issuer: Landtag Nordrhein-Westfalen; Landesregierung (Verordnung)
-reference: § 42a eingefügt durch Gesetz vom 2023 (GV. NRW. 2023 S. 1172); SAN-VO NRW vom 6.6.2024
-date: 2023-12-31
-date_precision: year
+reference: § 42a eingefügt durch Gesetz vom 31.10.2023 (GV. NRW. S. 1172); SAN-VO NRW vom 6.6.2024
+date: 2023-10-31
 status: in_force
-status_note: 'Pflicht gestaffelt: neue Nichtwohngebäude seit 1.1.2024, neue Wohngebäude seit 1.1.2025, vollständige Erneuerung der Dachhaut bestehender Gebäude bei Baubeginn ab 1.1.2026. Einzelheiten in der Solaranlagen-Verordnung NRW vom 6.6.2024. Genaues Datum des Änderungsgesetzes nicht geprüft.'
-status_note_en: 'Phased obligation: new non-residential buildings since 1 January 2024, new residential buildings since 1 January 2025, complete renewal of the roof covering of existing buildings where works start from 1 January 2026. Details in the NRW Solar Installations Ordinance of 6 June 2024. Exact date of the amending act not checked.'
+status_note: '§ 42a gilt seit 1.1.2024: Pflicht für neue Nichtwohngebäude (Bauantrag nach dem 1.1.2024) und neue Wohngebäude (Bauantrag nach dem 1.1.2025), bei vollständiger Erneuerung der Dachhaut ab Baubeginn nach dem 1.1.2026, für kommunale Gebäude bereits ab 1.7.2024. Einzelheiten in der Solaranlagen-Verordnung NRW vom 6.6.2024. Die Landesbauordnung wurde zuletzt mit Wirkung ab 1.9.2026 geändert (GV. NRW. 2026 S. 537); § 42a blieb dabei unverändert.'
+status_note_en: 'Section 42a has applied since 1 January 2024: obligation for new non-residential buildings (permit application after 1 January 2024) and new residential buildings (after 1 January 2025), for complete renewal of the roof covering where works start after 1 January 2026, for municipal buildings already from 1 July 2024. Details in the NRW Solar Installations Ordinance of 6 June 2024. The building code was last amended with effect from 1 September 2026; section 42a was not changed.'
 languages:
 - de
 topics:
 - solar
 - renewables
 - permitting
-summary_de: § 42a der Landesbauordnung verpflichtet dazu, auf geeigneten Dachflächen von Neubauten und bei vollständiger Erneuerung der Dachhaut bestehender Gebäude Solaranlagen zu errichten; § 48 Abs. 1a regelt Photovoltaik über neuen Stellplätzen. Die Solaranlagen-Verordnung legt Mindestumfang, Ausnahmen und Nachweise fest. Solarthermie kann die Pflicht ganz oder teilweise erfüllen; die Anlage muss auf oder an dem betroffenen Gebäude liegen.
-summary_en: Section 42a of the state building code requires solar installations on suitable roof areas of new buildings and when the roof covering of existing buildings is completely renewed; section 48(1a) covers PV over new parking spaces. The Solar Installations Ordinance sets minimum extent, exemptions and proof. Solar thermal can fulfil the obligation in whole or in part; the installation must be on or at the building concerned.
-source_url: https://recht.nrw.de/gvnrw/2023-s1172
+summary_de: § 42a der Landesbauordnung verpflichtet dazu, auf geeigneten Dachflächen neuer Gebäude und bei vollständiger Erneuerung der Dachhaut bestehender Gebäude Photovoltaikanlagen zu installieren und zu betreiben; § 48 Abs. 1a regelt Photovoltaik über neuen Stellplätzen. Ausgenommen sind Gebäude bis 50 m² Nutzfläche, Behelfsbauten und fliegende Bauten; die Pflicht entfällt bei Widerspruch zu anderen Vorschriften, technischer Unmöglichkeit oder Unwirtschaftlichkeit. Solarthermie oder Photovoltaik an anderen Aussenflächen des Gebäudes können die Pflicht erfüllen. Die Solaranlagen-Verordnung legt Mindestumfang, Ausnahmen und Nachweise fest.
+summary_en: Section 42a of the state building code requires PV systems to be installed and operated on suitable roof areas of new buildings and when the roof covering of existing buildings is completely renewed; section 48(1a) covers PV over new parking spaces. Buildings with up to 50 m² of usable floor area, temporary and mobile structures are exempt; the obligation lapses if it conflicts with other rules, is technically impossible or uneconomic. Solar thermal or PV on other external surfaces of the building can fulfil it. The Solar Installations Ordinance sets minimum extent, exemptions and proof.
+source_url: https://recht.nrw.de/taxonomy/term/32203
 alternate_urls:
+- label: Änderungsgesetz vom 31.10.2023 mit § 42a (GV. NRW. 2023 S. 1172)
+  url: https://recht.nrw.de/gvnrw/2023-s1172
 - label: Solaranlagen-Verordnung NRW (SAN-VO NRW) vom 6.6.2024
   url: https://recht.nrw.de/lrgv/rechtsverordnung/19062024-verordnung-zur-umsetzung-der-solaranlagen-pflicht-nach-ss-42a-und-ss/
-- label: BauO NRW 2018, Ursprungsfassung (GV. NRW. 2018 S. 421)
-  url: https://recht.nrw.de/gvnrw/2018-s421
 rights:
   status: official_work
   basis: § 5 Abs. 1 UrhG

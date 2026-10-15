@@ -44,7 +44,7 @@ const T = {
     stats: ['Einträge', 'Rechtsräume', 'Dokumenttypen', 'Frei verfügbar'],
     searchTitle: 'Suche', searchPh: 'Suchen, z. B. «Eigenverbrauch», «StromVG», «Netzanschluss» …',
     noJs: 'Die Suche benötigt JavaScript.', listLink: 'Dokumente als Liste',
-    byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt ergänzt', feedTitle: 'Open Energy Archive – neue Dokumente', rssTitle: 'RSS-Feed mit neuen Dokumenten abonnieren', subscribe: 'Neue Dokumente per E-Mail erhalten', subscribeNote: 'Kostenlos, jederzeit abbestellbar. Die Anmeldung läuft über unseren E-Mail-Dienst; Details unter Impressum & Datenschutz.', feedDesc: 'Neu ins Open Energy Archive aufgenommene Dokumente zu Elektrizität und Energie.', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
+    byTopic: 'Nach Thema', byType: 'Nach Typ', latest: 'Zuletzt hinzugefügt', feedTitle: 'Open Energy Archive – neue Dokumente', rssTitle: 'RSS-Feed mit neuen Dokumenten abonnieren', subscribe: 'Neue Dokumente per E-Mail erhalten', subscribeNote: 'Kostenlos, jederzeit abbestellbar. Die Anmeldung läuft über unseren E-Mail-Dienst; Details unter Impressum & Datenschutz.', feedDesc: 'Neu ins Open Energy Archive aufgenommene Dokumente zu Elektrizität und Energie.', showAll: (n) => `Alle ${n} Einträge anzeigen →`,
     listTitle: 'Dokumente', filterLabel: 'Dokumente filtern',
     f: { text: 'Text', textPh: 'Titel, Aktenzeichen, Herausgeber …', jur: 'Rechtsraum', type: 'Typ', topic: 'Thema', rights: 'Rechte', level: 'Ebene', national: 'Bund', all: 'Alle', free: 'Frei verfügbar', link: 'Nur Link', reset: 'Filter zurücksetzen', date: 'Zeitraum', from: 'von', to: 'bis', fromAria: 'Datum von', toAria: 'Datum bis', pAll: 'Alle', p30: 'Letzte 30 Tage', p12: 'Letzte 12 Monate', pCustom: 'Eigener Zeitraum', dateErr: '«Bis» liegt vor «von». Passe den Zeitraum an.', toggle: 'Filter', done: 'Treffer zeigen', remove: 'entfernen', active: 'Aktive Filter', more: 'Weitere Filter' },
     chipTitle: (l) => `Alle Einträge: ${l}`, byJur: 'Nach Rechtsraum',
@@ -278,7 +278,7 @@ function build(lang) {
 </section>
 <section>
   <div class="latest-head">
-    <h2 class="section-title">${t.latest}</h2>
+    <h2 class="section-title"><a href="${page('list', '?sort=added')}">${t.latest}</a></h2>
     <div class="follow">
       ${SUBSCRIBE_URL ? `<a class="btn primary subscribe" href="${esc(SUBSCRIBE_URL)}" rel="noopener">${t.subscribe}</a>` : ''}
       <a class="rss-link" href="${url(t.prefix + 'feed.xml')}" title="${esc(t.rssTitle)}"><svg viewBox="0 0 24 24" aria-hidden="true" width="16" height="16"><circle cx="5" cy="19" r="2.2"/><path d="M3 10.5a10.5 10.5 0 0 1 10.5 10.5h-3A7.5 7.5 0 0 0 3 13.5zM3 4a17 17 0 0 1 17 17h-3A14 14 0 0 0 3 7z"/></svg> RSS</a>
@@ -286,7 +286,7 @@ function build(lang) {
   </div>
   ${SUBSCRIBE_URL ? `<p class="follow-note">${t.subscribeNote}</p>` : ''}
   <ul class="cards">${[...docs].sort((a, b) => b.added.localeCompare(a.added) || b.date.localeCompare(a.date)).slice(0, 6).map((d) => card(d)).join('')}</ul>
-  <p><a class="more" href="${page('list')}">${t.showAll(docs.length)}</a></p>
+  <p><a class="more" href="${page('list', '?sort=added')}">${t.showAll(docs.length)}</a></p>
 </section>
 <script>
 window.addEventListener('DOMContentLoaded', () => {

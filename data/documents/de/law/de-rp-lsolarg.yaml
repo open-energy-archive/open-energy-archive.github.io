@@ -9,20 +9,22 @@ issuer: Landtag Rheinland-Pfalz
 reference: GVBl. 2021 S. 550; geändert durch Gesetz vom 22.11.2023 (GVBl. S. 367)
 date: 2021-09-30
 status: in_force
-status_note: In Kraft seit Oktober 2021; Pflichten für gewerbliche Neubauten und Parkplätze seit 1.1.2023. Mit der Änderung vom 22.11.2023 auf Neubauten und grundlegende Dachsanierungen öffentlicher Gebäude sowie Parkplätze der öffentlichen Hand ausgeweitet (seit 1.1.2024). Für private Wohngebäude besteht keine Pflicht. Spätere Änderungen nicht im Detail geprüft.
-status_note_en: In force since October 2021; obligations for new commercial buildings and car parks since 1 January 2023. Extended by the amendment of 22 November 2023 to new public buildings and their fundamental roof renovations and to public car parks (since 1 January 2024). There is no obligation for private residential buildings. Later amendments not checked in detail.
+status_note: In Kraft seit 6.10.2021; Pflichten für gewerbliche Neubauten und Parkplätze seit 1.1.2023. Mit der Änderung vom 22.11.2023 auf Neubauten und grundlegende Dachsanierungen öffentlicher Gebäude sowie Parkplätze der öffentlichen Hand ausgeweitet; seit 1.1.2024 gilt zudem für alle Neubauten und grundlegenden Dachsanierungen eine Pflicht, das Gebäude für eine spätere Photovoltaikanlage vorzubereiten. Eine Installationspflicht für private Wohngebäude besteht nicht. Konkretisiert durch die Durchführungsverordnung (LSolarGDVO) vom 15.12.2022. Spätere Änderungen nicht im Detail geprüft.
+status_note_en: In force since 6 October 2021; obligations for new commercial buildings and car parks since 1 January 2023. Extended by the amendment of 22 November 2023 to new public buildings, their fundamental roof renovations and public car parks; since 1 January 2024 all new buildings and fundamental roof renovations must also be prepared for a later PV system. There is no installation obligation for private residential buildings. Detailed in the implementing ordinance of 15 December 2022. Later amendments not checked in detail.
 languages:
 - de
 topics:
 - solar
 - renewables
 - permitting
-summary_de: Das Landessolargesetz verpflichtet Bauherrinnen und Bauherren gewerblich genutzter Neubauten und neuer gewerblicher Parkplätze mit mehr als 50 Stellplätzen, Photovoltaikanlagen zu installieren, bei Gebäuden auf mindestens 60 % der geeigneten Dachfläche. Seit 2024 gilt die Pflicht auch für Neubauten und grundlegende Dachsanierungen öffentlicher Gebäude und für Parkplätze der öffentlichen Hand. Solarthermie kann angerechnet werden; Verstösse können mit Bussgeldern bis 50 000 Euro geahndet werden.
-summary_en: The State Solar Act requires builders of new commercial buildings and of new commercial car parks with more than 50 spaces to install PV systems, on buildings covering at least 60% of the suitable roof area. Since 2024 the obligation also applies to new public buildings, their fundamental roof renovations and public car parks. Solar thermal can be counted; violations can be fined up to EUR 50,000.
-source_url: https://umwelt-online.de/recht/energie/laender/rp/solg21.htm
+summary_de: Das Landessolargesetz verpflichtet Bauherrinnen und Bauherren gewerblich genutzter Neubauten mit mehr als 100 m² Nutzfläche und neuer gewerblicher Parkplätze mit mehr als 50 Stellplätzen, Photovoltaikanlagen zu installieren, bei Gebäuden auf mindestens 60 % der geeigneten Dachfläche. Seit 2024 gilt die Pflicht auch für Neubauten und grundlegende Dachsanierungen öffentlicher Gebäude und für Parkplätze der öffentlichen Hand; alle übrigen Neubauten und grundlegend sanierten Dächer müssen für eine spätere Photovoltaikanlage vorbereitet werden. Solarthermie kann angerechnet werden; Verstösse können mit Bussgeldern bis 50 000 Euro geahndet werden.
+summary_en: The State Solar Act requires builders of new commercial buildings with more than 100 m² of usable floor area and of new commercial car parks with more than 50 spaces to install PV systems, on buildings covering at least 60% of the suitable roof area. Since 2024 the obligation also applies to new public buildings, their fundamental roof renovations and public car parks; all other new buildings and fundamentally renovated roofs must be prepared for a later PV system. Solar thermal can be counted; violations can be fined up to EUR 50,000.
+source_url: https://landesrecht.rlp.de/bsrp/document/jlr-SolarGRPrahmen
 alternate_urls:
-- label: Gesetzentwurf zur Änderung 2023 (Drs. 18/6910, PDF)
-  url: https://www.spdfraktion-rlp.de/fileadmin/user_upload/Dateien/Parlamentarische_Initiativen/18._Legislaturperiode/Gesetzentw%C3%BCrfe/6910-18__1_.pdf
+- label: Landesverordnung zur Durchführung des Landessolargesetzes (LSolarGDVO)
+  url: https://www.landesrecht.rlp.de/bsrp/document/jlr-SolarGDVRPrahmen
+- label: Ministerium für Klimaschutz, Umwelt, Energie und Mobilität – Solarenergie
+  url: https://mkuem.rlp.de/themen/energie-und-klimaschutz/erneuerbare-energien/solarenergie
 rights:
   status: official_work
   basis: § 5 Abs. 1 UrhG

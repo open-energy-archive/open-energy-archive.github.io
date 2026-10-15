@@ -6,21 +6,20 @@ doc_type: parliamentary
 jurisdiction: DE
 issuer: Bundesregierung (Gesetzentwurf), Deutscher Bundestag
 reference: BT-Drs. 21/8027
-date: 2026-09-01
-date_precision: month
+date: 2026-09-16
 status: draft
-status_note: Referentenentwurf des BMWE vom 9.4.2026, vom Bundeskabinett am 24.6.2026 beschlossen. Erste Lesung im Bundestag am 24.9.2026, öffentliche Anhörung im Ausschuss für Wirtschaft und Energie im Oktober 2026. Das genaue Datum der Drucksache wurde nicht geprüft.
-status_note_en: Draft of the Federal Ministry for Economic Affairs and Energy of 9 April 2026, adopted by the federal cabinet on 24 June 2026. First reading in the Bundestag on 24 September 2026, public hearing in the Committee on Economic Affairs and Energy in October 2026. The exact date of the printed paper was not checked.
+status_note: Referentenentwurf des BMWE vom 9.4.2026, vom Bundeskabinett am 24.6.2026 beschlossen. Drucksache vom 16.9.2026; erste Lesung im Bundestag am 24.9.2026 und Überweisung an den Ausschuss für Wirtschaft und Energie, öffentliche Anhörung am 5.10.2026.
+status_note_en: Draft of the Federal Ministry for Economic Affairs and Energy of 9 April 2026, adopted by the federal cabinet on 24 June 2026. Printed paper of 16 September 2026; first reading in the Bundestag on 24 September 2026 and referral to the Committee on Economic Affairs and Energy, public hearing on 5 October 2026.
 languages:
 - de
 topics:
 - energy_efficiency
 - heat
-summary_de: Der Entwurf soll noch fehlende Vorgaben der EU-Energieeffizienzrichtlinie 2023/1791 umsetzen und das Energieeffizienzgesetz zugleich weitgehend auf EU-Recht zurückführen. Vorgesehen sind unter anderem der Verweis auf indikative statt gesetzlich festgelegte Einsparziele, die Streichung der Einsparverpflichtung von Bund und Ländern, höhere Schwellen für die Pflicht zu Energiemanagementsystemen, angepasste Anforderungen an Rechenzentren und Abwärme sowie die Umsetzung des Grundsatzes «Energieeffizienz an erster Stelle» bei grossen Planungs- und Investitionsentscheidungen.
-summary_en: The bill aims to transpose outstanding requirements of the EU Energy Efficiency Directive 2023/1791 while largely reducing the Energy Efficiency Act to EU requirements. Measures include referring to indicative rather than statutory savings targets, deleting the savings obligation of the federal and state governments, higher thresholds for mandatory energy management systems, adjusted requirements for data centres and waste heat, and applying the energy-efficiency-first principle to major planning and investment decisions.
+summary_de: Der Entwurf soll noch fehlende Vorgaben der EU-Energieeffizienzrichtlinie 2023/1791 umsetzen und das Energieeffizienzgesetz zugleich weitgehend auf EU-Recht zurückführen. Vorgesehen sind unter anderem der Verzicht auf gesetzlich festgelegte nationale Einsparziele, eine Pflicht zu Energie- oder Umweltmanagementsystemen erst ab 23,6 GWh Jahresverbrauch (bisher 7,5 GWh), der Wegfall der Meldepflicht für Abwärmepotenziale für die meisten Betriebe, gelockerte Anforderungen an Rechenzentren (100 % erneuerbarer Strom erst ab 2030) sowie der Grundsatz «Energieeffizienz an erster Stelle» für Investitionen über 100 Millionen Euro.
+summary_en: The bill aims to transpose outstanding requirements of the EU Energy Efficiency Directive 2023/1791 while largely reducing the Energy Efficiency Act to EU requirements. Measures include dropping statutory national savings targets, requiring energy or environmental management systems only from 23.6 GWh annual consumption (previously 7.5 GWh), removing the waste heat reporting duty for most companies, relaxed requirements for data centres (100% renewable electricity only from 2030) and applying the energy-efficiency-first principle to investments above EUR 100 million.
 source_url: https://dserver.bundestag.de/btd/21/080/2108027.pdf
 alternate_urls:
-- label: Bundestag – Textarchiv zur Anhörung
+- label: Bundestag – erste Lesung und Anhörung
   url: https://www.bundestag.de/dokumente/textarchiv/2026/kw41-pa-wirtschaft-energieeffizienzrichtlinie-1218082
 rights:
   status: official_work

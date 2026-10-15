@@ -1,0 +1,31 @@
+id: ch-oea-muster-ppa-onsite
+title: "Mustervertrag On-site-PPA für eine Photovoltaikanlage – Stromliefervertrag, technisches Anlageblatt, Preisblatt mit drei Preismodellen, Eckpunkte der Dienstbarkeit, Übernahmewerte"
+title_en: "Model on-site PPA for a solar PV plant – power supply agreement, technical plant sheet, price sheet with three pricing models, key terms of the easement, buy-out values"
+short_title: Muster On-site-PPA
+doc_type: contract_template
+jurisdiction: CH
+issuer: "Open Energy Archive"
+reference: "OEA-CH-PPA-ONSITE v0.9"
+version: "0.9"
+date: 2026-10-15
+status: draft
+status_note: "Entwurf zur Diskussion, nicht fachlich geprüft – Rückmeldungen aus der Praxis erwünscht (offene Fragen am Schluss des Musters). Muster, keine Rechtsberatung. Gestützt auf Art. 16 EnG (Veräusserung zum Verbrauch am Ort der Produktion), Art. 14 EnV, Art. 15 EnG, die Bestimmungen zu Herkunftsnachweisen sowie Sachen- und Dienstbarkeitsrecht des ZGB; Nummerierung der EnV seit 2025 zu prüfen."
+status_note_en: "Draft for discussion, not reviewed by an expert – feedback from practice welcome (open questions at the end of the template). Template, not legal advice. Based on Art. 16 EnG (sale for consumption at the place of production), Art. 14 EnV, Art. 15 EnG, the rules on guarantees of origin and the property and easement law of the Civil Code; EnV numbering since 2025 to be checked."
+languages: [de]
+topics: [ppa, solar, self_consumption, tariffs]
+summary_de: "Vertragsmuster für ein On-site-PPA: Eine Produzentin baut, finanziert und betreibt eine Photovoltaikanlage auf dem Gebäude eines Unternehmens und verkauft ihm den Strom zum Verbrauch vor Ort, ohne Nutzung des Verteilnetzes (pay as produced). Drei Preismodelle zur Wahl: Fixpreis, indexierter Preis (Landesindex oder feste Steigerung) und Rabatt auf den Netzpreis mit Floor und Cap, je mit Berechnungsbeispielen. Geregelt sind ausserdem Bedingungen, Bau und Inbetriebnahme, Messung, Herkunftsnachweise, Betrieb und Abschaltungen, Dachnutzung und Dachsanierung, Eigentum an der Anlage mit Eckpunkten für die Dienstbarkeit, Kaufoption und Übernahmewerte, Eigentümerwechsel, Rückbau und Finanzierung."
+summary_en: "Model agreement for an on-site PPA: a producer builds, finances and operates a solar PV plant on a company's building and sells it the electricity for consumption on site, without using the distribution grid (pay as produced). Three pricing models to choose from: fixed price, indexed price (consumer price index or fixed escalation) and a discount on the grid price with floor and cap, each with worked examples. It also covers conditions precedent, construction and commissioning, metering, guarantees of origin, operation and curtailment, use of the roof and roof renovation, ownership of the plant with key terms of the easement, purchase option and buy-out values, change of building ownership, decommissioning and financing. Available in German only."
+source_url: "https://github.com/open-energy-archive/open-energy-archive.github.io/blob/main/content/mustervertraege/ch-ppa-onsite/mustervertrag-ppa-onsite.md"
+content: content/mustervertraege/ch-ppa-onsite/mustervertrag-ppa-onsite.md
+downloads:
+  - label: "Word-Vorlage (.docx)"
+    path: content/mustervertraege/ch-ppa-onsite/mustervertrag-ppa-onsite.docx
+rights:
+  status: open_license
+  license: CC-BY-4.0
+  basis: "Eigenes Werk des Projekts"
+  mirror_allowed: true
+related: [ch-sr-730-0-eng, ch-sr-730-01-env, ch-sr-730-03-enfv, ch-bfe-leitfaden-eigenverbrauch-v3, ch-oea-muster-zev-miete, ch-oea-muster-leg-verein]
+added: 2026-10-15
+last_checked: 2026-10-15
+contributors: [bernhard-weber]

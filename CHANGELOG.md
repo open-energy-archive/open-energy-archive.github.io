@@ -2,13 +2,18 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.29.0] – 2026-10-15
+
+### Neu
+- Mustervertrag On-site-PPA für eine Photovoltaikanlage (Entwurf 0.9 zur Diskussion, nicht fachlich geprüft): Stromliefervertrag (pay as produced), technisches Anlageblatt, Preisblatt mit drei Preismodellen (Fixpreis, indexierter Preis, Rabatt auf den Netzpreis mit Floor und Cap) und Berechnungsbeispielen, Eckpunkte der Dienstbarkeit, Übernahmewerte; Word-Vorlage. Schweiz jetzt 162 Einträge, davon 3 eigene Musterverträge
+
+### Korrigiert
+- VESE-Kurzstudie: Titel lautet neu «VESE-Kurzstudie – PV-Zubau 2.0: Innovative Lösungen für nachhaltige PV-Investitionssicherheit»; der Kurztitel wurde bisher zusätzlich vorangestellt und entfällt
+
 ## [0.28.0] – 2026-10-13
 
 ### Neu
 - VESE-Kurzstudie «PV-Zubau 2.0» (Version 02, 28.1.2026), aufgenommen mit Zustimmung von VESE als Direktlink auf die Originaldatei.
-
-### Geändert
-- Einleitung auf der Startseite und «Über OEA» (DE/EN) nennen neu auch Studien, einschliesslich Studien von Verbänden und Forschungseinrichtungen.
 
 ## [0.27.0] – 2026-10-08
 

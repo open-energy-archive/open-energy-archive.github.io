@@ -12,8 +12,9 @@
 - [x] Kantonale Energiegesetze: alle Kantone mit eigenem Energiegesetz (25; OW regelt Energie im Baugesetz)
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
 - [x] Mustervertrag ZEV in Mietverhältnissen (Entwurf 0.9 zur Diskussion, Pauschale 80 %)
-- [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG- und ZEV-Muster prüfen lassen; Rückmeldungen zum ZEV-Entwurf einarbeiten (Version 1.0)
-- [ ] Weitere Musterverträge: vZEV, ZEV unter Grundeigentümern, PPA, LEG als Teilnahmevertrag mit Betreiberin
+- [x] Mustervertrag On-site-PPA (Entwurf 0.9 zur Diskussion, drei Preismodelle)
+- [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-, ZEV- und PPA-Muster prüfen lassen; Rückmeldungen zu den Entwürfen einarbeiten (Version 1.0)
+- [ ] Weitere Musterverträge: vZEV, ZEV unter Grundeigentümern, Off-site-PPA, LEG als Teilnahmevertrag mit Betreiberin
 - [ ] Französische und italienische Metadaten
 
 ## Phase 2 – DACH

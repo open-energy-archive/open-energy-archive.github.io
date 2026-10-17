@@ -1,0 +1,35 @@
+id: eu-eugh-c-848-19-p
+title: EuGH, Urteil vom 15. Juli 2021, C-848/19 P (Deutschland/Polen) – Grundsatz der Energiesolidarität (OPAL-Gasleitung)
+title_en: CJEU, judgment of 15 July 2021, C-848/19 P (Germany v Poland) – principle of energy solidarity (OPAL pipeline)
+doc_type: judgment
+jurisdiction: EU
+issuer: Gerichtshof der Europäischen Union
+reference: C-848/19 P
+date: 2021-07-15
+status: final
+status_note: Rechtsmittel Deutschlands gegen das Urteil des Gerichts vom 10.9.2019 (T-883/16) zurückgewiesen; der Beschluss der Kommission zur Ausnahme der OPAL-Leitung bleibt nichtig.
+status_note_en: Germany’s appeal against the General Court judgment of 10 September 2019 (T-883/16) dismissed; the Commission decision exempting the OPAL pipeline remains annulled.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- supply_security
+- cross_border
+- grid
+summary_de: Der Gerichtshof bestätigte, dass der Grundsatz der Energiesolidarität nach Art. 194 Abs. 1 AEUV ein rechtsverbindlicher Grundsatz ist, der Rechte und Pflichten für die Union und die Mitgliedstaaten begründet. Die Kommission muss bei Entscheidungen der Energiepolitik die Interessen aller betroffenen Mitgliedstaaten an der Versorgungssicherheit prüfen und abwägen. Das Urteil betrifft die Gasversorgung, ist aber für die Energiepolitik insgesamt von Bedeutung.
+summary_en: The Court confirmed that the principle of energy solidarity under Article 194(1) TFEU is a legally binding principle that entails rights and obligations for the Union and the Member States. The Commission must examine and weigh the security-of-supply interests of all Member States concerned when taking energy policy decisions. The ruling concerns gas supply but matters for energy policy as a whole.
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62019CJ0848
+alternate_urls:
+- label: Rechtssache auf curia.europa.eu
+  url: https://curia.europa.eu/juris/liste.jsf?num=C-848/19&language=DE
+rights:
+  status: official_work
+  basis: Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäss den Nutzungsbedingungen von curia.europa.eu
+  mirror_allowed: false
+related:
+- eu-vo-2019-943
+- eu-eugh-c-718-18
+added: 2026-10-15
+last_checked: 2026-10-15

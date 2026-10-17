@@ -1,0 +1,33 @@
+id: eu-vo-2015-1222
+title: Verordnung (EU) 2015/1222 zur Festlegung einer Leitlinie für die Kapazitätsvergabe und das Engpassmanagement (CACM)
+title_en: Regulation (EU) 2015/1222 establishing a guideline on capacity allocation and congestion management (CACM)
+short_title: CACM-Leitlinie
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: Europäische Kommission
+reference: Verordnung (EU) 2015/1222, CELEX 32015R1222
+date: 2015-07-24
+status: in_force
+status_note: In Kraft seit 14.8.2015; mehrfach geändert, u. a. durch die Durchführungsverordnung (EU) 2021/280. Massgebend ist die konsolidierte Fassung auf EUR-Lex. Für die Schweiz nicht anwendbar; die Schweiz ist von der Marktkopplung ausgeschlossen.
+status_note_en: In force since 14 August 2015; amended several times, including by Implementing Regulation (EU) 2021/280. The consolidated version on EUR-Lex is authoritative. Not applicable in Switzerland, which is excluded from market coupling.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- market
+- cross_border
+- grid
+summary_de: 'Die Leitlinie regelt die einheitliche Day-Ahead- und Intraday-Marktkopplung in der EU: Festlegung der Gebotszonen, Berechnung grenzüberschreitender Übertragungskapazitäten (u. a. lastflussbasiertes Verfahren), die Rolle der nominierten Strommarktbetreiber (NEMO) und der Marktkopplungsbetreiber sowie die Aufteilung der Engpasserlöse.'
+summary_en: 'The guideline governs single day-ahead and intraday market coupling in the EU: bidding zone configuration, calculation of cross-border transmission capacity (including the flow-based approach), the role of nominated electricity market operators (NEMOs) and market coupling operators, and the sharing of congestion income.'
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015R1222
+rights:
+  status: official_work
+  basis: Rechtsakt bzw. Dokument der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex
+  mirror_allowed: true
+related:
+- eu-vo-2019-943
+- eu-vo-2017-2195
+added: 2026-10-15
+last_checked: 2026-10-15

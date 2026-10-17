@@ -2,6 +2,14 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.31.0] – 2026-10-15
+
+### Neu
+- EU, jetzt 21 Einträge – 10 weitere Dokumente:
+  - EuGH: PreussenElektra (C-379/98), Vent De Colère (C-262/12), Ålands Vindkraft (C-573/12), EEG 2012 (C-405/16 P), Hinkley Point C (C-594/18 P), Energiesolidarität/OPAL (C-848/19 P)
+  - Netzkodizes: CACM-Leitlinie (VO 2015/1222), Leitlinie Systemausgleich (VO 2017/2195), Netzanschlussbestimmungen für Stromerzeuger (VO 2016/631, mit Hinweis auf die laufende Neufassung RfG 2.0)
+  - Leitlinien für staatliche Klima-, Umweltschutz- und Energiebeihilfen 2022 (KUEBLL)
+
 ## [0.30.1] – 2026-10-15
 
 ### Geändert

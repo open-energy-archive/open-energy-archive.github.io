@@ -1,0 +1,39 @@
+id: eu-kueebll-2022
+title: Leitlinien für staatliche Klima-, Umweltschutz- und Energiebeihilfen 2022 (KUEBLL)
+title_en: Guidelines on State aid for climate, environmental protection and energy 2022 (CEEAG)
+short_title: KUEBLL / CEEAG
+doc_type: guideline
+jurisdiction: EU
+issuer: Europäische Kommission
+reference: Mitteilung der Kommission 2022/C 80/01, ABl. C 80 vom 18.2.2022
+date: 2022-01-27
+status: in_force
+status_note: Anwendbar seit 27.1.2022; ersetzen die Umwelt- und Energiebeihilfeleitlinien 2014–2020. Ergänzend gilt seit 2025 der Beihilferahmen für den Clean Industrial Deal (CISAF). Spätere Änderungen nicht im Detail geprüft. Für die Schweiz nicht anwendbar.
+status_note_en: Applicable since 27 January 2022; replace the 2014–2020 environmental and energy aid guidelines. Since 2025 the Clean Industrial Deal State Aid Framework (CISAF) applies in addition. Later amendments not checked in detail. Not applicable in Switzerland.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- subsidies
+- renewables
+- energy_efficiency
+- heat
+- hydrogen
+- grid
+- supply_security
+summary_de: Die Leitlinien legen fest, unter welchen Voraussetzungen die Kommission Beihilfen für Klima-, Umwelt- und Energieziele als mit dem Binnenmarkt vereinbar genehmigt. Sie decken unter anderem die Förderung erneuerbarer Energien und Wasserstoff, Energieeffizienz, saubere Mobilität, Infrastruktur, Versorgungssicherheit (Kapazitätsmechanismen), Fernwärme sowie Entlastungen energieintensiver Unternehmen von Abgaben ab. Grundsätzlich verlangen sie wettbewerbliche Ausschreibungen und, bei Betriebsbeihilfen, zunehmend zweiseitige Differenzverträge.
+summary_en: The guidelines set out the conditions under which the Commission approves aid for climate, environmental and energy objectives as compatible with the internal market. They cover, among others, support for renewables and hydrogen, energy efficiency, clean mobility, infrastructure, security of supply (capacity mechanisms), district heating and levy reductions for energy-intensive users. As a rule they require competitive bidding and, for operating aid, increasingly two-way contracts for difference.
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:52022XC0218(03)
+rights:
+  status: official_work
+  basis: Rechtsakt bzw. Dokument der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex
+  mirror_allowed: true
+related:
+- eu-eugh-c-594-18-p
+- eu-eugh-c-262-12
+- eu-vo-2024-1747
+- eu-rl-2018-2001
+added: 2026-10-15
+last_checked: 2026-10-15

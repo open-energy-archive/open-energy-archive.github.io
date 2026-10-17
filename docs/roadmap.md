@@ -30,7 +30,8 @@
 
 ## Phase 3 – EU und englischsprachiger Raum
 - [x] EU, erste Tranche: RL 2019/944, VO 2019/943, RED II/III, Strommarktdesign-Reform (RL 2024/1711, VO 2024/1747), REMIT, EED, EPBD; EuGH C-293/23, C-718/18
-- [ ] EU, weitere: ACER-Verordnung (EU) 2019/942, Gas- und Wasserstoffpaket (RL 2024/1788, VO 2024/1789), Netzkodizes, ACER-Entscheide, weitere EuGH-Urteile
+- [x] EU, zweite Tranche: Netzkodizes CACM (2015/1222), Systemausgleich (2017/2195), RfG (2016/631); KUEBLL 2022; EuGH C-379/98, C-262/12, C-573/12, C-405/16 P, C-594/18 P, C-848/19 P
+- [ ] EU, weitere: ACER-Verordnung (EU) 2019/942, Gas- und Wasserstoffpaket (RL 2024/1788, VO 2024/1789), NC RfG 2.0 nach Annahme, weitere Netzkodizes (DCC, SO GL), ACER-Entscheide, Beihilfebeschlüsse der Kommission
 - [ ] UK, Irland; Metadaten auf Englisch
 
 ## Phase 4 – Weltweit

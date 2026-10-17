@@ -1,0 +1,34 @@
+id: eu-vo-2017-2195
+title: Verordnung (EU) 2017/2195 zur Festlegung einer Leitlinie über den Systemausgleich im Elektrizitätsversorgungssystem (EB GL)
+title_en: Regulation (EU) 2017/2195 establishing a guideline on electricity balancing (EB GL)
+short_title: Leitlinie Systemausgleich
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: Europäische Kommission
+reference: Verordnung (EU) 2017/2195, CELEX 32017R2195
+date: 2017-11-23
+status: in_force
+status_note: In Kraft seit 18.12.2017; spätere Änderungen nicht im Detail geprüft. Massgebend ist die konsolidierte Fassung auf EUR-Lex. Für die Schweiz nicht unmittelbar anwendbar; ihre Teilnahme an den europäischen Regelenergieplattformen hängt vom Verhältnis zur EU ab.
+status_note_en: In force since 18 December 2017; later amendments not checked. The consolidated version on EUR-Lex is authoritative. Not directly applicable in Switzerland; its participation in the European balancing platforms depends on its relations with the EU.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- market
+- cross_border
+- supply_security
+- storage
+summary_de: 'Die Leitlinie regelt den Regelenergiemarkt: Standardprodukte für Regelleistung, die europäischen Plattformen für Ersatzreserve (TERRE), Sekundärregelleistung mit automatischer Aktivierung (PICASSO), manuelle Aktivierung (MARI) und Netting von Ungleichgewichten (IGCC), die Bilanzkreisabrechnung mit einheitlicher Abrechnungsperiode von 15 Minuten sowie die Bedingungen für Regelreserveanbieter und Bilanzverantwortliche.'
+summary_en: 'The guideline governs the balancing market: standard balancing products, the European platforms for replacement reserves (TERRE), automatic frequency restoration reserves (PICASSO), manual activation (MARI) and imbalance netting (IGCC), imbalance settlement with a harmonised 15-minute settlement period, and terms for balancing service providers and balance responsible parties.'
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R2195
+rights:
+  status: official_work
+  basis: Rechtsakt bzw. Dokument der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex
+  mirror_allowed: true
+related:
+- eu-vo-2019-943
+- eu-vo-2015-1222
+added: 2026-10-15
+last_checked: 2026-10-15

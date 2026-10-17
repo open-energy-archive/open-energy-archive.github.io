@@ -1,0 +1,36 @@
+id: eu-eugh-c-262-12
+title: EuGH, Urteil vom 19. Dezember 2013, C-262/12 (Vent De Colère u. a.) – über eine Abgabe finanzierte Einspeisevergütung als staatliche Beihilfe
+title_en: CJEU, judgment of 19 December 2013, C-262/12 (Vent De Colère and Others) – feed-in tariff financed by a levy as State aid
+doc_type: judgment
+jurisdiction: EU
+issuer: Gerichtshof der Europäischen Union
+reference: C-262/12
+date: 2013-12-19
+status: final
+status_note: Vorabentscheidung auf Vorlage des französischen Conseil d’État zur Förderung der Windenergie in Frankreich.
+status_note_en: Preliminary ruling on a reference from the French Conseil d’État on support for wind energy in France.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- renewables
+- wind
+- subsidies
+summary_de: Der Gerichtshof entschied, dass ein Mechanismus zum Ausgleich der Mehrkosten aus der Abnahmepflicht für Windstrom zu Preisen über dem Marktpreis, der durch eine von allen Endverbrauchern erhobene, staatlich festgelegte Abgabe finanziert wird, mit staatlichen Mitteln erfolgt. Solche Mittel bleiben unter staatlicher Kontrolle, auch wenn sie über eine öffentliche Einrichtung verwaltet werden; der Mechanismus fällt deshalb unter den Begriff der staatlichen Beihilfe.
+summary_en: The Court held that a mechanism compensating the additional costs of an obligation to purchase wind power above market price, financed by a State-set levy on all final consumers, involves State resources. Such funds remain under State control even if administered by a public body, so the mechanism constitutes State aid.
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62012CJ0262
+alternate_urls:
+- label: Rechtssache auf curia.europa.eu
+  url: https://curia.europa.eu/juris/liste.jsf?num=C-262/12&language=DE
+rights:
+  status: official_work
+  basis: Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäss den Nutzungsbedingungen von curia.europa.eu
+  mirror_allowed: false
+related:
+- eu-eugh-c-379-98
+- eu-eugh-c-405-16-p
+- eu-kueebll-2022
+added: 2026-10-15
+last_checked: 2026-10-15

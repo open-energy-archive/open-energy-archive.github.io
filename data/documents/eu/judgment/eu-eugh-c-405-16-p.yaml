@@ -1,0 +1,37 @@
+id: eu-eugh-c-405-16-p
+title: EuGH, Urteil vom 28. März 2019, C-405/16 P (Deutschland/Kommission) – EEG 2012 ist keine staatliche Beihilfe
+title_en: CJEU, judgment of 28 March 2019, C-405/16 P (Germany v Commission) – German Renewable Energy Sources Act 2012 is not State aid
+doc_type: judgment
+jurisdiction: EU
+issuer: Gerichtshof der Europäischen Union
+reference: C-405/16 P
+date: 2019-03-28
+status: final
+status_note: Rechtsmittelurteil; hebt das Urteil des Gerichts vom 10.5.2016 (T-47/15) und den Beschluss der Kommission vom 25.11.2014 zum EEG 2012 teilweise auf.
+status_note_en: Judgment on appeal; sets aside the General Court judgment of 10 May 2016 (T-47/15) and, in part, the Commission decision of 25 November 2014 on the EEG 2012.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- renewables
+- subsidies
+- tariffs
+summary_de: 'Der Gerichtshof entschied, dass die Förderung nach dem Erneuerbare-Energien-Gesetz 2012 und die Begrenzung der EEG-Umlage für stromintensive Unternehmen keine staatlichen Beihilfen sind. Die über die EEG-Umlage aufgebrachten Mittel sind keine staatlichen Mittel: Das Gesetz verpflichtete die Versorger nicht, die Umlage an die Endverbraucher weiterzugeben, und der Staat verfügte nicht über die Gelder. Das Urteil hat die Ausgestaltung späterer Fördersysteme stark beeinflusst.'
+summary_en: 'The Court held that support under the German Renewable Energy Sources Act 2012 and the capping of the EEG surcharge for energy-intensive companies are not State aid. The funds raised through the EEG surcharge are not State resources: the act did not oblige suppliers to pass the surcharge on to final consumers, and the State did not have control over the money. The ruling strongly influenced the design of later support schemes.'
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62016CJ0405
+alternate_urls:
+- label: Rechtssache auf curia.europa.eu
+  url: https://curia.europa.eu/juris/liste.jsf?num=C-405/16&language=DE
+rights:
+  status: official_work
+  basis: Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäss den Nutzungsbedingungen von curia.europa.eu
+  mirror_allowed: false
+related:
+- eu-eugh-c-379-98
+- eu-eugh-c-262-12
+- de-eeg-2023
+- de-enfg
+added: 2026-10-15
+last_checked: 2026-10-15

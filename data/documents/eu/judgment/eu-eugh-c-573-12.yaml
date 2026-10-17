@@ -1,0 +1,36 @@
+id: eu-eugh-c-573-12
+title: EuGH, Urteil vom 1. Juli 2014, C-573/12 (Ålands Vindkraft) – Förderung nur für inländische Anlagen mit dem freien Warenverkehr vereinbar
+title_en: CJEU, judgment of 1 July 2014, C-573/12 (Ålands Vindkraft) – support limited to domestic installations compatible with free movement of goods
+doc_type: judgment
+jurisdiction: EU
+issuer: Gerichtshof der Europäischen Union
+reference: C-573/12
+date: 2014-07-01
+status: final
+status_note: Grosse Kammer; Vorabentscheidung auf Vorlage des schwedischen Förvaltningsrätten i Linköping zum schwedischen Zertifikatesystem.
+status_note_en: Grand Chamber; preliminary ruling on a reference from the Administrative Court of Linköping on the Swedish green certificate scheme.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- renewables
+- wind
+- subsidies
+- cross_border
+summary_de: Der Gerichtshof entschied, dass die Erneuerbare-Energien-Richtlinie 2009/28/EG es den Mitgliedstaaten erlaubt, ihre Fördersysteme auf Anlagen im eigenen Hoheitsgebiet zu beschränken. Die damit verbundene Beschränkung des freien Warenverkehrs ist durch das Ziel gerechtfertigt, die Nutzung erneuerbarer Energien zu fördern, und verhältnismässig. Das Urteil ist bis heute massgebend für die Frage, ob Mitgliedstaaten ihre Förderung für ausländische Anlagen öffnen müssen.
+summary_en: The Court held that the Renewable Energy Directive 2009/28/EC allows Member States to limit their support schemes to installations on their own territory. The resulting restriction of the free movement of goods is justified by the aim of promoting renewable energy and is proportionate. The ruling remains decisive on whether Member States must open their support to installations abroad.
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62012CJ0573
+alternate_urls:
+- label: Rechtssache auf curia.europa.eu
+  url: https://curia.europa.eu/juris/liste.jsf?num=C-573/12&language=DE
+rights:
+  status: official_work
+  basis: Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäss den Nutzungsbedingungen von curia.europa.eu
+  mirror_allowed: false
+related:
+- eu-eugh-c-379-98
+- eu-rl-2018-2001
+added: 2026-10-15
+last_checked: 2026-10-15

@@ -1,0 +1,37 @@
+id: eu-eugh-c-379-98
+title: EuGH, Urteil vom 13. März 2001, C-379/98 (PreussenElektra) – Abnahme- und Vergütungspflicht für Strom aus erneuerbaren Energien ist keine staatliche Beihilfe
+title_en: CJEU, judgment of 13 March 2001, C-379/98 (PreussenElektra) – obligation to purchase and pay for renewable electricity is not State aid
+doc_type: judgment
+jurisdiction: EU
+issuer: Gerichtshof der Europäischen Union
+reference: C-379/98
+date: 2001-03-13
+status: final
+status_note: Vorabentscheidung auf Vorlage des Landgerichts Kiel zum deutschen Stromeinspeisungsgesetz. Grundlegendes Urteil zum Beihilfebegriff bei Fördersystemen, später durch C-405/16 P bestätigt und präzisiert.
+status_note_en: Preliminary ruling on a reference from the Regional Court of Kiel on the German Electricity Feed-in Act. Landmark ruling on the notion of State aid in support schemes, later confirmed and refined in C-405/16 P.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- renewables
+- subsidies
+- cross_border
+summary_de: Der Gerichtshof entschied, dass die gesetzliche Pflicht privater Elektrizitätsversorger, Strom aus erneuerbaren Energien zu Mindestpreisen abzunehmen, keine staatliche Beihilfe ist, weil keine staatlichen Mittel unmittelbar oder mittelbar übertragen werden. Die Regelung beschränkt zwar den freien Warenverkehr, ist aber nach damaligem Stand des Gemeinschaftsrechts aus Gründen des Umweltschutzes gerechtfertigt.
+summary_en: The Court held that a statutory obligation on private electricity suppliers to purchase renewable electricity at minimum prices is not State aid, because no State resources are transferred directly or indirectly. Although the scheme restricts the free movement of goods, it was justified on environmental grounds in the state of Community law at that time.
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:61998CJ0379
+alternate_urls:
+- label: Rechtssache auf curia.europa.eu
+  url: https://curia.europa.eu/juris/liste.jsf?num=C-379/98&language=DE
+rights:
+  status: official_work
+  basis: Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäss den Nutzungsbedingungen von curia.europa.eu
+  mirror_allowed: false
+related:
+- eu-eugh-c-405-16-p
+- eu-eugh-c-573-12
+- de-eeg-2023
+- eu-rl-2018-2001
+added: 2026-10-15
+last_checked: 2026-10-15

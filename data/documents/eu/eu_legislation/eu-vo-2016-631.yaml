@@ -1,0 +1,35 @@
+id: eu-vo-2016-631
+title: Verordnung (EU) 2016/631 zur Festlegung eines Netzkodex mit Netzanschlussbestimmungen für Stromerzeuger (NC RfG)
+title_en: Regulation (EU) 2016/631 establishing a network code on requirements for grid connection of generators (NC RfG)
+short_title: NC RfG
+doc_type: eu_legislation
+jurisdiction: EU
+issuer: Europäische Kommission
+reference: Verordnung (EU) 2016/631, CELEX 32016R0631
+date: 2016-04-14
+status: in_force
+status_note: In Kraft seit 17.5.2016, anwendbar seit 27.4.2019. Eine Neufassung (NC RfG 2.0) als delegierte Verordnung, die die Verordnung 2016/631 ersetzen soll, hat die Kommission am 8.7.2026 zur Konsultation gestellt (Frist 25.8.2026); die Annahme ist für Ende 2026 oder Anfang 2027 geplant.
+status_note_en: In force since 17 May 2016, applicable since 27 April 2019. A recast (NC RfG 2.0) as a delegated regulation to replace Regulation 2016/631 was put to consultation by the Commission on 8 July 2026 (deadline 25 August 2026); adoption is planned for late 2026 or early 2027.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- grid
+- renewables
+- solar
+- wind
+- storage
+summary_de: Der Netzkodex legt die technischen Anforderungen fest, die neue Stromerzeugungsanlagen für den Anschluss an das Netz erfüllen müssen. Er unterteilt die Anlagen nach Leistung und Spannungsebene in die Typen A bis D und regelt unter anderem Frequenz- und Spannungsverhalten, Durchfahren von Netzfehlern (Fault Ride Through), Blindleistung, Schutz, Informationsaustausch und den Konformitätsnachweis. Die Mitgliedstaaten konkretisieren die nicht abschliessend geregelten Anforderungen national, in Deutschland etwa über die VDE-Anwendungsregeln.
+summary_en: The network code sets the technical requirements new power generating modules must meet to connect to the grid. It classifies modules by capacity and voltage level into types A to D and governs, among other things, frequency and voltage behaviour, fault ride through, reactive power, protection, information exchange and compliance verification. Member States specify the non-exhaustive requirements nationally, in Germany for instance through the VDE application rules.
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0631
+rights:
+  status: official_work
+  basis: Rechtsakt bzw. Dokument der EU; Weiterverwendung gemäss Beschluss 2011/833/EU und den Nutzungsbedingungen von EUR-Lex
+  mirror_allowed: true
+related:
+- eu-vo-2019-943
+- eu-rl-2019-944
+added: 2026-10-15
+last_checked: 2026-10-15

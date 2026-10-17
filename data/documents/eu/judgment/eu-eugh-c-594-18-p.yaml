@@ -1,0 +1,35 @@
+id: eu-eugh-c-594-18-p
+title: EuGH, Urteil vom 22. September 2020, C-594/18 P (Österreich/Kommission) – Beihilfe für das Kernkraftwerk Hinkley Point C
+title_en: CJEU, judgment of 22 September 2020, C-594/18 P (Austria v Commission) – State aid for the Hinkley Point C nuclear power station
+doc_type: judgment
+jurisdiction: EU
+issuer: Gerichtshof der Europäischen Union
+reference: C-594/18 P
+date: 2020-09-22
+status: final
+status_note: Grosse Kammer; Rechtsmittel Österreichs gegen das Urteil des Gerichts vom 12.7.2018 (T-356/15) zurückgewiesen. Der Genehmigungsbeschluss der Kommission vom 8.10.2014 bleibt bestehen.
+status_note_en: Grand Chamber; Austria’s appeal against the General Court judgment of 12 July 2018 (T-356/15) dismissed. The Commission’s approval decision of 8 October 2014 stands.
+languages:
+- de
+- en
+- fr
+- it
+topics:
+- subsidies
+- supply_security
+- market
+summary_de: Der Gerichtshof bestätigte die Genehmigung der britischen Beihilfen für den Bau des Kernkraftwerks Hinkley Point C (Differenzvertrag, Kreditgarantie, Entschädigung bei vorzeitiger Abschaltung). Eine Beihilfe nach Art. 107 Abs. 3 Bst. c AEUV muss kein gemeinsames Interesse aller Mitgliedstaaten verfolgen; es genügt, dass sie die Entwicklung eines Wirtschaftszweigs fördert und den Handel nicht übermässig beeinträchtigt. Der Umweltschutz ist bei der Prüfung zu berücksichtigen. Das Urteil ist wichtig für die beihilferechtliche Beurteilung von Differenzverträgen.
+summary_en: The Court upheld approval of UK aid for building the Hinkley Point C nuclear power station (contract for difference, credit guarantee, compensation for early shutdown). Aid under Article 107(3)(c) TFEU need not pursue an interest common to all Member States; it suffices that it facilitates the development of an economic activity without adversely affecting trade to an excessive extent. Environmental protection must be taken into account. The ruling is important for the State aid assessment of contracts for difference.
+source_url: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62018CJ0594
+alternate_urls:
+- label: Rechtssache auf curia.europa.eu
+  url: https://curia.europa.eu/juris/liste.jsf?num=C-594/18&language=DE
+rights:
+  status: official_work
+  basis: Entscheidung eines Unionsgerichts; Weiterverwendung mit Quellenangabe gemäss den Nutzungsbedingungen von curia.europa.eu
+  mirror_allowed: false
+related:
+- eu-kueebll-2022
+- eu-vo-2024-1747
+added: 2026-10-15
+last_checked: 2026-10-15

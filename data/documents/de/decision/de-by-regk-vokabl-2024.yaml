@@ -1,0 +1,38 @@
+id: de-by-regk-vokabl-2024
+title: Regulierungskammer des Freistaates Bayern, Beschluss vom 11. Dezember 2024, GR-5932a-15/3/4 – Blindleistungskosten als volatile Kostenanteile in der vierten Regulierungsperiode («VoKaBl Bayern»)
+title_en: Regulatory Chamber of Bavaria, decision of 11 December 2024, GR-5932a-15/3/4 – reactive power costs as volatile cost shares in the fourth regulatory period ("VoKaBl Bayern")
+short_title: VoKaBl Bayern
+doc_type: decision
+jurisdiction: DE
+subdivision: DE-BY
+issuer: Regulierungskammer des Freistaates Bayern (Landesregulierungsbehörde)
+reference: GR-5932a-15/3/4; BayMBl. 2024 Nr. 662
+date: 2024-12-11
+status: in_force
+status_note: Öffentlich bekannt gemacht am 18.12.2024 (BayMBl. 2024 Nr. 662); gilt ab 1.1.2025 und ist bis 31.12.2028 befristet. Beschwerde zum OLG München möglich; ob Beschwerden eingelegt wurden, ist nicht geprüft.
+status_note_en: Published on 18 December 2024 (Bavarian Ministerial Gazette 2024 No. 662); applies from 1 January 2025 and expires on 31 December 2028. Appeal lies to the Munich Higher Regional Court; whether appeals were lodged was not checked.
+languages:
+- de
+topics:
+- grid
+- tariffs
+- market
+summary_de: Die bayerische Landesregulierungsbehörde legt fest, dass Kosten der Verteilernetzbetreiber mit Hochspannungsnetz aus der marktgestützten Beschaffung von Blindleistung (Dienstleistungen zur Spannungsregelung nach der Festlegung BK6-23-072 der Bundesnetzagentur) ab 2025 als volatile Kostenanteile gelten. Die Erlösobergrenzen werden jährlich auf Basis sachgerecht prognostizierter Kosten angepasst; Abweichungen zu den Ist-Kosten werden über das Regulierungskonto ausgeglichen, bei Preisobergrenzen nur bis zu deren Höhe. Übergangsweise gilt dies auch für noch nicht kündbare Bestandsverträge mit Anlagenbetreibern.
+summary_en: The Bavarian state regulatory authority determines that costs incurred by distribution system operators with a high-voltage grid from the market-based procurement of reactive power (voltage control services under Federal Network Agency determination BK6-23-072) count as volatile cost shares from 2025. Revenue caps are adjusted annually on the basis of properly forecast costs; differences from actual costs are balanced via the regulatory account, where price caps apply only up to their level. On a transitional basis this also covers existing contracts with plant operators that cannot yet be terminated.
+source_url: https://www.verkuendung-bayern.de/baymbl/2024-662/
+alternate_urls:
+- label: Amtliche elektronische Ausgabe (PDF)
+  url: https://www.verkuendung-bayern.de/files/baymbl/2024/662/baymbl-2024-662.pdf
+- label: Veröffentlichungen der Regulierungskammer Bayern
+  url: https://www.regulierungskammer-bayern.de/veroeffentlichungen/
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-ni-regk-blindleistung-2025
+- de-nw-regk-verlustenergie-2024
+- de-aregv
+- de-enwg
+added: 2026-10-15
+last_checked: 2026-10-15

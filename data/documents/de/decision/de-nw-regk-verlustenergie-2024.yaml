@@ -1,0 +1,36 @@
+id: de-nw-regk-verlustenergie-2024
+title: Regulierungskammer Nordrhein-Westfalen, Festlegung vom 26. März 2024 – Verlustenergiekosten als volatile Kostenanteile in der vierten Regulierungsperiode
+title_en: Regulatory Chamber of North Rhine-Westphalia, determination of 26 March 2024 – costs of grid losses as volatile cost shares in the fourth regulatory period
+short_title: Festlegung Verlustenergie NRW
+doc_type: decision
+jurisdiction: DE
+subdivision: DE-NW
+issuer: Regulierungskammer Nordrhein-Westfalen (Landesregulierungsbehörde)
+reference: 627 – 83.26.04 (Strom); MBl. NRW. 2024 S. 473
+date: 2024-03-26
+status: in_force
+status_note: Bekannt gemacht im Ministerialblatt NRW vom 9.4.2024; gilt für die vierte Regulierungsperiode (ab 1.1.2024) und ist bis 31.12.2028 befristet. Angelehnt an die entsprechende Festlegung der Bundesnetzagentur.
+status_note_en: Published in the NRW Ministerial Gazette of 9 April 2024; applies to the fourth regulatory period (from 1 January 2024) and expires on 31 December 2028. Modelled on the corresponding Federal Network Agency determination.
+languages:
+- de
+topics:
+- grid
+- tariffs
+- market
+summary_de: Die nordrhein-westfälische Landesregulierungsbehörde legt fest, dass die Kosten der Verteilernetzbetreiber für die Beschaffung von Verlustenergie als volatile Kostenanteile jährlich in den Erlösobergrenzen berücksichtigt werden. Der ansatzfähige Wert ergibt sich aus einem Referenzpreis (53 % Baseload- und 47 % Peakload-Preis der Phelix-DE-Year-Futures über zwölf Monate, mit Mindestabstand des Peakload-Preises von 22,5 %) und der im Basisjahr 2021 anerkannten Menge. Innerhalb eines Referenzbands von ±20 % tragen bzw. behalten die Netzbetreiber Abweichungen selbst, darüber hinaus erfolgt der Ausgleich über das Regulierungskonto.
+summary_en: The North Rhine-Westphalia state regulatory authority determines that distribution system operators’ costs for procuring energy to cover grid losses are reflected annually in the revenue caps as volatile cost shares. The allowable value is the product of a reference price (53% baseload and 47% peakload price of Phelix DE year futures over twelve months, with a minimum peakload spread of 22.5%) and the quantity recognised in the 2021 base year. Within a reference band of ±20% operators bear or keep deviations themselves; beyond that, differences are balanced via the regulatory account.
+source_url: https://recht.nrw.de/mblnrw/2024-s473
+alternate_urls:
+- label: PDF-Version im Ministerialblatt
+  url: https://recht.nrw.de/system/files/pdf/ministerial-journal/2024/03/26/f37a9a/festlegung-fuer-die-vierte-regulierungsperiode-zur.pdf
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-by-regk-vokabl-2024
+- de-ni-regk-blindleistung-2025
+- de-aregv
+- de-stromnev
+added: 2026-10-15
+last_checked: 2026-10-15

@@ -1,0 +1,35 @@
+id: de-ni-regk-blindleistung-2025
+title: Regulierungskammer Niedersachsen, Festlegung vom 16. September 2025 – Blindleistungskosten als volatile Kosten in der vierten Regulierungsperiode
+title_en: Regulatory Chamber of Lower Saxony, determination of 16 September 2025 – reactive power costs as volatile costs in the fourth regulatory period
+short_title: Festlegung Blindleistung Niedersachsen
+doc_type: decision
+jurisdiction: DE
+subdivision: DE-NI
+issuer: Regulierungskammer Niedersachsen (Landesregulierungsbehörde)
+reference: Nds. MBl. 2025 Nr. 452
+date: 2025-09-16
+status: in_force
+status_note: Festlegung nach § 29 Abs. 1 EnWG i. V. m. § 32 Abs. 1 Nr. 4a ARegV; öffentlich bekannt gemacht im Niedersächsischen Ministerialblatt. Einzelheiten der Befristung nicht geprüft; vergleichbare Festlegungen haben unter anderem Bayern und Baden-Württemberg erlassen.
+status_note_en: Determination under section 29(1) EnWG in conjunction with section 32(1) no. 4a ARegV; published in the Lower Saxony Ministerial Gazette. Details of the time limit not checked; comparable determinations were issued by Bavaria and Baden-Württemberg, among others.
+languages:
+- de
+topics:
+- grid
+- tariffs
+- market
+summary_de: Die niedersächsische Landesregulierungsbehörde lässt für die von ihr regulierten Elektrizitätsverteilernetzbetreiber die Kosten aus der marktgestützten Beschaffung der Systemdienstleistung «Dienstleistungen zur Spannungsregelung» (Blindleistung) in der vierten Regulierungsperiode als volatile Kosten zu. Damit können Kostenschwankungen jährlich in den Erlösobergrenzen berücksichtigt werden. Die Festlegung übernimmt für die landesregulierten Netzbetreiber das Konzept, das die Bundesnetzagentur für die von ihr regulierten Netze vorsieht.
+summary_en: The Lower Saxony state regulatory authority allows the electricity distribution system operators it regulates to treat the costs of market-based procurement of the system service "voltage control services" (reactive power) as volatile costs in the fourth regulatory period. Cost fluctuations can thus be reflected annually in the revenue caps. The determination applies to state-regulated operators the approach the Federal Network Agency provides for the grids it regulates.
+source_url: https://www.verkuendung-niedersachsen.de/ndsmbl/2025/452/
+alternate_urls:
+- label: Rundschreiben 03/2025 der Regulierungskammer Niedersachsen (PDF)
+  url: https://www.regulierung.niedersachsen.de/download/221667/Rundschreiben_3_2025.pdf
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-by-regk-vokabl-2024
+- de-nw-regk-verlustenergie-2024
+- de-aregv
+added: 2026-10-15
+last_checked: 2026-10-15

@@ -2,6 +2,13 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.32.0] – 2026-10-15
+
+### Neu
+- Deutschland, jetzt 42 Einträge – 5 Länderentscheide:
+  - Gerichte: BayVerfGH, Entscheidung vom 9.5.2016 zur 10-H-Regelung für Windenergieanlagen; OVG Mecklenburg-Vorpommern, Urteil vom 7.2.2023 (5 K 171/22 OVG) zum überragenden öffentlichen Interesse nach § 2 EEG gegenüber dem Denkmalschutz
+  - Landesregulierungsbehörden: Regulierungskammer Bayern, «VoKaBl Bayern» (Blindleistungskosten, 11.12.2024); Regulierungskammer Niedersachsen, Blindleistungskosten (16.9.2025); Regulierungskammer Nordrhein-Westfalen, Verlustenergiekosten (26.3.2024)
+
 ## [0.31.0] – 2026-10-15
 
 ### Neu

@@ -1,0 +1,37 @@
+id: de-by-bayverfgh-vf-14-vii-14
+title: BayVerfGH, Entscheidung vom 9. Mai 2016, Vf. 14-VII-14 u. a. – 10-H-Regelung für Windenergieanlagen im Wesentlichen verfassungsgemäss
+title_en: Bavarian Constitutional Court, decision of 9 May 2016, Vf. 14-VII-14 et al. – 10H distance rule for wind turbines largely constitutional
+short_title: BayVerfGH 10 H
+doc_type: judgment
+jurisdiction: DE
+subdivision: DE-BY
+issuer: Bayerischer Verfassungsgerichtshof
+reference: Vf. 14-VII-14, Vf. 3-VIII-15, Vf. 4-VIII-15
+date: 2016-05-09
+status: final
+status_note: Entscheidung über eine Popularklage und zwei Meinungsverschiedenheiten der Landtagsopposition. Die 10-H-Regelung in Art. 82 BayBO wurde 2022 gelockert (u. a. 1000 m in bestimmten Gebieten) und wird durch das Windenergieflächenbedarfsgesetz und § 249 BauGB zunehmend überlagert; die Entscheidung ist deshalb vor allem für die Grenzen landesrechtlicher Abstandsregeln von Bedeutung.
+status_note_en: Decision on a popular action and two disputes brought by the parliamentary opposition. The 10H rule in Art. 82 of the Bavarian Building Code was relaxed in 2022 (including 1,000 m in certain areas) and is increasingly overlaid by the Federal Wind Energy Area Requirements Act and section 249 of the Federal Building Code; the decision therefore matters mainly for the limits of state distance rules.
+languages:
+- de
+topics:
+- wind
+- permitting
+- renewables
+summary_de: Der Bayerische Verfassungsgerichtshof entschied, dass die sogenannte 10-H-Regelung, wonach Windenergieanlagen ihre Privilegierung im Aussenbereich nur behalten, wenn sie einen Mindestabstand vom Zehnfachen ihrer Höhe zu Wohngebäuden einhalten, im Wesentlichen mit der Bayerischen Verfassung vereinbar ist. Der Landesgesetzgeber habe den von § 249 Abs. 3 BauGB eröffneten Gestaltungsrahmen nicht überschritten; Gemeinden könnten durch Bauleitplanung geringere Abstände zulassen. Die Anträge hatten nur in einem Nebenpunkt Erfolg.
+summary_en: The Bavarian Constitutional Court held that the so-called 10H rule, under which wind turbines keep their privileged status in the outer area only if they maintain a minimum distance of ten times their height from residential buildings, is largely compatible with the Bavarian Constitution. The state legislature did not exceed the scope opened by section 249(3) of the Federal Building Code; municipalities may allow shorter distances through land-use planning. The applications succeeded only on a minor point.
+source_url: https://www.gesetze-bayern.de/Content/Document/Y-300-Z-BECKRS-B-2016-N-45749
+alternate_urls:
+- label: Pressemitteilung des BayVerfGH (PDF)
+  url: https://www.bayern.verfassungsgerichtshof.de/media/images/bayverfgh/14-vii-14u.a.-pressemitt.-entscheidung.pdf
+- label: Entscheidungsbesprechung der Fachagentur Wind und Solar (PDF)
+  url: https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Entscheidungsbesprechung/2016/5._Sitzung/FA_Wind_BayVerfGH_Entscheidung_vom_09.05.2016_-_Vf._14-VII-14_u.a..pdf
+rights:
+  status: official_work
+  basis: § 5 Abs. 1 UrhG
+  mirror_allowed: true
+related:
+- de-by-baybo-art-44a
+- de-windbg
+- de-eeg-2023
+added: 2026-10-15
+last_checked: 2026-10-15

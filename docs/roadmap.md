@@ -22,6 +22,7 @@
 - [x] Deutschland, zweite Tranche: StromNEV, StromNZV (aufgehoben), ARegV, MaStRV; BNetzA AgNes (Entwurf); Netzpaket (BT-Drs. 21/7866); EuGH C-718/18; erste Länder: KlimaG BW, Solargesetz Berlin, BayBO Art. 44a
 - [x] Deutschland: BNetzA MiSpeL-Festlegung (Speicher und Ladepunkte) mit Verfahrensgeschichte
 - [x] Deutschland, dritte Tranche: Solarpflichten HB, HH, NI, NW, SH, RP; KSG, EnEfG (mit Novelle 2026 als Entwurf), StromStG, NABEG, BBPlG
+- [x] Deutschland, Länderentscheide: BayVerfGH 10 H (2016), OVG Mecklenburg-Vorpommern zu § 2 EEG und Denkmalschutz (2023); Festlegungen der Regulierungskammern Bayern, Niedersachsen und Nordrhein-Westfalen
 - [ ] Deutschland, weitere: übrige Landesenergie- und Klimaschutzgesetze (HE, BB, MV, SN, ST, TH, SL), EnLAG; BNetzA BK8-22/010-A und weitere Festlegungen; BGH-Kartellsenat (EnVR); Clearingstelle EEG|KWKG (Rechtestatus klären)
 - [x] Österreich, erste Tranche: ElWG (Günstiger-Strom-Gesetz), ElWOG 2010 (ersetzt), EAG, EABG, SNE-V 2018
 - [ ] Österreich, weitere: E-ControlG, weitere E-Control-Verordnungen (u. a. nach ElWG), Ökostromgesetz 2012, VwGH/VfGH, Landes-Elektrizitätswirtschaftsgesetze

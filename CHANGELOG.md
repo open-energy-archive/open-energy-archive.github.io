@@ -2,6 +2,11 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.37.1] – 2026-10-23
+
+### Geändert
+- Suche auf der Startseite optisch überarbeitet: ruhigeres Suchfeld mit grünem Fokus, dezenter «Löschen»-Knopf, grüne statt gelbe Treffermarkierung, Filterspalte ohne Rahmen, lange Filterlisten mit eigener Scrollleiste, leere Filterwerte (0 Treffer) ausgeblendet.
+
 ## [0.37.0] – 2026-10-23
 
 ### Neu

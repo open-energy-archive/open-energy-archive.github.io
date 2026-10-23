@@ -292,7 +292,7 @@ function build(lang) {
 </section>
 <script>
 window.addEventListener('DOMContentLoaded', () => {
-  new PagefindUI({ element: '#search', bundlePath: '${url('pagefind/')}', showSubResults: false, showImages: false, resetStyles: false, pageSize: 10,
+  new PagefindUI({ element: '#search', bundlePath: '${url('pagefind/')}', showSubResults: false, showImages: false, showEmptyFilters: false, resetStyles: false, pageSize: 10,
     translations: { placeholder: ${JSON.stringify(t.searchPh)} } });
   const q = new URLSearchParams(location.search).get('q');
   if (q) setTimeout(() => { const i = document.querySelector('#search input'); if (i) { i.value = q; i.dispatchEvent(new Event('input')); } }, 50);

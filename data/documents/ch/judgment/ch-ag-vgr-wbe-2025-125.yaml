@@ -1,0 +1,30 @@
+id: ch-ag-vgr-wbe-2025-125
+title: 'Urteil des Verwaltungsgerichts des Kantons Aargau WBE.2025.125 vom 26. Januar 2026 – Abluft-Wärmepumpe: keine Beschwerdelegitimation des Nachbarn, energierechtliche Vorschriften nicht nachbarschützend'
+title_en: 'Aargau Administrative Court WBE.2025.125 of 26 January 2026 – exhaust-air heat pump: no standing for the neighbour, energy rules do not protect neighbours'
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-AG
+issuer: Obergericht des Kantons Aargau, Verwaltungsgericht, 3. Kammer
+reference: WBE.2025.125
+date: 2026-01-26
+status: final
+status_note: 'Publiziert am 9.2.2026, rechtskräftig. Vorinstanz: Departement Bau, Verkehr und Umwelt, BVURA.24.222 vom 3.3.2025.'
+status_note_en: 'Published on 9 February 2026, final. Lower instance: Department of Construction, Transport and Environment, BVURA.24.222 of 3 March 2025.'
+languages:
+- de
+topics:
+- heat
+- permitting
+summary_de: Das Verwaltungsgericht bestätigte, dass der Eigentümer einer benachbarten Einheit im selben Terrassenhaus nicht zur Beschwerde gegen die Baubewilligung einer innen aufgestellten Abluft-Wärmepumpe befugt ist. Ihm erwächst kein praktischer Nachteil; das Interesse an der richtigen Anwendung des Energierechts und an tieferen Stromkosten ist allgemeiner Natur, und die Vorschriften über Heizungsanlagen (§ 7 Abs. 3 und 4 Energiegesetz) haben keine nachbarschützende Funktion. Den aufsichtsrechtlichen Entscheid des Departements, die Anlage bis zum Ende ihrer Lebensdauer zu tolerieren, kann das Verwaltungsgericht nicht überprüfen. Für den eigenen Aufwand einer nicht vertretenen Partei wird keine Parteientschädigung zugesprochen.
+summary_en: The Administrative Court confirmed that the owner of a neighbouring unit in the same terraced house has no standing to appeal the building permit for an indoor exhaust-air heat pump. He suffers no practical disadvantage; the interest in correct application of energy law and lower electricity costs is general in nature, and the rules on heating systems (§ 7(3) and (4) Energy Act) do not protect neighbours. The court cannot review the department’s supervisory decision to tolerate the system until the end of its service life. A self-represented party is not awarded costs for its own effort.
+source_url: https://files.entscheidsuche.ch/chunks/AG/OG/006/WBE-2025-125_2026-01-26.pdf
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 lit. c URG
+  mirror_allowed: true
+related:
+- ch-ag-bvu-bvura-24-222
+- ch-ag-energieg
+- ch-ag-vgr-wbe-2018-330
+added: 2026-10-23
+last_checked: 2026-10-23

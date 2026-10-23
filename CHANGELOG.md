@@ -2,6 +2,13 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.34.0] – 2026-10-23
+
+### Neu
+- Schweiz, jetzt 166 Einträge – 2 kantonale Entscheide aus dem Aargau:
+  - Departement BVU, BVURA.24.222 vom 3.3.2025: Abluft-Wärmepumpe mit dominierendem Heizstab gilt als elektrische Widerstandsheizung; Ersatz bei vorhandenem Wasserverteilsystem unzulässig (§ 7 Abs. 3 EnergieG AG)
+  - Verwaltungsgericht, WBE.2025.125 vom 26.1.2026: keine Beschwerdelegitimation des Nachbarn, Vorschriften über Heizungsanlagen nicht nachbarschützend
+
 ## [0.33.0] – 2026-10-23
 
 ### Neu

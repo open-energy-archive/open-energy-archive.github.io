@@ -1,0 +1,31 @@
+id: ch-ag-bvu-bvura-24-222
+title: Entscheid des Departements Bau, Verkehr und Umwelt des Kantons Aargau BVURA.24.222 vom 3. März 2025 – Abluft-Wärmepumpe mit dominierendem Heizstab gilt als elektrische Widerstandsheizung
+title_en: Aargau Department of Construction, Transport and Environment decision BVURA.24.222 of 3 March 2025 – exhaust-air heat pump with dominant electric heating element counts as electric resistance heating
+doc_type: decision
+jurisdiction: CH
+subdivision: CH-AG
+issuer: Departement Bau, Verkehr und Umwelt des Kantons Aargau, Rechtsabteilung
+reference: BVURA.24.222
+date: 2025-03-03
+status: final
+status_note: Auf die Beschwerde des Nachbarn trat das Departement mangels Legitimation nicht ein, hob die nachträgliche Baubewilligung aber aufsichtsrechtlich von Amtes wegen auf; die Anlage wird bis zum Ende ihrer Lebensdauer toleriert. Der aufsichtsrechtliche Teil ist beim Verwaltungsgericht nicht anfechtbar (VGer AG WBE.2025.125 vom 26.1.2026).
+status_note_en: The department declined to hear the neighbour’s appeal for lack of standing but, acting as supervisory authority, set aside the retroactive building permit of its own motion; the system is tolerated until the end of its service life. The supervisory part cannot be challenged before the Administrative Court (Aargau Administrative Court WBE.2025.125 of 26 January 2026).
+languages:
+- de
+topics:
+- heat
+- energy_efficiency
+- permitting
+summary_de: Eine defekte Abluft-Wärmepumpe in einem Terrassenhaus wurde ohne Bewilligung eins zu eins ersetzt. Das Departement hielt fest, dass für die Einordnung einer Heizungsanlage massgebend ist, welcher Energieträger mehr als 50 % des Wärmebedarfs deckt. Weil die Abluft-Wärmepumpe bei üblichen Abluftmengen in Wohnungen nur rund 2 kW leistet und der Hauptteil der Wärme vom eingebauten elektrischen Heizstab stammt, gilt die Anlage als ortsfeste elektrische Widerstandsheizung. Bei vorhandenem Wasserverteilsystem (Fussbodenheizung) ist ihr Ersatz durch eine gleichartige Anlage nach § 7 Abs. 3 des Aargauer Energiegesetzes unzulässig, zumal eine Luft-Wasser-Wärmepumpe technisch möglich und über die Lebensdauer wirtschaftlicher war.
+summary_en: A faulty exhaust-air heat pump in a terraced house was replaced like-for-like without a permit. The department held that the classification of a heating system depends on which energy carrier covers more than 50% of the heat demand. Because the exhaust-air heat pump delivers only about 2 kW at the exhaust-air volumes typical of dwellings and most of the heat comes from the built-in electric heating element, the system counts as fixed electric resistance heating. Where a hydronic distribution system (underfloor heating) exists, replacing it with a similar system is prohibited under § 7(3) of the Aargau Energy Act, especially as an air-to-water heat pump was technically feasible and more economical over its service life.
+source_url: https://entscheidsuche.ch/docs/AG_Gerichte/AG_BV_001_EBVU-24-222_2025-03-03.pdf
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 lit. c URG
+  mirror_allowed: true
+related:
+- ch-ag-vgr-wbe-2025-125
+- ch-ag-energieg
+- ch-ag-vgr-wbe-2018-330
+added: 2026-10-23
+last_checked: 2026-10-23

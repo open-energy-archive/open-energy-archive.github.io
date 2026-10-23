@@ -2,6 +2,13 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.33.0] – 2026-10-23
+
+### Neu
+- Schweiz, jetzt 164 Einträge – 2 Bundesgerichtsurteile:
+  - BGer 2C_828/2019 vom 16.7.2020 (Ville de Lausanne gegen ElCom): kostenbasierte Prüfung der Energietarife in der Grundversorgung («cost-plus»), Deckungsdifferenzen, Tragweite von Art. 6 Abs. 5 StromVG
+  - BGer 2C_549/2026 vom 28.9.2026: Strompreis-Bonus Basel-Stadt; Nichteintreten auf eine übermässig weitschweifige, mit KI erstellte Beschwerde (energierechtlich nur am Rand relevant)
+
 ## [0.32.0] – 2026-10-15
 
 ### Neu

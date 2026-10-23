@@ -2,6 +2,13 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.36.0] – 2026-10-23
+
+### Neu
+- Mustervertrag virtueller Zusammenschluss zum Eigenverbrauch (vZEV), Entwurf 0.9 zur Diskussion, nicht fachlich geprüft: Gesellschaftsvertrag unter Grundeigentümerinnen und Grundeigentümern (einfache Gesellschaft), Zusatz zum Mietvertrag, Abrechnungsmodell nach Viertelstunden mit Berechnungsbeispiel, Stammdatenblatt, Beitrittserklärung und Meldung an den Netzbetreiber; Word-Vorlage
+- Fragen und Antworten des Fachsekretariats der ElCom zur Energiestrategie 2050 (Update vom 16.6.2026)
+- Schweiz jetzt 171 Einträge, davon 4 eigene Musterverträge
+
 ## [0.35.0] – 2026-10-23
 
 ### Neu

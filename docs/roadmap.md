@@ -13,8 +13,9 @@
 - [x] Eigener Mustervertrag LEG als Verein (CC BY 4.0)
 - [x] Mustervertrag ZEV in Mietverhältnissen (Entwurf 0.9 zur Diskussion, Pauschale 80 %)
 - [x] Mustervertrag On-site-PPA (Entwurf 0.9 zur Diskussion, drei Preismodelle)
-- [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-, ZEV- und PPA-Muster prüfen lassen; Rückmeldungen zu den Entwürfen einarbeiten (Version 1.0)
-- [ ] Weitere Musterverträge: vZEV, ZEV unter Grundeigentümern, Off-site-PPA, LEG als Teilnahmevertrag mit Betreiberin
+- [ ] Fachreviewer für Energierecht Schweiz gewinnen; LEG-, ZEV-, PPA- und vZEV-Muster prüfen lassen; Rückmeldungen zu den Entwürfen einarbeiten (Version 1.0)
+- [x] Mustervertrag vZEV (Entwurf 0.9 zur Diskussion, einfache Gesellschaft, mit Zusatz für Mietverhältnisse)
+- [ ] Weitere Musterverträge: Off-site-PPA, LEG als Teilnahmevertrag mit Betreiberin
 - [ ] Französische und italienische Metadaten
 
 ## Phase 2 – DACH

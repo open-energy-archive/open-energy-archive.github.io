@@ -1,0 +1,45 @@
+id: ch-oea-muster-vzev
+title: Mustervertrag virtueller Zusammenschluss zum Eigenverbrauch (vZEV) – Gesellschaftsvertrag unter Grundeigentümern, Zusatz zum Mietvertrag, Abrechnungsmodell mit Berechnungsbeispiel, Stammdatenblatt, Beitrittserklärung und Meldung an den Netzbetreiber
+title_en: Model agreement for a virtual self-consumption community (vZEV) – partnership agreement among landowners, tenancy addendum, billing model with worked example, master data sheet, accession form and notification to the grid operator
+short_title: Muster vZEV
+doc_type: contract_template
+jurisdiction: CH
+issuer: Open Energy Archive
+reference: OEA-CH-VZEV v0.9
+version: '0.9'
+date: 2026-10-23
+status: draft
+status_note: Entwurf zur Diskussion, nicht fachlich geprüft – Rückmeldungen aus der Praxis erwünscht (offene Fragen am Schluss des Musters). Muster, keine Rechtsberatung. Gestützt auf Art. 16–18 EnG, Art. 14–18 EnV (Anschlussleitungen nach Art. 14 Abs. 3 EnV), Art. 14, 17a und 17abis StromVG, Art. 530 ff. OR sowie die Fragen und Antworten des Fachsekretariats der ElCom (Update vom 16.6.2026).
+status_note_en: Draft for discussion, not reviewed by an expert – feedback from practice welcome (open questions at the end of the template). Template, not legal advice. Based on Art. 16–18 EnG, Art. 14–18 EnV (connection lines under Art. 14(3) EnV), Art. 14, 17a and 17abis StromVG, Art. 530 et seq. of the Code of Obligations and the questions and answers of the ElCom secretariat (update of 16 June 2026).
+languages:
+- de
+topics:
+- self_consumption
+- solar
+- tariffs
+- storage
+summary_de: Vertragsmuster für einen virtuellen Zusammenschluss zum Eigenverbrauch, bei dem mehrere Grundeigentümerinnen und Grundeigentümer – etwa Einfamilienhäuser, Stockwerkeigentum oder Gewerbebauten – den Strom aus einer oder mehreren Anlagen über die Anschlussleitungen und den gemeinsamen Netzanschlusspunkt gemeinsam nutzen. Organisiert als einfache Gesellschaft. Geregelt sind Gründung und Meldung, Eigentum an den Anlagen (eigene oder gemeinsame Anlage), Messkonzept (VNB-Zähler oder Privatzähler), Geschäftsführung, internes Abrechnungsmodell nach Viertelstunden mit drei Varianten für den internen Preis, Verteilung von Arbeitspreis, Grundpreis, Leistungspreis und Messentgelten, Rückliefervergütung, Herkunftsnachweise, Speicher, Solidarhaftung, Beschlüsse, Eintritt, Austritt bei Handänderung, Ausschluss, Fortsetzung und Auflösung. Mit Zusatz zum Mietvertrag für Mietparteien von Teilnehmenden und Vorlagen für Beitritt und Meldung an den Verteilnetzbetreiber.
+summary_en: Model agreement for a virtual self-consumption community in which several landowners – such as single-family homes, condominiums or commercial buildings – share electricity from one or more installations via the connection lines and the common grid connection point. Organised as a simple partnership. It covers formation and notification, ownership of installations (own or shared), metering concept (grid operator meters or private meters), management, internal quarter-hourly billing with three options for the internal price, allocation of energy, standing, demand and metering charges, feed-in remuneration, guarantees of origin, storage, joint and several liability, decisions, accession, exit on sale of property, exclusion, continuation and dissolution. Includes a tenancy addendum for tenants of participants and templates for accession and notification to the distribution system operator. Available in German only.
+source_url: https://github.com/open-energy-archive/open-energy-archive.github.io/blob/main/content/mustervertraege/ch-vzev/mustervertrag-vzev.md
+content: content/mustervertraege/ch-vzev/mustervertrag-vzev.md
+downloads:
+- label: Word-Vorlage (.docx)
+  path: content/mustervertraege/ch-vzev/mustervertrag-vzev.docx
+rights:
+  status: open_license
+  license: CC-BY-4.0
+  basis: Eigenes Werk des Projekts
+  mirror_allowed: true
+related:
+- ch-oea-muster-zev-miete
+- ch-oea-muster-leg-verein
+- ch-oea-muster-ppa-onsite
+- ch-elcom-faq-mantelerlass
+- ch-vse-her-2025
+- ch-sr-730-0-eng
+- ch-sr-730-01-env
+- ch-bfe-leitfaden-eigenverbrauch-v3
+added: 2026-10-23
+last_checked: 2026-10-23
+contributors:
+- bernhard-weber

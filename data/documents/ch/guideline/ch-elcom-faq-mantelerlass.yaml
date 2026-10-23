@@ -1,0 +1,36 @@
+id: ch-elcom-faq-mantelerlass
+title: 'Fachsekretariat der ElCom: Fragen und Antworten zur Energiestrategie 2050 (insbesondere Mantelerlass/Stromgesetz)'
+title_en: 'ElCom Secretariat: Questions and answers on the Energy Strategy 2050 (in particular the Mantelerlass/Electricity Act)'
+short_title: ElCom FAQ Mantelerlass
+doc_type: guideline
+jurisdiction: CH
+issuer: Eidgenössische Elektrizitätskommission ElCom, Fachsekretariat
+reference: 053-00004
+date: 2026-06-16
+status: non_binding
+status_note: Erstfassung vom 4.3.2025, laufend aktualisiert (Updates vom 25.3.2025, 20.5.2025, 17.6.2025, 30.9.2025, 2.12.2025, 12.2.2026 und 16.6.2026); erfasst ist das Update vom 16.6.2026. Auffassung des Fachsekretariats; die ElCom ist im Streitfall nicht daran gebunden. Neuere Updates auf der Website der ElCom prüfen.
+status_note_en: First version of 4 March 2025, continuously updated (updates of 25 March 2025, 20 May 2025, 17 June 2025, 30 September 2025, 2 December 2025, 12 February 2026 and 16 June 2026); the update of 16 June 2026 is recorded. Views of the Secretariat; ElCom is not bound by them in a dispute. Check the ElCom website for newer updates.
+languages:
+- de
+topics:
+- self_consumption
+- tariffs
+- grid
+- storage
+- market
+summary_de: 'Das Fachsekretariat der ElCom beantwortet Praxisfragen zur Umsetzung des Mantelerlasses: Rückliefervergütung und Minimalvergütungen, Eigenverbrauch und virtuelle ZEV (Ort der Produktion mit Anschlussleitungen, Messkonzept, Grundpreis und Messentgelt, keine Verschachtelung von ZEV, Speicher, Rückliefervergütung pro Anlage, Zuständigkeit ElCom oder Zivilgerichte), Netzanschluss und Netzverstärkungen, Informationspflichten, Netznutzungs- und Energietarife, intelligente Messsysteme, Flexibilität, lokale Elektrizitätsgemeinschaften, Sunshine-Regulierung, Speicher und Effizienzmassnahmen.'
+summary_en: 'The ElCom Secretariat answers practical questions on implementing the Mantelerlass: feed-in remuneration and minimum remuneration, self-consumption and virtual self-consumption communities (place of production with connection lines, metering, standing and metering charges, no nesting of communities, storage, feed-in remuneration per installation, jurisdiction of ElCom or civil courts), grid connection and reinforcement, information duties, grid and energy tariffs, smart meters, flexibility, local electricity communities, sunshine regulation, storage and efficiency measures.'
+source_url: https://www.elcom.admin.ch/dam/en/sd-web/weRgj22ICsTE/053-00004_20260616_AN_FAQ%20ES2050%20ab%20Mantelerlass_DE.pdf
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 URG
+  mirror_allowed: true
+related:
+- ch-oea-muster-vzev
+- ch-oea-muster-zev-miete
+- ch-oea-muster-leg-verein
+- ch-vse-her-2025
+- ch-sr-730-01-env
+- ch-sr-734-71-stromvv
+added: 2026-10-23
+last_checked: 2026-10-23

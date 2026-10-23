@@ -1,0 +1,30 @@
+id: ch-sz-vgr-iii-2025-83
+title: 'Entscheid des Verwaltungsgerichts des Kantons Schwyz III 2025 83, 86 und 87 vom 20. Februar 2026 – PV-Fassadenanlage im ISOS-Gebiet: Bundesaufgabe wegen gewässerschutzrechtlicher Bewilligung für Erdwärmesonden, fehlende Beurteilung nach Art. 7 NHG'
+title_en: 'Schwyz Administrative Court III 2025 83, 86 and 87 of 20 February 2026 – PV façade system in an ISOS area: federal task because of a water protection permit for geothermal probes, missing assessment under Art. 7 NHG'
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-SZ
+issuer: Verwaltungsgericht des Kantons Schwyz, Kammer III
+reference: III 2025 83, III 2025 86, III 2025 87
+date: 2026-02-20
+status: final
+status_note: 'Versand am 10.3.2026. Rückweisung an die Baukommission Schwyz und das Amt für Raumentwicklung zur erneuten Prüfung; Beschwerden der Gemeinde und der Bauherrschaft gegen das Verbot der PV-Fassadenanlage als gegenstandslos abgeschrieben. Vorinstanz: RRB Nr. 271/2025 vom 8.4.2025. Ob das Bundesgericht angerufen wurde, ist nicht geprüft.'
+status_note_en: 'Sent on 10 March 2026. Remitted to the Schwyz building commission and the Office for Spatial Development for fresh examination; the appeals of the municipality and the builders against the ban on the PV façade system were struck off as moot. Lower instance: Government Council decision No. 271/2025 of 8 April 2025. Whether the Federal Supreme Court was seized was not checked.'
+languages:
+- de
+topics:
+- solar
+- permitting
+- heat
+summary_de: 'Der Regierungsrat hatte für ein Mehrfamilienhaus in der Kernzone von Schwyz (ISOS-Gebiet mit Erhaltungsziel B) die Baubewilligung bestätigt, aber eine PV-Anlage an den Balkonbrüstungen und Fassaden verboten, weil sie die homogene Holzfassadenlandschaft beeinträchtige; die Solarinteressen gingen in einem Gebiet nach Art. 18a Abs. 3 RPG nicht vor. Das Verwaltungsgericht hob den Entscheid aus einem anderen Grund auf: Weil für die Erdwärmesonden im Gewässerschutzbereich Au eine Bewilligung nach Art. 19 Abs. 2 GSchG nötig ist, liegt nach BGer 1C_730/2024 eine Bundesaufgabe vor. Die kantonale Denkmalpflege hätte deshalb beurteilen müssen, ob ein Gutachten der ENHK/EKD nötig ist (Art. 7 NHG), und die Baubehörde muss eine Interessenabwägung nach Art. 3 NHG vornehmen, einschliesslich der Frage, ob die PV-Fassadenanlage mit dem Ortsbild vereinbar ist. Der Entscheid zeigt, dass eine gewöhnliche Erdwärmesonde die Schutzanforderungen für ein ganzes Bauprojekt im ISOS-Gebiet verschärfen kann.'
+summary_en: 'The Government Council had upheld the permit for an apartment building in the core zone of Schwyz (ISOS area with conservation objective B) but banned a PV system on the balcony parapets and façades because it would impair the homogeneous wooden façade landscape; solar interests did not prevail in an area under Art. 18a(3) of the Spatial Planning Act. The Administrative Court set the decision aside on other grounds: because the geothermal probes in water protection area Au require a permit under Art. 19(2) of the Water Protection Act, there is a federal task under Federal Supreme Court 1C_730/2024. The cantonal monument authority should therefore have assessed whether an opinion of the federal commissions is needed (Art. 7 NHG), and the building authority must weigh interests under Art. 3 NHG, including whether the PV façade system is compatible with the townscape. The ruling shows that an ordinary geothermal probe can tighten protection requirements for an entire building project in an ISOS area.'
+source_url: https://entscheidsuche.ch/dok/SZ_Verwaltungsgericht/SZ_VG_001_III-2025-83_2026-02-20.pdf
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 lit. c URG
+  mirror_allowed: true
+related:
+- ch-bger-1c-153-2025
+- ch-sz-energiegesetz
+added: 2026-10-23
+last_checked: 2026-10-23

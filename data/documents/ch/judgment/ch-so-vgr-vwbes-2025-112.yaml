@@ -1,0 +1,29 @@
+id: ch-so-vgr-vwbes-2025-112
+title: 'Urteil des Verwaltungsgerichts des Kantons Solothurn VWBES.2025.112 vom 28. Mai 2026 – Solaranlage an Schallschutzwand: Auflage zur Entstörung der Leistungsoptimierer nach EN 55011'
+title_en: 'Solothurn Administrative Court VWBES.2025.112 of 28 May 2026 – solar installation on a noise barrier: condition to suppress interference from power optimisers under EN 55011'
+doc_type: judgment
+jurisdiction: CH
+subdivision: CH-SO
+issuer: Verwaltungsgericht des Kantons Solothurn
+reference: VWBES.2025.112 (FindInfo O_VW.2026.106)
+date: 2026-05-28
+status: final
+status_note: 'Teilweise Gutheissung; Vorinstanz: Bau- und Justizdepartement, Verfügung vom 11.3.2025. Ob das Bundesgericht angerufen wurde, ist nicht geprüft.'
+status_note_en: 'Partly upheld; lower instance: Department of Construction and Justice, decision of 11 March 2025. Whether the Federal Supreme Court was seized was not checked.'
+languages:
+- de
+topics:
+- solar
+- permitting
+summary_de: Nachbarn wehrten sich gegen eine Photovoltaikanlage an einer Schallschutzwand auf einem Gebäudedach und verlangten wegen der hochfrequenten Abstrahlung von Leistungsoptimierern ein grundsätzliches Verbot solcher Optimierer. Das Verwaltungsgericht hielt fest, dass Anhang 1 NISV keine Grenzwerte für Photovoltaikanlagen enthält und die Immissionen nach den Abklärungen des BAFU an typischen Aufenthaltsorten gering sind; auf die Beanstandung von Störungen des Amateurfunks trat es mangels eigener Betroffenheit nicht ein, und eine Pflicht zu anderen Schaltungen (z. B. String-Schaltung) wäre unverhältnismässig. Weil die Anlage nahe bei Arbeitsplätzen liegt und die Fachstelle es empfohlen hatte, ergänzte das Gericht die Baubewilligung jedoch gestützt auf das Vorsorgeprinzip (Art. 11 Abs. 2 USG, Art. 4 Abs. 2 NISV) mit der Auflage, die Leistungsoptimierer nach EN 55011, Anhang A2:2021, zu entstören. Ein bereits ausformulierter Industriestandard kann als Auflage verfügt werden, auch wenn er für Hersteller noch nicht verbindlich ist.
+summary_en: Neighbours opposed a PV system on a noise barrier on a building roof and, because of high-frequency emissions from power optimisers, demanded a general ban on such optimisers. The Administrative Court noted that Annex 1 of the Ordinance on Non-Ionising Radiation contains no limits for PV systems and that, according to the Federal Office for the Environment, immissions at typical places of stay are low; it declined to consider complaints about interference with amateur radio for lack of personal concern, and requiring other wiring (e.g. string configuration) would be disproportionate. Because the system is close to workplaces and the cantonal environment office had recommended it, the court nevertheless added a condition based on the precautionary principle (Art. 11(2) Environmental Protection Act, Art. 4(2) NISV) requiring interference suppression of the optimisers under EN 55011, Annex A2:2021. An already formulated industry standard may be imposed as a condition even if it is not yet binding on manufacturers.
+source_url: https://gerichtsentscheide.so.ch/cgi-bin/nph-omniscgi.exe?OmnisPlatform=WINDOWS&WebServerUrl=&WebServerScript=%2Fcgi-bin%2Fnph-omniscgi.exe&OmnisLibrary=JURISWEB&OmnisClass=rtFindinfoWebHtmlService&OmnisServer=7001&Parametername=WEB&Schema=JGWEB&Aufruf=getMarkupDocument&cSprache=DE&nF30_KEY=174426&nTrefferzeile=5&Template=%2Fsimple%2Fsearch_result_document.html
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 lit. c URG
+  mirror_allowed: true
+related:
+- ch-so-energiegesetz
+- ch-so-vgr-vwbes-2016-162
+added: 2026-10-23
+last_checked: 2026-10-23

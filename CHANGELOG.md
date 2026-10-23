@@ -2,6 +2,18 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.37.0] – 2026-10-23
+
+### Neu
+- Schweiz, jetzt 172 Einträge – 2 kantonale Entscheide:
+  - Verwaltungsgericht Schwyz, III 2025 83/86/87 vom 20.2.2026: PV-Fassadenanlage im ISOS-Gebiet; Bundesaufgabe wegen gewässerschutzrechtlicher Bewilligung für Erdwärmesonden, Rückweisung wegen fehlender Beurteilung nach Art. 7 NHG
+  - Verwaltungsgericht Solothurn, VWBES.2025.112 vom 28.5.2026: Solaranlage an Schallschutzwand; kein Verbot von Leistungsoptimierern, aber Auflage zur Entstörung nach EN 55011
+
+## [0.36.1] – 2026-10-23
+
+### Entfernt
+- BGer 2C_549/2026 (Strompreis-Bonus Basel-Stadt): energierechtlich zu wenig relevant
+
 ## [0.36.0] – 2026-10-23
 
 ### Neu

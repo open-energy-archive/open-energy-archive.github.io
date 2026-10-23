@@ -10,6 +10,11 @@ date: 2017-11-01
 status: in_force
 status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft (geltende Fassung). Änderungen zur Umsetzung des Mantelerlasses seit 1.1.2025 (Herkunftsnachweise, Eigenverbrauch/ZEV, Abnahme und Vergütung). Durch die Verordnungsänderung vom 27.5.2026 (AS 2026 298) geändert: seit 1.7.2026 u. a. Herkunftsnachweise für erneuerbare Brenn- und Treibstoffe und Wasserstoff (Art. 4b–4c); ab 1.1.2027 entspricht der Marktpreis für die Vergütung nach Art. 12 dem Day-Ahead-Spotmarktpreis für das Marktgebiet Schweiz, und Art. 12a regelt die Minimalvergütungen. Die künftige Fassung vom 1.1.2027 ist auf Fedlex bereits veröffentlicht."
 status_note_en: "Consolidated version of 1 July 2026 checked (version in force). Changes implementing the Mantelerlass since 1 January 2025 (guarantees of origin, self-consumption/ZEV, purchase and remuneration). Amended by the ordinance amendment of 27 May 2026 (AS 2026 298): since 1 July 2026, among other things, guarantees of origin for renewable fuels and hydrogen (Art. 4b–4c); from 1 January 2027 the market price for remuneration under Art. 12 corresponds to the day-ahead spot market price for the Swiss market area, and Art. 12a governs minimum remuneration. The future version of 1 January 2027 is already published on Fedlex."
+status_changes:
+- date: 2027-01-01
+  status: in_force
+  status_note: 'Ab 1.1.2027 gilt die Fassung vom 1.1.2027 (auf Fedlex bereits veröffentlicht). Neu: Der Marktpreis für die Vergütung nach Art. 12 entspricht dem Day-Ahead-Spotmarktpreis für das Marktgebiet Schweiz, Art. 12a regelt die Minimalvergütungen (Änderung vom 27.5.2026, AS 2026 298). Allfällige weitere Änderungen aus dem Verordnungspaket mit Inkrafttreten am 1.1.2027 sind nachzutragen, sobald der Bundesrat entschieden hat.'
+  status_note_en: 'From 1 January 2027 the version of 1 January 2027 applies (already published on Fedlex). New: the market price for remuneration under Art. 12 is the day-ahead spot price for the Swiss market area, and Art. 12a governs minimum remuneration (amendment of 27 May 2026, AS 2026 298). Any further changes from the ordinance package entering into force on 1 January 2027 are to be added once the Federal Council has decided.'
 languages: [de, fr, it]
 topics: [renewables, self_consumption, tariffs, energy_efficiency]
 summary_de: "Die Verordnung führt das Energiegesetz aus, unter anderem zu Herkunftsnachweisen, Stromkennzeichnung und Netzzuschlag. Sie regelt auch Abnahme und Vergütung durch die Netzbetreiber sowie den Eigenverbrauch und den Zusammenschluss zum Eigenverbrauch (Art. 14–18)."
@@ -24,6 +29,6 @@ rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. a URG"
   mirror_allowed: true
-related: [ch-sr-730-0-eng]
+related: [ch-sr-730-0-eng, ch-bfe-verordnungspaket-2027]
 added: 2026-09-25
 last_checked: 2026-10-06

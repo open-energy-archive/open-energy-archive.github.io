@@ -2,6 +2,15 @@
 
 Format nach [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionen nach [SemVer](https://semver.org/lang/de/).
 
+## [0.35.0] – 2026-10-23
+
+### Neu
+- Stichtage: Neues Feld `status_changes` für geplante Statuswechsel (z. B. Inkrafttreten oder Aufhebung). Die Website wendet sie ab dem Stichtag automatisch an und zeigt bis dahin «ab …: …» beim Status. Der Website-Workflow baut die Seite neu täglich kurz nach Mitternacht, damit Wechsel pünktlich erscheinen
+- Paket 1.1.2027, Schweiz jetzt 169 Einträge:
+  - Bundesgesetz über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten (BATE) und Verordnung (VATE), in Kraft ab 1.1.2027
+  - Verordnungsänderungen im Bereich BFE mit Inkrafttreten am 1.1.2027 (EnFV, EnV, VPeA, CO2-Verordnung, StromVV, KHV) als Vernehmlassungsvorlage; Beschluss des Bundesrats ausstehend
+  - Stichtag 1.1.2027 erfasst bei EnG (Art. 15 Abs. 1bis und 75e, Entlastungspaket 2027), EnV (Day-Ahead-Spotpreis, Minimalvergütungen), StromVG (BATE), StromVV sowie Waadt (neue LVLEne in Kraft, bisherige aufgehoben)
+
 ## [0.34.0] – 2026-10-23
 
 ### Neu

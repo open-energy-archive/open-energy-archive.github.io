@@ -213,6 +213,34 @@
     "reviewed_on": {
       "type": "string",
       "format": "date"
+    },
+    "status_changes": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Geplante Statuswechsel (z. B. Inkrafttreten oder Aufhebung an einem Stichtag). Der Build wendet alle Einträge mit date <= Builddatum an.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "date",
+          "status"
+        ],
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "status": {
+            "type": "string"
+          },
+          "status_note": {
+            "type": "string"
+          },
+          "status_note_en": {
+            "type": "string"
+          }
+        }
+      }
     }
   }
 }

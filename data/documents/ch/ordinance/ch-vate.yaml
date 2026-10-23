@@ -1,0 +1,44 @@
+id: ch-vate
+title: Verordnung über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten (VATE)
+title_en: Ordinance on the Supervision and Transparency of Wholesale Energy Markets
+short_title: VATE
+doc_type: ordinance
+jurisdiction: CH
+issuer: Schweizerischer Bundesrat
+reference: Verordnung vom 2. Oktober 2026
+date: 2026-10-02
+status: adopted
+status_note: Vom Bundesrat am 2.10.2026 genehmigt; tritt zusammen mit dem BATE am 1.1.2027 in Kraft. Die Übergangsbestimmungen sehen eine schrittweise Einführung der Pflichten vor; Einzelheiten regelt die ElCom in Weisungen, die sich an den ACER-Leitlinien orientieren. Fundstelle in der Amtlichen Sammlung bei der Erfassung noch nicht bekannt.
+status_note_en: Approved by the Federal Council on 2 October 2026; enters into force together with the BATE on 1 January 2027. Transitional provisions phase in the obligations; ElCom will set out details in directives based on the ACER guidelines. Official compilation reference not yet known when the entry was created.
+status_changes:
+- date: 2027-01-01
+  status: in_force
+  status_note: In Kraft seit 1.1.2027, zusammen mit dem BATE. Vom Bundesrat am 2.10.2026 genehmigt. Die Pflichten werden gemäss den Übergangsbestimmungen schrittweise eingeführt; Einzelheiten regelt die ElCom in Weisungen. Fundstelle (AS, SR) nach Inkrafttreten nachtragen.
+  status_note_en: In force since 1 January 2027, together with the BATE. Approved by the Federal Council on 2 October 2026. Obligations are phased in under the transitional provisions; ElCom sets out details in directives. Official references (AS, SR) to be added after entry into force.
+languages:
+- de
+- fr
+- it
+topics:
+- market
+- cross_border
+summary_de: Die VATE enthält die Ausführungsbestimmungen zum BATE und lehnt sich weitgehend an die REMIT-Regeln der EU an. Sie regelt das Registrierungsverfahren bei der ElCom, die Veröffentlichung von Insiderinformationen, die Meldung von Transaktionen, Handelsaufträgen und Risikopositionen sowie die Übermittlung grundlegender Daten, die Zulassung von Plattformen und Meldemechanismen und die Gebühren der ElCom. Betroffen sind insbesondere Strom- und Gashändler, Swissgrid, Netz- und Speicherbetreiber, Produzenten, Lieferanten, Bilanzgruppenverantwortliche und Endverbraucher mit einer Verbrauchskapazität von mehr als 600 GWh pro Jahr.
+summary_en: The VATE contains the implementing provisions of the BATE and is largely aligned with the EU REMIT rules. It governs registration with ElCom, publication of inside information, reporting of transactions, orders and risk positions and transmission of fundamental data, approval of platforms and reporting mechanisms, and ElCom fees. It mainly affects electricity and gas traders, Swissgrid, network and storage operators, producers, suppliers, balance responsible parties and end consumers with a consumption capacity above 600 GWh per year.
+source_url: https://www.bfe.admin.ch/de/newnsb/YvxaPwGf7HNP
+alternate_urls:
+- label: Verordnungstext (PDF, Fassung vom 2.10.2026)
+  url: https://cms.news.admin.ch/fileservice/sdweb-docs-prod-nsbcch-files/files/2026/10/01/56695f94-c2fa-47f4-ae7f-410369eaa032.pdf
+- label: Erläuternder Bericht (PDF)
+  url: https://cms.news.admin.ch/fileservice/sdweb-docs-prod-nsbcch-files/files/2026/10/01/e0db2bd0-9d08-497e-ac48-91c972dd3a3d.pdf
+- label: Ergebnisbericht der Vernehmlassung (PDF)
+  url: https://cms.news.admin.ch/fileservice/sdweb-docs-prod-nsbcch-files/files/2026/10/01/6cdb6333-226f-4469-909b-b15edfe77fc3.pdf
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 lit. a URG
+  mirror_allowed: true
+related:
+- ch-bate
+- ch-sr-734-71-stromvv
+- eu-vo-2011-1227
+added: 2026-10-23
+last_checked: 2026-10-23

@@ -1,0 +1,42 @@
+id: ch-bate
+title: Bundesgesetz über die Aufsicht und Transparenz in den Energiegrosshandelsmärkten (BATE)
+title_en: Federal Act on the Supervision and Transparency of Wholesale Energy Markets
+short_title: BATE
+doc_type: law
+jurisdiction: CH
+issuer: Bundesversammlung der Schweizerischen Eidgenossenschaft
+reference: BBl 2025 1102; AS 2026 509
+date: 2025-03-21
+status: adopted
+status_note: Vom Parlament am 21.3.2025 verabschiedet; die Referendumsfrist lief im Juli 2025 ungenutzt ab. Der Bundesrat setzt das Gesetz zusammen mit der Ausführungsverordnung VATE auf den 1.1.2027 in Kraft (Beschluss vom 2.10.2026). Ändert u. a. das StromVG. Die Systematische Nummer war bei der Erfassung noch nicht bekannt.
+status_note_en: Adopted by Parliament on 21 March 2025; the referendum period expired unused in July 2025. The Federal Council brings the act into force together with the implementing ordinance (VATE) on 1 January 2027 (decision of 2 October 2026). Amends, among others, the Electricity Supply Act. The classified compilation number was not yet known when the entry was created.
+status_changes:
+- date: 2027-01-01
+  status: in_force
+  status_note: In Kraft seit 1.1.2027 (AS 2026 509), zusammen mit der Ausführungsverordnung VATE; die neuen Pflichten werden gemäss den Übergangsbestimmungen schrittweise eingeführt. Vom Parlament am 21.3.2025 verabschiedet. Ändert u. a. das StromVG. Systematische Nummer und konsolidierte Fassung nach Inkrafttreten nachtragen.
+  status_note_en: In force since 1 January 2027 (AS 2026 509), together with the implementing ordinance VATE; the new obligations are phased in under the transitional provisions. Adopted by Parliament on 21 March 2025. Amends, among others, the Electricity Supply Act. Classified compilation number and consolidated version to be added after entry into force.
+languages:
+- de
+- fr
+- it
+topics:
+- market
+- cross_border
+- supply_security
+summary_de: 'Das BATE stärkt die Aufsicht über die Strom- und Gasgrosshandelsmärkte und deren Transparenz. Es übernimmt für den Schweizer Markt wesentliche Teile der EU-Verordnung REMIT: Marktteilnehmer und Vermittler müssen sich bei der ElCom registrieren, ihr Transaktionen und Handelsaufträge mit Energiegrosshandelsprodukten melden und Insiderinformationen veröffentlichen; Insiderhandel und Marktmanipulation werden unabhängig vom Status der Produkte als Effekten verboten. Die ElCom erhält Aufsichts- und Untersuchungsbefugnisse und kann Verwaltungssanktionen verhängen.'
+summary_en: 'The BATE strengthens supervision and transparency of the electricity and gas wholesale markets. It transposes key parts of the EU REMIT regulation for the Swiss market: market participants and intermediaries must register with ElCom, report transactions and orders in wholesale energy products and publish inside information; insider dealing and market manipulation are prohibited regardless of whether the products are securities. ElCom receives supervisory and investigative powers and can impose administrative sanctions.'
+source_url: https://www.fedlex.admin.ch/eli/fga/2025/1102/de
+alternate_urls:
+- label: Amtliche Sammlung, AS 2026 509
+  url: https://www.fedlex.admin.ch/eli/oc/2026/509/de
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 lit. a URG
+  mirror_allowed: true
+related:
+- ch-vate
+- ch-sr-734-7-stromvg
+- ch-sr-734-71-stromvv
+- eu-vo-2011-1227
+added: 2026-10-23
+last_checked: 2026-10-23

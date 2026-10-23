@@ -21,6 +21,7 @@ Danke, dass du hilfst! Es gibt drei Wege:
 - **Quelle:** immer die amtliche oder ursprüngliche Quelle (`https://…`). Kopien auf Drittseiten nur, wenn es keine andere gibt – dann in `status_note` erwähnen.
 - **Zusammenfassung:** 1–3 Sätze, neutral, in eigenen Worten. Nicht aus dem Dokument abschreiben, keine Wertungen.
 - **Englisch:** `title_en`, `summary_en` und gegebenenfalls `status_note_en` ergänzen, damit der Eintrag auf der englischen Website vollständig erscheint.
+- **Stichtage:** Steht ein Inkrafttreten oder eine Aufhebung fest, den künftigen Wechsel mit `status_changes` erfassen (Datum, neuer Status und optional neue `status_note`/`status_note_en`). Die Website wendet ihn ab dem Stichtag automatisch an; der tägliche Build sorgt dafür, dass er pünktlich erscheint. Bis dahin zeigt die Dokumentseite den Hinweis «ab … : …».
 - **Rechte:** Siehe [RIGHTS.md](RIGHTS.md). Im Zweifel `unclear` und `mirror_allowed: false`.
 - **Status aktuell halten:** `last_checked` auf das Datum setzen, an dem du Quelle und Stand geprüft hast.
 - **Schweizer Einträge** in Schweizer Rechtschreibung (ss statt ß).

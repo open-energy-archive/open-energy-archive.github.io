@@ -1,0 +1,41 @@
+id: ch-bfe-verordnungspaket-2027
+title: Verordnungsänderungen im Bereich des Bundesamtes für Energie mit Inkrafttreten am 1. Januar 2027 (EnFV, EnV, VPeA, CO2-Verordnung, StromVV, KHV) – Vernehmlassungsvorlage
+title_en: Amendments to ordinances in the area of the Swiss Federal Office of Energy with entry into force on 1 January 2027 – consultation draft
+short_title: Verordnungspaket 1.1.2027
+doc_type: ordinance
+jurisdiction: CH
+issuer: Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK)
+reference: Vernehmlassung 2026/11
+date: 2026-04-15
+status: draft
+status_note: Vernehmlassung vom 15.4. bis 15.7.2026. Der Beschluss des Bundesrats stand bei der Erfassung (23.10.2026) noch aus; vorgesehen ist das Inkrafttreten am 1.1.2027. Nach dem Beschluss sind die definitiven Texte zu erfassen und die Einträge zu EnFV, EnV, StromVV und VPeA nachzuführen.
+status_note_en: Consultation from 15 April to 15 July 2026. The Federal Council’s decision was still pending when the entry was created (23 October 2026); entry into force is planned for 1 January 2027. After the decision, the final texts should be added and the entries on the EnFV, EnV, StromVV and VPeA updated.
+languages:
+- de
+- fr
+- it
+topics:
+- subsidies
+- solar
+- wind
+- grid
+- self_consumption
+- tariffs
+summary_de: Die Vorlage ändert mehrere Verordnungen im Energiebereich. Gemäss den Stellungnahmen aus der Vernehmlassung gehören dazu unter anderem eine höhere Einmalvergütung für kleine Photovoltaikanlagen (EnFV), die Zulassung von LiDAR-Messungen für Windmessungen, Bestimmungen zu Sicherheitsleistungen bei der Wasserkraft, zur Offenlegung der Netztopologie durch die Verteilnetzbetreiber (Art. 19g StromVV), zum Netznutzungsabschlag für lokale Elektrizitätsgemeinschaften (Art. 19h StromVV) und zu einem Mindestanteil erneuerbarer Energie in der Grundversorgung (Art. 4a StromVV) sowie eine Anpassung der Prämien der Kernenergiehaftpflicht (KHV). Inhalt nach der Vernehmlassungsvorlage, nicht im Einzelnen geprüft.
+summary_en: The draft amends several energy ordinances. According to the consultation responses, it includes a higher one-off payment for small PV systems (EnFV), admission of LiDAR measurements for wind measurement, provisions on security deposits for hydropower, disclosure of network topology by distribution system operators (Art. 19g StromVV), the grid tariff reduction for local electricity communities (Art. 19h StromVV) and a minimum renewable share in basic supply (Art. 4a StromVV), and an adjustment of nuclear liability premiums (KHV). Content according to the consultation draft, not checked in detail.
+source_url: https://fedlex.data.admin.ch/eli/dl/proj/2026/11/cons_1
+alternate_urls:
+- label: Ankündigung der Vernehmlassung (15.4.2026)
+  url: https://www.bafu.admin.ch/de/newnsb/iA4XCiTlBxwXpbX0p83Eg
+- label: Stellungnahme aeesuisse (Übersicht)
+  url: https://aeesuisse.ch/de/vernehmlassungen/
+rights:
+  status: official_work
+  basis: Art. 5 Abs. 1 lit. a URG
+  mirror_allowed: true
+related:
+- ch-sr-730-03-enfv
+- ch-sr-730-01-env
+- ch-sr-734-71-stromvv
+added: 2026-10-23
+last_checked: 2026-10-23

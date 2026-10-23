@@ -34,6 +34,10 @@ for (const { file, doc } of docs) {
   check(doc.subdivision, 'subdivisions', 'subdivision');
   check(doc.rights?.status, 'rights', 'rights.status');
   (doc.topics || []).forEach((t) => check(t, 'topics', 'topics'));
+  (doc.status_changes || []).forEach((c, i) => {
+    check(c.status, 'statuses', `status_changes[${i}].status`);
+    if (i > 0 && c.date <= doc.status_changes[i - 1].date) err('status_changes: Daten müssen aufsteigend sortiert sein');
+  });
   (doc.languages || []).forEach((l) => check(l, 'languages', 'languages'));
 
   // Ablageort: data/documents/<jurisdiction>/<doc_type>/

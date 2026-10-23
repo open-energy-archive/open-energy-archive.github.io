@@ -10,6 +10,11 @@ date: 2008-03-14
 status: in_force
 status_note: "Konsolidierte Fassung vom 1. Juli 2026 geprüft (geltende Fassung). Geändert durch die Verordnungsänderung vom 27.5.2026 (AS 2026 304), in Kraft seit 1.7.2026; betroffen sind gemäss den Fussnoten u. a. Art. 4 Abs. 3 (Photovoltaikanlagen ohne Eigenverbrauch zwischen 100 und 150 kW mit Minimalvergütung), Art. 4d Abs. 2 (Kosten von Effizienzmassnahmen) und Art. 8adecies Abs. 7 (intelligente Messsysteme bei Produktionsanlagen mit Einspeisevergütung bis 1.1.2028). Enthält u. a. Ausführungsbestimmungen zu den lokalen Elektrizitätsgemeinschaften. Fedlex führt bereits Fassungen per 1.1.2027 und 1.1.2031 (Inhalt und Grundlage nicht geprüft)."
 status_note_en: "Consolidated version of 1 July 2026 checked (version in force). Amended by the ordinance amendment of 27 May 2026 (AS 2026 304), in force since 1 July 2026; according to the footnotes this concerns, among others, Art. 4(3) (PV plants without self-consumption between 100 and 150 kW with minimum remuneration), Art. 4d(2) (costs of efficiency measures) and Art. 8adecies(7) (smart metering systems at generating plants with feed-in remuneration by 1 January 2028). Contains, among other things, implementing provisions on local electricity communities. Fedlex already lists versions as of 1 January 2027 and 1 January 2031 (content and basis not checked)."
+status_changes:
+- date: 2027-01-01
+  status: in_force
+  status_note: Ab 1.1.2027 gilt die Fassung vom 1.1.2027 (auf Fedlex veröffentlicht; Grundlage und Inhalt bei der Erfassung nicht im Einzelnen geprüft). Ab dem Tarifjahr 2027 gilt der Marktpreis als anrechenbar, wenn Verteilnetzbetreiber Herkunftsnachweise abnehmen und der Marktpreis über den Gestehungskosten liegt (Änderung vom 27.5.2026). Allfällige Änderungen aus dem Verordnungspaket mit Inkrafttreten am 1.1.2027 und im Zusammenhang mit dem BATE sind nachzutragen. Fedlex führt zudem eine Fassung per 1.1.2031.
+  status_note_en: From 1 January 2027 the version of 1 January 2027 applies (published on Fedlex; basis and content not checked in detail when the entry was updated). From the 2027 tariff year the market price counts as allowable where distribution system operators take over guarantees of origin and the market price exceeds production costs (amendment of 27 May 2026). Any changes from the ordinance package entering into force on 1 January 2027 and in connection with the BATE are to be added. Fedlex also lists a version as of 1 January 2031.
 languages: [de, fr, it]
 topics: [grid, tariffs, market, self_consumption, storage]
 summary_de: "Die Verordnung führt das Stromversorgungsgesetz aus, insbesondere zu Netznutzung, anrechenbaren Kosten, Tarifen und Messwesen. Seit 2026 enthält sie auch Ausführungsbestimmungen zu den lokalen Elektrizitätsgemeinschaften."
@@ -24,6 +29,6 @@ rights:
   status: official_work
   basis: "Art. 5 Abs. 1 lit. a URG"
   mirror_allowed: true
-related: [ch-sr-734-7-stromvg]
+related: [ch-sr-734-7-stromvg, ch-bfe-verordnungspaket-2027, ch-vate]
 added: 2026-09-25
 last_checked: 2026-10-06

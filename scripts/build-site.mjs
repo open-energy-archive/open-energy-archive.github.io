@@ -4,7 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import { ROOT, loadDocuments, loadTaxonomy } from './lib.mjs';
+import { ROOT, loadDocuments, loadTaxonomy, applyStatusChanges } from './lib.mjs';
 import { mdToHtml } from './markdown.mjs';
 
 const BASE = (process.env.BASE_PATH || '/').replace(/\/?$/, '/');
@@ -22,7 +22,7 @@ const tax = loadTaxonomy();
 // Cache-Busting: Assets werden mit einem Inhalts-Hash geladen, damit nach einem Update nie eine alte Version läuft
 const ASSET_HASH = Object.fromEntries(['style.css', 'filter.js'].map((f) => [f, crypto.createHash('sha256').update(fs.readFileSync(path.join(ROOT, 'site', 'assets', f))).digest('hex').slice(0, 10)]));
 const docs = loadDocuments()
-  .map(({ file, doc }) => ({ ...doc, _file: file }))
+  .map(({ file, doc }) => ({ ...applyStatusChanges(doc), _file: file }))
   .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 const byId = Object.fromEntries(docs.map((d) => [d.id, d]));
 // Rückverweise: Wer auf ein Dokument verweist, erscheint auch dort unter «Verwandte Dokumente».
@@ -55,6 +55,7 @@ const T = {
     readFull: 'Volltext lesen', onGithub: 'Auf GitHub ↗', toSource: 'Zur Originalquelle ↗', archiveCopy: 'Archivkopie',
     noteLabel: 'Hinweis zum Stand:',
     meta: { type: 'Typ', jur: 'Rechtsraum', issuer: 'Herausgeber', ref: 'Referenz', date: 'Datum', status: 'Status', langs: 'Sprachen', rights: 'Rechte', checked: 'Zuletzt geprüft', orig: null },
+    statusFrom: (date, st) => `ab ${date}: ${st}`,
     topics: 'Themen', related: 'Verwandte Dokumente', moreRelated: (n) => `${n} weitere anzeigen`,
     editMeta: 'Metadaten auf GitHub korrigieren', reportError: 'Fehler melden',
     filterNames: { jur: 'Rechtsraum', level: 'Ebene', type: 'Typ', topic: 'Thema', rights: 'Rechte' },
@@ -87,6 +88,7 @@ const T = {
     readFull: 'Read full text (German)', onGithub: 'On GitHub ↗', toSource: 'Go to original source ↗', archiveCopy: 'Archive copy',
     noteLabel: 'Status note:',
     meta: { type: 'Type', jur: 'Jurisdiction', issuer: 'Issuer', ref: 'Reference', date: 'Date', status: 'Status', langs: 'Languages', rights: 'Rights', checked: 'Last checked', orig: 'Original title' },
+    statusFrom: (date, st) => `from ${date}: ${st}`,
     topics: 'Topics', related: 'Related documents', moreRelated: (n) => `Show ${n} more`,
     editMeta: 'Correct metadata on GitHub', reportError: 'Report an error',
     filterNames: { jur: 'Jurisdiction', level: 'Level', type: 'Type', topic: 'Topic', rights: 'Rights' },
@@ -356,7 +358,7 @@ ${docs.map((d) => card(d, ` data-jur="${d.jurisdiction}" data-level="${levelOf(d
       [t.meta.issuer, d.issuer],
       [t.meta.ref, d.reference],
       [t.meta.date, fmtDate(d.date, d.date_precision)],
-      [t.meta.status, L('statuses', d.status)],
+      [t.meta.status, L('statuses', d.status) + (d._upcoming?.length ? ` (${d._upcoming.map((c) => t.statusFrom(fmtDate(c.date), L('statuses', c.status))).join('; ')})` : '')],
       [t.meta.langs, d.languages.map((l) => LANG_NAMES[lang][l] || l).join(', ')],
       [t.meta.rights, rights],
       [t.meta.checked, fmtDate(d.last_checked)],
@@ -463,7 +465,7 @@ LANGS.forEach(buildFeed);
 LANGS.forEach(build);
 
 // ---------- Offene Daten ----------
-const clean = docs.map(({ _file, ...d }) => ({ ...d, url: url(`d/${d.id}/`), url_en: url(`en/d/${d.id}/`) }));
+const clean = docs.map(({ _file, _upcoming, ...d }) => ({ ...d, url: url(`d/${d.id}/`), url_en: url(`en/d/${d.id}/`) }));
 write('data/documents.json', JSON.stringify({ generated: new Date().toISOString(), license: 'CC0-1.0', count: clean.length, documents: clean }, null, 2));
 const cols = ['id', 'title', 'title_en', 'doc_type', 'jurisdiction', 'issuer', 'reference', 'date', 'status', 'topics', 'languages', 'source_url', 'rights_status'];
 const csvCell = (v) => `"${String(v ?? '').replace(/"/g, '""')}"`;

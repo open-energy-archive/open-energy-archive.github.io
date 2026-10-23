@@ -23,3 +23,21 @@ export function loadDocuments() {
     .sort()
     .map((file) => ({ file: path.relative(ROOT, file), doc: load(file) }));
 }
+
+// Stichtag-Logik: Geplante Statuswechsel (status_changes) werden angewendet, sobald ihr Datum
+// erreicht ist. Massgebend ist das Builddatum (Zeitzone Europe/Zurich) oder BUILD_DATE=JJJJ-MM-TT.
+export const buildDate = () => process.env.BUILD_DATE
+  || new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/Zurich' }).format(new Date());
+
+export function applyStatusChanges(doc, today = buildDate()) {
+  const changes = [...(doc.status_changes || [])].sort((a, b) => a.date.localeCompare(b.date));
+  const out = { ...doc };
+  for (const c of changes) {
+    if (c.date > today) break;
+    out.status = c.status;
+    if (c.status_note) out.status_note = c.status_note;
+    if (c.status_note_en) out.status_note_en = c.status_note_en;
+  }
+  out._upcoming = changes.filter((c) => c.date > today);
+  return out;
+}

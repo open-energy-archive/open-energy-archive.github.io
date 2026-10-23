@@ -3,6 +3,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  schedule:
+    # Täglich kurz nach Mitternacht (Schweizer Zeit im Winter), damit Statuswechsel
+    # an Stichtagen (status_changes, z. B. Inkrafttreten am 1. Januar) automatisch erscheinen
+    - cron: "10 23 * * *"
 permissions:
   contents: read
   pages: write
